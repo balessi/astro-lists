@@ -1,0 +1,205 @@
+Sun         1.0       by definition
+
+Proxima Centauri   0.21           Tokovinin08
+Proxima Centauri   0.150  0.062   Zurlo18
+Proxima Centauri   0.14           Gaidos14
+Proxima Centauri   0.123  0.006   Segransan03        
+Proxima Centauri   0.1221 0.0022  Kervella17
+Proxima Centauri   0.12           Zechmeister09
+Proxima Centauri   0.12   0.01    Neves13
+Proxima Centauri   0.119          Newton17
+Proxima Centauri   0.118  0.012   Chen17
+Proxima Centauri   0.11           RECONS100
+
+Alpha Centauri A   1.173  0.091   Valenti05
+Alpha Centauri A   1.14           RECONS100
+Alpha Centauri A   1.137  0.065   Pinheiro14
+Alpha Centauri A   1.12   0.02    Valenti05
+Alpha Centauri A   1.12           Soederhjelm99
+Alpha Centauri A   1.110          Ramirez13
+Alpha Centauri A   1.1055 0.0039  Kervella16
+Alpha Centauri A   1.105  0.007   Brown10
+Alpha Centauri A   1.10           Zeichmeister13
+Alpha Centauri A   1.09   0.01    Belikov95
+Alpha Centauri A   1.063          Takeda07
+Alpha Centauri A   1.06           Cvetkovic10
+Alpha Centauri A   1.04           Mortier13
+Alpha Centauri A   1.03           Cvetkovic10
+Alpha Centauri A   1.02           Tokovinin08
+Alpha Centauri A   0.99   0.05    Allende Prieto99
+
+Alpha Centauri B   1.021  0.069   Valenti05
+Alpha Centauri B   0.94   0.05    Allende Prieto99
+Alpha Centauri B   0.9373 0.0033  Kervella16
+Alpha Centauri B   0.934  0.006   Brown10
+Alpha Centauri B   0.93           Soederhjelm99
+Alpha Centauri B   0.93           Zeichmeister13
+Alpha Centauri B   0.920  0.055   Pinheiro14
+Alpha Centauri B   0.92           RECONS100
+Alpha Centauri B   0.905          Ramirez13
+Alpha Centauri B   0.90   0.01    Belikov95
+Alpha Centauri B   0.90           Cvetkovic10
+Alpha Centauri B   0.89   0.03    Valenti05
+Alpha Centauri B   0.877          Takeda07
+Alpha Centauri B   0.87           Mortier13
+Alpha Centauri B   0.87   0.07    Santos13
+Alpha Centauri B   0.86           Cvetkovic10
+Alpha Centauri B   0.76           Tokovinin08
+
+Barnard's star     0.17           Henry93
+Barnard's star     0.162  0.004   Mann15
+Barnard's star     0.16   0.00    Yee17
+Barnard's star     0.16   0.01    Neves13
+Barnard's star     0.16           RECONS100
+Barnard's star     0.158  0.013   Delfosse00
+Barnard's star     0.158  0.08    Segransan03
+Barnard's star     0.157          Newton16
+Barnard's star     0.155  0.001   Muirhead18
+Barnard's star     0.155  0.015   Mann15
+Barnard's star     0.15   0.08    Gaidos14
+Barnard's star     0.146  0.015   Chen17
+Barnard's star     0.14           Gaidos14
+
+Luhman 16 A        33.5   0.3     Lazorenko18  MJup   MSun/MJup = 1047
+Luhman 16 A        34.2   1.3     Garcia17     MJup
+Luhman 16 A        32    11       Bedin17      MJup
+
+Luhman 16 B        28.6   0.3     Lazorenko18  MJup
+Luhman 16 B        27.9   1.1     Garcia17     MJup
+Luhman 16 B        27    10       Bedin17      MJup
+
+WISE J0855-0714     6.5   3.5     Luhman14          MJup
+WISE J0855-0714     3.0           Zapatero-Osorio16 MJup (for an age of 2Gyr as in Nordstrom for solar vicinity)
+
+Wolf 359           0.11           Reiners18
+Wolf 359           0.108          Dittman14
+Wolf 359           0.102          Newton17
+Wolf 359           0.101  0.005   Jenkins09
+Wolf 359           0.10   0.00    Neves13
+Wolf 359           0.09           RECONS100
+
+Lalande 21185      0.51   0.08    Gaidos14
+Lalande 21185      0.46           RECONS100
+Lalande 21185      0.45           Reiners18
+Lalande 21185      0.43           Zakhozhaj79
+Lalande 21185      0.421  0.017   Jenkins09
+Lalande 21185      0.403  0.02    Segransan03
+Lalande 21185      0.39   0.03    Neves13
+
+Sirius A           2.97           David15
+Sirius A           2.17           Zakhozhaj79
+Sirius A           2.15   0.07    Allende-Prieto99
+Sirius A           2.143  0.056   Belikov95
+Sirius A           2.063  0.023   Bond17
+Sirius A           2.03   0.11    Belikov95
+Sirius A           2.0            Dehaes11
+Sirius A           1.99           RECONS
+
+Sirius B           1.053  0.028   Belikov95
+Sirius B           1.018  0.011   Bond17
+Sirius B           1.01   0.06    Belikov95
+Sirius B           1.00           RECONS
+Sirius B           1.00   0.01    Holberg08
+Sirius B           0.99           Zakhozhaj99
+Sirius B           0.98   0.03    Gianninas11
+Sirius B           0.947          Nalezyty04
+Sirius B           0.94   0.11    Bedard17
+
+Luyten 726-8 A     0.1225 0.0043  Kervela16
+Luyten 726-8 A     0.115          Belikov95
+Luyten 726-8 A     0.110          Belikov95
+Luyten 726-8 A     0.11           RECONS
+Luyten 726-8 A     0.102  0.01    Delfosse00
+Luyten 726-8 A     0.101          Belikov95
+
+Luyten 726-8 B     0.1195 0.0043  Kervela16
+Luyten 726-8 B     0.110          Belikov95
+Luyten 726-8 B     0.109          Belikov95
+Luyten 726-8 B     0.100  0.01    Delfosse00
+Luyten 726-8 B     0.10           RECONS
+Luyten 726-8 B     0.099          Belikov95
+
+Ross 154           0.28           Reiners18
+Ross 154           0.181  0.004   Mann15
+Ross 154           0.18   0.08    Gaidos14
+Ross 154           0.173          Newton17
+Ross 154           0.17           RECONS
+Ross 154           0.17   0.01    Neves13
+Ross 154           0.16           Wright11
+Ross 154           0.148  0.005   Huber17
+
+Ross 248           0.163          Dittmann14
+Ross 248           0.1470 0.0040  Mann15
+Ross 248           0.141          Newton16
+Ross 248           0.14           Gaidos14
+Ross 248           0.14   0.01    Neves13
+Ross 248           0.136  0.008   Jenkins09
+Ross 248           0.12           RECONS
+Ross 248           0.10           Zhakozhaj79
+
+
+--------------------------------------------------------------------
+
+GJ 144           epsilon Eridani     0.85
+GJ 887           Lacaille 9352       0.53
+GJ 447           Ross 128            0.16
+GJ 866 A         EZ Aquarii A        0.11
+GJ 866 B         EZ Aquarii B        0.11
+GJ 866 C         EZ Aquarii C        0.08
+GJ 820 A         61 Cygni A          0.70
+GJ 820 B         61 Cygni B          0.63
+GJ 280 A         Procyon             1.57
+GJ 280 B         Procyon B           0.5  *
+GJ 725 A                             0.35
+GJ 725 B                             0.26
+GJ 15 A          GX Andromedae       0.49
+GJ 15 B          GQ Andromedae       0.16
+GJ 845 A         epsilon Indi A      0.77
+GJ 845 B         epsilon Indi B      0.03 *
+GJ 845 C         epsilon Indi C      0.03 *
+GJ 1111          DX Cancri           0.09
+GJ 71            tau Ceti            0.92
+GJ 1061                              0.11
+GJ 54.1          YZ Ceti             0.13
+GJ 273           Luyten's Star       0.26
+SCR 1845-6357 A                      0.07
+SCR 1845-6357 B                      0.03 *
+SO 0253+1652                         0.08
+GJ 191           Kapteyn's Star      0.39
+GJ 825           AX Microscopii      0.60
+DEN 1048-3956                        0.07
+GJ 860 A         Kruger 60 A         0.28
+GJ 860 B         Kruger 60 B         0.16
+GJ 234 A         Ross 614 A          0.17
+GJ 234 B         Ross 614 B          0.10
+GJ 628           Wolf 1061           0.26
+GJ 35            van Maanen's Star   0.5  *
+GJ 1                                 0.48
+GJ 473 A         Wolf 424 A          0.12
+GJ 473 B         Wolf 424 B          0.12
+GJ 83.1          TZ Arietis          0.14
+GJ 687                               0.39
+LHS 292                              0.08
+GJ 1245 A        G 208-044 A         0.11
+GJ 1245 C        G 208-044 B         0.07
+GJ 1245 B        G 208-045           0.10
+GJ 674                               0.36
+GJ 440           WD 1142-645         0.5  *
+GJ 876 A         Ross 780            0.27
+GJ 1002                              0.11
+LHS 288                              0.11
+GJ 412 A                             0.48
+GJ 412 B         WX Ursae Majoris    0.10
+GJ 380                               0.64
+GJ 388                               0.39
+GJ 832                               0.50
+LP 944-020                           0.07
+DEN 0255-4700                        0.05 *
+GJ 166 A         omicron 2 Eridani   0.89
+GJ 166 B                             0.5  *
+GJ 166 C                             0.18
+GJ 873           EV Lacertae         0.28
+GJ 682                               0.20
+GJ 702 A         70 Ophiuchi A       0.92
+GJ 702 B         70 Ophiuchi B       0.70
+GJ 768           Altair              1.71

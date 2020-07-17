@@ -1,0 +1,100 @@
+Sun         1.0       by definition
+
+Proxima Centauri   0.19            Gaidos14
+Proxima Centauri   0.19            Doyle90
+Proxima Centauri   0.17            Lacy77
+Proxima Centauri   0.161           McDonald17
+Proxima Centauri   0.1542  0.0045  Kervella17
+Proxima Centauri   0.15            Petersen80
+Proxima Centauri   0.15            Johnson83
+Proxima Centauri   0.145   0.011   Segransan03
+Proxima Centauri   0.144           Newton17
+Proxima Centauri   0.1410  0.0070  Demory09
+Proxima Centauri   0.14            Youngblood17
+
+Alpha Centauri A   1.3             Pasinetti-Fracassini01 
+Alpha Centauri A   1.288   0.03    Allende-Prieto99
+Alpha Centauri A   1.25    0.03    Takeda07
+Alpha Centauri A   1.225   0.01    Valenti05
+Alpha Centauri A   1.2             Pasinetti-Fracassini01 
+Alpha Centauri A   1.0             Pasinetti-Fracassini01 
+
+Alpha Centauri B   0.98            Pasinetti-Fracassini01 
+Alpha Centauri B   0.88    0.02    Takeda07
+Alpha Centauri B   0.8797  0.0071  Valenti05
+Alpha Centauri B   0.87            Pasinetti-Fracassini01 
+Alpha Centauri B   0.851   0.00    Allende-Prieto99
+
+Luhman 16 A        0.097   0.005   Lodieu15 (interpolated for age= 0.7 Gyr)
+
+Luhman 16 B        0.097   0.005   Lodieu15 (interpolated for age= 0.7 Gyr)
+
+WISE J0855-0714    1.17            Beamin14   in RJup   RSun = 9.95 RJup
+WISE J0855-0714    1.25    0.45    Kopytova14 in RJup
+WISE J0855-0714    1.1     0.3     Kopytova14 in RJup
+
+Barnard's star     0.225           Houdebine
+Barnard's star     0.200           Zakhozhaj79
+Barnard's star     0.20    0.008   Dawson04
+Barnard's star     0.199   0.018   Houdebine16
+Barnard's star     0.196   0.008   Segransan03
+Barnard's star     0.194           Dittman14
+Barnard's star     0.19            Gaidos14
+Barnard's star     0.188           Newton15
+Barnard's star     0.187           Chen17
+Barnard's star     0.187   0.001   Boyajian12
+Barnard's star     0.1863  0.0071  Mann15    
+Barnard's star     0.183   0.002   Terrien15 
+Barnard's star     0.1810  0.0040  Mann15    
+Barnard's star     0.180           Newton17
+Barnard's star     0.180   0.015   Terrien15
+Barnard's star     0.17            Benedict98
+ 
+Wolf 359           0.19            Pasinetti-Fracassini01 
+Wolf 359           0.16            Pasinetti-Fracassini01 
+Wolf 359           0.14            Pasinetti-Fracassini01 
+Wolf 359           0.13            Pasinetti-Fracassini01 
+Wolf 359           0.13            Pasinetti-Fracassini01 
+Wolf 359           0.12    0.01    Morin10
+
+Lalande 21185      0.47            Pasinetti-Fracassini01 
+Lalande 21185      0.47            Zakhojhaj79
+Lalande 21185      0.46            Pasinetti-Fracassini01 
+Lalande 21185      0.44    0.04    Gaidos14
+Lalande 21185      0.439   0.014   Houdebine
+Lalande 21185      0.395   0.013   vanBelle09
+Lalande 21185      0.393   0.008   Segransan03
+Lalande 21185      0.382           McDonald17
+Lalande 21185      0.3             Rutten87
+
+Sirius A           1.680           Zakhozhaj79
+Sirius A           1.711           Liebert05
+Sirius A           1.778           Allende-Prieto99
+
+Sirius B           0.0084  3%      Holberg98
+Sirius B           0.0079  0.0002  Bedard17
+Sirius A           0.008           Zakhozhaj79
+
+Luyten 726-8 A     0.165  0.006   Kervela16
+Luyten 726-8 A     0.14           Pasinetti-Fracassini01      
+
+Luyten 726-8 B     0.159  0.006   Kervela16
+Luyten 726-8 B     0.14           Pasinetti-Fracassini01      
+Luyten 726-8 B     0.15           Pasinetti-Fracassini01      
+
+Ross 154           0.251          Hudebine12
+Ross 154           0.22           Gaidos14
+Ross 154           0.21           McDonald17
+Ross 154           0.2008 0.0076  Mann15
+Ross 154           0.199  0.0030  Mann15
+Ross 154           0.197  0.018   Houdebine16
+Ross 154           0.195          Newton17
+Ross 154           0.19           Gaidos14
+Ross 154           0.18           Wright11
+Ross 154           0.172  0.005   Huber17
+
+Ross 248           0.198  0.010   Dittmann14
+Ross 248           0.19           Gaidos14
+Ross 248           0.1894 0.0079  Mann15
+Ross 248           0.1750 0.0030  Mann15
+Ross 248           0.165          Newton17

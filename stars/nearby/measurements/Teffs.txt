@@ -1,0 +1,258 @@
+Sun                 5771.8   0.7   Mamajek homepage
+
+Proxima Centauri    3100           Youngblood17
+Proxima Centauri    3083    46     Loyd14
+Proxima Centauri    3054    79     Boyajian13
+Proxima Centauri    3042   117     Segransan03
+Proxima Centauri    2980    80     Ribas17
+Proxima Centauri    2979           Wright11
+Proxima Centauri    2920           Morales08
+Proxima Centauri    2900           Rajpurohit13
+Proxima Centauri    2900           Pavlenko17
+Proxima Centauri    2883    60     Gaidos14
+Proxima Centauri    2820   125     McDonald17
+Proxima Centauri    2727    12     Pecaut13
+Proxima Centauri    2425           Leger15
+
+Alpha Centauri A    5939    79     2014MNRAS.443..698S
+Alpha Centauri A    5857    30     2012A&A...542A..84D
+Alpha Centauri A    5850           1997A&A...323..809F
+Alpha Centauri A    5844    42     2005A&A...437.1127S
+Alpha Centauri A    5840    69     2014A&A...564A.133J
+Alpha Centauri A    5830           2001A&A...367..253F
+Alpha Centauri A    5830    30     1997A&A...328..261N
+Alpha Centauri A    5829     6     Morel 2018
+Alpha Centauri A    5824    26     2008A&A...488..653P
+Alpha Centauri A    5813           2015A&A...579A..20M
+Alpha Centauri A    5809    80     2013ApJ...764...78R
+Alpha Centauri A    5809           2012ApJ...756...46R
+Alpha Centauri A    5801           2007A&A...465..271R
+Alpha Centauri A    5801    44     2005ApJS..159..141V
+Alpha Centauri A    5800           1992A&A...263..219C
+Alpha Centauri A    5793           1988A&A...206..100A
+Alpha Centauri A    5793           1986A&A...166..195R
+Alpha Centauri A    5793           1986A&A...165..126S
+Alpha Centauri A    5793           1971RGOB..173...63F
+Alpha Centauri A    5792    16     Jofre 2015
+Alpha Centauri A    5781           2016A&A...587A...2B
+Alpha Centauri A    5753           Luck 2018
+Alpha Centauri A    5751           2016A&A...587A...2B
+Alpha Centauri A    5745    80     2010MNRAS.405.1907B
+Alpha Centauri A    5727           1990ApJ...350..827F
+Alpha Centauri A    5727           1988A&A...190..148E
+Alpha Centauri A    5727           1980MNRAS.191...23E
+Alpha Centauri A    5720           1993A&A...275..101E
+Alpha Centauri A    5569    112    2006MNRAS.370..163B
+Alpha Centauri A    5551           1996A&A...314..191G
+Alpha Centauri A    5519    123    2004A&A...420..183A
+
+Alpha Centauri B    5364    58     2014MNRAS.443..698S
+Alpha Centauri B    5362           1971RGOB..173...63F
+Alpha Centauri B    5350           1997A&A...323..809F
+Alpha Centauri B    5325           1992A&A...263..219C
+Alpha Centauri B    5305           1988A&A...206..100A
+Alpha Centauri B    5305           1986A&A...165..126S
+Alpha Centauri B    5260    64     2014A&A...564A.133J
+Alpha Centauri B    5255    50     1997A&A...328..261N
+Alpha Centauri B    5251           2015A&A...579A..20M
+Alpha Centauri B    5250           1988A&A...190..148E
+Alpha Centauri B    5250           1980MNRAS.191...23E
+Alpha Centauri B    5242           Luck 2018
+Alpha Centauri B    5234    63     2013A&A...556A.150S
+Alpha Centauri B    5231    20     Jofre 2015
+Alpha Centauri B    5230    79     2013ApJ...764...78R
+Alpha Centauri B    5230           2012ApJ...756...46R
+Alpha Centauri B    5225           2001A&A...367..253F
+Alpha Centauri B    5223    62     2008A&A...488..653P
+Alpha Centauri B    5203           2007A&A...465..271R
+Alpha Centauri B    5199    80     2005A&A...437.1127S
+Alpha Centauri B    5189    18     Morel 2018
+Alpha Centauri B    5178    44     2005ApJS..159..141V
+Alpha Centauri B    5145    80     2010MNRAS.405.1907B
+Alpha Centauri B    5098           2016A&A...587A...2B
+Alpha Centauri B    5094           2016A&A...587A...2B
+Alpha Centauri B    4970    180    2004A&A...420..183A
+
+Barnard's star      3530           Zboril98
+Barnard's star      3400           Rajpurohit18
+Barnard's star      3332           Soubiran08
+Barnard's star      3300    100    Jones02
+Barnard's star      3286           Terrien15
+Barnard's star      3278           Passegger18 
+Barnard's star      3269     29    Mann15      
+Barnard's star      3266     29    Rojas-Ayala12
+Barnard's star      3266    100    Houdebine16
+Barnard's star      3247     61    Gaidos14
+Barnard's star      3238     11    Newton15
+Barnard's star      3237     60    Gaidos14
+Barnard's star      3228     60    Mann15      
+Barnard's star      3224     10    Boyajian12
+Barnard's star      3223           Terrien15
+Barnard's star      3222     10    Boyajian12
+Barnard's star      3210           Tsugi96
+Barnard's star      3201           Cenarro01
+Barnard's star      3168    125    McDonald17
+Barnard's star      3165           Stelzer13   
+Barnard's star      3163           Segransan03
+Barnard's star      3153           Worthey94
+Barnard's star      3147     85    Muirhead18
+Barnard's star      3145           Casagrande08
+Barnard's star      3140     63    Boyajian12
+Barnard's star      3134    102    Dawson04
+Barnard's star      3100     50    Houdebine12
+Barnard's star      3100    150    Leggett96
+Barnard's star      3083           Terrien15
+
+Luhman 16 A         1350     60    Kniazev13    
+Luhman 16 A         1310     30    Faherty14
+
+Luhman 16 B         1280     75    Faherty14
+Luhman 16 B         1210     40    Kniazev13
+
+WISE J0855-0714      262.5   12.5  Schneider16
+WISE J0855-0714      255.0    5.0  Luhman14b
+WISE J0855-0714      252.5   27.5  Luhman14b
+WISE J0855-0714      250     10    Luhman14a
+WISE J0855-0714      250           Beamin14
+WISE J0855-0714      247.5   12.5  Luhman14b
+WISE J0855-0714      242.5   17.5  Luhman14a
+WISE J0855-0714      237.5   12.5  Faherty14
+WISE J0855-0714      237.5   12.5  Schneider16
+WISE J0855-0714      232.5    7.5  Luhman14b
+WISE J0855-0714      225      5    Kopytova14
+WISE J0855-0714      212.5   12.5  Kopytova14
+
+Wolf 359            3356           Terrien15
+Wolf 359            3185           Terrien15
+Wolf 359            3050           Cesetti13
+Wolf 359            3000    100    Jones02
+Wolf 359            2960     61    Gaidos14
+Wolf 359            2911           Rice10
+Wolf 359            2900           Golimowski04
+Wolf 359            2900           Rajpurohit18
+Wolf 359            2887     20    Rojas-Ayala12
+Wolf 359            2865     60    GAidos14
+Wolf 359            2857    112    Newton15
+Wolf 359            2818     60    Mann15
+Wolf 359            2808     27    Mann15
+Wolf 359            2800           Pavlenko06
+Wolf 359            2700     56    Dieterich14
+Wolf 359            2600           Leggett00
+Wolf 359            2520           Jenkins09
+Wolf 359            2500           Casagrande08
+
+Lalande 21185       4207 1145/1318 Ammons06
+Lalande 21185       3837     90    Ramirez05
+Lalande 21185       3828           Alonso96
+Lalande 21185       3739           LeBorgne03
+Lalande 21185       3713           Soubiran08
+Lalande 21185       3679    110    Gaidos14
+Lalande 21185       3665           Prugniel07
+Lalande 21185       3637     32    Mann15
+Lalande 21185       3620           Zboril98
+Lalande 21185       3620           Ivanov04
+Lalande 21185       3602    100    Houdebine16
+Lalande 21185       3600           Prugniel07
+Lalande 21185       3593     60    vanBelle09
+Lalande 21185       3593     66    Gaidos14
+Lalande 21185       3580           Wright11
+Lalande 21185       3574     12    Koleva12
+Lalande 21185       3570     42    Segransan03      
+Lalande 21185       3569    125    McDonald17
+Lalande 21185       3563     60    Mann15
+Lalande 21185       3550           Prugniel11
+Lalande 21185       3532     17    Newton15
+Lalande 21185       3532     85    Newton15
+Lalande 21185       3530           Lepine13
+Lalande 21185       3526     18    Rojas-Ayala12
+Lalande 21185       3510    150    Woolf05
+Lalande 21185       3510           Tsugi96
+Lalande 21185       3500           Stelzer13
+Lalande 21185       3500           Leggett96
+Lalande 21185       3490           Jenkins09
+Lalande 21185       3481     14    Pecaut13
+Lalande 21185       3467           Casagrande08
+Lalande 21185       3465     17    Boyajian12
+Lalande 21185       3464     15    Boyajian12
+Lalande 21185       3460     37    Boyajian12
+Lalande 21185       3457     58    Boyajian12
+Lalande 21185       3429           Mould78
+Lalande 21185       3425     50    Houdebine10
+Lalande 21185       3400           Reid05
+Lalande 21185       3136           Leger15
+
+Sirius A           10500           Aller67      
+Sirius A           10286           Latham70     
+Sirius A           10080           Strom68      
+Sirius A           10080           Bell8        
+Sirius A           10080           Warner66     
+Sirius A           10053           David15
+Sirius A           10043           King03
+Sirius A            9940           Adelman04
+Sirius A            9882           Boyarchuk78  
+Sirius A            9882           Lemke89      
+Sirius A            9880           Qui01        
+Sirius A            9870           Hui-Bon-Hoa97
+Sirius A            9870           Hill93       
+Sirius A            9870           Burkhart91   
+Sirius A            9870           Gebran16
+Sirius A            9824           Boyajian13   
+Sirius A            9797           Boyajian13   
+Sirius A            9744           Boyajian13   
+Sirius A            9711           Boyajian13   
+Sirius A            9711    23     Huang15
+Sirius A            9707           Boyajian13   
+Sirius A            9705           Boyajian13   
+Sirius A            9692           Kohl64       
+Sirius A            9692           Gehlich69    
+Sirius A            9580           Gray03
+Sirius A            9550           Allende-Prieto99
+Sirius A            9333           Wallerstein62
+Sirius A            9267           Gaia DR2
+Sirius A            9000           Boyarchuk78  
+Sirius A            9000           Strom66      
+
+Sirius B           26083   378     Bedard17
+Sirius B           25970   378     Gianninas11
+Sirius B           25967           Sion14
+Sirius B           25193    37     Holberg08
+Sirius B           25000   200     Liebert05
+Sirius B           24790           Holberg98
+
+Luyten 726-8 A      3336.5         Gaia DR2
+Luyten 726-8 A      3167    12     Koleva12
+Luyten 726-8 A      3025           Ivanov04
+Luyten 726-8 A      3000           Kervella16
+Luyten 726-8 A      3000           Kochukhov17
+Luyten 726-8 A      2900           Kervella16
+
+Luyten 726-8 B      3296.7         Gaia DR2
+Luyten 726-8 A      3167    12     Kovaleva12
+Luyten 726-8 A      3000           Kervella16
+Luyten 726-8 B      2900           Kochukhov17
+Luyten 726-8 B      2900           Kervella16
+
+Ross 154            3675           Gaia DR2
+Ross 154            3340    10     Mentuch08
+Ross 154            3302   100     Houdebine16
+Ross 154            3272    65     Gaidos14
+Ross 154            3252    21     Mann15
+Ross 154            3246    32     Huber17
+Ross 154            3241           Stelzer13
+Ross 154            3240    60     Mann15
+Ross 154            3213    60     Gaidos14
+Ross 154            3191           Wright11
+Ross 154            3141   125     McDonald17
+Ross 154            3085           Freund18
+Ross 154            3062    50     Houdebine12
+
+Ross 248            3293           Gaia DR2
+Ross 248            3280           Terrien15
+Ross 248            3222           Terrien15
+Ross 248            3110           Lepine13
+Ross 248            3067    60     Gaidos14 
+Ross 248            3058    65     Rojas-Ayala12
+Ross 248            3043    25     Mann15
+Ross 248            2930    60     Mann15
+Ross 248            2799           Worthey94
+Ross 248            2746           Jenkins09

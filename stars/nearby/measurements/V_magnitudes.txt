@@ -1,0 +1,212 @@
+Sun                  -26.71  0.02      Mamajek homepage
+
+Proxima Centauri      11.55  0.06      Alfonso-Garzon12
+Proxima Centauri      11.220           Mermilliod87
+Proxima Centauri      11.18            Torres06
+Proxima Centauri      11.130 0.030     Lurie14
+Proxima Centauri      11.110           Mermilliod87
+Proxima Centauri      11.100 0.500     Turon93
+Proxima Centauri      11.09  0.03      Leggett92
+Proxima Centauri      11.09            Bessell83
+Proxima Centauri      11.050           Mermilliod87
+Proxima Centauri      11.010 0.008     Kharchenko09
+
+Alpha Centauri A      -0.15            Huang 2015
+Alpha Centauri A      -0.010 0.030     Turon 1993
+Alpha Centauri A      -0.01            Ochsenbein 1988
+Alpha Centauri A      -0.008 0.013     Kharchenko 2007
+Alpha Centauri A      -0.003 0.004     Burki 2002
+Alpha Centauri A       0.00            Mermilliod 1987
+Alpha Centauri A       0.010           Jofre 2014
+Alpha Centauri A       0.010 0.030     Henry 1996
+Alpha Centauri A       0.05  0.01      Egret 1992
+Alpha Centauri A       0.149           Zacharias 2005
+Alpha Centauri A       0.33            Burnashev 1985
+
+Alpha Centauri B       1.30            Huang 2015
+Alpha Centauri B       1.33            Ochsenbein 1988
+Alpha Centauri B       1.332 0.005     Burki 2002
+Alpha Centauri B       1.330           Jofre 2014
+Alpha Centauri B       1.348 0.012     Kharchenko 2007
+Alpha Centauri B       1.35            Mermilliod 1987
+Alpha Centauri B       1.350 0.030     Turon 1993
+Alpha Centauri B       1.350 0.030     Henry 1996
+Alpha Centauri B       1.354           Zacharias 2005
+Alpha Centauri B       1.40  0.01      Egret 1992
+Alpha Centauri B       1.70            Burnashev 1985
+
+Barnard's star         9.79  0.04   Gaidos14
+Barnard's star         9.60         Lepine05
+Barnard's star         9.565        Mermilliod87
+Barnard's star         9.559        Mermilliod87
+Barnard's star         9.553        Mermilliod87
+Barnard's star         9.55  0.03   Leggett92
+Barnard's star         9.540 0.031  Turon93
+Barnard's star         9.540 0.100  Muirhead18 (Tycho)
+Barnard's star         9.540        Mermilliod87
+Barnard's star         9.540        Mermilliod87
+Barnard's star         9.540        Mermilliod87
+Barnard's star         9.540        Mermilliod87
+Barnard's star         9.540        Mermilliod87
+Barnard's star         9.540        Mermilliod87
+Barnard's star         9.536 0.013  Roeser08
+Barnard's star         9.530        Mermilliod87
+Barnard's star         9.527 0.016  Mann15
+Barnard's star         9.520        Mermilliod87
+Barnard's star         9.511        Koen10
+Barnard's star         9.49         Gaidos14
+
+Luhman 16 A           23.25  0.10      Boffin14
+
+Luhman 16 B           24.07  0.10      Boffin14
+
+WISE J0855-0714       25.00  0.53  J   Tinney14
+WISE J0855-0714       25.45  0.24  J   Leggett17
+
+Wolf 359              13.529 0.025     Mermilliod 1991
+Wolf 359              13.53            Kilkenny98
+Wolf 359              13.507 0.006     Landolt09
+Wolf 359              13.52            Bessell83
+
+Lalande 21185          7.498 0.013     Mermilliod 1991
+
+Sirius A              -1.449 0.021     Mermilliod 1991
+
+Sirius B               8.395 0.066     Mermilliod 1991
+
+Luyten 726-8 A        12.63  0.04      Benedict16
+
+Luyten 726-8 B        13.08  0.05      Benedict16
+
+Ross 154              10.495 0.111     Mermilliod 1991
+Ross 154              10.495           Koen10
+Ross 154              10.50            Hosey15
+
+Ross 248              12.294 0.008     Mermilliod 1991
+
+Epsilon Eridani        3.726 0.010     Mermilliod 1991
+
+Lacaille 9352          7.356 0.014     Mermilliod 1991
+
+Ross 128              11.102 0.014     Mermilliod 1991
+
+Luyten 789-6 Aa       13.03            RECONS100
+
+Luyten 789-6 Ab       15.035 0.035     Avg of 15.07 (RECONS100) and 15.00 Reid04
+
+Luyten 789-6 B        13.255 0.015     Avg of 13.27 (RECONS100) and 13.24 Reid04
+
+61 Cygni A             5.230 0.022     Mermilliod 1991
+
+61 Cygni B             6.055 0.024     Mermilliod 1991
+
+Procyon A              0.365 0.009     Mermilliod 1991
+
+Procyon B             10.87  0.05      McCSion
+
+Struve 2398 A          8.904 0.013     Mermilliod 1991
+
+Struve 2398 B          9.688 0.006     Mermilliod 1991
+
+Groombridge 34 A       8.125 0.017     ASCC-2.5
+
+Groombridge 34 B      11.12  0.12      ASCC-2.5
+
+G 51-15               14.824 0.023     Mermilliod 1991
+
+Epsilon Indi A         4.688 0.012     Mermilliod 1991
+
+Epsilon Indi Ba       24.12  0.03      King10
+
+Epsilon Indi Bb    >= 26.60  0.05      King10
+
+Tau Ceti               3.495 0.010     Mermilliod 1991
+
+LHS 1565              13.037 0.074     APASS
+
+Luyten 725-32         12.055 0.018     Mermilliod 1991
+
+BD+05 1668             9.832 0.019     Mermilliod 1991
+
+Teegarden's star      15.133 0.022     Mann15
+
+Kapteyn's star         8.841 0.023     Mermilliod 1991
+
+Lacaille 8760          6.691 0.030     Mermilliod 1991
+
+SCR J1845-6357 A      17.40  0.03      RECONS
+
+SCR J1845-6357 B      13.29  0.02  J   BDKPIII
+
+Kruger 60 A            9.616 0.014     ASCC-2.5
+
+Kruger 60 B           11.399 0.050     ASCC-2.5
+
+DENIS J1048-3956      17.532 0.057     TSN14
+
+UGPS J0722-0540       16.52  0.02      Lucas10
+
+Ross 614 A            11.10  0.02      APASS
+
+Ross 614 B            14.88  0.01      APASS
+
+Wolf 424 A            13.22  0.01      Torres99
+
+Wolf 424 B            13.21  0.01      Torres99
+
+Wolf 1061             10.100 0.013     Mermilliod 1991
+
+van Maanen 2          12.362 0.011     Mermilliod 1991
+
+CD-37 15492            8.558 0.027     Mermilliod 1991
+
+Luyten 1159-16        12.277 0.018     Mermilliod 1991
+
+CD-46 11540            9.364 0.005     Mermilliod 1991
+
+BD+68 946              9.155 0.027     Mermilliod 1991
+
+LHS 292               15.78  0.03      UCAC4
+
+L 145-141             11.489 0.039     Mermilliod 1991
+
+G 208-44 Aa           13.46  0.03      Benedict16
+
+G 208-44 Ab           16.75  0.06      Benedict16
+
+G 208-45 B            13.957 0.016     Mann15
+
+Ross 780              10.158 0.023     Mermilliod 1991
+
+DENIS J0817-6155      13.613 0.024 J   2MASS
+
+LHS 288               13.897 0.025     avg Hosey15,Casagrande08,Rajpurohit13
+
+G 158-27              13.759 0.034     Mermilliod 1991
+
+DENIS J0255-4700      22.92  0.12      TSN16
+
+Groombridge 1618       6.600 0.012     Mermilliod 1991
+
+Lalande 21258 A        8.742 0.015     Mermilliod 1991
+
+Lalande 21258 B       14.437 0.032     Mermilliod 1991
+
+WISE J1639-6847       20.57  0.05  J   Tinney14
+
+CD-49 13515            8.672 0.004     Mermilliod 1991
+
+BD+20 2465             9.421 0.017     Mermilliod 1991
+
+Omicron-2 Eridani A    4.424 0.012     Mermilliod 1991
+
+Omicron-2 Eridani B    9.519 0.013     McCSion
+
+Omicron-2 Eridani C   11.175 0.050     Avg of values in Mermilliod87
+
+CD-44 11909           10.962 0.021     Avg Koen02,Koen10,Mermilliod87,SPM,Salim03,Leinert97
+
+Altair                 0.765 0.015     Mermilliod 1991
+
+70 Ophiuchi A          4.085 0.008     Khar07
+70 Ophiuchi B          6.163 0.037     Khar07

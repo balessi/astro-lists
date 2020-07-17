@@ -1,0 +1,113 @@
+Name              Aliases                    Type     MV      DKPc    rh'    rhPc  log rh  comments
+
+Kim 3                                        GC      +0.7     15.1    0.5     2.3    0.36
+DES 2             DES J0111-1341             GC      +0.5     23.8    0.6     4.1    0.61
+DES 5                                        GC      +0.3     24.8    0.18    1.31
+Kim 1                                        GC      +0.3     19.8    1.2     6.9    0.84   
+BLISS 1           BLISS J0321+0438           GC      +0.0     23.7    0.6     4.1    0.61
+Cet II            DES J0117-1725             dSph    -0.04    30      1.9    16.6    1.22
+SEGUE 3                                      GC      -0.1     17.0    0.45    2.2    0.34
+DELVE 1           DELVE J1630-0058           GC      -0.2     19.0    0.97    5.4    0.73
+HSC 1             HSC J2217+0328             GC      -0.2     46      0.44    5.9    0.77
+Virgo I           HSC J1200-0040             dSph    -0.36    91      1.76   46.6    1.67
+Koposov 2                                    GC      -0.4     34.7    0.21    2.1    0.32
+Munoz 1                                      GC      -0.4     45      0.49    6.4    0.81
+SDSS J0814+5105                              dSph    -0.95    13.8    6.2    24.9    1.40
+SMASH 1                                      GC      -1.0     57      0.57    9.1    0.96
+DES 4                                        GC      -1.1     31.3    0.83    7.58
+Balbinot 1                                   GC      -1.2     31.9    0.78    7.2    0.86
+DES J0225+0304                               dSph    -1.30    24.0    2.7    18.8    1.27
+Koposov 1                                    GC      -1.4     48.3    0.26    3.6    0.56
+Torrealba 1                                  GC      -1.6     43.6    0.27    3.45
+SEGUE 1                                      dSph    -1.60    23.0    4.4    29.4    1.47
+Tuc V             DES J2337-6316             dSph    -1.66    55      1.0    16.0    1.20
+Tri II            Laevens 2                  dSph    -1.74    30.0    3.9    34.0    1.53
+AM 4              AM 1353-265, C1353-269     GC      -1.8     32.2    0.43    4.0    0.60
+SDSS J0821+5608                              dSph    -1.83    13.8    4.7    18.9    1.28
+DES 3                                        GC      -1.9     76.2    0.31    6.9    0.84
+PS1 1                                        GC      -1.9     29.6    0.55    4.69
+Eri III           DES J0222.7-5217, DES 4    EGC     -2.19    77.6    0.47   18.5    1.03
+Palomar 1                                    GC      -2.4     11.1    0.46    1.5    0.18
+Tuc III           DES J2356-5935             dSph    -2.42    25.0    6.0    43.6    1.64
+Dra II            Laevens 4                  dSph    -2.45    20.0    2.7    15.7    1.20
+Cetus III         HSC J0209-0416             dSph    -2.47   251      1.23   89.8    1.95
+Whiting 1         WHI B0200-03               GC      -2.5     30.1    0.22    1.9    0.28
+Hya I                                        dSph    -2.53    12.7   52     192.1    2.28
+Hor II                                       dSph    -2.64    78      2.1    48.1    1.68
+Leo II knot                                  Overd   -2.8    218.0    2.0   135      2.13  not a half-light radius
+Ret II            DES J0335.6-5403           dSph    -2.82    30.9    3.6    32.4    1.51
+Willman 1         SDSS J1049+5103            dSph    -2.84    43.7    2.3    26.6    1.47
+Car III           MagLiteS J0738-5754        dSph    -2.96    27.8    3.75   30.3    1.48
+DES J0034-4902    DES 1                      EGC     -3.0     87.1    0.39    9.9    1.00
+Phe II            DES J2339.9-5424           dSph    -3.00    89.0    1.2    31.1    1.49
+SDSS J1058+2843                              dSph    -3.06    24.0    4.7    32.8    1.52
+SEGUE 2                                      dSph    -3.11    35.8    3.4    34.9    1.55
+Boo II                                       dSph    -3.16    52      4.2    60.4    1.80
+Pic II            MagLiteS J0664-5953        dSph    -3.20    45.0    3.6    47.1    1.66
+Pic I             DES J0443.8-5017           dSph    -3.25   120      0.9    31.4    1.50
+Ind I             Kim 2, DES J2108.8-5109    dSph    -3.26    91      1.4    34.6    1.57
+Gaia 3                                       GC      -3.3     48.4    0.53    7.45
+AGC 198606                                   darkGx  -3.34   390     11.5  1304.6    3.12  not a half-light radius
+And I GC                                     GC/NC   -3.4    767      0.02    4.2    0.62
+Gru I             DES J2256.7-5010           dSph    -3.43   120      2.0    69.8    1.84
+Ret III           DES J0345-6026             dSph    -3.45    92      2.4    64.2    1.81
+Eri II Cl                                    EGC/NC  -3.5    366      0.11   13      1.11
+Hor I             DES J0255.4-5406           dSph    -3.54    83.3    1.3    31.4    1.50
+Tuc IV            DES J0002-6051             dSph    -3.54    48      9.1   127.1    2.10
+Terzan 9          C1758-268                  GC      -3.7      7.1    0.78    1.6    0.20
+Palomar 13        UGCA 435                   GC      -3.8     26.0    0.36    2.7    0.43
+MIR 117.2-16.6                               dSph    -3.88    17.0  168     830.8    2.92  not a half-light radius
+M33 Cluster D                                GC      -3.93   870              3.7    0.57
+SDSS J1329+2841                              dSph    -3.94    75.9    8.6   189.9    2.28
+Gru II            DES J2204-4626             dSph    -3.97    53      6.0    92.5    1.97
+ESO 452-11        C1636-283                  GC      -4.0      8.3    0.50    1.2    0.08
+PAndAS-Ca 1                                  GC      -4.0    783      0.07    8.1    0.91
+BH 176            ESO 224-8                  GC      -4.1     18.9    0.90    5.0    0.70
+E 3               ESO 37-1, C0921-770        GC      -4.1      8.1    2.1     5.0    0.70
+PAndAS-45                                    GC      -4.1    783      0.12    8.9    0.95
+Terzan 11         Terzan 12, ESO 522-1       GC      -4.1      4.8    0.75    1.0    0.02
+Coma Ber.                                    dSph    -4.14    43.3    5.5    75.6    1.84
+BH 261            AL 3, ESO 456-78           GC      -4.2      6.5    0.55    1.0    0.02
+Fornax clump 2                               Overd   -4.2    139      1.6    65      1.81  not a half-light radius
+PAndAS-3                                     EGC     -4.2    783      0.23   27.4    1.44
+SDSS J1000+5730                              dSph    -4.23    83.2    8.1   196.0    2.29
+Tuc II            DES J2251.2-5836           dSph    -4.29    57      9.8   181.0    2.22
+Ind II            DES J2038-4609, Ind I      dSph    -4.35   214      2.9   180.5    2.26  Also Ind I (erroneously!)
+Aquarius 2                                   dSph    -4.38   107.9    5.1   160.1    2.20
+Laevens 3                                    GC      -4.4     67      0.37    7.0    0.85
+PAndAS-29                                    EGC     -4.4    783      0.09   10.7    1.03
+PAndAS-31                                    EGC     -4.4    783      0.16   18.5    1.27
+Terzan 1          HP 2, BH 235, ESO 455-23   GC      -4.4      6.7    3.8     7.1    0.85
+Palomar 12                                   GC      -4.47    18.7    1.72    9.4    0.97
+Terzan 4                                     GC      -4.48     8.5    1.85    4.6    0.66
+PAndAS-38                                    EGC     -4.50   783             24.4    1.39
+Boo IV            HSC J1534+4343             dSph    -4.53   209      7.6   462      2.66
+Columba 1                                    dSph    -4.57   182      1.9   100.6    2.00
+Pegasus III                                  dSph    -4.60   205      1.3    77.5    1.89
+UMa II                                       dSph    -4.63    33.7   16     156.8    2.20
+PAndAS-24                                    EGC     -4.68   783             16.9    1.23
+Palomar 14                                   EGC     -4.69    71.3    2.3    47.7    1.68
+AM 1                                         GC      -4.73   123.2    0.41   14.7    1.17
+NGC 6535                                     GC      -4.75     6.5    0.85    1.6    0.20
+Fornax 6                                     GC      -4.8    147      0.28   11.3    1.05
+PAndAS-49                                    EGC     -4.81   783             16.4    1.21
+Terzan 3                                     GC      -4.82     7.9    1.25    2.9    0.46
+CVn II                                       dSph    -4.85   152.5    1.6    71.0    1.85
+PAndAS-48                                    EGC?    -4.85   820      0.09   22.4    1.35
+2MASS-GC 2                                   GC      -4.86     4.4    0.55    0.7   -0.15
+ESO 280-SC 6                                 GC      -4.87    21.6    1.05    6.6    0.82
+Gep I                                        EGC/NC  -4.9    774      0.1    25.0    1.40
+Hydra II                                     dSph    -4.93   142.5    1.7    70.5    1.85
+PAndAS-59                                    GC      -4.93   783              5.6    0.75
+Hydrus I                                     dSph    -4.95    27.6    7.4    59.4    1.77
+PAndAS-7                                     EGC     -5.00   783             13.3    1.12
+Carina II         MagLiteS J0736-5800        dSph    -5.01    36.2    8.7    91.6    1.96  Pair with Car III (proj sep 8.4 Kpc)
+Terzan 7                                     GC      -5.01    22.9    0.77    5.1    0.71
+PAndAS-23                                    GC      -5.02   783              6.7    0.83
+PAndAS-15                                    GC      -5.04   783              6.0    0.78
+PAndAS-5                                     EGC     -5.05   783             17.0    1.23
+Terzan 8                                     GC      -5.07    27.6    0.95    7.6    0.88
+PAndAS-26                                    GC      -5.10   783              7.4    0.87
+Eridanus                                     GC      -5.13    89.8    0.46   12.0    1.08
+PAndAS-40                                    GC      -5.13   783             10.0    1.00
+Palomar 5                                    EGCt    -5.17    22.6    2.73   17.9    1.25

@@ -1,0 +1,266 @@
+Sun                  0.0             by definition
+
+Proxima Centauri    -0.07    0.14    Passegger16
+Proxima Centauri     0.00            Neves13
+Proxima Centauri     0.14            Schlaufman10
+Proxima Centauri     0.16            Ward-Duong15
+Proxima Centauri     0.21            Schlaufman10
+
+Alpha Centauri A     0.030   0.080   2006MNRAS.370..163B
+Alpha Centauri A     0.100           1990ApJ...350..827F
+Alpha Centauri A     0.120   0.050   2004A&A...420..183A
+Alpha Centauri A     0.150           1996A&A...314..191G
+Alpha Centauri A     0.150           1993A&A...275..101E
+Alpha Centauri A     0.170           1986A&A...166..195R
+Alpha Centauri A     0.20    0.04    Luck 2018
+Alpha Centauri A     0.200           1988A&A...206..100A
+Alpha Centauri A     0.200           1988A&A...190..148E
+Alpha Centauri A     0.200           1986A&A...165..126S
+Alpha Centauri A     0.210   0.030   2005ApJS..159..141V
+Alpha Centauri A     0.22            2016A&A...587A...2B
+Alpha Centauri A     0.220   0.070   2010MNRAS.405.1907B
+Alpha Centauri A     0.220   0.030   1997A&A...323..809F
+Alpha Centauri A     0.220           1992A&A...263..219C
+Alpha Centauri A     0.220           1971RGOB..173...63F
+Alpha Centauri A     0.23            2012ApJ...756...46R
+Alpha Centauri A     0.230   0.050   2013ApJ...764...78R
+Alpha Centauri A     0.230   0.050   2012A&A...542A..84D
+Alpha Centauri A     0.237   0.007   Morel 2018
+Alpha Centauri A     0.24    0.08    Jofre 105
+Alpha Centauri A     0.240   0.030   2008A&A...488..653P
+Alpha Centauri A     0.240           2001A&A...367..253F
+Alpha Centauri A     0.250   0.040   2007A&A...465..271R
+Alpha Centauri A     0.250   0.020   1997A&A...328..261N
+Alpha Centauri A     0.260   0.010   2014A&A...564A.133J
+Alpha Centauri A     0.27            2016A&A...587A...2B
+Alpha Centauri A     0.275   0.063   2014MNRAS.443..698S
+Alpha Centauri A     0.280   0.060   2005A&A...437.1127S
+Alpha Centauri A     0.290           1980MNRAS.191...23E
+
+Alpha Centauri B     0.120           1971RGOB..173...63F
+Alpha Centauri B     0.140           1988A&A...206..100A
+Alpha Centauri B     0.16            2013A&A...556A.150S
+Alpha Centauri B     0.160   0.040   2013A&A...556A.150S
+Alpha Centauri B     0.175   0.072   2014MNRAS.443..698S
+Alpha Centauri B     0.180   0.070   2007A&A...465..271R
+Alpha Centauri B     0.190   0.090   2005A&A...437.1127S
+Alpha Centauri B     0.200           1986A&A...165..126S
+Alpha Centauri B     0.22    0.10    Jofre 2015
+Alpha Centauri B     0.220   0.010   2014A&A...564A.133J
+Alpha Centauri B     0.221   0.016   Morel 2018
+Alpha Centauri B     0.230   0.030   2005ApJS..159..141V
+Alpha Centauri B     0.230           2001A&A...367..253F
+Alpha Centauri B     0.240   0.030   1997A&A...328..261N
+Alpha Centauri B     0.250   0.050   2008A&A...488..653P
+Alpha Centauri B     0.260           1992A&A...263..219C
+Alpha Centauri B     0.260           1988A&A...190..148E
+Alpha Centauri B     0.27            2012ApJ...756...46R
+Alpha Centauri B     0.270   0.060   2013ApJ...764...78R
+Alpha Centauri B     0.270   0.070   2004A&A...420..183A
+Alpha Centauri B     0.28            2016A&A...587A...2B
+Alpha Centauri B     0.280   0.070   1997A&A...323..809F
+Alpha Centauri B     0.29    0.05    Luck 2018
+Alpha Centauri B     0.300   0.070   2010MNRAS.405.1907B
+Alpha Centauri B     0.31            2016A&A...587A...2B
+Alpha Centauri B     0.370           1980MNRAS.191...23E
+
+Barnard's star      -0.90            Cenarro01
+Barnard's star      -0.59            Jao05  
+Barnard's star      -0.58            Neves12
+Barnard's star      -0.52            Neves13
+Barnard's star      -0.51            Ward-Duong15
+Barnard's star      -0.5             Jones02
+Barnard's star      -0.442           Dittman16
+Barnard's star      -0.41            Terrien15
+Barnard's star      -0.40    0.08    Mann15   
+Barnard's star      -0.39    0.17    Gizis97
+Barnard's star      -0.39    0.10    Yee17
+Barnard's star      -0.39    0.13    Newton14
+Barnard's star      -0.35            Terrien15
+Barnard's star      -0.34            Terrien15
+Barnard's star      -0.32    0.08    Gaidos14
+Barnard's star      -0.32    0.11    Gaidos14
+Barnard's star      -0.26            Terrien15
+Barnard's star      -0.15            Zboril98
+Barnard's star      -0.15            2008A&A...480...91S
+
+Luhman 16 A          0.0     fixed   TODO
+
+Luhman 16 B          0.0     fixed   TODO
+
+WISE J0855-0714      0.0     fixed   TODO
+
+Wolf 359            -0.99            Huber17
+Wolf 359            -0.5     0.5     Jones02
+Wolf 359            +0.18    0.17    Rojas-Ayala12
+Wolf 359            +0.18            Neves13
+Wolf 359            +0.25    0.08    Mann15
+Wolf 359            +0.30    0.12    Newton14
+Wolf 359            +0.31            Newton15
+Wolf 359            +0.43            Jao05
+
+Lalande 21185       -0.93    0.05    Koleva12
+Lalande 21185       -0.68    0.04    Gaspar16
+Lalande 21185       -0.67            Arnadottir10
+Lalande 21185       -0.59    0.14    Newton14
+Lalande 21185       -0.42    0.070   Woolf05
+Lalande 21185       -0.41    0.17    Rojas-Ayala12
+Lalande 21185       -0.41    0.10    Yee17
+Lalande 21185       -0.40            Prugniel11
+Lalande 21185       -0.38    0.08    Mann15
+Lalande 21185       -0.35            Neves13
+Lalande 21185       -0.34            Prugniel07
+Lalande 21185       -0.33            Jenkins09
+Lalande 21185       -0.32            Neves13
+Lalande 21185       -0.30            Prugniel07
+Lalande 21185       -0.20            Mould78
+Lalande 21185       -0.20            Zboril98
+
+Sirius A            -0.360           Warner66     
+Sirius A             0.000           Boyarchuk78  
+Sirius A             0.120           Hill93       
+Sirius A             0.2             Gebran16
+Sirius A             0.250           Burkhart91   
+Sirius A             0.260           Lemke89      
+Sirius A             0.280           Hill95       
+Sirius A             0.32    0.16    Riedel17
+Sirius A             0.33    0.07    Gaspar16
+Sirius A             0.34            Huang15
+Sirius A             0.400           Aller67      
+Sirius A             0.400           Boyarchuk78  
+Sirius A             0.490   0.290   Hui-Bon-Hoa97
+Sirius A             0.500   0.110   Qui01        
+Sirius A             0.600           Bell8        
+Sirius A             0.700           Wallerstein62
+Sirius A             0.710           Strom66      
+Sirius A             0.800           Strom68      
+Sirius A             0.810           Kohl64       
+Sirius A             0.820           Latham70     
+Sirius A             0.870           Gehlich69    
+
+Luyten 726-8 AB     -0.42    0.10    Koleva12
+Luyten 726-8 AB     -0.40    0.10    Gaspar16
+Luyten 726-8 AB     -0.12    0.20    Kervella16
+Luyten 726-8 AB     -0.03    0.20    Kervella16
+Luyten 726-8 AB      0.0             Ivanov04
+
+Ross 154            -0.44              Neves13
+Ross 154            -0.41              Neves13
+Ross 154            -0.40              Ward-Duong15
+Ross 154            -0.25              Wargelin08
+Ross 154            -0.14    0.11      Gaidos14
+Ross 154            -0.12    0.08      Gaidos14
+Ross 154            -0.10              Neves13
+Ross 154             0.099  0.08/0.10  Huber17
+
+Ross 248             0.32              Terrien15
+Ross 248             0.29    0.08      Gaidos14
+Ross 248             0.29    0.12      Newton14
+Ross 248             0.23              Mann15
+Ross 248             0.19    0.17      Rojas-Ayala12
+Ross 248             0.17              Jao05
+Ross 248             0.10              Ivanov08
+Ross 248             0.05              Neves13
+Ross 248             0.00              Ivanov04
+
+Eps Eri             -0.82    0.92      Soto18
+Eps Eri             -0.311             Rocha-Pinto98
+Eps Eri             -0.310             Hearnshaw74
+Eps Eri             -0.230             Steenbook83
+Eps Eri             -0.202   0.050     Schonrich14
+Eps Eri             -0.200             Abia88
+Eps Eri             -0.190             Oinas74
+Eps Eri             -0.189   0.031     Taylor03
+Eps Eri             -0.18    0.03      Ghezzi10
+Eps Eri             -0.18              Borkova05
+Eps Eri             -0.17              Onehag09
+Eps Eri             -0.16              Rocha-Pinto04
+Eps Eri             -0.16              Carretta13
+Eps Eri             -0.150   0.030     Tsantaki13
+Eps Eri             -0.150   0.100     Mishenina04
+Eps Eri             -0.15              Gray06
+Eps Eri             -0.15              Suarez-Andres17
+Eps Eri             -0.140   0.070     Tomkin99
+Eps Eri             -0.140   0.018     Taylor05
+Eps Eri             -0.14              Valdes04
+Eps Eri             -0.14    0.06      Hanke18
+Eps Eri             -0.130   0.040     Santos04
+Eps Eri             -0.13              Beirao05
+Eps Eri             -0.121   0.035     Gonzalez07
+Eps Eri             -0.120   0.100     Zhao02
+Eps Eri             -0.12              Ramirez05
+Eps Eri             -0.12    0.10      Paletou15
+Eps Eri             -0.110   0.030     Sousa08
+Eps Eri             -0.11              Delgado Mena10
+Eps Eri             -0.11    0.03      Smiljanic16
+Eps Eri             -0.11              Soubiran05
+Eps Eri             -0.11              Adibekyan12
+Eps Eri             -0.100   0.070     daSilva15
+Eps Eri             -0.100   0.040     Ramirez07
+Eps Eri             -0.10              Prugniel07
+Eps Eri             -0.10              Marsakov88
+Eps Eri             -0.10    0.05      Lee11
+Eps Eri             -0.090   0.030     Laws03
+Eps Eri             -0.090   0.010     Jofre14
+Eps Eri             -0.090             Fuhrmann04
+Eps Eri             -0.090             Drake93
+Eps Eri             -0.09    0.05      Ramirez12
+Eps Eri             -0.09    0.06      Jofre18
+Eps Eri             -0.09    0.18      Soto18
+Eps Eri             -0.088   0.024     Gonzalez10
+Eps Eri             -0.08    0.05      Ramirez13
+Eps Eri             -0.08              Gazzano10
+Eps Eri             -0.08    0.05      Maldonado12
+Eps Eri             -0.070   0.060     Santos01
+Eps Eri             -0.060   0.070     Ramirez13
+Eps Eri             -0.060   0.040     AllendePrieto04
+Eps Eri             -0.06              Anderson12
+Eps Eri             -0.06    0.10      Yee17
+Eps Eri             -0.050             Bean06
+Eps Eri             -0.05    0.02      Gaspar16
+Eps Eri             -0.05    0.05      Arnadottir10
+Eps Eri             -0.040             Luck06
+Eps Eri             -0.040   0.060     Luck05
+Eps Eri             -0.04    0.17      Soto18
+Eps Eri             -0.04              Casagrande11
+Eps Eri             -0.04              Luck17
+Eps Eri             -0.031   0.030     Butler06
+Eps Eri             -0.030   0.030     Valenti05
+Eps Eri             -0.03    0.17      Ramirez13
+Eps Eri             -0.03    0.02      Maldonado15
+Eps Eri             -0.026   0.034     Lee11
+Eps Eri             -0.012   0.021     Gonzalez10
+Eps Eri             -0.010   0.080     Heiter03
+Eps Eri             -0.01              Brewer16
+Eps Eri              0.00    0.05      Wu11
+Eps Eri              0.00              Prugniel07
+Eps Eri              0.00              Holmberg09
+Eps Eri              0.00    0.12      Ramirez07
+Eps Eri              0.05    0.04      Prugniel11
+Eps Eri              0.05    0.11      Koleva12
+Eps Eri              0.05              Houdashelt00
+Eps Eri              0.055             Takeda07
+Eps Eri              0.060   0.030     Takeda05
+Eps Eri              0.060             Mallik98
+
+Lac 9352            -0.24              Neves13
+Lac 9352            -0.220   0.090     Woolf05
+Lac 9352            -0.19    0.10      Yee17
+Lac 9352            -0.15    0.08      Gaidos14
+Lac 9352            -0.15              Jao05
+Lac 9352            -0.06    0.08      Mann15
+Lac 9352            -0.04              Terrien15
+Lac 9352             0.00    0.10      Gaspar16
+
+Ross 128            -0.24              Neves12
+Ross 128            -0.18              Neves13
+Ross 128            -0.17              Ward-Duong15
+Ross 128            -0.14              Jao05
+Ross 128            -0.08              Terrien15
+Ross 128            -0.02    0.08      Gaidos14
+Ross 128            -0.01    0.17      Rojas-Ayala12
+Ross 128             0.07    0.12      Newton14
+Ross 128             0.087             Huber16
+
+Luy 789-6            0.05    0.17      Rojas-Ayala12
+Luy 789-6            0.24    0.12      Newton14

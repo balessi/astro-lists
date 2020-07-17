@@ -1,0 +1,58 @@
+
+2MASS J07464256+2000321
+LSPM J0746+2000
+SDSS J074642.42+200031.8
+WISEP J074642.23+200031.5
+GSC2 N22110125398
+USNO-B1.0 1100-00150847
+RED 9 (**)
+
+Par
+  81.1  0.9   Dupuy12      do not use
+  81.9  0.3   Dahn02       do not use
+  86.0  7.7   Dittmann13
+  86.2  4.6   Faherty12
+  81.84 0.30  Dieterich14
+  80.9  0.8   Dupuy17
+  81.24 0.25  Harris15     (private communication to Dupuy17 - re-analysis of Dahn02)
+
+  81.46 0.19  weighted avg
+
+ST
+  L0.5: + L2:     Cruz07
+  L0.5  + L2      Reid06
+  L0.5  + L2:     Reid08
+  L0    + L1.5    Koen13
+  L0    + L1.5    Bouy04
+  L0    + L1.5    Martin06
+  L0.5  + L       Carson11
+  L0    + L1.5    Dupuy12
+  L1    + L1.5    Crossfield14
+
+  L0.5    L1.5    median
+  L0.3    L1.7    average
+
+V
+  19.87 J  Dahn02
+  19.95 J  Lepine05
+  19.90 J  Dieterich14 (CTIO, Johnson)
+  20.05 J  Dieterich14 (SOAR, Bessel)
+
+Masses
+  A  82.4+1.4-1.5 MJup (Dupuy17)
+  B  78.4±1.4 MJup     (Dupuy17)
+
+Ages
+  A  >0.9 Gyr (Dupuy17)
+  B  >1.0 Gyr (Dupuy17)
+
+Log (Lbol/LSun)
+  A  -3.596+0.028-0.025 (Dupuy17)
+  B  -3.777+0.028-0.027 (Dupuy17)
+
+Teff
+  A  2318+24-23 (Dupuy17)
+  B  2134+26-25 (Dupuy17)
+
+e, p(days), a(AU)
+  0.4854±0.0003, 4652±11, 2.919±0.009 (Dupuy17)

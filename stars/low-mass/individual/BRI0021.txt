@@ -1,0 +1,103 @@
+
+BRI 0021-0214
+DY Psc
+2MASS J00242463-0158201
+NLTT 1261
+LP 585-86
+USNO-B1.0 0880-00006910
+
+Par
+  80.0    3.4    Jenkins09
+  80.71   0.95   Weinberger16
+  86.6    4.0    Tinney95
+  79.9653 0.2212 Gaia DR2
+
+  82.5    3.4    Tinney93     Do not use (poss superseded by Tinney95)
+  84.6    2.2    Reid94       Do not use (refer to Tinney94 in prep -> poss superseded by Tinney95)
+  82.5    3.4    vanAltena95  Do not use (= Tinney93)
+
+  80.02   0.21   Weighted Average
+
+B
+  21.2         Monet03
+  21.4         Monet03
+  21.459       Qi15
+  21.76        Lodieu05
+
+  21.45+-0.23  Average
+  21.43+-0.13  Median
+
+V
+  19.19        Salim03
+  19.42        Reid04
+  19.60        Jenkins09
+  19.81+-0.031 Dieterich14 (CTIO, Johnson)
+  20.0         Glebock05
+  20.01+-0.051 Dieterich14 (SOAR, Bessel)
+
+  19.67+-0.33  Average
+  19.71+-0.29  Median
+
+B-V
+  1.72+-0.42   Median
+
+ST
+  M9           2004AJ....128.2460H
+  M9:          1991MNRAS.252p..61I
+  M9+          1998A&A...338.1066T
+  M9.5         Kirkpatrck99
+  M9.5         Reid99
+  M9.5         2001ApJ...548..908L
+  M9.5         2002ApJ...564..466G
+  M9.5         2005A&A...440.1061L
+  M9.5         2009AJ....137....1F  (optical)
+  M9.5         2010ApJS..191..301A
+  M9.5         2012ApJS..201...19D  (optical)
+  M9.5         2012ApJS..201...19D  (NIR)
+  M9.5         2014ApJ...794..143B  (optical)
+>=M9.5         Kirkpatrick95
+  L0           2017MNRAS.465.4723K
+  L0.6         2014ApJ...794..143B  (SpeX)
+
+  M9.5         Average
+
+Teff
+  2092         Jenkins09
+  2251         Theissen17
+  2315         Dieterich14
+  2425         Golimowski04
+  2495         Berger06
+  2600         Cesetti13
+  2495         Berger06
+
+  2382+-174    Average
+  2425+-110    Median
+
+Mass
+  0.103+-0.031 Jenkins09
+
+R
+  0.10+-0.0074 Dieterich14
+
+Pm
+  -80.0  5.0   142.0  4.0    Zacharias05
+  -76.6  5.2   133.5  5.2    Roeser10
+  -66.0  3.4   124.7  4.9    Qi15
+  -80.0  7.0   137.0  7.0    Caballero07
+  -71.1  6.6   143.0  5.8    Kirkpatrick16
+  -93.0  3.0   127.0  6.0    Lodieu05
+  -80.0  4.0   133.0  6.0    Faherty09
+  -78.23 0.30  141.47 0.60   Weinberger16
+  -76.2 18.2   149.5 13.7    Theissen17
+
+  -78.28 0.30  140.94 0.57   Weighted Average
+
+Vrad
+  10.4         Reiners09
+   4.3  2.6    Burgasser15
+   4.4  2.2    Basri06
+   8.7         Faherty09
+   8.4         Dieterich14
+
+   7.2+-2.8    Average
+   8.4+-2.0    Median

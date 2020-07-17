@@ -1,0 +1,468 @@
+Cluster's Name      Alias                    Cns  Coordinates (J2000.0)   Gx     Wave Type    Diam'  Dst_pc Vmag  E(B-V) Log_t  Comments
+2MASS-GC 1          Hurt 1, FSR 40           Sgr  18 08 21.8 -19 49 46.9  MW     IR   GC        3.3    3080        6.80  10.10  
+2MASS-GC 2          Hurt 2                   Sgr  18 09 31.2 -20 47 24.0  MW     IR   GC       12.6    7436        2.00  10.00  
+47 Tuc              NGC 104                  Tuc  00 24 01.0 -72 04 51.6  MW     Op   GC      114.0    4501        0.04  10.10  
+Arp-Madore 2        ESO 368-7                Pup  07 46 48.0 -33 51 00.0  MW     Op   OC        3.1   25640               9.34  Webbink 1985, Djorgovsky/Meylan 1993; Open Cluster
+Alessi 52           FSR 1606, VVV-CL 101     Cru  12 13 02.0 -42 42 24.0  MW     Op   OC        1.4    4600               9.15  Archinal/Hynes 2003, also Alessi J12130-6242
+Andrews-Lindsay 3   BH 261                   Sgr  18 14 04.8 -28 37 58.8  MW     Op   GC        9.6    6555        0.36  10.05  
+Aqr 2                                        Aqr  22 33 55.5 -09 19 39.0  MW     Op   dSph      5.1  107900   
+Arp 2               ESO 460-6                Sgr  19 28 43.9 -30 21 21.6  SgrDEG Op   GC       13.2   28596        0.10  10.10  
+Arp-Madore 1        E 1                      Hor  03 55 02.4 -49 36 24.1  MW     Op   GC        1.3  123200        0.00  10.00  
+Arp-Madore 4        AM 1353-265              Hya  13 56 21.1 -27 10 03.0  SgrDEG Op   GC        1.3   33000        0.05   9.95  
+BH 131                                       Cru  12 26 27.7 -63 24 59.0  MW     Op   GC??      1.5   12000               9.20  Alessi: rich, unstudied group
+BH 140              FSR 1632                 Mus  12 53 50.9 -67 10 48.0  MW     Op   GC??     10.8    5230        1.85   8.20  Age is wrong?
+BH 176              ESO 224-8                Nor  15 39 05.3 -50 03 03.6  CMaDw  Op   GC       12.0   18887        0.54   9.80  
+BLISS 1             BLISS J0321+0438         Cet  03 21 43.6 +04 38 34.0  MW     Op   GC        1.2   23700                     UFD with MV +0.0 and Rh 4.1 pc
+Balbinot 1          SDSS J2211+1457          Peg  22 10 43.0 +14 56 30.0  MW     Op   GC/OC     2.0   31900              10.07  UFD with MV -1.2, Spatially close to Messier 2, SEGUE 3 and Kim 1
+Bica 1                                       Oph  17 24 53.8 -24 19 21.0  MW     Op   PN?       1.0                             Bica 1994, AA 285, 868
+Bica 20                                      Sgr  17 46 45.0 -28 08 47.0  MW     IR   *Ast      1.4                             In crowded field, Alessi: GDR2 check is negative, asterism-like in VVV and Spitzer
+Steine J1905.8+1942                          Sge  19 05 49.0 +19 42 43.0  MW     Op   *Ast?     0.5                             Bica+ 2019
+Teutsch J1520.1-6057                         Cir  15 20 11.0 -60 57 06.0  MW     Op   OC?       2.0                             Bica+ 2019
+Patchick 99                                  Sgr  18 15 47.0 -29 48 46.0  MW     Op   OC?       0.7                             Bica+ 2019
+Patchick 98                                  Ser  18 18 24.0 -12 30 06.0  MW     Op   *Ast?     1.0                             Bica+ 2019
+Patchick 54                                  Cru  12 14 20.0 -63 31 12.0  MW     Op   *Ast?     0.9                             Bica+ 2019
+FSR 435                                      Cas  23 31 05.0 +59 46 40.0  MW     Op   OC        0.6                             Bica+ 2019, Alessi: compact, but poor OC
+Ferrero 45                                   Sgr  19 35 47.0 -30 30 15.0  MW     Op   OC?       1.0                             Bica+ 2019
+DB 44                                        Sgr  17 46 35.0 -24 53 28.0  MW     Op   OC?       0.9                             Bica+ 2019
+Bica 656                                     Vel  09 33 20.0 -52 03 41.0  MW     Op   *Ast?     2.5                             Bica+ 2019
+Bica 523                                     Sco  17 14 58.0 -36 48 28.0  MW     IR   *Ast?     0.6                             Bica+ 2019
+Bica 15                                      Sgr  17 50 08.0 -28 51 09.0  MW     IR   *Ast?     0.7                             Bica+ 2019
+Bica 524                                     Sco  17 15 08.0 -36 47 12.0  MW     IR   *Ast?     1.3                             Bica+ 2019
+Bica 640            Terzan 9B                Sgr  18 01 36.0 -26 50 04.0  MW     IR   *Ast?     0.9                             Small clump very near Terzan 9
+Boo II                                       Boo  13 58 00.0 +12 51 00.0  MW     Op   dSph      4.2   52000   
+Boo IV              HSC J1534+4343           Boo  15 34 45.4 +43 43 34.0  MW     Op   dSph      7.6  209000   
+CVn II              SDSS J1257+3419          CVn  12 57 09.6 +34 19 12.0  MW     Op   dSph      1.6  152500   
+Camargo 1102        VVVX-GC 1                Oph  17 21 44.9 -26 32 40.0  MW     IR   GC??      1.0    8200                     Alessi: Dubious
+Camargo 1103                                 Sgr  18 06 31.3 -25 09 42.0  MW     IR   *Ast      1.5                             Alessi: asterism-like in VVV and Spitzer
+Camargo 1104                                 Sgr  18 05 14.2 -24 58 46.0  MW     IR   *Ast      1.5                             Alessi: asterism-like in VVV and Spitzer
+Camargo 1105                                 Oph  17 36 33.9 -28 18 39.0  MW     IR   *Ast      1.0                             Alessi: asterism-like in VVV and Spitzer
+Camargo 1106                                 Sco  17 32 34.3 -30 16 48.0  MW     IR   *Ast      1.5                             Alessi: asterism-like in VVV and Spitzer
+Camargo 1107                                 Sco  17 36 58.2 -30 08 50.0  MW     IR   *Ast     10.0                             Alessi: Dubious, no sign of a GC in DECaPS or 2MASS
+Camargo 1108        Ryu 521                  Sco  17 46 04.2 -30 51 53.0  MW     IR   OC?       8.0    3300                     Alessi: Dubious, there is some conc in DECaPS and 2MASS, but it does not seems to be a GC
+Camargo 1109                                 Sgr  17 47 26.6 -26 38 52.0  MW     IR   *Ast      7.0                             Alessi: Dubious, no sign of a GC in DECaPS, 2MASS or Spitzer
+Car II              MagLiteS J0736-5800      Car  07 36 25.6 -57 59 57.0  MW     Op   dSph      8.7   36200   
+Car III             MagLiteS J0738-5754      Car  07 38 31.2 -57 53 59.0  MW     Op   dSph      3.8   27800   
+Cet II              DES J0117-1725           Cet  01 17 52.8 -17 25 12.0  MW     Op   UFD??     3.8   30000        0.02  10.04  Dubious, UFD with MV +0.0 and Rh 16.6 pc
+Cet III             HSC J0209-0416           Cet  02 05 19.4 -04 16 12.0  MW     Op   dSph      1.2  251000   
+Col I                                        Col  05 31 26.4 -28 01 48.0  MW     Op   dSph      1.9  182000   
+Com (I)                                      Com  12 26 59.0 +23 54 15.0  MW     Op   dSph      5.5   43300   
+Crt (I)             Laevens 1, LDu 11        Crt  11 36 16.2 -10 52 39.0  MW     Op   EGC       2.6  147300               9.88  Also PSO J174.06-10.87, Faint interm-age outer halo GC and not a dwarf gx (2016MNRAS.460.3384V), most distant MW GC
+DELVE 1             DELVE J1630-0058         Oph  16 30 54.0 -00 58 19.2  MW     Op   GC        2.0   19000        0.11  10.10
+DES 1               DES J0034-4902           Phe  00 33 59.7 -49 02 20.0  MW     Op   EGC       0.8   87100        0.01  10.00  UFD with MV -3.1 and Rh 9.9 pc
+DES 2               DES J0111-1341           Cet  01 11 10.3 -13 41 05.4  MW     Op   EGC?      0.6   23800              10.00  UFD with MV +0.3 and Rh 4.6 pc, assoc w the Sgr stream (2017MNRAS.468...97L)
+DES 3                                        Ind  21 40 13.3 -52 32 31.0  MW     Op   OC/GC     2.0   76200               9.99  UFD with MV -1.9 and Rh 6.9 pc
+DES 4                                        Dor  05 28 22.8 -61 43 25.3  MW     Op   GC        1.7   31300                     
+DES 5                                        Dor  05 10 00.8 -62 34 49.7  LMC    Op   GC        0.4   24800                     
+DES J0225+0304                               Cet  02 25 42.4 +03 04 10.0  MW     Op   UFD/EGC   5.4   24000        0.03  10.07  UFD with MV -1.1 and Rh 18.6 pc, assoc w the Sgr stream (2017MNRAS.468...97L)
+Dejc 1                                       Ari  02 37 00.0 +21 06 00.0  MW     Op   *Ast      0.0                             Alessi: only one star, Deutsch 1963 (1963ATsir.259....1D), GCL 4
+Djorgovski 1                                 Sco  17 47 28.3 -33 03 57.6  MW     Op   GC       14.4   13682        1.58  10.05  
+Dra II              Laevens 4                Dra  15 52 47.6 +64 33 55.0  MW     Op   UFD/EGC   5.4   20000        0.02  10.08  UFD with MV -2.5 and Rh 15.7 pc
+E 3                 ESO 37-1                 Cha  09 20 57.1 -77 16 55.2  MW     Op   GC       12.0    8104        0.30   9.90  
+ESO 121-3           AM 0601-603, KMHK 1591   Pic  06 02 03.1 -60 31 25.0  LMC    Op   EGC       3.3   45700        0.03   9.93  Remotest LMC SC: 10.3 deg far from its center
+ESO 28-8            Lindsay 1                Tuc  00 03 54.0 -73 28 19.0  SMC    Op   GC        4.6   55400                     
+ESO 280-6                                    Ara  18 09 06.0 -46 25 01.2  MW     Op   GC        7.8   21395        0.07  10.10  
+ESO 393-12                                   Sco  17 38 40.0 -35 39 04.0  MW     Op   OC?       2.5    8208        1.33  10.10  Alessi: does not look like a GC
+ESO 452-11          C1636-283                Sco  16 39 25.4 -28 23 56.4  MW     Op   GC        9.0    8308        0.46  10.10  
+ESO 456-29          Gran 1                   Sgr  17 58 35.9 -32 01 14.0  MW     Op   GC        3.9    8800              10.00  
+ESO 456-38          Djorgovski 2             Sgr  18 01 49.0 -27 49 01.2  MW     Op   GC       10.2    6305        0.94   9.95  
+ESO 456-9                                    Sco  17 53 52.0 -32 28 55.0  MW     Op   OC?       6.0    7475        1.19  10.05  Alessi: does not look like a GC
+ESO 559-2                                    CMa  07 18 05.4 -18 35 44.0  MW     Op   GC??      1.6    7700                     Alessi: very compact, but probably an OC
+ESO 92-18                                    Car  10 14 55.2 -64 36 40.0  MW     Op   GC??      3.0   31250        0.31   9.15  Alessi: very rich and compact
+ESO 93-8                                     Car  11 19 41.0 -65 13 01.0  MW     Op   GC??      4.6   13890;              9.80  Alessi: very rich and compact 
+Eri Cl              Eri (I), ESO 551-1       Eri  04 24 44.7 -21 11 24.0  MW     Op   GC        1.0   89760        0.02  10.00                
+Eri II Cl                                    Eri  03 44 22.2 -43 31 59.2  EriII  Op   GC/NC     0.5  366000 19.4   0.01   9.40  Age is approximate
+Eri III             DES 4, DES J0222-5217    Eri  02 22 45.5 -52 17 01.0  MW     Op   EGC       1.4   77600        0.02  10.08  UFD with MV -2.7, Easily visible in PanSTARRS
+FSR 1                                        Oph  17 32 22.0 -27 03 41.0  MW     Op   *Ast      6.0                             Alessi: Nothing resembling a GC at this position, from Froebrich/Scholz/Raftery 2007
+FSR 1703            La Serena 238            Nor  15 41 55.0 -55 01 11.0  MW     Op   OC?       2.0    1330               8.55  Froebrich/Scholz/Raftery 2007
+FSR 1716            VVV-GC05                 Nor  16 10 40.8 -53 45 00.0  MW     Op   GC       19.2    7500              10.00  Age is lower limit: arXiv:1703.02033v1
+FSR 1735            2MASS-GC 3               Ara  16 52 12.0 -47 03 18.0  MW     Op   GC        7.2    8831        2.08   9.90  
+FSR 1755                                     Sco  17 12 23.0 -38 26 53.0  MW     Op   OC??      8.0                             Froebrich/Scholz/Raftery 2007; young open cluster
+FSR 1758                                     Sco  17 31 37.2 -39 50 24.0  MW     Op   EGC      12.0   11500        0.77   9.20  Age is probably wrong
+FSR 1767            2MASS-GC 4               Sco  17 35 42.0 -36 21 18.0  MW     Op   GC       13.8    1948        1.41   8.68  Age is probably wrong
+FSR 19                                       Oph  17 35 39.0 -21 02 49.0  MW     Op   *Ast     10.0                             Dubious, not a GC (arXiv:1904.10872v1)
+FSR 190                                      Cyg  20 05 29.3 +33 34 01.2  MW     Op   GC??     10.2    3924        0.87   6.10  Age is wrong? Alessi: there is an obvious, rich Cl here (Glimpse image)
+FSR 2                                        Oph  17 32 32.0 -27 03 52.0  MW     Op   *Ast?     4.0                             Froebrich/Scholz/Raftery 2007
+FSR 25                                       Oph  17 41 43.0 -19 34 15.0  MW     Op   *Ast      5.0                             Dubious, not a GC (arXiv:1904.10872v1)
+FSR 55              BDS 8 ?                  Sct  18 24 42.0 -13 23 40.0  MW     Op   *Ast      8.0                             Froebrich/Scholz/Raftery 2007
+FSR 584             SAI 20                   Cas  02 27 12.5 +61 37 40.8  MW     Op   EC?      11.2    1400        1.04   9.10  Alessi: seems to be an EC candidate, not a GC
+FSR 89                                       Aql  18 48 39.0 -03 30 34.0  MW     Op   *Ast?     4.0                             Froebrich/Scholz/Raftery 2007; old open cl
+Ferrero J0833-44                             Vel  08 33 48.3 -44 26 49.0  MW     Op   GC??      1.5                             2020KronbPrivComm
+For 1               Hodge 1                  For  02 37 01.9 -34 11 01.0  ForDw  Op   GC        1.2  136300 15.57  0.07  10.11  
+For 2               Hodge 2                  For  02 38 44.1 -34 48 30.0  ForDw  Op   GC        1.2  137100 13.50  0.05  10.11  
+For 4               Hodge 4                  For  02 40 07.7 -34 32 10.6  ForDw  Op   GC        0.9  131000 13.57  0.14  10.06  
+For 5               Hodge 5                  For  02 42 21.1 -34 06 05.8  ForDw  Op   GC+PN?    1.7  140000 13.42  0.03  10.11  Avg of dists in NED, Contains poss PN Larsen 1, loc about 1.5" (less than one core rad) SW of the centre of the cl
+For 6               Hodge 6                  For  02 40 07.0 -34 25 13.5  ForDw  Op   GC        0.6  139000 14.34        10.00  DES DR1: seems to be a genuine cluster
+GLIMPSE-C01                                  Aql  18 48 49.7 -01 29 49.9  MW     IR   GC        6.0    4100        4.85         
+GLIMPSE-C02         Mercer 3                 Sgr  18 18 30.0 -16 58 31.1  MW     IR   GC        0.6    4600        7.85  10.10  
+Gaia 3                                       Men  06 20 14.1 -73 24 52.0  LMC    Op   GC        1.1   48400                     
+Grindlay 1                                   Sco  17 31 58.0 -33 50 06.0  MW     IR   *Ast      0.0                             SC 2000.0, Webbink 1985
+Gru I               DES J2256-5010           Gru  22 56 42.4 -50 09 48.0  MW     Op   dSph      2.0  120000   
+Gru II              DES J2204-4626           Gru  22 04 04.8 -46 26 24.0  MW     Op   dSph      6.0   53000   
+HFV13 SC5                                    Sgr  19 43 42.3 -14 41 59.7  N6822  Op   EGC       0.28 496000 18.8   0.22  10.10  
+HFV13 SC6                                    Sgr  19 45 37.0 -14 41 10.8  N6822  Op   GC        0.18 496000 15.38  0.19  10.10  
+HFV13 SC7                                    Sgr  19 46 00.9 -14 32 35.4  N6822  Op   GC        0.18 496000 14.77  0.21  10.10  
+HLL11 C1            N6822 EO-1               Sgr  19 40 11.8 -15 21 47.3  N6822  Op   EGC       0.38 496000 16.30  0.16   9.25  
+HLL11 C2            N6822 EO-2               Sgr  19 43 04.4 -14 58 21.5  N6822  Op   EGC       0.23 496000 17.15  0.22   9.25  
+HLL11 C3                                     Sgr  19 45 40.2 -14 49 25.0  N6822  Op   GC        0.15 496000 18.44  0.19  10.10  Age is lower lim
+HLL11 C4            N6822 EO-3               Sgr  19 47 30.5 -14 26 49.3  N6822  Op   EGC       0.33 496000 17.52  0.19  10.10  Age is lower lim
+HP 1                BH 229, Dufay 1          Oph  17 31 05.0 -29 58 01.2  MW     Op   GC       15.6    8197        1.12  10.10  
+HSC 1               HSC J2217+0328           Peg  22 17 14.2 +03 28 48.0  MW     Op   UFD       0.9   46000                     UFD with MV -0.2 and Rh 5.9 pc
+Hodge 11            SL 868                   Dor  06 14 22.0 -69 50 54.0  LMC    Op   GC        2.7   50800                     
+Hor I               DES J0255-5406           Hor  02 55 31.7 -54 07 08.0  MW     Op   dSph      1.3   83300   
+Hor II                                       Hor  03 16 32.1 -50 01 05.0  MW     Op   dSph      2.1   78000        0.02  10.13  UFD
+Hubble VII                                   Sgr  19 44 55.8 -14 48 56.2  N6822  Op   GC        0.14 496000 15.89  0.24  10.15  
+Hya I                                        Hya  08 55 36.0 +03 36 00.0  MW     Op   dSph     52.0   12700        0.04   9.74  UFD
+Hya II                                       Hya  12 21 42.1 -31 59 07.0  MW     Op   dSph      1.7  142500   
+Hyi I                                        Hyi  02 29 33.4 -79 18 32.0  MW     Op   dSph      7.4   27600   
+IC 1257                                      Oph  17 27 08.6 -07 04 58.8  MW     Op   GC       13.2   25002        0.73  10.05  
+IC 1276             Palomar 7                Ser  18 10 43.9 -07 12 28.8  MW     Op   GC       34.8    5399        1.08  10.10  
+IC 4499                                      Aps  15 00 18.2 -82 12 50.4  MW     Op   EGC      16.8   18804        0.23  10.10  Surrounded by a halo
+Ind I               Kim 2                    Ind  21 08 49.1 -51 09 56.0  MW     Op   dSph      1.4   91000   
+Ind II              DES J2038-4609           Ind  20 38 52.8 -46 09 36.0  MW     Op   dSph??    2.9  214000                     Dubious [put ref]
+Kim 1                                        Peg  22 11 41.3 +07 01 31.8  MW     Op   OCR       2.4   19800              10.08  UFD with MV +0.3, Spatially close to Messier 2, SEGUE 3 and Balbinot 1
+Kim 3                                        Cen  13 22 45.2 -30 36 03.6  MW     Op   OCR       2.0   15140        0.06   9.98  From arXiv:1512.03530v1. Tail points to Kim 3 B
+Kodaira 1                                    Ser  18 12 26.7 -12 04 12.0  MW     IR   *Ast      0.0                             Kodaira 1983, Webbink 1985; probably Red Star
+Koposov 1                                    Vir  11 59 18.5 +12 15 36.0  MW     Op   GC/OC     1.5   48300        0.01   9.90  UFD with MV +2.0 and Rh 3.6 pc, OC poss removed from Sgr dSph (2014AJ....148...19P)
+Koposov 2                                    Gem  07 58 17.0 +26 15 00.0  MW     Op   GC/OC     8.4   22063        0.02  10.10  UFD
+Kronberger 49                                Sgr  18 10 24.0 -23 20 25.0  MW     Op   OC??      0.2    8000        1.35  10.00  Alessi: seems to be an OC or *Ast instead (Spitzer, VVV)
+Kronberger 88       Gaia 2                   Per  01 52 33.0 +53 02 36.0  MW     Op   GC??      5.3    5500              10.00  Alessi: very open in PanSTARRS
+LAMOST 1                                     Dra  18 20 00.0 +52 19 48.0  MW     Op   GCR     480.0    2600              10.04  
+Laevens 3                                    Del  21 06 54.3 +14 58 48.0  MW     Op   GC        0.8   67000        0.07   9.95  Partly resolved in DSS, shows well in PanSTARRs
+Leo II clump                                 Leo  11 02 30.0 +22 10 00.0  LeoII  Op   GCR?      2.0  215000                     See 2007AJ....134..835K
+Liller 1                                     Sco  17 33 24.5 -33 23 20.0  MW     Op   GC        6.0    8120        3.07  10.10  
+Lynga 7             BH 184                   Nor  16 11 03.1 -55 18 50.4  MW     Op   GC       11.4    8785        0.87  10.05  
+Mercer 5            GLIMPSE 5                Sct  18 23 19.0 -13 40 01.0  MW     IR   GC        0.6    5500                     
+Mercer 8            GLIMPSE 8                Sct  18 28 49.0 -10 55 55.0  MW     Op   GC?       2.0    5200                     Alessi: Loose, rich, palomar-like GC?
+Messier 10          NGC 6254                 Oph  16 57 08.9 -04 06 00.0  MW     Op   GC       31.8    4405        0.28  10.10  
+Messier 107         NGC 6171                 Oph  16 32 31.9 -13 03 14.4  MW     Op   GC       27.6    6397        0.33  10.10  
+Messier 12          NGC 6218                 Oph  16 47 14.2 -01 56 56.4  MW     Op   GC       36.0    4797        0.19  10.10  
+Messier 13          NGC 6205                 Her  16 41 41.3 +36 27 36.0  MW     Op   GC       56.4    7107        0.02  10.10  
+Messier 14          NGC 6402                 Oph  17 37 36.0 -03 14 45.6  MW     Op   GC       36.0    9298        0.60  10.10  
+Messier 15          NGC 7078                 Peg  21 29 58.1 +12 10 01.2  MW     Op   GC+PN    42.0   10392        0.10  10.10  Very dense, contains PN neb Pease 1
+Messier 19          NGC 6273                 Oph  17 02 37.7 -26 16 04.8  MW     Op   GC       25.2    8794        0.39  10.10  
+Messier 2           NGC 7089                 Aqr  21 33 26.9 +00 49 22.8  MW     Op   GC       31.2   11507        0.06  10.10  
+Messier 22          NGC 6656                 Sgr  18 36 24.0 -23 54 18.0  MW     Op   GC+PN    42.6    3198        0.34  10.10  Contains PN GJJC 1
+Messier 28          NGC 6626                 Sgr  18 24 32.6 -24 52 12.0  MW     Op   GC       18.6    5501        0.40  10.10  
+Messier 3           NGC 5272                 CVn  13 42 11.5 +28 22 37.2  MW     Op   GC       52.8   10194        0.01  10.10  
+Messier 30          NGC 7099                 Cap  21 40 23.8 -23 10 48.0  MW     Op   GC       34.2    8109        0.03  10.10  
+Messier 4           NGC 6121                 Sco  16 23 35.0 -26 31 33.6  MW     Op   GC      106.2    2199        0.35  10.10  
+Messier 5           NGC 5904                 Ser  15 18 33.1 +02 04 51.6  MW     Op   GC       52.8    7501        0.03  10.10  
+Messier 53          NGC 5024                 Com  13 12 55.0 +18 10 04.8  MW     Op   GC       30.0   17892        0.02  10.10  
+Messier 54          NGC 6715                 Sgr  18 55 03.4 -30 28 48.0  SgrDEG Op   GC/NC    17.4   27300        0.15  10.10  
+Messier 55          NGC 6809                 Sgr  19 39 59.8 -30 57 54.0  MW     Op   GC       40.8    5428        0.08  10.10  
+Messier 56          NGC 6779                 Lyr  19 16 35.3 +30 10 58.8  MW     Op   GC       19.2    9403        0.26  10.10  
+Messier 62          NGC 6266                 Oph  17 01 12.7 -30 06 50.4  MW     Op   GC       25.2    6805        0.47  10.10  
+Messier 68          NGC 4590                 Hya  12 39 28.1 -26 44 38.4  MW     Op   GC       23.4   10296        0.05  10.10  
+Messier 69          NGC 6637                 Sgr  18 31 23.0 -32 20 52.8  MW     Op   GC       21.6    8800        0.18   9.95  
+Messier 70          NGC 6681                 Sgr  18 43 12.7 -32 17 31.2  MW     Op   GC       21.6    9001        0.07  10.10  
+Messier 71          NGC 6838                 Sge  19 53 46.3 +18 46 44.4  MW     Op   GC       26.4    3999        0.25  10.05  
+Messier 72          NGC 6981                 Aqr  20 53 27.6 -12 32 13.2  MW     Op   GC       15.6   16997        0.05  10.10  
+Messier 75          NGC 6864                 Sgr  20 06 03.6 -21 55 15.6  MW     Op   GC       13.2   20897        0.16  10.05  
+Messier 79          NGC 1904                 Lep  05 24 11.0 -24 31 12.0  CMaDw  Op   GC       24.6   12892        0.01  10.10  
+Messier 80          NGC 6093                 Sco  16 17 02.4 -22 58 33.6  MW     Op   GC       20.4   10011        0.18  10.10  
+Messier 9           NGC 6333                 Oph  17 19 11.3 -18 30 57.6  MW     Op   GC       23.4    7892        0.39  10.10  
+Messier 92          NGC 6341                 Her  17 17 07.4 +43 08 09.6  MW     Op   GC       48.6    8292        0.02  10.10  
+Minni 1                                      Sgr  18 34 47.5 -28 42 39.6  MW     IR   *Ast      2.4                               
+Minni 10                                     Sco  17 42 46.3 -37 18 54.0  MW     IR   *Ast      2.4                               
+Minni 11                                     Sco  17 44 33.1 -34 43 22.8  MW     IR   *Ast      2.4                               
+Minni 12                                     Oph  17 42 36.0 -25 33 21.6  MW     IR   *Ast      2.4                               
+Minni 13                                     Sco  17 35 54.0 -34 59 20.4  MW     IR   *Ast      2.4                               
+Minni 14                                     Sco  17 43 02.9 -31 07 12.0  MW     IR   *Ast      2.4                               
+Minni 15                                     Sco  17 44 12.7 -32 47 24.0  MW     IR   *Ast      2.4                               
+Minni 16                                     Sco  17 21 23.3 -32 49 15.6  MW     IR   *Ast      2.4                               
+Minni 17                                     Sgr  18 11 37.2 -29 32 16.8  MW     IR   *Ast      2.4                               
+Minni 18                                     Oph  17 30 51.8 -27 16 33.6  MW     IR   *Ast      2.4                               
+Minni 19                                     Sco  17 40 31.0 -33 57 43.2  MW     IR   *Ast      2.4                               
+Minni 2                                      Sgr  18 30 02.4 -28 26 24.0  MW     IR   *Ast      2.4                               
+Minni 20                                     Sgr  17 51 03.1 -29 50 31.2  MW     IR   *Ast      2.8                               
+Minni 21                                     Sco  17 50 40.8 -34 14 24.0  MW     IR   *Ast      2.0                               
+Minni 22                                     Sco  17 48 51.4 -33 03 43.2  MW     IR   *Ast      2.4                               
+Minni 23                                     Sco  17 54 14.3 -36 09 08.6  MW     IR   *Ast      4.0                               
+Minni 24                                     Sgr  18 01 48.0 -28 21 36.7  MW     IR   *Ast      4.0                               
+Minni 25                                     Sco  17 43 57.3 -33 56 29.8  MW     IR   *Ast      4.0                               
+Minni 26                                     Sco  17 44 28.8 -34 48 19.8  MW     IR   *Ast      4.0                               
+Minni 27                                     Sco  17 51 50.3 -33 51 59.4  MW     IR   *Ast      4.0                               
+Minni 28                                     Sco  17 52 32.3 -33 29 59.3  MW     IR   *Ast      4.0                               
+Minni 29                                     Sco  17 52 23.8 -32 17 55.3  MW     IR   *Ast      4.0                               
+Minni 3                                      Sgr  18 20 23.3 -32 24 28.8  MW     IR   *Ast      2.4                               
+Minni 30                                     Sco  17 54 03.5 -31 18 37.4  MW     IR   *Ast      4.0                               
+Minni 31                                     Sgr  17 58 36.8 -27 38 21.5  MW     IR   *Ast      4.0                               
+Minni 32                                     Sgr  18 06 24.8 -29 18 29.2  MW     IR   *Ast      4.0                               
+Minni 33                                     Sco  17 49 51.8 -30 44 12.5  MW     IR   *Ast      4.0                               
+Minni 34                                     Sgr  17 54 09.8 -28 25 51.2  MW     IR   *Ast      4.0                               
+Minni 35                                     Sgr  17 52 08.0 -28 25 14.2  MW     IR   *Ast      4.0                               
+Minni 36                                     Sgr  17 55 56.0 -29 58 14.2  MW     IR   *Ast      4.0                               
+Minni 37                                     Sgr  17 56 03.5 -29 34 50.2  MW     IR   *Ast      4.0                               
+Minni 38                                     Sgr  17 53 44.5 -30 01 15.2  MW     IR   *Ast      4.0                               
+Minni 39                                     Sgr  17 52 23.5 -29 17 40.2  MW     IR   *Ast      4.0                               
+Minni 4                                      Sgr  18 15 35.0 -28 18 00.0  MW     IR   *Ast      2.4                               
+Minni 40                                     Sgr  17 50 42.5 -29 36 24.5  MW     IR   *Ast      4.0                               
+Minni 41                                     Oph  17 26 26.5 -28 44 26.2  MW     IR   *Ast      4.0                               
+Minni 42                                     Oph  17 36 37.5 -29 02 16.4  MW     IR   *Ast      4.0                               
+Minni 43                                     Oph  17 33 58.5 -27 00 30.2  MW     IR   *Ast      4.0                               
+Minni 44                                     Oph  17 42 21.5 -26 32 52.4  MW     IR   *Ast      4.0                               
+Minni 45                                     Oph  17 40 28.5 -27 07 39.4  MW     IR   *Ast      4.0                               
+Minni 46                                     Oph  17 42 21.5 -27 33 36.4  MW     IR   *Ast      4.0                               
+Minni 47                                     Oph  17 40 42.5 -27 49 29.3  MW     IR   *Ast      4.0                               
+Minni 48                                     Oph  17 33 27.5 -28 01 47.3  MW     IR   *Ast      4.0                               
+Minni 49                                     Oph  17 41 15.5 -25 50 44.2  MW     IR   *Ast      4.0                               
+Minni 5                                      Sco  17 57 05.5 -35 41 24.0  MW     IR   *Ast      2.4                               
+Minni 50                                     Sgr  17 52 09.5 -29 54 23.4  MW     IR   *Ast      4.0                               
+Minni 51                                     Sgr  18 00 42.5 -27 10 18.5  MW     IR   *Ast      4.0                               
+Minni 52                                     Sgr  17 58 35.5 -28 29 23.3  MW     IR   *Ast      4.0                               
+Minni 53                                     Sco  17 53 01.5 -30 36 01.4  MW     IR   *Ast      4.0                               
+Minni 54                                     Oph  17 39 16.9 -28 19 58.8  MW     IR   *Ast      4.0                               
+Minni 55                                     Sgr  17 44 03.1 -27 22 32.5  MW     IR   *Ast      4.0                               
+Minni 56                                     Sgr  17 50 55.8 -29 36 38.5  MW     IR   *Ast      4.0                               
+Minni 57                                     Sgr  17 50 37.1 -28 46 02.3  MW     IR   *Ast      4.0                               
+Minni 58                                     Oph  17 43 13.5 -28 28 22.4  MW     IR   *Ast      4.0                               
+Minni 59                                     Sgr  17 51 18.8 -29 49 22.8  MW     IR   *Ast      4.0                               
+Minni 6                                      Sgr  18 08 22.1 -31 06 18.0  MW     IR   *Ast      2.4                               
+Minni 60                                     Oph  17 43 17.5 -27 42 23.4  MW     IR   *Ast      4.0                               
+Minni 61                                     Oph  17 27 11.9 -27 14 07.8  MW     IR   *Ast      4.0                               
+Minni 62                                     Oph  17 28 45.5 -27 45 49.3  MW     IR   *Ast      4.0                               
+Minni 63                                     Sco  17 50 06.5 -32 01 05.5  MW     IR   *Ast      4.0                               
+Minni 64                                     Sco  17 23 34.5 -33 22 06.2  MW     IR   *Ast      4.0                               
+Minni 65                                     Sco  17 12 11.6 -31 21 41.8  MW     IR   *Ast      4.0                               
+Minni 66                                     Sco  17 38 06.4 -39 33 52.2  MW     IR   *Ast      4.0                               
+Minni 67                                     Sco  17 40 41.9 -32 42 09.4  MW     IR   *Ast      4.0                               
+Minni 68                                     Sco  17 14 08.5 -35 03 09.4  MW     IR   *Ast      4.0                               
+Minni 69                                     Sgr  17 51 34.6 -19 19 52.3  MW     IR   *Ast      4.0                               
+Minni 7                                      Sgr  18 01 35.5 -33 55 04.8  MW     IR   *Ast      2.4                               
+Minni 70                                     Sgr  18 22 49.2 -26 47 40.9  MW     IR   *Ast      4.0                               
+Minni 71                                     Sco  17 47 32.1 -31 22 30.7  MW     IR   *Ast      4.0                               
+Minni 72                                     Sco  17 35 11.1 -35 57 28.1  MW     IR   *Ast      4.0                               
+Minni 73                                     Sco  17 09 19.6 -31 47 31.9  MW     IR   *Ast      4.0                               
+Minni 74                                     Sco  17 24 45.5 -31 12 20.2  MW     IR   *Ast      4.0                               
+Minni 75                                     Sco  17 08 58.0 -33 06 36.4  MW     IR   *Ast      4.0                               
+Minni 76                                     Sco  17 20 38.9 -32 10 51.2  MW     IR   *Ast      4.0                               
+Minni 77                                     Sco  17 36 27.7 -37 38 18.2  MW     IR   *Ast      4.0                               
+Minni 78                                     Sgr  18 03 26.7 -19 46 03.0  MW     IR   *Ast      4.0                               
+Minni 79                                     Sgr  18 24 21.3 -28 13 55.2  MW     IR   *Ast      4.0                               
+Minni 8                                      Sgr  18 22 19.4 -26 37 40.8  MW     IR   *Ast      2.4                               
+Minni 80                                     Sco  17 17 57.6 -31 14 04.9  MW     IR   *Ast      4.0                               
+Minni 81                                     Oph  17 16 58.6 -29 57 09.7  MW     IR   *Ast      4.0                               
+Minni 82                                     Sco  17 49 34.8 -40 45 05.4  MW     IR   *Ast      4.0                               
+Minni 83                                     Sgr  18 05 19.1 -36 34 07.3  MW     IR   *Ast      4.0                               
+Minni 84                                     Sgr  18 22 23.8 -30 39 09.4  MW     IR   *Ast      4.0                               
+Minni 9                                      Sco  17 10 29.8 -33 15 03.6  MW     IR   *Ast      2.4                               
+Munoz 1                                      UMi  15 01 48.0 +66 58 07.3  MW     Op   GC/OC     1.0   45000              10.10  UFD with MV -0.4 and Rh 6.4 pc, Lies only 45' from the UMi dwarf but is not associated to it
+NGC 1049            Hodge 3, For 3           For  02 39 48.3 -34 15 28.2  ForDw  Op   GC        0.8  135500 12.61  0.03  10.11  
+NGC 121             Kron 2                   Tuc  00 26 47.0 -71 32 12.0  SMC    Op   GC        3.8   61400                     
+NGC 1261                                     Hor  03 12 16.1 -55 12 57.6  MW     Op   GC       17.4   16298        0.01  10.10  
+NGC 1466            SL 1                     Hyi  03 44 33.0 -71 40 17.0  LMC    Op   GC        3.5   51600                     
+NGC 1754            SL 91                    Men  04 54 17.0 -70 26 29.0  LMC    Op   GC        1.6   52500                     
+NGC 1786            SL 149                   Dor  04 59 06.0 -67 44 42.0  LMC    Op   GC        2.0   48800                     
+NGC 1835            SL 215                   Dor  05 05 06.0 -69 24 14.0  LMC    Op   GC        2.3   49600                     
+NGC 1841            ESO 4-15                 Men  04 45 23.0 -83 59 49.0  LMC    Op   GC        4.0   46800                     
+NGC 1851                                     Col  05 14 07.7 -40 02 34.8  CMaDw  Op   EGC      27.0   12097        0.02  10.10  Peculiar GC with a very large halo (150') - dwarf galaxy remnant? Assoc to CMa dwarf?
+NGC 1898            SL 350                   Dor  05 16 41.0 -69 39 23.0  LMC    Op   GC        1.6   48630                     
+NGC 1916            SL 361                   Dor  05 18 38.0 -69 24 23.0  LMC    Op   GC        2.1   49500                     
+NGC 1928            SL 405                   Dor  05 20 57.0 -69 28 40.0  LMC    Op   GC        1.3   50130                     
+NGC 1939            SL 414                   Men  05 21 26.0 -69 56 59.0  LMC    Op   GC        1.4   49500                     
+NGC 2005            SL 518                   Dor  05 30 10.0 -69 45 10.0  LMC    Op   GC        1.6   47600                     
+NGC 2019            SL 554                   Men  05 31 56.0 -70 09 33.0  LMC    Op   GC        1.5   48900                     
+NGC 2158                                     Gem  06 07 30.0 +24 06 00.0  MW     Op   OC        5.3    5208               9.11  Sawyer 1959, Rosino 1954; Open Cluster
+NGC 2210            SL 858                   Dor  06 11 31.0 -69 07 18.0  LMC    Op   GC        3.3   45000                     
+NGC 2257            SL 895                   Dor  06 30 12.0 -64 19 34.0  LMC    Op   GC        4.0   49500                     
+NGC 2298                                     Pup  06 48 59.3 -36 00 18.0  CMaDw  Op   GC       13.8   10815        0.14  10.10  
+NGC 2419                                     Lyn  07 38 08.4 +38 52 55.2  MW     Op   EGC      14.4   82535        0.08  10.10  Ripepi et al. (2007) disproved that this GC is the remnant of a dSph
+NGC 2808                                     Car  09 12 03.1 -64 51 46.8  CMaDw  Op   GC       31.2    9612        0.22  10.10  
+NGC 288                                      Scl  00 52 46.1 -26 35 06.0  MW     Op   GC       37.2    8912        0.03  10.10  
+NGC 3201                                     Vel  10 17 37.0 -46 24 43.2  MW     Op   GC       28.8    4904        0.24  10.10  
+NGC 362                                      Tuc  01 03 18.0 -70 50 49.2  MW     Op   GC       28.2    8603        0.05  10.10  
+NGC 4147            NGC 4153                 Com  12 10 06.2 +18 32 34.8  MW     Op   GC        7.2   19305        0.02  10.10  
+NGC 4372                                     Mus  12 25 45.4 -72 39 32.4  MW     Op   GC       39.6    5807        0.39  10.10  
+NGC 4833                                     Mus  12 59 34.1 -70 52 37.2  MW     Op   GC       24.6    6595        0.32  10.10  
+NGC 5053                                     Com  13 16 27.1 +17 42 00.0  MW     Op   GC       18.0   17399        0.01  10.10  
+NGC 5286                                     Cen  13 46 26.6 -51 22 26.4  CMaDw  Op   GC       22.2   11711        0.24  10.10  
+NGC 5466                                     Boo  14 05 31.2 +28 32 02.4  MW     Op   EGC      24.6   16003        0.00  10.10  Extended GC: Reff= 10.7 pc, Bruens+ (2012), has tidal tails (2006ApJ...637L..29B), progenitor of the 45o tidal stream (2006ApJ...639L..17G)
+NGC 5634                                     Vir  14 29 37.2 -05 58 33.6  SgrDEG Op   GC       13.8   25214        0.05  10.10  
+NGC 5694                                     Hya  14 39 36.2 -26 32 20.4  MW     Op   GC       11.4   34992        0.09  10.10  
+NGC 5824                                     Lup  15 03 58.6 -33 04 04.8  MW     Op   GC       16.8   32114        0.13  10.10  
+NGC 5897                                     Lib  15 17 24.2 -21 00 36.0  MW     Op   GC       34.2   12502        0.09  10.10  
+NGC 5927                                     Lup  15 28 00.7 -50 40 22.8  MW     Op   GC       24.0    7699        0.45   9.95  
+NGC 5946                                     Nor  15 35 28.6 -50 39 36.0  MW     Op   GC       14.4   10596        0.54  10.10  
+NGC 5986                                     Lup  15 46 02.9 -37 47 09.6  MW     Op   GC       19.8   10517        0.28  10.10  
+NGC 6101                                     Aps  16 25 48.0 -72 12 07.2  MW     Op   GC       15.0   15405        0.05  10.10  Contain an unexpected large number of Black Holes
+NGC 6139                                     Sco  16 27 40.3 -38 50 56.4  MW     Op   GC       15.6   10110        0.75  10.10  
+NGC 6144                                     Sco  16 27 13.7 -26 01 26.4  MW     Op   GC       18.6    8903        0.36  10.10  
+NGC 6229                                     Her  16 46 58.8 +47 31 40.8  MW     Op   GC       19.8   30502        0.01  10.10  
+NGC 6235                                     Oph  16 53 25.4 -22 10 37.2  MW     Op   GC       18.0   11495        0.31  10.10  
+NGC 6256            BH 208                   Sco  16 59 32.6 -37 07 15.6  MW     Op   GC       14.4   10296        1.09  10.10  
+NGC 6284                                     Oph  17 04 26.4 -24 45 54.0  MW     Op   GC       25.2   15308        0.28  10.05  
+NGC 6287                                     Oph  17 05 09.1 -22 42 28.8  MW     Op   GC       20.4    9400        0.60  10.10  
+NGC 6293                                     Oph  17 10 10.1 -26 34 55.2  MW     Op   GC       18.6    9474        0.36  10.10  
+NGC 6304                                     Oph  17 14 32.2 -29 27 43.2  MW     Op   GC       15.6    5904        0.54  10.05  
+NGC 6316                                     Oph  17 16 37.2 -28 08 24.0  MW     Op   GC       14.4   10403        0.54  10.00  
+NGC 6325                                     Oph  17 17 59.3 -23 45 57.6  MW     Op   GC       12.0    7806        0.91  10.10  
+NGC 6342                                     Oph  17 21 10.1 -19 35 13.2  MW     Op   GC       24.6    8502        0.46  10.00  
+NGC 6352                                     Ara  17 25 29.3 -48 25 19.2  MW     Op   GC       26.4    5610        0.22  10.05  
+NGC 6354            ESO 333-8                Sco  17 24 25.0 -38 32 01.0  MW     IR   *Ast      1.5                             Bulge overdensity? Alessi: GDR2 check is negative
+NGC 6355                                     Oph  17 23 58.6 -26 21 10.8  MW     Op   GC       10.8    9201        0.77  10.10  
+NGC 6356                                     Oph  17 23 34.8 -17 48 46.8  MW     Op   GC       20.4   13886        0.27  10.00  
+NGC 6362                                     Ara  17 31 54.7 -67 02 52.8  MW     Op   GC       27.6    7600        0.09  10.10  
+NGC 6366                                     Oph  17 27 44.2 -05 04 48.0  MW     Op   GC       54.0    3503        0.71  10.00  
+NGC 6380            Ton 1, Pismis 25         Sco  17 34 27.8 -39 04 01.2  MW     Op   GC       15.0   10897        1.18  10.05  
+NGC 6388                                     Sco  17 36 17.3 -44 44 09.6  MW     Op   GC       26.4    9889        0.37  10.05  
+NGC 6397                                     Ara  17 40 42.2 -53 40 26.4  MW     Op   GC       48.6    2301        0.19  10.05  
+NGC 6401                                     Oph  17 38 36.5 -23 54 36.0  MW     Op   GC       16.8   10598        0.72  10.05  
+NGC 6426                                     Oph  17 44 54.5 +03 10 12.0  MW     Op   GC       21.6   20598        0.36  10.10  
+NGC 6440                                     Sgr  17 48 52.6 -20 21 36.0  MW     Op   GC       18.0    8492        1.07  10.05  
+NGC 6441                                     Sco  17 50 13.2 -37 03 03.6  MW     Op   GC+PN    15.0   11610        0.47  10.05  Contains PN JaFu 2
+NGC 6453                                     Sco  17 50 51.6 -34 35 56.4  MW     Op   GC       18.0   11611        0.64  10.10  
+NGC 6496                                     Sco  17 59 03.8 -44 15 57.6  MW     Op   GC       15.0   11307        0.15  10.05  
+NGC 6517                                     Oph  18 01 50.4 -08 57 32.4  MW     Op   GC       19.2   10600        1.08  10.10  
+NGC 6522                                     Sgr  18 03 34.1 -30 02 02.4  MW     Op   GC       12.0    7702        0.48  10.10  
+NGC 6528                                     Sgr  18 04 49.7 -30 03 21.6  MW     Op   GC       12.0    7892        0.54   9.95  
+NGC 6535                                     Oph  18 03 50.4 +00 17 52.8  MW     Op   GC       13.8    6806        0.34  10.10  
+NGC 6539                                     Ser  18 04 49.7 -07 35 09.6  MW     Op   GC       22.8    7801        1.02   9.95  
+NGC 6540            Djorgovski 3             Sgr  18 06 08.6 -27 45 00.0  MW     Op   GC       15.0    5301        0.66  10.10  
+NGC 6541                                     CrA  18 08 02.4 -43 42 54.0  MW     Op   GC       27.6    7499        0.14  10.10  
+NGC 6544                                     Sgr  18 07 20.6 -24 59 49.2  MW     Op   GC       21.6    3000        0.76  10.10  
+NGC 6553                                     Sgr  18 09 17.5 -25 54 32.4  MW     Op   GC       18.6    6000        0.64  10.00  
+NGC 6558                                     Sgr  18 10 17.8 -31 45 50.4  MW     Op   GC       15.6    7411        0.44  10.10  
+NGC 6569                                     Sgr  18 13 38.6 -31 49 37.2  MW     Op   GC       16.8   10900        0.53   9.95  
+NGC 6584                                     Tel  18 18 37.4 -52 12 57.6  MW     Op   GC       18.6   13501        0.10  10.10  
+NGC 6624                                     Sgr  18 23 40.6 -30 21 39.6  MW     Op   GC       12.0    7905        0.28   9.95  
+NGC 6638                                     Sgr  18 30 56.2 -25 29 49.2  MW     Op   GC       13.8    9410        0.41  10.05  
+NGC 6642                                     Sgr  18 31 54.0 -23 28 30.0  MW     Op   GC       13.8    8089        0.41  10.10  
+NGC 6652                                     Sgr  18 35 45.6 -32 59 27.6  MW     Op   GC       19.2    9999        0.09  10.05  
+NGC 6684            GCl-102                  Pav  18 49 00.0 -65 11 00.0  --     Op   Gx        3.7                             Sawyer 1947, spiral galaxy
+NGC 6712            FSR 74                   Sct  18 53 04.1 -08 42 21.6  MW     Op   GC       20.4    6905        0.45  10.05  
+NGC 6717            Palomar 9                Sgr  18 55 05.8 -22 42 03.6  MW     Op   GC       13.8    7100        0.23  10.10  
+NGC 6723                                     Sgr  18 59 32.9 -36 37 55.2  MW     Op   GC       31.2    8703        0.05  10.10  
+NGC 6749            Berkeley 42              Aql  19 05 15.4 +01 54 00.0  MW     Op   GC       19.8    7902        1.50  10.00  
+NGC 6752                                     Pav  19 10 51.8 -59 59 06.0  MW     Op   GC       50.4    4002        0.04  10.10  
+NGC 6760                                     Aql  19 11 12.0 +01 01 48.0  MW     Op   GC       22.8    7400        0.77   9.90  
+NGC 6791                                     Lyr  19 20 53.0 +37 46 41.0  MW     Op   OC pec    8.2    5208        0.12   9.65  Usually classified as OC, but very peculiar, having some GC characteristics
+NGC 6934                                     Del  20 34 11.3 +07 24 14.4  MW     Op   GC       16.8   15606        0.10  10.10  
+NGC 6941            GCl-117.1                Aql  20 36 18.0 -04 38 00.0  --     Op   Gx        2.0                             SB0 galaxy
+NGC 7006                                     Del  21 01 29.3 +16 11 13.2  MW     Op   GC       15.0   41177        0.05  10.10  
+NGC 7492                                     Aqr  23 08 26.4 -15 36 43.2  MW     Op   GC       10.8   26303        0.00  10.10  
+Omega Cen           NGC 5139                 Cen  13 26 47.3 -47 28 48.0  MW     Op   GC       99.0    5199        0.13  10.10  
+Oph Stream                                   Oph  16 07 12.0 -06 55 30.0  MW     Op   GCR     150.0    9500                     GC remnant, 150 x 7
+PS1 1               Prestgard 64             Sgr  19 16 41.1 -27 49 38.0  SgrDEG Op   GC        1.1   29600                     
+Palomar 1                                    Cep  03 33 20.0 +79 34 52.0  CMaDw  Op   GC        2.8   12970        0.15   9.85  
+Palomar 10                                   Sge  19 18 02.2 +18 34 01.2  MW     Op   GC       16.8    5894        1.67   9.80  
+Palomar 11                                   Aql  19 45 14.4 -08 00 00.0  MW     Op   GC       18.0   13412        0.35  10.00  
+Palomar 12          Cap Dwarf                Cap  21 46 38.9 -21 15 10.8  SgrDEG Op   GC       10.8   18996        0.02  10.05  MV= -4.5, in Sgr tidal tail, assoc to SgrDEG
+Palomar 13          UGCA 435                 Peg  23 06 44.5 +12 46 19.2  MW     Op   GC        0.7   23880        0.05  10.02  
+Palomar 14          AvdB 1                   Her  16 11 00.6 +14 57 28.1  MW     Op   EGC       2.2   71270        0.04  10.00  Best seen in DECaLS DR5 color, cords and diam based on this Img
+Palomar 15                                   Oph  16 59 50.9 +00 31 58.8  MW     Op   GC        8.4   44999        0.42  10.10  
+Palomar 2                                    Aur  04 46 05.8 +31 22 55.2  SgrDEG Op   GC       13.8   27198        1.24  10.05  
+Palomar 3           UGC 5439                 Sex  10 05 31.8 +00 04 19.9  MW     Op   EGC       1.6   93170        0.04  10.00  Also Sex C, Ext GC: Reff= 17.5 pc, Bruens+ (2012). Fine in DECaLS
+Palomar 4                                    UMa  11 29 16.5 +28 58 22.4  MW     Op   GC        1.3  107780        0.01  10.00  
+Palomar 5           UGC 9792                 Ser  15 16 05.0 +00 06 43.2  MW     Op   EGC      16.8   23195        0.03  10.10  GC in process of disruption. Progenitor of a large and proeminent stream
+Palomar 6           ESO 520-21               Oph  17 43 42.2 -26 13 01.2  MW     Op   GC+PN    12.0    5802        1.46  10.05  Contains PN JaFu 1
+Palomar 8           ESO 591-12, FSR 48       Sgr  18 41 29.8 -19 49 48.0  MW     Op   GC       20.4   12801        0.32   9.90  
+Patchick 123        Pa-DeCAPS 5              Cru  12 10 19.6 -63 52 47.0  MW     Op   GC??      1.2    4100                     
+Patchick 125        Pa-DeCAPS 1              Sco  17 05 00.7 -35 29 41.0  MW     Op   GC?       2.0    4500                     
+Patchick 126        Pa-DeCAPS 6              Ara  17 05 38.6 -47 20 32.0  MW     Op   GC?       0.9    5800                     
+Pavo Cluster                                 Pav  17 50 12.0 -60 46 00.0  MW     Op   *Ast      0.5                             Becvar, Sawyer 1947; Shapley
+Peg III                                      Peg  22 24 24.2 +05 24 36.0  MW     Op   dSph      1.3  205000   
+Pfleiderer 2        PWM78 2                  Oph  17 58 38.9 -05 04 19.2  MW     Op   GC       10.8    8677        0.96   9.85  
+Phe II              DES J2339-5424           Phe  23 39 59.4 -54 24 22.0  MW     Op   dSph      1.2   89000   
+Pic I               DES J0443-5017           Pic  04 43 47.4 -50 16 59.0  MW     Op   dSph      0.9  120000   
+Pic II              MagLiteS J0664-5953      Pic  06 44 43.2 -59 54 00.0  MW     Op   dSph      3.6   45000   
+Pyx Cl              Weinberger 3             Pyx  09 07 58.0 -37 13 17.0  MW     Op   GC        4.0   36500        0.21  10.10  
+RLGC 1              Ryu 59, Pa-DeCAPS 4      Nor  16 17 08.4 -44 35 39.0  MW     Op   GC        1.1   28800              10.10  
+RLGC 2              Ryu 879                  Sct  18 45 28.2 -05 11 33.0  MW     IR   GC        1.0   15800              10.10  Partially seen in PanSTARRS
+Ret II              DES J0335-5403           Ret  03 35 42.1 -54 02 57.0  MW     Op   dSph      3.6   30900   
+Ret III             DES J0345-6026           Ret  03 45 26.4 -60 27 00.0  MW     Op   dSph      2.4   92000   
+Reticulum           Ser 40/3, KMHK 10        Ret  04 36 00.1 -58 51 03.5  LMC    Op   GC        4.7   49900              10.10  Also ESO 118-31, Adopted LMC dist recommended by de Grijs and Bono (2017)
+Riddle 15                                    Aql  19 11 08.9 +14 49 59.0  MW     Op   GC?       1.3    8800        1.67   9.00  Alessi: GC? very dense and rich!
+Ruprecht 101        FSR 1603                 Cru  12 09 45.0 -62 59 49.0  MW     Op   OC       10.0    3676                     Froebrich/Scholz/Raftery 2007
+Ruprecht 106        ESO 218-10               Cen  12 38 40.1 -51 09 00.0  MW     Op   GC        9.0   21213        0.21  10.10  
+SDSS J0814+5105                              Lyn  08 13 42.0 +51 05 27.0  MW     Op   UFD/GC?? 12.4   13800                     
+SDSS J0821+5608                              Lyn  08 21 15.0 +56 08 16.0  MW     Op   UFD/GC??  9.4   13800                     
+SDSS J1000+5730                              UMa  10 00 28.0 +57 30 10.0  MW     Op   dSph??    8.1   83200   
+SDSS J1058+2843                              LMi  10 58 04.0 +28 42 39.0  MW     Op   UFD/GC??  9.4   24000                     
+SDSS J1329+2841                              CVn  13 29 13.0 +28 41 27.0  MW     Op   dSph??    8.6   75900   
+SEGUE 1                                      Leo  10 07 03.2 +16 04 25.0  MW     Op   dSph      4.4   23000   
+SEGUE 2                                      Ari  02 19 16.0 +20 10 31.0  MW     Op   UFD/GC    6.8   35000                     
+SEGUE 3                                      Peg  21 21 31.0 +19 07 03.0  MW     Op   GC/OC     1.0   17000              10.08  UFD with MV -0.1, Spatially close to Messier 2, Balbinot 1 and Kim 1
+SMASH 1                                      Men  06 20 59.9 -80 23 44.7  LMC    Op   GC        1.1   57000 18.3   0.18  10.10  See arXiv:1609.05918v1
+SMASH Field 44-1                             Men  05 30 41.8 -75 40 07.8  LMC    Op   GC        0.8   49500                     From arXiv:1612.09221v1, aprox diam from DSS2 image
+SSWZ94 4            Saurer 4                 Cru  12 14 04.6 -63 35 37.0  MW     Op   OC        1.0    7000               9.18  Uranometria 2000.0 2nd ed
+Schuster 1          FSR 1523                 Vel  10 04 36.2 -55 51 25.0  MW     Op   OC        2.9    7194
+Schuster-West GC    Phoenix dwarf            Phe  01 51 06.0 -44 27 00.0  MW     Op   dSph/Irr  4.9  440000                     Schuster/West 1976; Phoenix Dwarf Local Group galaxy
+Sgr II              Laevens 5                Sgr  19 52 40.5 -22 04 05.0  MW     Op   UFD/GC    4.0   67000        0.10         
+Shakhbazian 1       GCl-16                   UMa  10 55 05.8 +40 27 23.0  --     Op   GxCl      2.0                             Saywer 1959, Shakhbazian 1957, Group of Galaxies
+TBJ 2               TJ 16                    Oph  17 18 29.0 -27 46 30.0  MW     Op   *Ast      0.6                             Terzan/Bernard/Ju 1978, Terzan/Ju 1980, Webbink 1985
+TBJ 3               PK 357+05.1              Oph  17 18 49.6 -27 52 02.0  MW     Op   *Ast?     1.7                             or PN? error in coords?
+TJ 15               LEDA 3097099             Oph  17 18 30.9 -26 17 41.0  --     Op   Gx        0.2                             Terzan/Ju 1980, Webbink 1985
+TJ 17               LEDA 140767              Oph  17 18 41.5 -27 50 14.5  --     Op   Gx        0.3                             Terzan/Bernard/Ju 1978, Terzan/Ju 1980, Webbink 1985
+TJ 23               PN G356.6-01.9           Sco  17 45 09.8 -32 46 17.0  MW     Op   PN        0.6                             Terzan/Ju 1980, Webbink 1985  
+TJ 5                PN G357.2+07.2           Oph  17 11 14.8 -27 11 31.0  MW     Op   PN        0.2                             Terzan/Ju 1980, Webbink 1985
+Terzan 1            HP 2, BH 235, ESO 455-23 Sco  17 35 47.8 -30 28 01.2  MW     Op   GC        9.6    6699        1.99  10.10  
+Terzan 10           Ryu 168, ESO 521-16      Sgr  18 03 36.2 -26 04 01.2  MW     Op   GC        9.6    5797        2.41   9.95  
+Terzan 12           Terzan 11, ESO 522-1     Sgr  18 12 15.8 -22 43 58.8  MW     Op   GC       13.2    4801        2.06  10.10  
+Terzan 2            HP 3, BH 228, ESO 454-29 Sco  17 27 33.1 -30 48 07.2  MW     Op   GC       11.4    7495        1.87   9.95  
+Terzan 3            ESO 390-6                Sco  16 28 40.1 -35 21 10.8  MW     Op   GC       19.2    8205        0.73   9.95  
+Terzan 4            HP 4, ESO 454-7          Sco  17 30 38.9 -31 35 45.6  MW     Op   GC       21.0    7198        2.00  10.10  
+Terzan 5            ESO 520-26               Sgr  17 48 05.0 -24 46 48.0  MW     Op   GC        8.4    6900        2.28   9.80  
+Terzan 6            HP 5, BH 249, ESO 455-49 Sco  17 50 46.3 -31 16 30.0  MW     Op   GC       13.8    6812        2.34   9.85  
+Terzan 7            ESO 397-14               Sgr  19 17 43.7 -34 39 28.8  SgrDEG Op   GC        9.6   22795        0.07   9.90  
+Terzan 8            ESO 398-21               Sgr  19 41 44.4 -33 59 56.4  SgrDEG Op   GC       13.2   26316        0.12  10.10  
+Terzan 9            ESO 521-11               Sgr  18 01 38.6 -26 49 58.8  MW     Op   GC        9.0    7108        1.76  10.05  
+Tonantzintla 2      Pismis 26, BH 236,       Sco  17 36 10.3 -38 33 00.0  MW     Op   GC       13.2    8201        1.24  10.05  Also ESO 333-16, FSR 1762
+Torrealba 1                                  Hyi  03 44 19.8 -69 25 21.2  LMC    Op   GC        0.6   43600                     
+Tri II              Laevens 2                Tri  02 13 17.4 +36 10 42.0  MW     Op   dSph      3.9   30000   
+Tuc II              DES J2251-5836           Tuc  22 51 51.9 -58 34 06.0  MW     Op   dSph      9.8   57000   
+Tuc III             DES J2356-5935           Tuc  23 56 36.0 -59 36 00.0  MW     Op   dSph      6.0   25000   
+Tuc IV              DES J0002-6051           Tuc  00 02 55.2 -60 51 00.0  MW     Op   dSph      9.1   48000   
+Tuc V               DES J2337-6316           Tuc  23 37 24.0 -63 16 12.0  MW     Op   UFD??     2.0   55000                     Dubious
+UKS 1               UKS 1751-24.1            Sgr  17 54 27.2 -24 08 43.1  MW     Op   GC        2.0   12310        3.14  10.10  Very nice in VVV
+UKS 2               BH 66, ESO 166-11        Vel  09 25 18.0 -54 43 00.0  MW     Op   OC        2.8   10309                     Webbink 1985
+UMa II                                       UMa  08 51 29.6 +63 08 18.0  MW     Op   dSph     16.0   33700   
+VVV-CL 1                                     Sgr  17 54 42.5 -24 00 53.0  MW     IR   GC        0.5   15900        2.00  10.10  Dist very uncertain. Adopted same dist as UKS 1 in Minniti et al. (2011)
+VVV-CL 119                                   Sco  17 30 46.0 -32 39 05.0  MW     IR   OC?       0.9                             Alessi: prob an OC
+VVV-CL 128                                   Sco  17 39 57.2 -32 28 30.0  MW     IR   OC?       0.5                             Alessi: prob an OC
+VVV-CL 131                                   Sco  17 41 17.0 -34 34 02.0  MW     Op   OC??      0.8                             Alessi: does not stands well, GDR2 check is dubious at best
+VVV-CL 143                                   Sco  17 44 36.0 -33 44 18.0  MW     IR   OC?       0.8    7800                     Alessi: poss an OC
+VVV-CL 150                                   Sgr  17 50 41.0 -25 13 06.0  MW     IR   OC?       0.4    7000                     Alessi: prob an OC
+VVV-CL 154                                   Sgr  17 55 08.0 -28 06 01.0  MW     IR   OC?       0.3                             Old OC or GC?      
+VVV-CL 2                                     Oph  17 41 06.0 -28 50 42.0  MW     IR   GC        2.0    7300        2.88   9.81  Age is lower limit, Alessi: OK
+VVV-CL 3                                     Oph  17 38 55.0 -29 54 25.0  MW     IR   OC?       2.0   13000        2.85         Prob an OC, not a GC
+VVV-CL 4                                     Sgr  17 54 32.0 -22 13 38.0  MW     IR   *Ast      1.0                             
+VVVX-CL 109                                  Sct  18 24 54.9 -13 07 12.3  MW     IR   OC?       1.2                             Alessi: prob an OC
+VVVX-CL 46          Ryu 325                  Ara  16 42 49.5 -49 28 01.9  MW     IR   OC?       1.7                             Alessi: Open, irr, seems to be not a GC
+Vir I               HSC J1200-0040           Vir  12 00 09.6 -00 40 48.0  MW     Op   dSph      1.8   91000   
+WHI B0200-03        Whiting 1                Cet  02 02 57.0 -03 15 10.1  SgrDEG Op   GC        1.2   29400        0.03   9.81  Clearly seen in DECaLS and PanSTARRs
+Willman 1           SDSS J1049+5103          UMa  10 49 24.0 +51 03 00.0  MW     Op   UFD/GC    1.8   42300                     UFD with MV -2.8 and Rh 27 pc, Very loose, elong grp of vF stars in SDSS/PanSTARRS/BASS
+30 Dor              SL 633, NGC 2070 Cl      Dor  05 38 42.0 -69 06 02.0  LMC    Op   SSC       3.5   52500                     
+Alicante 7          RSGC 5                   Aql  18 44 30.0 -03 29 00.0  MW     IR   RSG       5.0    7180               7.30  
+Alicante 8          RSGC 4                   Sct  18 34 51.0 -07 14 00.0  MW     IR   RSG       7.0    7440               7.26  We adopt same distance of RSGC 1, following Ref:154
+Alicante 9          Masgomas-3, Ryu 268      Aql  18 44 43.0 -03 14 30.0  MW     IR   RSG       4.5    3080                     
+Arches Cl           NHS93 17, BDB 1          Sgr  17 45 50.0 -28 49 22.0  MW     IR   SSC?      0.5    8230                     
+BDSB 122            RSGC 1                   Sct  18 37 58.0 -06 53 00.0  MW     IR   RSG       5.0    7440               7.08  Proeminent, massive cluster
+Bica 78                                      Aql  18 44 40.0 -03 11 21.0  MW     Op   RSG??     2.0    3200                     Compact, includes RSG stars?
+Central Cl          Sgr A*, BDB 276, IRS 16  Sgr  17 45 40.0 -29 00 28.0  MW     IR   NC        0.7    8180                     
+FNY 1               RSG 2SW, Ryu 871         Sct  18 39 06.0 -06 04 28.0  MW     IR   RSG       4.0    3400                     In shell, pair with Stephenson 2
+Froebrich 4         Bica 49                  Sct  18 24 07.0 -13 19 48.0  MW     IR   RSG?      6.0    6000               7.20  Diam from extr rad, poss cluster of RSGS, weak candidate
+Froebrich 5                                  Sct  18 31 48.0 -10 40 12.0  MW     IR   RSG?      6.0    8000               7.20  Diam from extr rad, poss cluster of RSGS, weak candidate
+Froebrich 6                                  Aql  18 47 48.0 -01 42 00.0  MW     IR   RSG       6.0    6000               7.20  Diam from extr rad, cluster of RSGS
+MQI Cl 16.7                                  Sct  18 23 34.4 -14 39 11.0  MW     IR   RSG       1.3    3900               7.30  Cluster of RSGS
+MQI Cl 49.3         Juchert J1919+1453       Aql  19 19 30.3 +14 53 59.0  MW     Op   RSG       3.0    7000                     Cluster of RSGS
+MQI Cl 59.8                                  Vul  19 46 18.6 +23 22 30.0  MW     IR   RSG       1.4    4100                     
+Masgomas-1                                   Aql  18 50 16.0 +00 21 05.0  MW     Op   RSG       3.0    3500               6.90  Massive (M > 10^4MSun) cluster with confirmed OB and RSG population (arXiv:1801.08683v1)
+NGC 3603                                     Car  11 15 10.8 -61 15 32.0  MW     Op   SSC       4.7   13158                     
+HD 97950 Grp                                 Car  11 15 07.4 -61 15 39.0  MW     Op   pSSC      0.2   13158                     In NGC 3603: a cluster inside another cluster!
+R 136a                                       Dor  05 38 43.3 -69 06 08.0  LMC    Op   pSSC      0.07  52500                     In 30 Dor: a cluster inside another cluster!
+RSGC 3                                       Aql  18 45 24.0 -03 23 00.0  MW     IR   RSG       5.0    7180               7.30  
+Stephenson 2        RSGC 2, BDB 14           Sct  18 39 20.0 -06 01 18.0  MW     IR   RSG       5.0    5600        1.20   7.30  In pair, inc RSG stars
+W 42 Cl             BDB 13, MDF 6            Sct  18 38 15.0 -06 47 50.0  MW     IR   RSG       4.5    4050                     Giant HII reg, RSGs
+Westerlund 1        Russeil 443              Ara  16 47 02.4 -45 51 07.0  MW     Op   SSC       2.8    3558                     Massive, inc. yellow SG & RSGs
+Westerlund 2 Main   FoF 1005                 Car  10 24 02.4 -57 45 29.0  MW     Op   SSC       2.4    4785                     
+NGC 346                                      Tuc  00 59 05.1 -72 10 33.2  SMC    Op   SSC?      2.0   60600
+
+NGC 1711     x      SL 55, ESO 56-10              04 50 37.0 -69 59 06.0  LMC    Op   OC              52500                     -9.110   7.380          4.559   
+NGC 1755     x      SL 99, ESO 56-28              04 55 15.5 -68 12 19.5  LMC    Op   OC              52500                     -9.101   7.447          4.579   
+NGC 1806     x      SL 184                        05 02 11.0 -67 59 18.0  LMC    Op   OC              52500                     -7.826   9.00   9.03    5.000   
+NGC 1850     x      SL 261, ESO 56-70             05 08 45.1 -68 45 35.9  LMC    Op   OC              52500                     -9.635   7.380          4.757   
+NGC 1856     x      SL 271, ESO 56-73             05 09 31.2 -69 07 43.2  LMC    Op   OC              52500                     -9.154   8.079          5.004   
+NGC 1903     x      SL 356, ESO 56-93             05 17 22.0 -69 20 17.0  LMC    Op   OC              52500                     -9.277   7.602          4.783   
+NGC 1917     x      SL 379                        05 19 02.1 -69 00 03.8  LMC    Op   OC              52500                     -6.914   9.48   9.46    5.000   
+NGC 2004     x      SL 523, ESO 86-4              05 30 40.0 -67 17 13.0  LMC    Op   OC              52500                     -9.624   7.079          4.550   
+NGC 2100     x      SL 662, ESO 57-25             05 42 07.8 -69 12 43.6  LMC    Op   OC              52500                     -9.689   6.903          4.286   

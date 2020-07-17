@@ -1,0 +1,176 @@
+Cluster/Association    Cepheid                 Sources       Comments
+-----------------------------------------------------------------------------------------------------------
+ASCC 61                SX Car                  2
+ASCC 61                VY Car                  2
+ASCC 64                XZ Car                  4
+ASCC 69                S Mus                   2
+Alessi 90              EU Tau                  1, 5          Dubious Cluster - Need to check with Gaia DR2
+Alessi 95              SU Cas                  1, 5
+Anon                   DT Cyg                  1
+Anon Car OB            U Car                   1
+Anon Sge OB            GY Sge                  1             Forbes (1982)
+BH 222                 star #505               7
+BH 90                  ASAS J101016-5811.2     4
+Basel 14               V532 Cyg                4
+Berkeley 51            star #162               7
+Berkeley 55            star #107               7
+Berkeley 58            CG Cas                  1, 3
+Cas OB8                BY Cas                  4
+Cep OB6                Delta Cep               1, 5
+Collinder 220          UW Car                  2
+Collinder 236          CY Car                  4
+Collinder 394          BB Sgr                  1, 2, 3
+Czernik 1              BD Cas                  1
+Czernik 8              UY Per                  1
+DMH 1                  [DMH2015] C1            6, 11
+DMH 1                  [DMH2015] C2            6, 11
+Dolidze 34             CN Sct                  2
+Dolidze 34             TY Sct                  2
+Dolidze 45             V1334 Cyg               1, 3
+Dolidze 52             XX Sgr                  2
+FSR 253                VY Cyg                  4
+FSR 384                V Lac                   4
+FSR 384                X Lac                   4
+Feinstein 1            U Car                   2
+Harrington 1           Polaris                 1             This cluster is not real (Mamajek), but Polaris is at least a triple star
+IC 2581                UX Car                  4
+IC 4725                U Sgr                   1, 2, 3
+Juchert 18             CS Mon                  2
+KQ Sco Assoc           KQ Sco                  6
+King 4                 UY Per                  3
+King 13                BD Cas                  13
+Lyngå 6                TW Nor                  1, 3
+MKN 1                  SSTGC 503948            6, 12         Within 40 pc (proj dist) of the MW's central BH
+MKN 1                  SSTGC 500191            6, 12         Within 40 pc (proj dist) of the MW's central BH
+Majaess 170            ASAS J160125-5150.3     8
+Majaess 200            GY Sge                  5
+Majaess 231            Zeta Gem                1, 5          
+Mon OB2                T Mon                   1
+NGC 129                DL Cas                  1, 2, 3
+NGC 1647               SZ Tau                  1, 3
+NGC 2345               TV CMa                  1, 3
+NGC 3496               V442 Car                3
+NGC 4349               R Cru                   1, 3
+NGC 4349               T Cru                   1, 3  
+NGC 5662               V Cen                   1, 2, 3
+NGC 6067               QZ Nor                  1, 3
+NGC 6067               V340 Nor                1
+NGC 6087               S Nor                   1, 2, 3
+NGC 6334               V470 Sco                8
+NGC 654                BY Cas                  4
+NGC 6546               AV Sgr                  9
+NGC 659                BY Cas                  4
+NGC 6603               W2249                   7
+NGC 663                BY Cas                  4
+NGC 6649               V367 Sct                1, 3
+NGC 6664               EV Sct                  1, 3
+NGC 6683               CK Sct                  2
+NGC 6735               V493 Aql                4
+NGC 6991               V520 Cyg                2
+NGC 7790               CE Cas A                1, 3
+NGC 7790               CE Cas B                1, 3
+NGC 7790               CF Cas                  1, 2, 3
+OSC 155.12-59.68       GZ Car                  4
+OSC 161.01-58.48       FF Car                  4
+OSC 311.90+45.07       BZ Cyg                  4
+OSC 311.90+45.07       V514 Cyg                4
+OSC 318.45+41.91       V386 Cyg                4
+Platais 1              V1726 Cyg               1, 3
+Pup R3                 RS Pup                  1             From Westerlund (1963)
+Ruprecht 173           X Cyg                   1, 3
+Ruprecht 175           X Cyg                   1, 2
+Ruprecht 43            AQ Pup                  10
+Ruprecht 79            CS Vel                  1, 3
+Ruprecht 93            XZ Car                  4
+Stock 13               ER Car                  4
+Stock 14               V810 Cen                1
+TKMLM 1                HD 18391                1
+Teutsch 14a            ASAS J180342-2211.0     8
+Teutsch 77             BB Cen                  8
+Tombaugh 5             GSC 03729-01127         1
+Tombaugh 5             RW Cam                  4
+Tombaugh 5             AB Cam                  1, 13
+Trumpler 18            GH Car                  1, 3
+Trumpler 35            RU Sct                  1, 2, 3
+Turner 13              V620 Pup                1, 10
+Turner 14              AQ Pup                  1, 10
+Turner 15              VY Car                  1             Not included in BDCC 31!
+Turner 16              VY Car                  1             Not included in BDCC 31!
+Turner 2               WZ Sgr                  1, 2, 3 
+Turner 5               T Ant                   1, 3
+Turner 6               GT Car                  1
+Turner 9               SU Cyg                  1, 3
+Turner-Majaess 1       AQ Pup                  10
+Vel OB5                SW Vel                  1
+Vul OB1                SV Vul                  1
+Vul OB2                S Vul                   1
+vdBergh 1              CV Mon                  1, 2, 3
+
+-----------------------------------------------------------------------------------------------------------
+
+References
+
+1
+List in David G. Turner's Web site
+http://www.ap.smu.ca/~turner/cdlist.html
+
+2
+A search for open cluster Cepheids in the Galactic plane 
+Xiaodian Chen  Richard de Grijs  Licai Deng
+Monthly Notices of the Royal Astronomical Society, Volume 446, Issue 2, 11 January 2015, Pages 1268–1282
+
+3
+Cepheids in open clusters: an 8D all-sky census 
+Richard I. Anderson  Laurent Eyer  Nami Mowlavi
+Monthly Notices of the Royal Astronomical Society, Volume 434, Issue 3, 21 September 2013, Pages 2238–2261
+
+4
+A search for new open clusters hosting cepheids
+E. V. Glushkova, M. V. Zabolotskikh, A. S. Rastorguev and A. V. Grudskaya
+Baltic Astronomy, vol. 24, 360–366, 2015
+
+5
+BDCC catalog v 31 (02/2019)
+Alessi, B. S.
+
+6
+A Multi-Band Catalog of 10978 Star Clusters, Associations and Candidates in the Milky Way
+Eduardo Bica, Daniela B. Pavani, Charles J. Bonatto, Eliade F. Lima
+The Astronomical Journal, Volume 157, Issue 1, article id. 12, 14 pp. (2019).
+
+7
+New Cepheid variables in the young open clusters Berkeley 51 and Berkeley 55
+Monthly Notices of the Royal Astronomical Society, Volume 478, Issue 3, p.3825-3831
+Pub Date: August 2018
+
+8
+New open cluster Cepheids in the VVV survey tightly constrain near-infrared period-luminosity relations
+Xiaodian Chen  Richard de Grijs  Licai Deng
+Monthly Notices of the Royal Astronomical Society, Volume 464, Issue 1, 1 January 2017, Pages 1119–1126
+
+9
+STUDY OF THE OPEN CLUSTER NGC 6546 AND CEPHEID AV SAGITTARII
+E. J. GRAYZECK, M. P. FITZGERALD and M. LUIKEN
+Publications of the Astronomical Society of the Pacific
+Vol. 90, No. 538 (December 1978), pp. 742-750
+
+10
+A SEARCH FOR OB ASSOCIATIONS NEAR SOUTHERN LONG-PERIOD
+CEPHEIDS. V. AQ PUPPIS AND V620 PUPPIS
+D. G. Turner1,5, S. van den Bergh2,6, P. F. Younger2, D. J. Majaess1, M. H. Pedreros3,5, and L. N. Berdnikov
+The Astronomical Journal, 144:187 (10pp), 2012 December
+
+11
+DISCOVERY OF A PAIR OF CLASSICAL CEPHEIDS IN AN INVISIBLE CLUSTER BEYOND THE GALACTIC BULGE
+I. Dékány, D. Minniti, G. Hajdu, J. Alonso-García, M. Hempe, T. Palma1, M. Catelan, W. Gieren, and D. Majaess
+Published 2015 January 19 • © 2015. The American Astronomical Society. All rights reserved.
+The Astrophysical Journal Letters, Volume 799, Number 1
+
+12
+Nature, 477, 188-190 (2011) 
+Three classical Cepheid variable stars in the nuclear bulge of the Milky Way. 
+MATSUNAGA N., KAWADU T., NISHIYAMA S., NAGAYAMA T., KOBAYASHI N., TAMURA M., BONO G., FEAST M.W. and NAGATA T. 
+
+13
+Assessing potential cluster Cepheids from a new distance and reddening parametrization and Two Micron All Sky Survey photometry
+D. J. Majaess ; D. G. Turner ; D. J. Lane

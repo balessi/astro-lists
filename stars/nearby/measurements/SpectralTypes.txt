@@ -1,0 +1,132 @@
+Sun                   G2 V        Mamajek homepage
+
+Proxima Centauri      M7          Gaidos14
+Proxima Centauri      M6 Ve       2006A&A...460..695T
+Proxima Centauri      M5.5 V      2002AJ....123.2002H
+Proxima Centauri      M5.5 Ve     1991AJ....101..662B
+Proxima Centauri      M5.5        Boeschaar76
+Proxima Centauri      M5.5        Henry97
+Proxima Centauri      M5.5        Henry02
+Proxima Centauri      M5.5        Hawley97
+Proxima Centauri      M5.5        2013A&A...556A..15R
+Proxima Centauri      M5 V        2014AJ....148...91L
+
+Alpha Centauri A      G5          1932PLicO..18....1M
+Alpha Centauri A      G4 V        1935ApJ....81..187A
+Alpha Centauri A      G4 V        1937AnHar.105...45H
+Alpha Centauri A      G2 V        1955MmMtS..12....1W
+Alpha Centauri A      G2 V        1975MSS...C01....0H
+Alpha Centauri A      G2 V        2006AJ....132..161G
+Alpha Centauri A      G2 V        2006A&A...460..695T
+Alpha Centauri A      G2 V        1962RGOB...51...79E
+Alpha Centauri A      G2 V        1962MtSOM...4....1B
+Alpha Centauri A      G2 V        1962MtSOM...4....0B
+Alpha Centauri A      G2 V        1959MtSOM...3....1B
+Alpha Centauri A      G2 V        1957MiARI...8....1G
+Alpha Centauri A      G2 V        1956MNRAS.116..277D
+Alpha Centauri A      G2 V        1954MNRAS.114..490W
+Alpha Centauri A      G2 V        1950MNRAS.110...15G
+Alpha Centauri A      G1          Luyten79
+Alpha Centauri A      G0          1920AnHar..95.....C
+Alpha Centauri A      F8 III      1978A&AS...35...75C
+
+Alpha Centauri B      K5          1920AnHar..95.....C
+Alpha Centauri B      K5 V        1935ApJ....81..187A
+Alpha Centauri B      K3          Luyten79
+Alpha Centauri B      K2 IV C2 1  2006AJ....132..161G
+Alpha Centauri B      K1          Burnashev85
+Alpha Centauri B      K1          Buscombe95
+Alpha Centauri B      K1 V        2000ASPC..185..113C Simbad
+Alpha Centauri B      K1 V        1993Obs...113...79M Simbad
+Alpha Centauri B      K1 V        2011A&A...534A..58P Simbad
+Alpha Centauri B      K1 V        2002A&A...392..671E Simbad
+Alpha Centauri B      K1 V        1997ApJ...478..745W Simbad
+Alpha Centauri B      K1          1932PLicO..18....1M
+Alpha Centauri B      K1 V        1937AnHar.105...45H
+Alpha Centauri B      K1          1938ApJ....88..472K
+Alpha Centauri B      K1 V        1975MSS...C01....0H
+Alpha Centauri B      K1 V        2006A&A...460..695T|
+
+Luhman 16 A           L8          2013ApJ...767L...1L
+Luhman 16 A           L8          2013ApJ...770..124K
+Luhman 16 A           L7.5        2013ApJ...772..129B
+Luhman 16 A           L6/7.5      2015A&A...581A..73L
+Luhman 16 A           L8          Filippazzo15
+
+Luhman 16 B           T1.5:       2013ApJ...770..124K
+Luhman 16 B           T0.5        2013ApJ...772..129B
+Luhman 16 B           T0          2015A&A...581A..73L
+Luhman 16 B           T1          Filippazzo15
+
+Barnard's star        M6 V        1938ApJ....87..589M
+Barnard's star        M5 V        1956AJ.....61..201V
+Barnard's star        M5 V        1953ApJ...117..313J
+Barnard's star        M5 V        1935ApJ....81..187A
+Barnard's star        M5 V        1916PASP...28..207C
+Barnard's star        M5 V        1953ApJ...118..502K
+Barnard's star        M5 V        1954ApJ...120..196J
+Barnard's star        M5 V        1955AJ.....60...65E
+Barnard's star        M5 V        1955AN....282..211B
+Barnard's star        M5 V        1957IzKry..17...42N
+Barnard's star        M5 V        1957MiARI...8....1G
+Barnard's star        M5 V        1959POHP....4...52B
+Barnard's star        M5          1925IAUT....2..117A
+Barnard's star        M4.7        2015ApJ...802L..10T
+Barnard's star        M4 Ve       2009ApJ...701.1436I
+Barnard's star        M4 Ve       2009A&A...505..859Z
+Barnard's star        M4 Ve       2006ApJ...649..436E
+Barnard's star        M4 Ve       2003A&A...403.1077K
+Barnard's star        M4 Ve       2002ApJS..141..503N
+Barnard's star        M4 Ve       2002AJ....123.3356G
+Barnard's star        M4 Ve       2002A&A...392..671E
+Barnard's star        M4 Ve       1998MNRAS.301.1031T
+Barnard's star        M4 Ve       1997AJ....113..806G
+Barnard's star        M4 V        2004PASP..116..554W
+Barnard's star        M4 V        2002ApJ...564..466G
+Barnard's star        M4 V        2002AJ....123.2002H
+Barnard's star        M4 V        1994AJ....108.1437H
+Barnard's star        M4 V        1991ApJS...77..417K
+Barnard's star        M4 V        1986AJ.....92..139S
+Barnard's star        M4          2014MNRAS.443.2561G
+Barnard's star        M4          2013AJ....145..102L
+Barnard's star        M4          2012ApJ...748...93R
+Barnard's star        M4          1998A&A...331..581D
+Barnard's star        M4          1995AJ....110.1838R
+Barnard's star        M4          1985ApJS...59..197B
+Barnard's star        M4          1967PhDT.........5W
+Barnard's star        M4          1965ApJ...141.1582P
+Barnard's star        M3/5 V      1916PASP...28..278A
+Barnard's star        M3.5 V      2015A&A...577A.128A
+Barnard's star        M3.5 V      2015AJ....149..106D
+Barnard's star        M3:         1916LowOB...2..157S
+Barnard's star        M3          1947AnDea...5....1L
+Barnard's star        M0          1969AbaOB..38..151S
+Barnard's star      sdM4.5        1974ApJS...28....1J
+Barnard's star      sdM4          1953ApJ...117..313J
+Barnard's star      sdM4          1999A&A...348.1040D
+
+Wolf 359
+  M5.5V: Hawley97
+  M5.9: Mann15
+ *M6.0V: Boeshaar76,Turnshek85(stan;dM6e),Bidelman85(M6),Bessell91(M6Ve),Kirkpatrick91(pri),Kirkpatrick93,Kirkpatrick94,Kirkpatrick97(stan),Henry02,Geballe02,Henry04(M6.0Ve),Kirkpatrick(GrayCorbally09),Newton14(stan)
+  M6.5Ve: Joy74,Mukai90(M6.5)
+  M8:e: : Stephenson86
+
+
+70 Oph A              G8/K0 V:    1897AnHar..28....1M
+70 Oph A              K1 V        1935ApJ....81..187A
+70 Oph A              K0.5 V      1938ApJ....87..460M
+70 Oph A              K0+ V       1941ApJ....93..475K
+70 Oph A              K0 V        1943MKAtl.C......0M
+70 Oph A              K0 V        1962ApJ...136..793W
+70 Oph A              K0 V        1967AJ.....72.1334C
+70 Oph A              K1          1985ApJS...59..197B
+70 Oph A              K0- V       1989ApJS...71..245K
+70 Oph A              K0- V       2003AJ....126.2048G
+
+70 Oph B              K6 V        1935ApJ....81..187A
+70 Oph B              K4 V        1938ApJ....87..589M
+70 Oph B              K3 V        1952PASP...64...71G
+70 Oph B              K4 V        1963ApJ...138..118S
+70 Oph B              K4 V        1967AJ.....72.1334C
+70 Oph B              K5          1985ApJS...59..197B

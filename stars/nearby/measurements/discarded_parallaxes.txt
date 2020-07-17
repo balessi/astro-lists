@@ -1,0 +1,17 @@
+
+Proxima Centauri    768.13  1.04   Lurie 2014              (do not use)
+Proxima Centauri    774.25  2.08   Jao 2005                (do not use)
+Proxima Centauri    771.64  2.60   vanLeeuwen 2007         (do not use)
+Proxima Centauri    773     4      Kamper & Wesselink 1978 (do not use)
+Proxima Centauri    771.8   4.1    Gliese 1991             (do not use)
+
+Alpha Centauri AB   747.23  1.17   RECONS100               (do not use)
+Alpha Centauri AB   742.10  1.38   Kharchenko 2009         (do not use)
+Alpha Centauri AB   754.81  4.11   van Leeuwen 2007        (do not use)
+Alpha Centauri AB   749.0   4.7    Gliese 1991             (do not use)
+Alpha Centauri AB   749     5      Kamper & Wesselink 1978 (do not use)
+Alpha Centauri AB   743     7      Woolley70               (do not use)
+Alpha Centauri AB   796.92 25.90   van Leeuwen 2007        (do not use)
+
+Barnard's star      546      3     1980AJ.....85..454H     <do not use>
+Barnard's star      547.0    1.7   USNO IX (Harrington 93) <do not use>

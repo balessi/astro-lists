@@ -35,12 +35,10 @@ Number Name            Type  Hmag Diam_Km  Err  Ell? Dens  DP? Sat? SMA  Ecc   A
        2012 VP113      Sed   4.0   ~630                            258   0.69  11  
 523692 2014 EZ51       Sca   3.8    610    30                       52.5 0.23  
        2015 KH162      Sca   4.1   ~610                             62.2 0.33  11  
- 42301 2001 UR163      Sca   4.1   ~610         n?                  51.5 0.29  11  Has the reddest color index of any object in the Solar System
 543354 2014 AN55       Sca   4.1   ~610                             56.2 0.39  11  
  19521 Chaos           Kui   4.8    600   140                       45.5 0.10  
  28978 Ixion           Kui   3.6    583    85                       39.8 0.24      The deviant (1055 Km) 2002 estimate was a result of a spurious detection at 250 GHz and was not confirmed later
        2004 XR190      unq   4.3   ~580                             57.3 0.11  10  
-455502 2003 UZ413      Kui   4.3   ~580         y    1.5 ::         39.1 0.23  10  See ###
        2017 FO161      Sca   4.3   ~580                             59.9 0.43  10
        2006 QH181      Sca   4.3   ~580                             66.7 0.44  10  Has a somewhat poorly known orbit
 523671 2013 FZ27       Kui   4.3   ~580                             48.1 0.22   9  
@@ -53,10 +51,10 @@ Number Name            Type  Hmag Diam_Km  Err  Ell? Dens  DP? Sat? SMA  Ecc   A
 471196 2010 PK66       Kui   5.3   ~580                             40.9 0.01   4  
 312645 2010 EP65       Kui   5.3   ~580                             47.9 0.31   4  
  78799 2002 XW93       Kui   5.5    565    73                       37.4 0.25      
+455502 2003 UZ413      Kui   4.3    561    89   y    1.5 ::         39.1 0.23  10  See ###
 470308 2007 JH43       Kui   4.5   ~560                             39.7 0.02   9  
        2014 WP509      Kui   4.5   ~560                             44.7 0.09   9  
  84522 2002 TC302      Sca   3.9    551    22   n?                  55.0 0.29      See ##
-145451 2005 RM43       Sca   4.4    550    94        0.56           89.6 0.61      644 (luckyStar 2018, occ), 456 (luckyStar 2019, occ)
 470596 2008 NW4        Kui   5.4   ~550                             45.4 0.19   4  
  84922 2003 VS2        Kui   4.2    548    45   y    1.4 :          39.2 0.07      a=313.8±7.1 km, b=265.5+8.8-9.8 km, c=247+27-44 km (from occultation)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -123,25 +121,26 @@ Number Name        Type  H_mag   Diam_Km  Err     Reference              Comment
      4 Vesta       MB     3.2     535.4    0.2    Russell et al 2012     Not in hydrostatic equilibrium, (572.6 x 557.2 x 446.4) ± 0.2 km
      2 Pallas      MB     4.1     512      6      Carry et al 2009       Not in hydrostatic equilibrium, 550±8 x 516±6 x 476±6 km
 120348 2004 TY364  Kui    4.3     512     40      TNOs are cool IX
+303775 2005 QU182  Sca    3.6     500     84      TNOs are cool IV/XV
 202421 2005 UQ513  Kui    3.5     498     69      TNOs are cool X
        Vanth       Kui    4.9     475     75      arXiv:1801.07221v1     Satellite of Orcus
 471143 Dziewanna   Sca    3.9     470     23      TNOs are cool VII
 175113 2004 PF115  Kui    4.3     468     44      TNOs are cool V
 145480 2005 TB190  Sca    4.4     464     62      TNOs are cool IV
- 82075 2000 YW134  Sca    4.5    ~430             Wikipedia (en)         A=9, moon ~240 km
-303775 2005 QU182  Sca    3.6     416     73      TNOs are cool IV
+ 82075 2000 YW134  Sca    4.5     440    140      TNOs are cool XV       Moon ~240 km (diam incl moon?)
 144897 2004 UX10   Kui    4.4     398     39      TNOs are cool V
+       Hi'iaka     Kui   ~3.2     383    113      TNOs are cool XIV      Satellite of Haumea
 230965 2004 XA192  Kui    4.2     339    108      TNOs are cool X
- 55636 2002 TX300  Kui    3.5     320     50      Ortiz 2019             Haumea collisional family
-       Hi'iaka     Kui   ~3.2    ~320             Wikipedia (en)         Satellite of Haumea
-120178 2003 OP32   Kui    4.0    ~250             Brown/MPC              A=70, Haumea collisional family
-145453 2005 RR43   Kui    4.0    ~250             Brown/MPC              A=70, Haumea collisional family
-386723 2009 YE7    Kui    4.3    ~220             Brown/MPC              A=70, Haumea collisional family
+ 55636 2002 TX300  Kui    3.5     320      3      Median                 Haumea collisional family
+145453 2005 RR43   Kui    4.0     284     16      TNOs are cool XIV      Haumea collisional family
+120178 2003 OP32   Kui    4.0     261     32      TNOs are cool XIV      Haumea collisional family
+386723 2009 YE7    Kui    4.3     226     50      Trujillo 2011          Haumea collisional family
 
 Demoted objects / Close shaves (4.5 < H < 4.8) / others:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Number Name        Type  Hmag Diam_Km  Err  Ell? Dens  IAU Sat? SMA  Ecc   Alb Comments
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+145451 2005 RM43   Sca   4.4    541    95        0.56           89.6 0.61      Median meas. diam decreased
 308193 2005 CB79   Kui   4.6   ~530                             43.4 0.14   9  H increased
        2017 OF69   Kui   4.6   ~530                             39.6 0.21   9  H increased
        2014 YA50   Kui   4.6   ~530                             46.5 0.17   9  H increased
@@ -157,16 +156,17 @@ Number Name        Type  Hmag Diam_Km  Err  Ell? Dens  IAU Sat? SMA  Ecc   Alb C
        2003 QX113  Kui   4.7   ~510                             49.8 0.25   9
 472271 2014 UM33   Kui   4.7   ~510                             42.9 0.15   9
 315530 2008 AP129  Kui   4.7   ~510                             41.6 0.14   9
- 26181 1996 GQ21   Sca   4.7   ~510                             94.2 0.59   9
        Enceladus   Sat   2.3    504                                        81  Included for comparison
 120132 2003 FY128  Kui   4.6    460    21                       49.7 0.25   9  Radiometric meas from TNOs are cool IV
 119951 2002 KX14   Kui   4.7    455    27                       39.1 0.04   9  Radiometric meas from TNOs are cool VI
 119979 2002 WC19   Kui   4.7    440                         1   47.6 0.26   9  Unammed sat: 139 (del_H= 2.5), both diams for H= 4.9
-       2015 TG387  Sed   5.5   ~430                           1042   0.94   6  H increased, was V774104, with H= ~4.0
+       2015 TG387  Sed   5.5   ~430                           1042   0.94   6  H increased (was "V774104", with H= ~4.0)
        Dysnomia    Sca  ~4.9    420   160                       67.7 0.44      
+ 26181 1996 GQ21   Sca   4.7    404    52                       94.2 0.59   9
    704 Interamnia  MB    5.9    332     6                        3.1 0.15   7  362 × 348 × 310 ± 8 (VLT-SPHERE 2019 - (704) Interamnia: A transitional object between a dwarf planet and a typical irregular-shaped minor body)
+ 42301 2001 UR163  Sca   4.1    314    53   n?                  51.5 0.29  11  Median meas diam decreased; Has the reddest color index of any object in the Solar System
  47171 Lempo       Kui   4.7    272    19                   2   39.3 0.22   9  Lempo: 272 ± 17/19, Paha: 132 ± 8/9, Hiisi: 251 ± 16/17 
- 24835 1995 SM55   Kui   4.6   ~190                             41.6 0.10  70  Haumea collisional family
+ 24835 1995 SM55   Kui   4.6    243    71                       41.6 0.10      Haumea collisional family
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I N D I V I D U A L   M E A S U R E M E N T S
@@ -382,9 +382,6 @@ Number Name        Diam               Source                      Primary plus S
  84922 2003 VS2         725 + 199 -188    Stansberry et al 2008
  84922 2003 VS2         523 + 35 -34      TNOs are cool V
  84922 2003 VS2        >396               Braga-Ribas et al. 2014
-
-145451 2005 RM43        644               LuckyStar 2018, occult
-145451 2005 RM43        456               LuckyStar 2019, occult
  
 278361 2007 JJ43        670 ± 150         Szabó et al. 2015
 278361 2007 JJ43        610 + 170 -140    Lacerda et al. 2014                                           0.13 +0.09-0.07 Avg Geo Alb for H=3.9
@@ -423,4 +420,24 @@ Number Name        Diam               Source                      Primary plus S
  
  55636 2002 TX300       248 ± 10          Elliot et al. 2010
  55636 2002 TX300       320 ± 50          Ortiz 2019
+ 55636 2002 TX300       323 +95-37        TNOs are cool XIV
  
+ ---------
+
+145451 2005 RM43        644               LuckyStar 2018, occult
+145451 2005 RM43        524 +96-103       TNOs are Cool XV
+145451 2005 RM43        456               LuckyStar 2019, occult
+ 
+ 26181 1996 GQ21        456 +89-105       TNOs are Cool XV
+ 26181 1996 GQ21        352 +46-61        TNOs are Cool XV
+ 
+ 82075 2000 YW134       437 +118-137      TNOs are Cool XV
+ 
+ 42301 2001 UR163       261 +209-91       TNOs are Cool XV
+ 42301 2001 UR163       367 +103-197      TNOs are Cool XV
+ 
+455502 2003 UZ413       472 +122-25       TNOs are Cool XV
+455502 2003 UZ413       650 +1-175        TNOs are Cool XV
+
+303775 2005 QU182       584 +155-144      TNOs are Cool XV
+303775 2005 QU182       416 ±73           TNOs are Cool IV

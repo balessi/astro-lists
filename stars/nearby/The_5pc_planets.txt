@@ -19,7 +19,7 @@ Barnard's star    c            U  CN  > 15     E   18.1   y    3.6              
 Barnard's star                 R  CJ     0.8   J   12     y    2.8      0                  Dimissed: the infamous planets claimed by van de Kamp (1969)
 Barnard's star                 R  CJ     1.1   J   26     y    4.7      0                  Dimissed: the infamous planets claimed by van de Kamp (1969)
 Luhman 16 B                    R  CJ  ~ 16     J  >60     d   >0.09                        Claimed by Boffin (2014), dismissed by Bedin (2017) who ruled out any BDs and any neptune mass Pls with 1-2 y period
-WISE J0855-0714                C  WJ  ~  6     J   -1         -1       -1                  sub-brown dwarf or rogue planetary-mass object, mass range 3-10 MJ, Teff 225-260 K
+WISE J0855-0714                C  WJ  ~  6     J   -1     -   -1       -1                  sub-brown dwarf or rogue planetary-mass object, mass range 3-10 MJ, Teff 225-260 K
 Wolf 359          c            C  HT  >  3.8   E    2.687 d    0.018    0.15               
 Wolf 359          b            C  CJ  > 44     E    8.04  y    1.84     0.04          
 Lalande 21185     b            C  HT  >  3.0   E   12.953 d    0.0785   0.22          
@@ -92,5 +92,5 @@ BD+20 2465        b            U  HN  > 23.1   E    2.226 d    0.025    0.03
 Omicron-2 Eri A   b            C  HT  >  8.47  E   42.378 d    0.224    0.04
 CD-44 11909       b            C  WT  >  4.4   E   17.48  d    0.08     0.08               
 CD-44 11909       c            C  CT  >  8.7   E   57.32  d    0.18     0.10         0.59
-BD+43 4305                     D  CJ    20     J   28.9   y             0.44               Claimed by van de Kamp (1972)
-BD+43 4305                     D  CJ     3     J   45     y             0.5                Claimed by Lippincott (1983)
+BD+43 4305                     R  CJ    20     J   28.9   y             0.44               Prob not real, claimed by van de Kamp (1972)
+BD+43 4305                     R  CJ     3     J   45     y             0.5                Prob not real, claimed by Lippincott (1983)

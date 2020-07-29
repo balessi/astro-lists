@@ -5,31 +5,31 @@ Number Name            Type  Hmag Diam_Km  Err  Ell? Dens  DP? Sat? SMA  Ecc   A
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 134430 Pluto           Kui  -0.4   2379.8   0.4 n    1.86   y   5   39.8 0.25      Hydra 55 x 40, Nix 53 x 41 x 36, Kerberos 12 x 7.4, Styx 10 x 5.2
 136199 Eris            Sca  -1.1   2331    12   n    2.50   y   1   67.7 0.44      See *, Dysnomia: 386 ± 48
-136472 Makemake        Kui  -0.1   1454    29   n    2.2 :  y   1   45.6 0.16      Unnamed satellite: ~175
-136108 Haumea          Kui   0.2   1430    85   y    2.4 :  y   2r  43.3 0.19      See ***, Hi'iaka: ~310, Namaka: ~170, avg: 2070±220 x 1590±100 x 1041±84, has rings and large spot
+136472 Makemake        Kui  -0.1   1454    29   n    2.1    y   1   45.6 0.16      Unnamed satellite: ~175
+136108 Haumea          Kui   0.2   1430    85   y    2.02   y   2r  43.3 0.19      See ***, Hi'iaka: ~310, Namaka: ~170, avg: 2070±220 x 1590±100 x 1041±84, has rings and large spot
 225088 Gonggong        Sca   1.6   1255    84        1.75   y   1   67.4 0.50      Xiangliu: <100
        Charon          Kui   0.9   1212.0   1.0 n    1.72   -   0   39.8 0.25      
- 50000 Quaoar          Kui   2.4   1075   170   y    2.13   y   1   43.7 0.04      See #, Weywot: 82 ± 10. Possibly elongated, diam estimates varies from 830 to 1260 Km
+ 50000 Quaoar          Kui   2.4   1075   170   y    1.99   y   1   43.7 0.04      See #, Weywot: 82 ± 10. Possibly elongated, diam estimates varies from 830 to 1260 Km
  90377 Sedna           Sed   1.3    987    77               y:     479   0.84      Very red color
      1 Ceres           MB    3.4    938.6   2.0 n    2.16   y   0    2.8 0.08      
- 90482 Orcus           Kui   2.2    902    16   n    1.65   y   1   39.3 0.22      Vanth: 443 ± 10; densities: 1.53 ± 0.14, 2.3 ± 0.8, 1.65 ± 0.35/0.24
+ 90482 Orcus           Kui   2.2    902    16   n    1.53   y   1   39.3 0.22      Vanth: 443 ± 10; densities: 1.53 ± 0.14, 2.3 ± 0.8, 1.65 ± 0.35/0.24
 120347 Salacia         Kui   4.1    884    26   n?   1.5    y:  1   41.1 0.11      Actaea: 300 ± 13
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 307261 2002 MS4        Kui   3.6    748    20                       42.0 0.14      
 532037 2013 FY27       Sca   3.2    742    80   n               1   58.7 0.40      Unnamed satellite: 186 (H=6.1, A=0.17 same as primary)
  55565 2002 AW197      Kui   3.3    735    35                       47.2 0.13      
 208996 2003 AZ84       Kui   3.6    732    43   y?   0.87       1?  39.4 0.18      Unnamed satellite (unrecovered): 72 ± 12           
-174567 Varda           Kui   3.4    713.5   8.5      1.25       1   46.1 0.14      Ilmarë: 344 ± 18
+174567 Varda           Kui   3.4    725    22        1.24       1   46.1 0.14      Ilmarë: 344 ± 18
        2018 VG18       Sca   3.5   ~710                             95.2 0.77  14  Currently the most remote SS obj at 124 AU with the exception of "FarFarOut" at ~140 AU
  90568 2004 GV9        Kui   3.8    680.3   3.5 n?   1.32           42.2 0.08  
  20000 Varuna          Kui   3.6    680   110   y    0.99           42.8 0.05      See **, possibly elongated, diam estimates varies from 502 to 1060 Km
 145452 2005 RN43       Kui   3.7    679    73                       41.6 0.03  
- 55637 2002 UX25       Kui   3.6    664     5        0.80       1   42.5 0.14      Unnamed satellite: 201 ± 14
+ 55637 2002 UX25       Kui   3.6    664     5        0.82       1   42.5 0.14      Unnamed satellite: 201 ± 14
 523794 2015 RR245      Sca   3.8   ~640                         1?  81.4 0.58  13  Poss satellite (Noyelles 2019)
        2010 RF43       Kui   3.9   ~640                             49.6 0.25  12
 278361 2007 JJ43       Kui   4.5    640    30                       48.4 0.17      
        2014 UZ224      ETN   3.5    635    59                      108   0.65  
-229762 G!kún||'hòmdímà Sca   3.3    631    12        1.0 :      1   72.7 0.42      satellite (G!ò'é !hú): 121 ± 18; Its light-curve amplit is estimated to be delta_m=0.03 mag, 0.32 < dens < 1.74
+229762 G!kún||'hòmdímà Sca   3.3    631    12        1.04       1   72.7 0.42      satellite (G!ò'é !hú): 121 ± 18; Its light-curve amplit is estimated to be delta_m=0.03 mag, 0.32 < dens < 1.74
        2010 JO179      Sca   4.0   ~630                             79.1 0.50  11  21:5 Neptune ressonance
        2010 KZ39       Kui   4.0   ~630                             45.5 0.05  11  
        2012 VP113      Sed   4.0   ~630                            258   0.69  11  
@@ -51,7 +51,7 @@ Number Name            Type  Hmag Diam_Km  Err  Ell? Dens  DP? Sat? SMA  Ecc   A
 471196 2010 PK66       Kui   5.3   ~580                             40.9 0.01   4  
 312645 2010 EP65       Kui   5.3   ~580                             47.9 0.31   4  
  78799 2002 XW93       Kui   5.5    565    73                       37.4 0.25      
-455502 2003 UZ413      Kui   4.3    561    89   y    1.5 ::         39.1 0.23  10  See ###
+455502 2003 UZ413      Kui   4.3    561    89   y    1.5 ::         39.1 0.23      See ###
 470308 2007 JH43       Kui   4.5   ~560                             39.7 0.02   9  
        2014 WP509      Kui   4.5   ~560                             44.7 0.09   9  
  84522 2002 TC302      Sca   3.9    551    22   n?                  55.0 0.29      See ##
@@ -59,16 +59,13 @@ Number Name            Type  Hmag Diam_Km  Err  Ell? Dens  DP? Sat? SMA  Ecc   A
  84922 2003 VS2        Kui   4.2    548    45   y    1.4 :          39.2 0.07      a=313.8±7.1 km, b=265.5+8.8-9.8 km, c=247+27-44 km (from occultation)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Column DP => Agreed by Brown, Tancredi et al. and Grundy et al. to be likely to be dwarf
-planets as well as IAU criteria of diam > 800 km
-
-Salacia is included because it has a higher val of density after Grundy's evaluation
-
-Will adopt y: to Salacia and Sedna (because the latter has no mass measurement)
+Column DP => Agreed by Brown, Tancredi et al. and Grundy et al. to be likely dwarf
+planets as well as fitting IAU criteria of diam > 800 km
+Salacia is included because it has a higher value of density after Grundy's (2019) evaluation
 
 But see https://en.wikipedia.org/wiki/List_of_possible_dwarf_planets regarding the difficulty
-of classifying the status of those objects using the equilibrium criteria: even objects such as
-the Moon and Japetus would no pass
+of classifying the status of those objects using the equilibrium criteria: even objects much
+larger than 800 km such as the Moon and Japetus could no pass...
 
 Calc diams from albedos: http://www.physics.sfasu.edu/astro/asteroids/sizemagnitude.html
 Check for multiplicity:  http://www.johnstonsarchive.net/astro/tnodiam.html
@@ -137,36 +134,36 @@ Number Name        Type  H_mag   Diam_Km  Err     Reference              Comment
 386723 2009 YE7    Kui    4.3     226     50      Trujillo 2011          Haumea collisional family
 
 Demoted objects / Close shaves (4.5 < H < 4.8) / others:
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Number Name        Type  Hmag Diam_Km  Err  Ell? Dens  IAU Sat? SMA  Ecc   Alb Comments
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-145451 2005 RM43   Sca   4.4    541    95        0.56           89.6 0.61      Median meas. diam decreased
-308193 2005 CB79   Kui   4.6   ~530                             43.4 0.14   9  H increased
-       2017 OF69   Kui   4.6   ~530                             39.6 0.21   9  H increased
-       2014 YA50   Kui   4.6   ~530                             46.5 0.17   9  H increased
-       2014 FC69   Sca   4.6   ~530                             72.7 0.44   9
-       2013 AT183  Sca   4.6   ~530                             61.6 0.42   9
-499514 2010 OO127  Kui   4.6   ~530                             42.3 0.13   9
-       2014 FC72   Sca   4.7   ~510                             76.1 0.32   9  H increased
-       2014 HA200  Sca   4.7   ~510                             56.3 0.35   9  H increased
-       2015 BZ518  Kui   4.7   ~510                             47.3 0.18   9  H increased
-       2010 FX86   Kui   4.7   ~510                             47.1 0.06   9  H increased
-523681 2014 BV64   Kui   4.7   ~510                             45.8 0.15   9  H increased
-470599 2008 OG19   Sca   4.7   ~510                             67.4 0.43   9
-       2003 QX113  Kui   4.7   ~510                             49.8 0.25   9
-472271 2014 UM33   Kui   4.7   ~510                             42.9 0.15   9
-315530 2008 AP129  Kui   4.7   ~510                             41.6 0.14   9
-       Enceladus   Sat   2.3    504                                        81  Included for comparison
-120132 2003 FY128  Kui   4.6    460    21                       49.7 0.25   9  Radiometric meas from TNOs are cool IV
-119951 2002 KX14   Kui   4.7    455    27                       39.1 0.04   9  Radiometric meas from TNOs are cool VI
-119979 2002 WC19   Kui   4.7    440                         1   47.6 0.26   9  Unammed sat: 139 (del_H= 2.5), both diams for H= 4.9
-       2015 TG387  Sed   5.5   ~430                           1042   0.94   6  H increased (was "V774104", with H= ~4.0)
-       Dysnomia    Sca  ~4.9    420   160                       67.7 0.44      
- 26181 1996 GQ21   Sca   4.7    404    52                       94.2 0.59   9
-   704 Interamnia  MB    5.9    332     6                        3.1 0.15   7  362 × 348 × 310 ± 8 (VLT-SPHERE 2019 - (704) Interamnia: A transitional object between a dwarf planet and a typical irregular-shaped minor body)
- 42301 2001 UR163  Sca   4.1    314    53   n?                  51.5 0.29  11  Median meas diam decreased; Has the reddest color index of any object in the Solar System
- 47171 Lempo       Kui   4.7    272    19                   2   39.3 0.22   9  Lempo: 272 ± 17/19, Paha: 132 ± 8/9, Hiisi: 251 ± 16/17 
- 24835 1995 SM55   Kui   4.6    243    71                       41.6 0.10      Haumea collisional family
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Number Name         Type  Hmag Diam_Km  Err  Ell? Dens  IAU Sat? SMA  Ecc   Alb Comments
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+145451 2005 RM43    Sca   4.4    541    95        0.56           89.6 0.61      Median meas. diam decreased
+308193 2005 CB79    Kui   4.6   ~530                             43.4 0.14   9  H increased
+       2017 OF69    Kui   4.6   ~530                             39.6 0.21   9  H increased
+       2014 YA50    Kui   4.6   ~530                             46.5 0.17   9  H increased
+       2014 FC69    Sca   4.6   ~530                             72.7 0.44   9
+       2013 AT183   Sca   4.6   ~530                             61.6 0.42   9
+499514 2010 OO127   Kui   4.6   ~530                             42.3 0.13   9
+       2014 FC72    Sca   4.7   ~510                             76.1 0.32   9  H increased
+       2014 HA200   Sca   4.7   ~510                             56.3 0.35   9  H increased
+       2015 BZ518   Kui   4.7   ~510                             47.3 0.18   9  H increased
+       2010 FX86    Kui   4.7   ~510                             47.1 0.06   9  H increased
+523681 2014 BV64    Kui   4.7   ~510                             45.8 0.15   9  H increased
+470599 2008 OG19    Sca   4.7   ~510                             67.4 0.43   9
+       2003 QX113   Kui   4.7   ~510                             49.8 0.25   9
+472271 2014 UM33    Kui   4.7   ~510                             42.9 0.15   9
+315530 2008 AP129   Kui   4.7   ~510                             41.6 0.14   9
+       Enceladus    Sat   2.3    504              1.61                      81  Included for comparison
+120132 2003 FY128   Kui   4.6    460    21                       49.7 0.25   9  Radiometric meas from TNOs are cool IV
+119951 2002 KX14    Kui   4.7    455    27                       39.1 0.04   9  Radiometric meas from TNOs are cool VI
+119979 2002 WC19    Kui   4.7    440                         1   47.6 0.26   9  Unammed sat: 139 (del_H= 2.5), both diams for H= 4.9
+541132 Leleakuhonua Sed   5.5   ~430                           1042   0.94   6  H increased (was "V774104", with H= ~4.0)
+       Dysnomia     Sca  ~4.9    420   160                       67.7 0.44      
+ 26181 1996 GQ21    Sca   4.7    404    52                       94.2 0.59   9
+   704 Interamnia   MB    5.9    332     6        1.98            3.1 0.15   7  362 × 348 × 310 ± 8 (VLT-SPHERE 2019 - (704) Interamnia: A transitional object between a dwarf planet and a typical irregular-shaped minor body)
+ 42301 2001 UR163   Sca   4.1    314    53   n?                  51.5 0.29  11  Median meas diam decreased; Has the reddest color index of any object in the Solar System
+ 47171 Lempo        Kui   4.7    272    19        0.64       2   39.3 0.22   9  Lempo: 272 ± 17/19, Paha: 132 ± 8/9, Hiisi: 251 ± 16/17 
+ 24835 1995 SM55    Kui   4.6    243    71                       41.6 0.10      Haumea collisional family
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I N D I V I D U A L   M E A S U R E M E N T S
@@ -269,6 +266,7 @@ Number Name        Diam               Source                      Primary plus S
 
  50000 Quaoar          1260 ± 190         Grundy et al. 2005          ~1256         ~100
  50000 Quaoar          1260 ± 190         Brown, Trujillo 2004        ~1256         ~100
+ 50000 Quaoar                             www.asteroidoccultation.com                                 1185 x 1123
  50000 Quaoar         ~1174               Braga-Ribas et al. 2011      1170         ~93
  50000 Quaoar         ~1132               Braga-Ribas et al. 2013      1128 ± 48/34 ~90
  50000 Quaoar         ~1115               Braga-Ribas et al. 2013      1110 ± 5     ~88               1138 +48-34?x?1036 +44-31
@@ -358,6 +356,8 @@ Number Name        Diam               Source                      Primary plus S
 
 174567 Varda            792 + 91 -84      TNOs are cool X              705 ± 81/75  361 ± 42/38
 174567 Varda                              Grundy et al. 2015           722 ± 82/76  326 ± 38/34
+174567 Varda            717               www.asteroidoccultation.com                                2018 occultation
+174567 Varda            756               Braga-Ribas et al. 2019                                     790?x?790?x?723  ±(15, 15, 1)
 
  90568 2004 GV9         684 + 68 -78      Brucker et al. 2009
  90568 2004 GV9         680 ± 34          TNOs are cool VI

@@ -21,16 +21,16 @@ Number Name            Type  Hmag Diam_Km  Err  Ell? Dens  DP? Sat? SMA  Ecc   A
 208996 2003 AZ84       Kui   3.6    732    43   y?   0.87       1?  39.4 0.18      Unnamed satellite (unrecovered): 72 ± 12           
 174567 Varda           Kui   3.4    725    22        1.24       1   46.1 0.14      Ilmarë: 344 ± 18
        2018 VG18       Sca   3.5   ~710                             95.2 0.77  14  Currently the most remote SS obj at 124 AU with the exception of "FarFarOut" at ~140 AU
- 90568 2004 GV9        Kui   3.8    680.3   3.5 n?   1.32           42.2 0.08  
- 20000 Varuna          Kui   3.6    680   110   y    0.99           42.8 0.05      See **, possibly elongated, diam estimates varies from 502 to 1060 Km
+ 90568 2004 GV9        Kui   3.8    680    34   n?   1.32           42.2 0.08  
+ 20000 Varuna          Kui   3.6    680   110   y    0.99       1?  42.8 0.05      See **, possibly elongated, diam estimates varies from 502 to 1060 Km
 145452 2005 RN43       Kui   3.7    679    73                       41.6 0.03  
- 55637 2002 UX25       Kui   3.6    664     5        0.82       1   42.5 0.14      Unnamed satellite: 201 ± 14
+ 55637 2002 UX25       Kui   3.6    663     9        0.82       1   42.5 0.14      Unnamed satellite: 201 ± 14
 278361 2007 JJ43       Kui   4.5    640    30                       48.4 0.17      
 523794 2015 RR245      Sca   3.8   ~640                         1?  81.4 0.58  13  Poss satellite (Noyelles 2019)
        2010 RF43       Kui   3.9   ~640                             49.6 0.25  12
        2010 JO179      Sca   3.9   ~640                             79.1 0.50  12  21:5 Neptune ressonance
        2014 UZ224      ETN   3.5    635    59                      108   0.65  
-229762 G!kún||'hòmdímà Sca   3.3    631    12        1.04       1   72.7 0.42      satellite (G!ò'é !hú): 121 ± 18; Its light-curve amplit is estimated to be delta_m=0.03 mag, 0.32 < dens < 1.74
+229762 G!kún||'hòmdímà Sca   3.3    631    12        1.0        1   72.7 0.42      satellite (G!ò'é !hú): 121 ± 18; Its light-curve amplit is estimated to be delta_m=0.03 mag, 0.32 < dens < 1.74
        2012 VP113      Sed   4.0   ~630                            258   0.69  11  
 523692 2014 EZ51       Sca   3.8    610    30                       52.5 0.23  
        2015 KH162      Sca   4.1   ~610                             62.2 0.33  11  
@@ -151,6 +151,7 @@ Number Name            Type  Hmag Diam_Km  Err  Ell? Dens  DP? Sat? SMA  Ecc   A
 119979 2002 WC19      Kui    4.7    440              3.7 ::     1   47.6 0.26   9  Unammed sat: 139 (del_H= 2.5), both diams for H= 4.9
 541132 Leleakuhonua   Sed    5.5   ~430                           1042   0.94   6  H increased (was "V774104", with H= ~4.0)
  26181 1996 GQ21      Sca    4.7    404    52                       94.2 0.59   9
+       "FarFarOut"    Sca?   ?     ~400                            140   ?      ?
 144897 2004 UX10      Kui    4.4    398    39      
        Dysnomia       Sca   ~4.9    393    35                       67.7 0.44      
        Hi'iaka        Kui   ~3.2    380   110                                      Satellite of Haumea

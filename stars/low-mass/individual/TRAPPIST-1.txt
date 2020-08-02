@@ -6,10 +6,11 @@ Aliases
   2MASSI J2306292-050227
   2MASSW J2306292-050227
   2MUCD 12171
+  EPIC 200164267
   EPIC 246199087
   K2-112
   NOMAD1 0849-0683597
-  WISE J230630.02-050234.1
+  WISEA J230630.02-050234.1
   Gaia DR2 2635476908753563008
 
 ICRS coordinates (ep=J2000)
@@ -21,31 +22,32 @@ Constellation
    Aqr
 
 Parallaxes (mas)
-   80.09   1.17    Weinb16        DO NOT USE - superseded by Boss17
-   81      8       Theissen17
-   82.58   2.58    Costa06
-   84.03   2.18    (see distances below)
-   78.76   1.04    Bartlett17
-   82.4    0.8     van Grootel17
-   79.59   0.78    Boss17         no planet > ~4.6 M Jup orbits with a 1 y per, and no planet > ~1.6 M Jup orbits with a 5 y per
-   80.4512 0.1211  Gaia-DR2
+   80.09   ±1.17    Weinb16        DO NOT USE - superseded by Boss17
+   81      ±8       Theissen17
+   82.58   ±2.58    Costa06
+   84.03   ±2.18    (see distances below)
+   78.76   ±1.04    Bartlett17
+   82.4    ±0.8     van Grootel17
+   79.59   ±0.78    Boss17         no planet > ~4.6 M Jup orbits with a 1 y per, and no planet > ~1.6 M Jup orbits with a 5 y per
+   80.4512 ±0.1211  Gaia-DR2
 
-   80.4670 0.1173  Weighted avg
-   81.00   1.41    Median
+   80.4670 ±0.1173  Weighted avg
+   81.00   ±1.41    Median
 
 Distances [not derived from parallax] (pc)
-    8.6           Bouy03         116.28   DO NOT USE - too deviant
-   11.0   0.9     Cruz07          90.91
-   11.3           Gizis00         88.50
-   11.6   1.8     Winters15       86.21
-   11.9           Reid07          84.03
-   12.1   1.2     Cruz03          82.64
-   12.2   3.6     Winters15       81.97
-   13.0           Gizis03         76.92
+    8.6            Bouy03         116.28   DO NOT USE - too deviant
+   11.0   ±0.9     Cruz07          90.91
+   11.3            Gizis00         88.50
+   11.6   ±1.8     Winters15       86.21
+   11.9            Reid07          84.03
+   12.1   ±1.2     Cruz03          82.64
+   12.2   ±3.6     Winters15       81.97
+   13.0            Gizis03         76.92
 
-   11.90  0.30    median          84.03 2.18
+   11.90  ±0.30    median          84.03 2.18
 
 V (mag)
+   17.02  ±0.2    Muirhead18    DO NOT USE (Superblink estimate)
    18.75  ±0.012  Winters15
    18.798 ±0.082  Costa06
 
@@ -53,7 +55,9 @@ V (mag)
 
 Photometry - anoter bands (mag)
    19.88            Winters15      B
+   19.35   ± 0.02   PS             g 
    18.9982 ± 0.0476 Gaia-DR2       BP
+   17.87   ± 0.01   PS             r 
    17.32            Winters15      F
    16.67            Reid07         R
    16.54            Winters15      R
@@ -61,6 +65,7 @@ Photometry - anoter bands (mag)
    16.401  ± 0.004  Liebert06      Rc
    16.5    ± 0.5    Luger17        Kp  (Kepler mag)
    15.6451 ± 0.0014 Gaia-DR2       G
+   15.13   ± 0.01   PS             i 
    15.10            Bouy03         I
    14.10            Winters15      I
    14.0967 ± 0.0086 Gaia-DR2       RP
@@ -68,7 +73,9 @@ Photometry - anoter bands (mag)
    14.004  ± 0.013  Gizis03        I
    14.0    ± 0.1    Bouy03         F814W
    13.966  ± 0.002  Liebert06      Ic
+   13.73   ± 0.01   PS             z 
    13.58            Winters15      N
+   12.97   ± 0.01   PS             y 
    12.0    ± 0.1    Bouy03         F1042M
    11.354  ± 0.022  2MASS          J
    10.718  ± 0.021  2MASS          H
@@ -77,6 +84,7 @@ Photometry - anoter bands (mag)
     9.807  ± 0.020  ALLWISE        W2
     9.510  ± 0.044  ALLWISE        W3
     8.565           ALLWISE        W4
+   
 
 Spectral Type
    M 7.5          Dupuy12        opt
@@ -93,38 +101,46 @@ Spectral Type
    M 7.75 ± 0.25  median
 
 Mass (MSun)
+  0.0898 ± 0.0023  Ducrot20
   0.0890 ± 0.0070  Delrez17
-  0.089  ± 0.006   van Grootel17
+  0.0889 ± 0.0068  van Grootel18
+  0.0859 ± 0.0076  Gonzales19     (90 ± 8 MJup)
   0.0822           Filippazzo15   (86.07 ± 9.28 MJup)
   0.081  ± 0.004/3 Huber17
   0.0802 ± 0.0073  Gillon16
   0.080            Wakeford18
 
-  0.0816 ± 0.0015  average
+  0.0841 ± 0.0040  median
 
 Radius (RSun)
+  0.1234 ± 0.0033  Ducrot20
   0.1210 ± 0.0030  Delrez17
-  0.121  ± 0.003   van Grootel17
+  0.1182 ± 0.0029  van Grootel18
   0.119  ± 0.0051  Mullan18
   0.117  ± 0.0036  Gillon16
   0.117            Wakeford18
+  0.1164 ± 0.0030  Gonzales19     (1.16 ± 0.03 RJup)
   0.1146           Filippazzo15   (1.14 ± 0.04 RJup)
   0.102  ± 0.005/3 Huber17
-
-  0.1170 ± 0.0024  median
+  
+  0.1170 ± 0.0020  median
 
 Teff (K)
+  2628 ± 42       Gonzales19
   2559 ± 50       Gillon16
   2557 ± 64       Filippazzo15
   2550            Gautier07
+  2520 ± 39       Ducrot20
   2519 ± 51       Mullan18
-  2516 ± 41       van Grootel17
+  2516 ± 41       van Grootel18
   2511 ± 37       Delrez17
   2479            Gautier07
+  2400            Rajpurohit18
   2400            Wakeford18
   2321 ± 125/89   Huber17
+  2310 ± 230      Gonzales19
 
-  2516 ± 37       median
+  2516 ± 41       median
 
 Abundance ([Fe/H])
  +0.04  ± 0.08     Gillon16
@@ -133,9 +149,11 @@ Abundance ([Fe/H])
  -0.02  ± 0.06     median
 
 Age (GYr)
-     <0.2        Dimitrienko18   DO NOT USE - too deviant
+     <0.2        Dimitrienko18
+     <0.5        Gonzales19
      >0.4        Luger17?
    0.5 - 10      Filippazzo15
+   0.5 - 10      Gonzales19
      3 - 8       Luger17
      2 ± 1       Dimitrienko18
    7.6 ± 2.2     Burgasser17

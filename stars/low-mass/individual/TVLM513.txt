@@ -15,12 +15,16 @@ Boo
 
 Shows hints of an unseen companion with undetermined mass
 
-   92.92   0.23   Forbrich13
+  101.8    5.2    Tinney95
+  100.8    2.3    vanAltena95
    94.40   0.60   Dahn02
    94.55   0.55   Dahn17
-  100.8    2.3    vanAltena95
-  101.8    5.2    Tinney95
-
+   92.92   0.23   Forbrich13
+   93.27   0.18   Gawronski17
+   93.450  0.195  Gaia DR2
+   93.368  0.039  Curiel20
+   
+   93.367  0.037  Weighted average
 
   M 8 e            1994ApJ...436..262M
   M 8.5 V          2001ApJ...548..908L
@@ -62,12 +66,26 @@ Shows hints of an unseen companion with undetermined mass
   W3      9.552 0.040   WISE
 
 
-
-
-
   -34     7      -54     9    2003AJ....125..984M
   -24.6   0.2    -57.9   0.4  2002AJ....124.1170D
   -55    55      -59    59    2007AJ....133.2258S
 
 RV  (km/s) 6    2   (Opt)   2015ApJS..220...18B
            5.9  2.4         BDKP IV
+
+
+PLANET!
+
+An astrometric planetary companion candidate to the M9 Dwarf TVLM 513-46546
+
+Salvador Curiel, Gisela N. Ortiz-León, Amy J. Mioduszewski, Rosa M. Torres
+
+Astrometric observations of the M9 dwarf TVLM 513-46546 taken with the VLBA
+reveal an astrometric signature consistent with a period of 221 ± 5 days.
+The orbital fit implies that the companion has a mass mp = 0.35-0.42 MJ,
+a circular orbit (e~0), a semi-major axis a = 0.28-0.31 AU and an inclination
+angle i = 71-88°. The detected companion, TVLM~513b, is one of the few
+giant-mass planets found associated to UCDs. The presence of a Saturn-like
+planet on a circular orbit, 0.3 AU from a 0.06-0.08 MSun star, represents a
+challenge to planet formation theory. This is the first astrometric detection
+of a planet at radio wavelengths.

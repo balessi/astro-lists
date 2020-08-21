@@ -72,11 +72,12 @@ Wolf 1061         d            C  CT  >  7.7   E  217.21  d    0.470    0.55
 van Maanen 2                   C  HD  <  0.01  E                                           Small asteroidal bodies, dust; companions claimed by Peter van de Kamp (1971), Gatewood and Russell (1974) were ruled out
 van Maanen 2                   R  CJ     0.06  S    1.57  y    1.19                        Claimed by Makarov (2004), Dismissed by Farihi (2004), Any body with Mass > 4 MJ ruled out by Farihi (2008)
 Luyten 1159-16    b            U  HT  >  4.0   E    1.931 d    0.016    0.09               
-Luyten 1159-16    c            U  CN  > 26.0   E  243.2   d    0.406    0.15
-Luyten 1159-16    d            U  CJ  >  0.256 J  773     d    0.881    0.22
+Luyten 1159-16    c            C  CN  > 30.9   E  241.9   d    0.403    0.18
+Luyten 1159-16    d            C  CJ  >  0.225 J  767.9   d    0.870    0.33
 CD-46 11540       b            C  HN  > 11.8   E    4.694 d    0.039    0.2                
-BD+68 946         b            C  WN  > 18.4   E   38.14  d    0.164    0.04               
-BD+68 946         c            D  CJ  ~  0.23  J >668     d   >1.1                         Kervella+, 2019
+BD+68 946         b            C  WN  > 17.2   E   38.14  d    0.163    0.27               
+BD+68 946         c            C  CN  > 16.0   E  728     d    1.16     0.40               Feng+, 2020, same obj as Kervella+ 2019? det by RV
+BD+68 946         c?           D  CJ  ~  0.23  J >668     d   >1.1                         Kervella+, 2019, same obj as Feng+ 2020? det by astrometry
 L 145-141         b            U  CJ     2     J   39.2   y   10.5                         Kervella+, 2019, 1 < m < 3, 1 < sma < 20
 Ross 780          d            C  HT  >  6.83  E    1.938 d    0.0208   0.207              
 Ross 780          f            R  HT  >  7.95  E   10.01  d    0.065    0.090              Probably not real

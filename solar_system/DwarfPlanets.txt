@@ -279,7 +279,9 @@ Number Name        Diam               Source                      Primary plus S
  50000 Quaoar           844 + 207 -190    Stansberry et al. 2008       ~841         ~67
  50000 Quaoar           830 + 178 -142    Brucker et al. 2009          ~827         ~66
  
+ 90377 Sedna           1305 ± 565         Rommel et al. 2020
  90377 Sedna           1060 ± 100         TNOs are cool VII                                           (std thermal model)
+ 90377 Sedna           1025 ± 135         Rommel et al. 2020
  90377 Sedna            995 ± 80          TNOs are cool VII                                           (thermophys model)
  90377 Sedna            906 + 314 -258    Lellouch et al. 2014
  90377 Sedna           >700               Braga-Ribas et al. 2014
@@ -417,7 +419,10 @@ Number Name        Diam               Source                      Primary plus S
 
 145451 2005 RM43        644               LuckyStar 2018, occult
 145451 2005 RM43        524 +96-103       TNOs are Cool XV
+145451 2005 RM43        459.61 ± 8.6      Rommel et al. 2020
 145451 2005 RM43        456               LuckyStar 2019, occult
+145451 2005 RM43        455.11 ± 19.8     Rommel et al. 2020
+145451 2005 RM43        436.98 ± 18.3     Rommel et al. 2020
 
      2 Pallas           512 ± 6           Carry et al. 2009 (mean diam)
 

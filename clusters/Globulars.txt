@@ -1,3 +1,7 @@
+Bruno's list of Globulars in the Milky Way and Milky Way satellites
+Besides GCs, it contains UFDs (Ultra-Faint Dwarfs), SSCs (Super Star Clusters), NCs (Nuclear CLusters) and RSGs (Red Supergiant Clusters)
+It also contains all objects thought to be GCs, but that were dimissed as such
+
 Cluster's Name      Alias                    Cns  Coordinates (J2000.0)   Gx     Wave Type    Diam'  Dst_pc Vmag  E(B-V) Log_t  Comments
 
 2MASS-GC 1          Hurt 1, FSR 40           Sgr  18 08 21.8 -19 49 46.9  MW     IR   GC        3.3    3080        6.80  10.10  
@@ -15,7 +19,7 @@ Arp-Madore 1        E 1                      Hor  03 55 02.4 -49 36 24.1  MW    
 Arp-Madore 4        AM 1353-265              Hya  13 56 21.1 -27 10 03.0  SgrDEG Op   GC        1.3   33000        0.05   9.95  
 BDSB 122            RSGC 1                   Sct  18 37 58.0 -06 53 00.0  MW     IR   RSG       5.0    7440               7.08  Proeminent, massive cluster
 BH 131                                       Cru  12 26 27.7 -63 24 59.0  MW     Op   GC??      1.5   12000               9.20  Alessi: rich, unstudied group
-BH 140              FSR 1632                 Mus  12 53 50.9 -67 10 48.0  MW     Op   GC??     10.8    5230        1.85   8.20  Age is wrong?
+BH 140              FSR 1632                 Mus  12 53 50.9 -67 10 48.0  MW     Op   GC       10.8    5230        1.85   9.81  
 BH 176              ESO 224-8                Nor  15 39 05.3 -50 03 03.6  CMaDw  Op   GC       12.0   18887        0.54   9.80  
 BLISS 1             BLISS J0321+0438         Cet  03 21 43.6 +04 38 34.0  MW     Op   GC        1.2   23700                     UFD with MV +0.0 and Rh 4.1 pc
 Balbinot 1          SDSS J2211+1457          Peg  22 10 43.0 +14 56 30.0  MW     Op   GC/OC     2.0   31900              10.07  UFD with MV -1.2, Spatially close to Messier 2, SEGUE 3 and Kim 1
@@ -51,7 +55,7 @@ ESO 456-29          Gran 1                   Sgr  17 58 35.9 -32 01 14.0  MW    
 ESO 456-38          Djorgovski 2             Sgr  18 01 49.0 -27 49 01.2  MW     Op   GC       10.2    6305        0.94   9.95  
 ESO 559-2                                    CMa  07 18 05.4 -18 35 44.0  MW     Op   GC??      1.6    7700                     Alessi: very compact, but probably an OC
 ESO 92-18                                    Car  10 14 55.2 -64 36 40.0  MW     Op   GC??      3.0   31250        0.31   9.15  Alessi: very rich and compact
-ESO 93-8                                     Car  11 19 41.0 -65 13 01.0  MW     Op   GC??      4.6   13890;              9.80  Alessi: very rich and compact 
+ESO 93-8                                     Car  11 19 41.0 -65 13 01.0  MW     Op   GC??      4.6   13890               9.80  Alessi: very rich and compact 
 Eri Cl              Eri (I), ESO 551-1       Eri  04 24 44.7 -21 11 24.0  MW     Op   GC        1.0   89760        0.02  10.00                
 Eri II Cl                                    Eri  03 44 22.2 -43 31 59.2  EriII  Op   GC/NC     0.5  366000 19.4   0.01   9.40  Age is approximate
 Eri III             DES J0222-5217           Eri  02 22 45.5 -52 17 01.0  MW     Op   EGC       1.4   77600        0.02  10.08  UFD with MV -2.7, Easily visible in PanSTARRS
@@ -455,7 +459,7 @@ Teutsch J1520-6057                           Cir  15 20 11.0 -60 57 06.0  MW    
 UKS 2               BH 66, ESO 166-11        Vel  09 25 18.0 -54 43 00.0  MW     Op   OC        2.8   10309                     Webbink 1985
 VVV-CL 119                                   Sco  17 30 46.0 -32 39 05.0  MW     IR   OC?       0.9                             Alessi: prob an OC
 VVV-CL 128                                   Sco  17 39 57.2 -32 28 30.0  MW     IR   OC?       0.5                             Alessi: prob an OC
-VVV-CL 131                                   Sco  17 41 17.0 -34 34 02.0  MW     Op   OC??      0.8                             Alessi: does not stands well, GDR2 check is dubious at best
+VVV-CL 131                                   Sco  17 41 17.0 -34 34 02.0  MW     Op   OC??      0.8                             Alessi: does not stand well, GDR2 check is dubious at best
 VVV-CL 143                                   Sco  17 44 36.0 -33 44 18.0  MW     IR   OC?       0.8    7800                     Alessi: poss an OC
 VVV-CL 150                                   Sgr  17 50 41.0 -25 13 06.0  MW     IR   OC?       0.4    7000                     Alessi: prob an OC
 VVV-CL 154                                   Sgr  17 55 08.0 -28 06 01.0  MW     IR   OC?       0.3                             Old OC or GC?      

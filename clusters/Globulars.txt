@@ -467,3 +467,342 @@ VVV-CL 3                                     Oph  17 38 55.0 -29 54 25.0  MW    
 VVV-CL 4                                     Sgr  17 54 32.0 -22 13 38.0  MW     IR   *Ast      1.0                             
 VVVX-CL 109                                  Sct  18 24 54.9 -13 07 12.3  MW     IR   OC?       1.2                             Alessi: prob an OC
 VVVX-CL 46          Ryu 325                  Ara  16 42 49.5 -49 28 01.9  MW     IR   OC?       1.7                             Alessi: Open, irr, seems to be not a GC
+
+
+Name             Member of                       Type        Reference
+----------------------------------------------------------------------------
+2MASS-GC 1       No Kinematics                   GC          Massari, 2019
+2MASS-GC 2       No Kinematics                   GC          Massari, 2019
+AM-1             High Energy                     GC          Massari, 2019
+AM-1             High-Energy                     GC          Forbes, 2020
+AM-2             CMa                             OC          Forbes, 2010
+AM-4             No Kinematics                   UFD         Massari, 2019
+AM-4             Sagittarius                     UFD         Forbes, 2010
+AM-4             Sagittarius                     UFD         Forbes, 2020
+Arp 2            Sagittarius                     GC          Forbes, 2010
+Arp 2            Sagittarius                     GC          Massari, 2019
+Arp 2            Sagittarius                     GC          Kruijssen, 2020
+Arp 2            Sagittarius                     GC          Forbes, 2020
+BH 176           CMa                             GC          <todo>
+BH 176           Main Disk                       GC          Massari, 2019
+BH 261           Main Bulge                      GC          Massari, 2019
+Berk 29          Sagttarius                      OC          Forbes, 2010
+Crater           High Energy                     EGC         Massari, 2019
+Crater           High-Energy                     EGC         Forbes, 2020
+DES J0111-1341   Sagittarius                     UFD         Luque, 2017
+DES J0225+0304   Sagittarius                     UFD         Luque, 2017
+Djorg 1          Gaia-Enceladus                  GC          Massari, 2019
+Djorg 1          Gaia-Enceladus                  GC          Forbes, 2020
+Djorg 2          Main Bulge                      GC          Massari, 2019
+Dolidze 25       CMa                             OB/OC       <todo>
+E 3              Helmi streams?                  GC          Massari, 2019
+ESO 280-6        Gaia-Enceladus                  GC          Massari, 2019
+ESO 280-6        Gaia-Enceladus                  GC          Forbes, 2020
+ESO 452-11       Main Bulge                      GC          Massari, 2019
+Eridanus         High Energy                     GC          Massari, 2019
+Eridanus         High-Energy                     GC          Forbes, 2020
+FSR 1716         Main Disk                       GC          Massari, 2019
+FSR 1735         Koala                           GC          Forbes, 2020
+FSR 1735         Low Energy                      GC          Massari, 2019
+FSR 1758         Sequoia                         GC          Massari, 2019
+FSR 1758         Sequoia                         GC          Forbes, 2020
+GLIMPSE 1        No Kinematics                   GC          Massari, 2019
+GLIMPSE 2        No Kinematics                   GC          Massari, 2019
+HP 1             Main Bulge                      GC          Massari, 2019
+Haffner 18       CMa                             OC          <todo>
+IC 1257          Gaia-Enceladus                  GC          Massari, 2019
+IC 1257          Gaia-Enceladus                  GC          Forbes, 2020
+IC 1276          Main Disk                       GC          Massari, 2019
+IC 4499          Sequoia                         GC h        Massari, 2019
+IC 4499          Sequoia                         GC h        Kruijssen, 2020
+IC 4499          Sequoia                         GC h        Forbes, 2020
+Koposov 1        No Kinematics                   UFD         Massari, 2019
+Koposov 2        No Kinematics                   UFD         Massari, 2019
+Liller 1         No Kinematics                   GC          Massari, 2019
+Lynga 7          Main Disk                       GC          Massari, 2019
+NGC 104          Main Disk                       GC h        Massari, 2019
+NGC 1261         CMa?                            GC          <todo>
+NGC 1261         Gaia-Enceladus                  GC          Massari, 2019
+NGC 1261         Gaia-Enceladus                  GC          Kruijssen, 2020
+NGC 1261         Gaia-Enceladus                  GC          Forbes, 2020
+NGC 1851         CMa                             GC h        Forbes, 2010
+NGC 1851         Gaia-Enceladus                  GC h        Massari, 2019
+NGC 1851         Gaia-Enceladus                  GC h        Kruijssen, 2020
+NGC 1851         Gaia-Enceladus                  NC h        Forbes, 2020
+NGC 1904         CMa                             GC          Forbes, 2010
+NGC 1904         Gaia-Enceladus                  GC          Massari, 2019
+NGC 1904         Gaia-Enceladus                  GC          Kruijssen, 2020
+NGC 1904         Gaia-Enceladus                  GC          Forbes, 2020
+NGC 2298         CMa                             GC          Forbes, 2010
+NGC 2298         Gaia-Enceladus                  GC          Massari, 2019
+NGC 2298         Gaia-Enceladus                  GC          Kruijssen, 2020
+NGC 2298         Gaia-Enceladus                  GC          Forbes, 2020
+NGC 2419         Sagittarius                     EGC         Massari, 2019
+NGC 2419         Sagittarius                     EGC         Kruijssen, 2020
+NGC 2419         Sagittarius                     EGC         Forbes, 2020
+NGC 2808         CMa                             GC          Forbes, 2010
+NGC 2808         Gaia-Enceladus                  GC          Massari, 2019
+NGC 2808         Gaia-Enceladus                  GC          Kruijssen, 2020
+NGC 2808         Gaia-Enceladus                  GC          Forbes, 2020
+NGC 288          Gaia-Enceladus                  GC          Massari, 2019
+NGC 288          Gaia-Enceladus                  GC          Kruijssen, 2020
+NGC 288          Gaia-Enceladus                  GC          Forbes, 2020
+NGC 3201         Sequoia                         GC          Forbes, 2020
+NGC 3201         Sequoia/Gaia-Enceladus          GC          Kruijssen, 2020
+NGC 3201         Sequoia/Gaia-Enceladus          GC          Massari, 2019
+NGC 362          Gaia-Enceladus                  GC          Massari, 2019
+NGC 362          Gaia-Enceladus                  GC          Kruijssen, 2020
+NGC 362          Gaia-Enceladus                  GC          Forbes, 2020
+NGC 4147         Gaia-Enceladus                  GC          Massari, 2019
+NGC 4147         Gaia-Enceladus                  GC          Kruijssen, 2020
+NGC 4147         Gaia-Enceladus                  GC          Forbes, 2020
+NGC 4147         Sagittarius                     GC          Forbes, 2010
+NGC 4372         Main Disk                       GC          Massari, 2019
+NGC 4590         CMa                             GC          Forbes, 2010
+NGC 4590         Helmi streams                   GC          Massari, 2019
+NGC 4590         Helmi streams                   GC          Kruijssen, 2020
+NGC 4590         Helmi streams                   GC          Forbes, 2020
+NGC 4833         Gaia-Enceladus                  GC          Massari, 2019
+NGC 4833         Gaia-Enceladus                  GC          Kruijssen, 2020
+NGC 4833         Gaia-Enceladus                  GC          Forbes, 2020
+NGC 5024         Helmi streams                   GC          Massari, 2019
+NGC 5024         Helmi streams                   GC          Kruijssen, 2020
+NGC 5024         Helmi streams                   GC          Forbes, 2020
+NGC 5053         Helmi streams                   GC          Massari, 2019
+NGC 5053         Helmi streams                   GC          Kruijssen, 2020
+NGC 5053         Helmi streams                   GC          Forbes, 2020
+NGC 5139         Gaia-Enceladus                  NC          Pfeffer, 2020
+NGC 5139         Gaia-Enceladus/Sequoia          GC          Kruijssen, 2020
+NGC 5139         Gaia-Enceladus/Sequoia          GC          Massari, 2019
+NGC 5139         Sequoia                         NC          Forbes, 2020
+NGC 5272         Helmi streams                   GC          Massari, 2019
+NGC 5272         Helmi streams                   GC          Kruijssen, 2020
+NGC 5272         Helmi streams                   GC          Forbes, 2020
+NGC 5286         CMa                             GC          <todo>
+NGC 5286         Gaia-Enceladus                  GC          Massari, 2019
+NGC 5286         Gaia-Enceladus                  GC          Kruijssen, 2020
+NGC 5286         Gaia-Enceladus                  GC          Forbes, 2020
+NGC 5466         Sequoia                         GC          Massari, 2019
+NGC 5466         Sequoia                         GC          Kruijssen, 2020
+NGC 5466         Sequoia                         GC          Forbes, 2020
+NGC 5634         Helmi streams                   GC          Forbes, 2020
+NGC 5634         Helmi/Gaia-Enceladus            GC          Kruijssen, 2020
+NGC 5634         Helmi/Gaia-Enceladus            GC          Massari, 2019
+NGC 5634         Sagittarius                     GC          Forbes, 2010
+NGC 5694         High Energy                     GC h        Massari, 2019
+NGC 5694         High-Energy                     GC h        Forbes, 2020
+NGC 5824         Sagittarius                     GC          Massari, 2019
+NGC 5824         Sagittarius                     GC          Kruijssen, 2020
+NGC 5824         Sagittarius                     GC          Forbes, 2020
+NGC 5897         Gaia-Enceladus                  GC          Massari, 2019
+NGC 5897         Gaia-Enceladus                  GC          Kruijssen, 2020
+NGC 5897         Gaia-Enceladus                  GC          Forbes, 2020
+NGC 5904         Helmi streams                   GC          Forbes, 2020
+NGC 5904         Helmi/Gaia-Enceladus            GC          Kruijssen, 2020
+NGC 5904         Helmi/Gaia-Enceladus            GC          Massari, 2019
+NGC 5927         Main Disk                       GC          Massari, 2019
+NGC 5946         Koala                           GC          Forbes, 2020
+NGC 5946         Kraken                          GC          Kruijssen, 2020
+NGC 5946         Low Energy                      GC          Massari, 2019
+NGC 5986         Koala                           GC          Forbes, 2020
+NGC 5986         Kraken                          GC          Kruijssen, 2020
+NGC 5986         Low Energy                      GC          Massari, 2019
+NGC 6093         Koala                           GC          Forbes, 2020
+NGC 6093         Kraken                          GC          Kruijssen, 2020
+NGC 6093         Low Energy                      GC          Massari, 2019
+NGC 6101         Sequoia                         GC          Forbes, 2020
+NGC 6101         Sequoia/Gaia-Enceladus          GC          Kruijssen, 2020
+NGC 6101         Sequoia/Gaia-Enceladus          GC          Massari, 2019
+NGC 6121         Kraken                          GC          Kruijssen, 2020
+NGC 6121         Low Energy                      GC          Massari, 2019
+NGC 6139         Koala                           GC          Forbes, 2020
+NGC 6139         Low Energy                      GC          Massari, 2019
+NGC 6144         Koala                           GC          Forbes, 2020
+NGC 6144         Kraken                          GC          Kruijssen, 2020
+NGC 6144         Low Energy                      GC          Massari, 2019
+NGC 6171         Main Bulge                      GC          Massari, 2019
+NGC 6205         Gaia-Enceladus                  GC          Massari, 2019
+NGC 6205         Gaia-Enceladus                  GC          Kruijssen, 2020
+NGC 6205         Gaia-Enceladus                  GC          Forbes, 2020
+NGC 6218         Main Disk                       GC          Massari, 2019
+NGC 6229         Gaia-Enceladus                  GC          Massari, 2019
+NGC 6229         Gaia-Enceladus                  GC          Forbes, 2020
+NGC 6235         Gaia-Enceladus                  GC          Massari, 2019
+NGC 6235         Gaia-Enceladus                  GC          Kruijssen, 2020
+NGC 6235         Gaia-Enceladus                  GC          Forbes, 2020
+NGC 6254         Koala                           GC          Forbes, 2020
+NGC 6254         Kraken                          GC          Kruijssen, 2020
+NGC 6254         Low Energy                      GC          Massari, 2019
+NGC 6256         Koala                           GC          Forbes, 2020
+NGC 6256         Low Energy                      GC          Massari, 2019
+NGC 6266         Main Bulge                      GC          Massari, 2019
+NGC 6273         Koala                           GC          Forbes, 2020
+NGC 6273         Kraken                          GC          Kruijssen, 2020
+NGC 6273         Kraken                          NC          Pfeffer, 2020
+NGC 6273         Low Energy                      GC          Massari, 2019
+NGC 6284         Gaia-Enceladus                  GC          Massari, 2019
+NGC 6284         Gaia-Enceladus                  GC          Kruijssen, 2020
+NGC 6284         Gaia-Enceladus                  GC          Forbes, 2020
+NGC 6287         Koala                           GC          Forbes, 2020
+NGC 6287         Kraken                          GC          Kruijssen, 2020
+NGC 6287         Low Energy                      GC          Massari, 2019
+NGC 6293         Main Bulge                      GC          Massari, 2019
+NGC 6304         Main Bulge                      GC          Massari, 2019
+NGC 6316         Main Bulge                      GC          Massari, 2019
+NGC 6325         Main Bulge                      GC          Massari, 2019
+NGC 6333         Koala                           GC          Forbes, 2020
+NGC 6333         Low Energy                      GC          Massari, 2019
+NGC 6341         Gaia-Enceladus                  GC          Massari, 2019
+NGC 6341         Gaia-Enceladus                  GC          Kruijssen, 2020
+NGC 6341         Gaia-Enceladus                  GC          Forbes, 2020
+NGC 6342         Main Bulge                      GC          Massari, 2019
+NGC 6352         Main Disk                       GC          Massari, 2019
+NGC 6355         Main Bulge                      GC          Massari, 2019
+NGC 6356         Main Disk                       GC          Massari, 2019
+NGC 6362         Main Disk                       GC          Massari, 2019
+NGC 6366         Main Disk                       GC          Massari, 2019
+NGC 6380         Main Bulge                      GC          Massari, 2019
+NGC 6388         Main Bulge                      GC          Massari, 2019
+NGC 6397         Main Disk                       GC          Massari, 2019
+NGC 6401         Koala                           GC          Forbes, 2020
+NGC 6401         Low Energy                      GC          Massari, 2019
+NGC 6402         Koala                           GC          Forbes, 2020
+NGC 6402         Low Energy                      GC          Massari, 2019
+NGC 6426         High Energy                     GC          Massari, 2019
+NGC 6426         High-Energy                     GC          Forbes, 2020
+NGC 6440         Main Bulge                      GC          Massari, 2019
+NGC 6441         Kraken/Main                     GC          Kruijssen, 2020
+NGC 6441         Low Energy                      GC          Massari, 2019
+NGC 6453         Koala                           GC          Forbes, 2020
+NGC 6453         Low Energy                      GC          Massari, 2019
+NGC 6496         Main Disk                       GC          Massari, 2019
+NGC 6517         Koala                           GC          Forbes, 2020
+NGC 6517         Low Energy                      GC          Massari, 2019
+NGC 6522         Main Bulge                      GC          Massari, 2019
+NGC 6528         Main Bulge                      GC          Massari, 2019
+NGC 6535         Kraken/Sequoia                  GC          Kruijssen, 2020
+NGC 6535         Low Energy/Sequoia              GC          Massari, 2019
+NGC 6535         Sequoia                         GC          Forbes, 2020
+NGC 6539         Main Bulge                      GC          Massari, 2019
+NGC 6540         Main Bulge                      GC          Massari, 2019
+NGC 6541         Koala                           GC          Forbes, 2020
+NGC 6541         Kraken                          GC          Kruijssen, 2020
+NGC 6541         Low Energy                      GC          Massari, 2019
+NGC 6544         Koala                           GC          Forbes, 2020
+NGC 6544         Kraken                          GC          Kruijssen, 2020
+NGC 6544         Low Energy                      GC          Massari, 2019
+NGC 6553         Main Bulge                      GC          Massari, 2019
+NGC 6558         Main Bulge                      GC          Massari, 2019
+NGC 6569         Main Bulge                      GC          Massari, 2019
+NGC 6584         High Energy                     GC          Massari, 2019
+NGC 6584         High-Energy                     GC          Forbes, 2020
+NGC 6624         Main Bulge                      GC          Massari, 2019
+NGC 6626         Main Bulge                      GC          Massari, 2019
+NGC 6637         Main Bulge                      GC          Massari, 2019
+NGC 6638         Main Bulge                      GC          Massari, 2019
+NGC 6642         Main Bulge                      GC          Massari, 2019
+NGC 6652         Main Bulge                      GC          Massari, 2019
+NGC 6656         Main Disk                       GC          Massari, 2019
+NGC 6681         Koala                           GC          Forbes, 2020
+NGC 6681         Kraken                          GC          Kruijssen, 2020
+NGC 6681         Low Energy                      GC          Massari, 2019
+NGC 6712         Koala                           GC          Forbes, 2020
+NGC 6712         Kraken                          GC          Kruijssen, 2020
+NGC 6712         Low Energy                      GC          Massari, 2019
+NGC 6715         Sagittarius                     NC          Forbes, 2010
+NGC 6715         Sagittarius                     NC          Massari, 2019
+NGC 6715         Sagittarius                     NC          Kruijssen, 2020
+NGC 6715         Sagittarius                     NC          Pfeffer, 2020
+NGC 6715         Sagittarius                     NC          Forbes, 2020
+NGC 6717         Main Bulge                      GC          Massari, 2019
+NGC 6723         Main Bulge                      GC          Massari, 2019
+NGC 6749         Main Disk                       GC          Massari, 2019
+NGC 6752         Main Disk                       GC          Massari, 2019
+NGC 6760         Main Disk                       GC          Massari, 2019
+NGC 6779         Gaia-Enceladus                  GC          Massari, 2019
+NGC 6779         Gaia-Enceladus                  GC          Kruijssen, 2020
+NGC 6779         Gaia-Enceladus                  GC          Forbes, 2020
+NGC 6809         Koala                           GC          Forbes, 2020
+NGC 6809         Kraken                          GC          Kruijssen, 2020
+NGC 6809         Low Energy                      GC          Massari, 2019
+NGC 6838         Main Disk                       GC          Massari, 2019
+NGC 6864         Gaia-Enceladus                  GC          Massari, 2019
+NGC 6864         Gaia-Enceladus                  GC          Kruijssen, 2020
+NGC 6864         Gaia-Enceladus                  GC          Forbes, 2020
+NGC 6934         Helmi streams                   NC          Pfeffer, 2020
+NGC 6934         High Energy                     GC          Massari, 2019
+NGC 6934         High-Energy                     GC          Forbes, 2020
+NGC 6981         Helmi streams                   GC          Massari, 2019
+NGC 6981         Helmi streams                   GC          Kruijssen, 2020
+NGC 6981         Helmi streams                   GC          Forbes, 2020
+NGC 7006         Sequoia                         GC          Massari, 2019
+NGC 7006         Sequoia                         GC          Kruijssen, 2020
+NGC 7006         Sequoia                         GC          Forbes, 2020
+NGC 7078         Main Disk                       GC          Massari, 2019
+NGC 7089         Gaia-Enceladus                  GC          Massari, 2019
+NGC 7089         Gaia-Enceladus                  GC          Kruijssen, 2020
+NGC 7089         Gaia-Enceladus                  GC          Forbes, 2020
+NGC 7099         Gaia-Enceladus                  GC          Massari, 2019
+NGC 7099         Gaia-Enceladus                  GC          Kruijssen, 2020
+NGC 7099         Gaia-Enceladus                  GC          Forbes, 2020
+NGC 7492         Gaia-Enceladus                  GC          Massari, 2019
+NGC 7492         Gaia-Enceladus                  GC          Kruijssen, 2020
+NGC 7492         Gaia-Enceladus                  GC          Forbes, 2020
+PS1 1            Sagittarius                     UFD         <todo>
+Pal 1            CMa                             GC          Forbes, 2010
+Pal 1            Gaia-Enceladus                  GC          Forbes, 2020
+Pal 1            Main Disk                       GC          Massari, 2019
+Pal 10           Main Disk                       GC          Massari, 2019
+Pal 11           Main Disk                       GC          Massari, 2019
+Pal 12           Sagittarius                     GC          Forbes, 2010
+Pal 12           Sagittarius                     GC          Massari, 2019
+Pal 12           Sagittarius                     GC          Kruijssen, 2020
+Pal 12           Sagittarius                     GC          Forbes, 2020
+Pal 13           Sequoia                         GC          Massari, 2019
+Pal 13           Sequoia                         GC          Forbes, 2020
+Pal 14           High Energy                     EGC         Massari, 2019
+Pal 14           High-Energy                     EGC         Forbes, 2020
+Pal 15           Gaia-Enceladus                  GC          Forbes, 2020
+Pal 15           Gaia-Enceladus?                 GC          Massari, 2019
+Pal 2            Gaia-Enceladus?                 GC          Massari, 2019
+Pal 2            Gaia-Enceladus?                 GC          Forbes, 2020
+Pal 2            Sagittarius                     GC          <todo>
+Pal 3            High Energy                     GC          Massari, 2019
+Pal 3            High-Energy                     GC          Forbes, 2020
+Pal 4            High Energy                     GC          Massari, 2019
+Pal 4            High-Energy                     GC          Forbes, 2020
+Pal 5            Helmi streams                   EGC t       Forbes, 2020
+Pal 5            Helmi streams?                  EGC t       Massari, 2019
+Pal 6            Low Energy                      GC          Massari, 2019
+Pal 8            Main Disk                       GC          Massari, 2019
+Pyxis            High Energy                     GC          Massari, 2019
+Pyxis            High-Energy                     GC          Forbes, 2020
+Rup 106          CMa                             GC          Forbes, 2010
+Rup 106          Helmi streams                   GC          Forbes, 2020
+Rup 106          Helmi streams?                  GC          Massari, 2019
+Saurer 1         Sagittarius                     OC          Forbes, 2010
+Terzan 1         Main Bulge                      GC          Massari, 2019
+Terzan 10        Gaia-Enceladus                  GC          Massari, 2019
+Terzan 10        Gaia-Enceladus                  GC          Forbes, 2020
+Terzan 12        Main Disk                       GC          Massari, 2019
+Terzan 2         Main Bulge                      GC          Massari, 2019
+Terzan 3         Main Disk                       GC          Massari, 2019
+Terzan 4         Main Bulge                      GC          Massari, 2019
+Terzan 5         Main Bulge                      GC pec      Massari, 2019
+Terzan 6         Main Bulge                      GC          Massari, 2019
+Terzan 7         Sagittarius                     GC          Forbes, 2010
+Terzan 7         Sagittarius                     GC          Massari, 2019
+Terzan 7         Sagittarius                     GC          Kruijssen, 2020
+Terzan 7         Sagittarius                     GC          Forbes, 2020
+Terzan 8         Sagittarius                     GC          Forbes, 2010
+Terzan 8         Sagittarius                     GC          Massari, 2019
+Terzan 8         Sagittarius                     GC          Kruijssen, 2020
+Terzan 8         Sagittarius                     GC          Forbes, 2020
+Terzan 9         Main Bulge                      GC          Massari, 2019
+Tombaugh 2       CMa                             OC          Forbes, 2010
+Ton 2            Koala                           GC          Forbes, 2020
+Ton 2            Low Energy                      GC          Massari, 2019
+UKS 1            No Kinematics                   GC          Massari, 2019
+Whiting 1        Sagittarius                     GC          Massari, 2019
+Whiting 1        Sagittarius                     GC          Kruijssen, 2020
+Whiting 1        Sagittarius                     GC          Forbes, 2020

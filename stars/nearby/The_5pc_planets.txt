@@ -41,11 +41,16 @@ Groombridge 34 A  b            U  HT  >  3.03  E   11.44  d    0.072    0.094
 Groombridge 34 A  c            C  CJ  > 36     E   20.8   y    5.4      0.27
 Epsilon Indi A    b            C  CJ     2.71  J   52.6   y   12.8      0.01
 Tau Ceti          b            D  HT  >  2.00  E   13.96  d    0.105    0.16               Dust
+Tau Ceti          PxP-1        P  HT  >  2.0   E   14.0   d                                Predicted (= b?), Possible periods: 7.1-14.8 d, see arXiv:2010.14675v1
 Tau Ceti          g            U  HT  >  1.75  E   20.00  d    0.133    0.06
+Tau Ceti          PxP-2        P  HT  >  3.1   E   34.0   d                                Predicted (= c?), Possible periods: 28.0-36.4 d, see arXiv:2010.14675v1
 Tau Ceti          c            D  HT  >  3.1   E   35.36  d    0.195    0.03
 Tau Ceti          h            U  HT  >  1.83  E   49.41  d    0.243    0.23
+Tau Ceti          PxP-3        P  HT  >  3.6   E   67.0   d                                Predicted (= d?), Possible periods: 67-105 d, see arXiv:2010.14675v1
 Tau Ceti          d            U  HT  >  3.6   E   94.11  d    0.374    0.08
 Tau Ceti          e            C  WT  >  3.93  E  162.87  d    0.538    0.18         0.74
+Tau Ceti          PxP-5        P  HT  >  3.6   E  270.0   d    0.754                       Predicted, if PxP-4 period is close to 470 d, see arXiv:2010.14675v1
+Tau Ceti          PxP-4        P  HT  >  3.6   E  468.0   d    1.09                        Predicted, Possible periods: 277-468 d, see arXiv:2010.14675v1
 Tau Ceti          f            C  CT  >  3.93  E  636.13  d    1.334    0.16
 Tau Ceti          i            U  CJ  <  3.0   J   12.6   y    5.0                         Kervella+, 2019
 LHS 1565          b            C  HT  >  1.38  E    3.20  d    0.021   <0.31               

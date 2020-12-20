@@ -1,36 +1,41 @@
- D= 8.18 0.51  (excluding the last two)
 
- 7.1  1.5       Reid88
- 7.2  0.3       Bica06
- 7.52 0.10 0.35 Nishiyama06
- 7.58 0.40      Dambis09
- 7.6            Honma96
- 7.66 0.32      Metzger98
- 7.7  0.15      Babusiaux05
- 7.9  0.8       Reid09b
- 7.94 0.37 0.26 Groenewegen08
- 7.94 0.38 0.16 Eisenhauer03
- 7.98 0.51      Groenewegen08
- 8.0  0.65      Fernley87
- 8.07 0.35      Trippe08
- 8.1  1.1       Gwinn92
- 8.1  0.6       Majaess10
- 8.21 0.98      Huterer95
- 8.24 0.08 0.42 Matsunaga09
- 8.26           VandeHulst54
- 8.28 0.15 0.29 Gillessen09a
- 8.33 0.17 0.31 Gillessen09b
- 8.4  0.4       Ghez08
- 8.4  0.36 0.5  Reid09a
- 8.4  0.4       Paczynski88
- 8.6  1.0       Surdin99
- 8.7            Baade51
- 8.7  0.5       Vanhollebeke09
- 8.8            Glass82
- 8.8  0.7       Groenewegen05
- 8.9  1.4       Feast67
- 9.0            Rybicki74
- 9.2  2.2       VandenBerg74
+ 8.0   0.5       Reid93        Best average of Ro for the data available up to 1992
+ 8.15  0.14 0.35 Genzel10      Genzel et al best average
 
- 8.0  0.5       Reid93        best average of Ro for the data available up to 1992
- 8.15 0.14 0.35 Genzel10      Genzel et al best average
+ 7.1   1.5       Reid88
+ 7.2   0.3       Bica06
+ 7.52  0.10 0.35 Nishiyama06
+ 7.58  0.40      Dambis09
+ 7.6             Honma96
+ 7.66  0.32      Metzger98
+ 7.7   0.15      Babusiaux05
+ 7.86  0.14      Boehle16
+ 7.9   0.8       Reid09b
+ 7.92  0.46      VERA20
+ 7.94  0.38 0.16 Eisenhauer03
+ 7.94  0.37 0.26 Groenewegen08
+ 7.946 0.082     Do19
+ 7.98  0.51      Groenewegen08
+ 8.0   0.65      Fernley87
+ 8.07  0.35      Trippe08
+ 8.1   1.1       Gwinn92
+ 8.1   0.6       Majaess10
+ 8.15  0.04 0.20 Bobylev20
+ 8.15  0.15      Reid19
+ 8.178 0.035     GravityCollab19
+ 8.21  0.98      Huterer95
+ 8.24  0.08 0.42 Matsunaga09
+ 8.26            VandeHulst54
+ 8.28  0.15 0.29 Gillessen09a
+ 8.33  0.17 0.31 Gillessen09b
+ 8.4   0.4       Ghez08
+ 8.4   0.4       Paczynski88
+ 8.4   0.36 0.5  Reid09a
+ 8.6   1.0       Surdin99
+ 8.7             Baade51
+ 8.7   0.5       Vanhollebeke09
+ 8.8             Glass82
+ 8.8   0.7       Groenewegen05
+ 8.9   1.4       Feast67
+ 9.0             Rybicki74
+ 9.2   2.2       VandenBerg74

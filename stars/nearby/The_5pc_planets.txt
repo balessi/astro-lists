@@ -1,102 +1,110 @@
-Star Name         Planet Name  St Ty  l  Mass  u  Period  u    SMA    l Ecc    Rad   ESI   Notes
-Sun               Mercury      C  HT     0.055 E   87.97  d    0.387    0.206  0.38        Reality status from most to least secure: (C)onfirmed, (U)nconfirmed, D(ubious), (R)ejected/(R)etracted
-Sun               Venus        C  HT     0.815 E  224.70  d    0.723    0.007  0.95        Types are combinations of: (H)ot, (W)arm, (C)old, (D)ust/asteroidal, (T)erran, (N)eptunian, (J)ovian
-Sun               Earth        C  WT     1.00  E  365.26  d    1.00     0.017  1.00  1.00  Mass units are: (E)arth units, (J)upiter units
-Sun               Mars         C  WT     0.107 E  686.97  d    1.523    0.093  0.53  0.70  Periods are: (d)ays, (y)ears; Ky = 10^3 years
-Sun               Jupiter      C  CJ     1.00  J   11.86  y    5.20     0.049 11.21
-Sun               Saturn       C  CJ     0.30  J   29.46  y    9.58     0.057  9.45
-Sun               Uranus       C  CN    14.54  E   84.02  y   19.22     0.046  3.93
-Sun               Neptune      C  CN    17.15  E  164.8   y   30.11     0.009  3.88
-Sun               Planet Nine  D  CT     5.0   E    9.55  Ky 450        0.225              May not exist (reasons summarized by Lawler - The Conversation)
-Proxima Centauri  d            U  HT  >  0.29  E    5.15  d    0.02895
-Proxima Centauri  b            C  WT  >  1.17  E   11.184 d    0.0486   0.109 ~1.15  0.87  Rad= 0.8-1.5 RE, mass = 3.0 if coplanar with c (Benedict 2020)
-Proxima Centauri  c            C  CN  ~ 14     E    5.21  y    1.48     0.0                Mass from range: 4-24 derived from >=5.8+-1.9 (Damasso 2020), 12+12-5 (Kervella 2020), 18+-5 (Benedict 2020)
-Alpha Centauri B  b            R  HT  >  1.13  E    3.236 d    0.042    0.0                Retracted - supurious artefact of the data analysis
-Alpha Centauri B  c            U  HT     0.78  E   12.4   d    0.102  < 0.24   0.92        Mass assumes density = earth's
-Barnard's star    d            D  CT  <  5.0   E   81     d    0.198                       Marginal detection, MSini upper limit derived from fig 6 of Choi 2013
-Barnard's star    b            C  CT  >  3.23  E  232.8   d    0.404    0.32               
-Barnard's star    c            U  CN  > 15     E   18.1   y    3.6                         Mass from range >=15 (Ribas 2018) and MSin i <25 (extrapolated from fig 6 of Choi 2013)
-Barnard's star                 R  CJ     0.8   J   12     y    2.8      0                  Dimissed: the infamous planets claimed by van de Kamp (1969)
-Barnard's star                 R  CJ     1.1   J   26     y    4.7      0                  Dimissed: the infamous planets claimed by van de Kamp (1969)
-Luhman 16 B                    R  CJ  ~ 16     J  >60     d   >0.09                        Claimed by Boffin (2014), dismissed by Bedin (2017) who ruled out any BDs and any neptune mass Pls with 1-2 y period
-WISE J0855-0714                C  WJ  ~  6     J   -1     -   -1       -1                  Sub-brown dwarf or rogue planetary-mass object, mass range 3-10 MJ, Teff 225-260 K
-Wolf 359          c            C  HT  >  3.8   E    2.687 d    0.018    0.15               
-Wolf 359          b            C  CJ  > 44     E    8.04  y    1.84     0.04          
-Lalande 21185     b            C  HT  >  3.0   E   12.953 d    0.0785   0.22          
-Lalande 21185                  R  CJ     0.9   J    5.8   y    2.4      0                  Dismissed: claimed by Gatewood (1996), but not confirmed by RV
-Lalande 21185                  R  CJ    10     J    8.0   y    3.0      0.3                Dismissed: claimed by Lippincott (1960), but not confirmed by RV
-Lalande 21185                  R  CJ     1.6   J   30     y    7.3      0                  Dismissed: claimed by Gatewood (1996), but not confirmed by RV                                             
-Epsilon Eridani   b (AEgir)    U  CJ  >  0.78  J    7.37  y    3.48     0.07               Dust disks, asteroid belt
-Epsilon Eridani   c            U  CN     0.1   J  280     y   40        0.3           
-Lacaille 9352     b            C  HT  >  4.2   E    9.262 d    0.068    0.03          
-Lacaille 9352     c            C  HT  >  7.6   E   21.789 d    0.120    0.03          
-Lacaille 9352     d            D  WT  >  6.5   E   38.80  d    0.175    0.04               May be due to stellar activity
-Ross 128          b            C  WT  >  1.35  E    9.86  d    0.0493   0.036        0.86  
-Ross 128          c            U  CJ     0.25  J   31.4   y    5.5                         Kervella+, 2019, 1 < sma < 10
-61 Cygni B        b            U  CJ  ~  3     J >668     d   >1.3                         Kervella+, 2019
-Struve 2398 B     b            U  HT  >  1.20  E    2.7   d    0.024
-Struve 2398 B     c            C  CN  > 15.7   E   91.29  d    0.261    0.06
-Struve 2398 B     d            C  CN  > 13.1   E  192.4   d    0.428    0.03
-Groombridge 34 A  b            U  HT  >  3.03  E   11.44  d    0.072    0.094              
-Groombridge 34 A  c            C  CJ  > 36     E   20.8   y    5.4      0.27
-Epsilon Indi A    b            C  CJ     2.71  J   52.6   y   12.8      0.01
-Tau Ceti          b            D  HT  >  2.00  E   13.96  d    0.105    0.16               Dust
-Tau Ceti          PxP-1        P  HT  >  2.0   E   14.0   d                                Predicted (= b?), Possible periods: 7.1-14.8 d, see arXiv:2010.14675v1
-Tau Ceti          g            U  HT  >  1.75  E   20.00  d    0.133    0.06
-Tau Ceti          PxP-2        P  HT  >  3.1   E   34.0   d                                Predicted (= c?), Possible periods: 28.0-36.4 d, see arXiv:2010.14675v1
-Tau Ceti          c            D  HT  >  3.1   E   35.36  d    0.195    0.03
-Tau Ceti          h            U  HT  >  1.83  E   49.41  d    0.243    0.23
-Tau Ceti          PxP-3        P  HT  >  3.6   E   67.0   d                                Predicted (= d?), Possible periods: 67-105 d, see arXiv:2010.14675v1
-Tau Ceti          d            U  HT  >  3.6   E   94.11  d    0.374    0.08
-Tau Ceti          e            C  WT  >  3.93  E  162.87  d    0.538    0.18         0.74
-Tau Ceti          PxP-5        P  HT  >  3.6   E  270.0   d    0.754                       Predicted, if PxP-4 period is close to 470 d, see arXiv:2010.14675v1
-Tau Ceti          PxP-4        P  HT  >  3.6   E  468.0   d    1.09                        Predicted, Possible periods: 277-468 d, see arXiv:2010.14675v1
-Tau Ceti          f            C  CT  >  3.93  E  636.13  d    1.334    0.16
-Tau Ceti          i            U  CJ  <  3.0   J   12.6   y    5.0                         Kervella+, 2019
-LHS 1565          b            C  HT  >  1.38  E    3.20  d    0.021   <0.31               
-LHS 1565          c            C  WT  >  1.75  E    6.69  d    0.035   <0.29         0.88
-LHS 1565          d            C  WT  >  1.68  E   13.03  d    0.054   <0.53         0.80
-Luyten 725-32     c            C  HT  >  0.58  E    0.752 d    0.0082   0.05               
-Luyten 725-32     e            U  HT  >  0.47  E    1.04  d    0.0102   0
-Luyten 725-32     b            C  HT  >  0.65  E    1.969 d    0.0156   0.03
-Luyten 725-32     d            C  HT  >  1.21  E    4.657 d    0.0276   0.02
-Luyten's star     c            C  HT  >  1.18  E    4.723 d    0.0365   0.17               
-Luyten's star     b            C  WT  >  2.89  E   18.65  d    0.0911   0.10         0.84
-Luyten's star     d            U  CN  > 10.8   E  413.9   d    0.712    0.17
-Luyten's star     e            U  CT  >  9.3   E  542     d    0.849    0.03        
-Teegarden's star  e            R  HJ  >  0.26  J    2.06  d    0.014    0                  Probably not real
-Teegarden's star  b            C  WT  >  1.05  E    4.91  d    0.0252   0            0.93
-Teegarden's star  c            C  WT  >  1.11  E   11.409 d    0.0443   0            0.69
-Teegarden's star  d            U  CT  >  0.83  E   25.94  d    0.0766   0                  Fixed eccentricity
-Kapteyn's star    b            U  WT  >  4.8   E   48.62  d    0.168    0.21         0.67  
-Kapteyn's star    c            C  CT  >  7.0   E  121.53  d    0.311    0.23
-Lacaille 8760     b            U  CJ     1.5   J   21.4   y    6.5                         Kervella+, 2019, 0.5 < m < 2.5, 3 < sma < 10
-Wolf 1061         b            C  HT  >  1.91  E    4.887 d    0.0375   0.15               
-Wolf 1061         c            C  WT  >  3.41  E   17.872 d    0.0890   0.11         0.79
-Wolf 1061         d            C  CT  >  7.7   E  217.21  d    0.470    0.55
-van Maanen 2                   C  HD  <  0.01  E                                           Small asteroidal bodies, dust; companions claimed by Peter van de Kamp (1971), Gatewood and Russell (1974) were ruled out
-van Maanen 2                   R  CJ     0.06  S    1.57  y    1.19                        Claimed by Makarov (2004), Dismissed by Farihi (2004), Any body with Mass > 4 MJ ruled out by Farihi (2008)
-Luyten 1159-16    b            U  HT  >  4.0   E    1.931 d    0.016    0.09               
-Luyten 1159-16    c            C  CN  > 30.9   E  241.9   d    0.403    0.18
-Luyten 1159-16    d            C  CJ  >  0.225 J  767.9   d    0.870    0.33
-CD-46 11540       b            C  HN  > 11.8   E    4.694 d    0.039    0.2                
-BD+68 946         b            C  WN  > 17.2   E   38.14  d    0.163    0.27               
-BD+68 946         c            C  CN  > 16.0   E  728     d    1.16     0.40               Feng+, 2020, same obj as Kervella+ 2019? det by RV
-BD+68 946         c?           D  CJ  ~  0.23  J >668     d   >1.1                         Kervella+, 2019, same obj as Feng+ 2020? det by astrometry
-L 145-141         b            U  CJ     2     J   39.2   y   10.5                         Kervella+, 2019, 1 < m < 3, 1 < sma < 20
-Ross 780          d            C  HT  >  6.83  E    1.938 d    0.0208   0.207              
-Ross 780          f            R  HT  >  7.95  E   10.01  d    0.065    0.090              Probably not real
-Ross 780          g            R  HJ  >  0.118 J   15.04  d    0.086    0.007              Probably not real
-Ross 780          c            C  WJ  >  0.714 J   30.008 d    0.1296   0.256
-Ross 780          b            C  WJ  >  2.276 J   61.117 d    0.2083   0.032
-Ross 780          e            C  CN  > 14.6   E  124.26  d    0.3343   0.055
-LHS 288           b            U  CJ     4.7   J    4.14  y    1.25                        Det by astrometry, values in the ranges: 1.5 < p < 6.77 y, 2.4 < m < 7
-Groombridge 1618  b            U  WJ  >  4     J  122.5   d    0.41     0
-CD-49 13515       c            C  WT  >  5.4   E   35.68  d    0.162    0.18         0.73  
-CD-49 13515       b            C  CJ  >  0.64  J    9.35  y    3.4      0.12
-BD+20 2465        b            U  HN  > 23.1   E    2.226 d    0.025    0.03               
-Omicron-2 Eri A   b            C  HT  >  8.47  E   42.378 d    0.224    0.04
-CD-44 11909 AB    b            C  WT  >  4.4   E   17.48  d    0.08     0.08               Planets are not circumbinary
-CD-44 11909 AB    c            C  CT  >  8.7   E   57.32  d    0.18     0.10         0.59  Planets are not circumbinary
-BD+43 4305                     R  CJ    20     J   28.9   y             0.44               Prob not real, claimed by van de Kamp (1972)
-BD+43 4305                     R  CJ     3     J   45     y             0.5                Prob not real, claimed by Lippincott (1983)
+Status: (C)onfirmed, (U)nconfirmed, (D)ubious, (R)etracted/spurious/artifact
+Type:   (H)ot | (W)arm | (C)old  +  (J)upiterian | (N)eptunian | (T)erran | (D)warf Planet | (A)steroidal
+
+Star Name         Planet Name St Ty  l  Mass   u  Period  u    SMA    l Ecc    Rad   ESI  Notes
+Sun               Mercury     C  HT     0.055  E   87.97  d    0.387    0.206  0.38       Reality status from most to least secure: (C)onfirmed, (U)nconfirmed, D(ubious), (R)ejected/(R)etracted
+Sun               Venus       C  HT     0.815  E  224.70  d    0.723    0.007  0.95       Types are combinations of: (H)ot, (W)arm, (C)old, (D)ust/asteroidal, (T)erran, (N)eptunian, (J)ovian
+Sun               Earth       C  WT     1.00   E  365.26  d    1.00     0.017  1.00  1.00 Mass units are: (E)arth units, (J)upiter units
+Sun               Mars        C  WT     0.107  E  686.97  d    1.523    0.093  0.53  0.70 Periods are: (d)ays, (y)ears; Ky = 10^3 years
+Sun               Ceres       C  CD     0.0002 E    4.61  y    2.77     0.076  0.07       Dwarf planet, largest in the Main Belt
+Sun               Jupiter     C  CJ     1.00   J   11.86  y    5.20     0.049 11.21
+Sun               Saturn      C  CJ     0.30   J   29.46  y    9.58     0.057  9.45
+Sun               Uranus      C  CN    14.54   E   84.02  y   19.22     0.046  3.93
+Sun               Neptune     C  CN    17.15   E  164.8   y   30.11     0.009  3.88
+Sun               Pluto       C  CD     0.0022 E  247.9   y   39.48     0.249  0.19       Dwarf planet, largest in the Kuiper Belt
+Sun               Planet Nine D  CT     5.0    E    9.55  Ky 450        0.225             May not exist (reasons summarized by Lawler - The Conversation)
+Proxima Centauri  d           U  HT  >  0.29   E    5.15  d    0.02895
+Proxima Centauri  b           C  WT  >  1.17   E   11.184 d    0.0486   0.109 ~1.15  0.87 Rad= 0.8-1.5 RE, mass = 3.0 if coplanar with c (Benedict 2020)
+Proxima Centauri  c           C  CN  ~ 14      E    5.21  y    1.48     0.0               Mass from range: 4-24 derived from >=5.8+-1.9 (Damasso 2020), 12+12-5 (Kervella 2020), 18+-5 (Benedict 2020)
+Alpha Centauri B  b           R  HT  >  1.13   E    3.236 d    0.042    0.0               Retracted - supurious artefact of the data analysis
+Alpha Centauri B  c           U  HT     0.78   E   12.4   d    0.102  < 0.24   0.92       Mass assumes density = earth's
+Barnard's star    d           D  CT  <  5.0    E   81     d    0.198                      Marginal detection, MSini upper limit derived from fig 6 of Choi 2013
+Barnard's star    b           C  CT  >  3.23   E  232.8   d    0.404    0.32              
+Barnard's star    c           U  CN  > 15      E   18.1   y    3.6                        Mass from range >=15 (Ribas 2018) and MSin i <25 (extrapolated from fig 6 of Choi 2013)
+Barnard's star                R  CJ     0.8    J   12     y    2.8      0                 Dimissed: one of the infamous planets claimed by van de Kamp (1969)
+Barnard's star                R  CJ     1.1    J   26     y    4.7      0                 Dimissed: one of the infamous planets claimed by van de Kamp (1969)
+Luhman 16 B                   R  CJ  ~ 16      J  >60     d   >0.09                       Claimed by Boffin (2014), dismissed by Bedin (2017) who ruled out any BDs and any neptune mass Pls with 1-2 y period
+WISE J0855-0714               C  WJ  ~  6      J   -1     -   -1       -1                 Sub-brown dwarf or rogue planetary-mass object, mass range 3-10 MJ, Teff 225-260 K
+Wolf 359          c           C  HT  >  3.8    E    2.687 d    0.018    0.15              
+Wolf 359          b           C  CJ  > 44      E    8.04  y    1.84     0.04          
+Lalande 21185     b           C  HT  >  3.0    E   12.953 d    0.0785   0.22          
+Lalande 21185                 R  CJ     0.9    J    5.8   y    2.4      0                 Dismissed: claimed by Gatewood (1996), but not confirmed by RV
+Lalande 21185                 R  CJ    10      J    8.0   y    3.0      0.3               Dismissed: claimed by Lippincott (1960), but not confirmed by RV
+Lalande 21185                 R  CJ     1.6    J   30     y    7.3      0                 Dismissed: claimed by Gatewood (1996), but not confirmed by RV                                             
+Epsilon Eridani               C  CA  <  0.0001 E          y    3.0                        Asteroid belt 3.0 +- 0.75 AU
+Epsilon Eridani   b (AEgir)   U  CJ  >  0.78   J    7.37  y    3.48     0.07              Dust disks, asteroid belt
+Epsilon Eridani               C  CA            E          y   14                          Asteroid belt 8-20 AU
+Epsilon Eridani   c           U  CN     0.1    J  280     y   40        0.3           
+Epsilon Eridani               C  CA     0.002  E          y   60                          Dust disk 35-100 AU, peak of emission at 60 AU
+Lacaille 9352     b           C  HT  >  4.2    E    9.262 d    0.068    0.03          
+Lacaille 9352     c           C  HT  >  7.6    E   21.789 d    0.120    0.03          
+Lacaille 9352     d           D  WT  >  6.5    E   38.80  d    0.175    0.04              May be due to stellar activity
+Ross 128          b           C  WT  >  1.35   E    9.86  d    0.0493   0.036        0.86 
+Ross 128          c           U  CJ     0.25   J   31.4   y    5.5                        Kervella+, 2019, 1 < sma < 10
+61 Cygni B        b           U  CJ  ~  3      J >668     d   >1.3                        Kervella+, 2019; also several spurious claims made betw 1942 and 77 around both A and B stars
+Struve 2398 B     b           U  HT  >  1.20   E    2.7   d    0.024
+Struve 2398 B     c           C  CN  > 15.7    E   91.29  d    0.261    0.06
+Struve 2398 B     d           C  CN  > 13.1    E  192.4   d    0.428    0.03
+Groombridge 34 A  b           U  HT  >  3.03   E   11.44  d    0.072    0.094             
+Groombridge 34 A  c           C  CJ  > 36      E   20.8   y    5.4      0.27
+Epsilon Indi A    b           C  CJ     2.71   J   52.6   y   12.8      0.01
+Tau Ceti          b           D  HT  >  2.00   E   13.96  d    0.105    0.16              Dust
+Tau Ceti          PxP-1       P  HT  >  2.0    E   14.0   d                               Predicted (= b?), Possible periods: 7.1-14.8 d, see arXiv:2010.14675v1
+Tau Ceti          g           U  HT  >  1.75   E   20.00  d    0.133    0.06
+Tau Ceti          PxP-2       P  HT  >  3.1    E   34.0   d                               Predicted (= c?), Possible periods: 28.0-36.4 d, see arXiv:2010.14675v1
+Tau Ceti          c           D  HT  >  3.1    E   35.36  d    0.195    0.03
+Tau Ceti          h           U  HT  >  1.83   E   49.41  d    0.243    0.23
+Tau Ceti          PxP-3       P  HT  >  3.6    E   67.0   d                               Predicted (= d?), Possible periods: 67-105 d, see arXiv:2010.14675v1
+Tau Ceti          d           U  HT  >  3.6    E   94.11  d    0.374    0.08
+Tau Ceti          e           C  WT  >  3.93   E  162.87  d    0.538    0.18         0.74
+Tau Ceti          PxP-5       P  HT  >  3.6    E  270.0   d    0.754                      Predicted, if PxP-4 period is close to 470 d, see arXiv:2010.14675v1
+Tau Ceti          PxP-4       P  HT  >  3.6    E  468.0   d    1.09                       Predicted, Possible periods: 277-468 d, see arXiv:2010.14675v1
+Tau Ceti          f           C  CT  >  3.93   E  636.13  d    1.334    0.16         0.58
+Tau Ceti          i           U  CJ  <  3.0    J   12.6   y    5.0                        Kervella+, 2019
+LHS 1565          b           C  HT  >  1.38   E    3.20  d    0.021   <0.31              
+LHS 1565          c           C  WT  >  1.75   E    6.69  d    0.035   <0.29         0.86
+LHS 1565          d           C  WT  >  1.68   E   13.03  d    0.054   <0.53         0.86
+Luyten 725-32     c           C  HT  >  0.58   E    0.752 d    0.0082   0.05              
+Luyten 725-32     e           U  HT  >  0.47   E    1.04  d    0.0102   0
+Luyten 725-32     b           C  HT  >  0.65   E    1.969 d    0.0156   0.03
+Luyten 725-32     d           C  HT  >  1.21   E    4.657 d    0.0276   0.02
+Luyten's star     c           C  HT  >  1.18   E    4.723 d    0.0365   0.17              
+Luyten's star     b           C  WT  >  2.89   E   18.65  d    0.0911   0.10         0.85
+Luyten's star     d           U  CN  > 10.8    E  413.9   d    0.712    0.17
+Luyten's star     e           U  CT  >  9.3    E  542     d    0.849    0.03        
+Teegarden's star  e           R  HJ  >  0.26   J    2.06  d    0.014    0                 Probably not real
+Teegarden's star  b           C  WT  >  1.05   E    4.91  d    0.0252   0            0.95
+Teegarden's star  c           C  WT  >  1.11   E   11.409 d    0.0443   0            0.68
+Teegarden's star  d           U  CT  >  0.83   E   25.94  d    0.0766   0                 Fixed eccentricity
+Kapteyn's star    b           U  WT  >  4.8    E   48.62  d    0.168    0.21         0.67 
+Kapteyn's star    c           C  CT  >  7.0    E  121.53  d    0.311    0.23
+Lacaille 8760     b           U  CJ     1.5    J   21.4   y    6.5                        Kervella+, 2019, 0.5 < m < 2.5, 3 < sma < 10
+Wolf 1061         b           C  HT  >  1.91   E    4.887 d    0.0375   0.15              
+Wolf 1061         c           C  WT  >  3.41   E   17.872 d    0.0890   0.11         0.80
+Wolf 1061         d           C  CT  >  7.7    E  217.21  d    0.470    0.55
+van Maanen 2                  C  HA  <  0.01   E                                          Small asteroidal bodies, dust; companions claimed by Peter van de Kamp (1971), Gatewood and Russell (1974) were ruled out
+van Maanen 2                  R  CJ     0.06   S    1.57  y    1.19                       Claimed by Makarov (2004), Dismissed by Farihi (2004), Any body with Mass > 4 MJ ruled out by Farihi (2008)
+Luyten 1159-16    b           U  HT  >  4.0    E    1.931 d    0.016    0.09              
+Luyten 1159-16    c           C  CN  > 30.9    E  241.9   d    0.403    0.18
+Luyten 1159-16    d           C  CJ  >  0.225  J  767.9   d    0.870    0.33
+CD-46 11540       b           C  HN  > 11.8    E    4.694 d    0.039    0.2               
+BD+68 946         b           C  WN  > 17.2    E   38.14  d    0.163    0.27              
+BD+68 946         c           C  CN  > 16.0    E  728     d    1.16     0.40              Feng+, 2020, same obj as Kervella+ 2019? det by RV
+BD+68 946         c?          D  CJ  ~  0.23   J >668     d   >1.1                        Kervella+, 2019, same obj as Feng+ 2020? det by astrometry
+L 145-141         b           U  CJ     2      J   39.2   y   10.5                        Kervella+, 2019, 1 < m < 3, 1 < sma < 20
+Ross 780          d           C  HT  >  6.83   E    1.938 d    0.0208   0.207             
+Ross 780          f           R  HT  >  7.95   E   10.01  d    0.065    0.090             Probably not real
+Ross 780          g           R  HJ  >  0.118  J   15.04  d    0.086    0.007             Probably not real
+Ross 780          c           C  WJ  >  0.714  J   30.008 d    0.1296   0.256
+Ross 780          b           C  WJ  >  2.276  J   61.117 d    0.2083   0.032
+Ross 780          e           C  CN  > 14.6    E  124.26  d    0.3343   0.055
+LHS 288           b           U  CJ     4.7    J    4.14  y    1.25                       Det by astrometry, values in the ranges: 1.5 < p < 6.77 y, 2.4 < m < 7
+Groombridge 1618  b           U  WJ  >  4      J  122.5   d    0.41     0
+CD-49 13515       c           C  WT  >  5.4    E   35.68  d    0.162    0.18         0.74 
+CD-49 13515       b           C  CJ  >  0.64   J    9.35  y    3.4      0.12
+BD+20 2465        b           U  HN  > 23.1    E    2.226 d    0.025    0.03              
+Omicron-2 Eri A   b           C  HT  >  8.47   E   42.378 d    0.224    0.04
+CD-44 11909 AB    b           C  WT  >  4.4    E   17.48  d    0.08     0.08              Planets are not circumbinary
+CD-44 11909 AB    c           C  CT  >  8.7    E   57.32  d    0.18     0.10         0.59 Planets are not circumbinary
+BD+43 4305                    R  CJ    20      J   28.9   y             0.44              Prob not real, claimed by van de Kamp (1972)
+BD+43 4305                    R  CJ     3      J   45     y             0.5               Prob not real, claimed by Lippincott (1983)

@@ -1,0 +1,7 @@
+
+Two clusters in the periphery of NGC 6822
+
+19 43 33.82 -14 34 43.6  ~2"   Op, UV   compact  
+19 43 35.52 -14 34 14.4  ~6"   Op       sparse
+19 45 43.16 -14 55 30.0  ~5"   Op, UV
+19 45 46.56 -14 56 24.9 ~12"   Op, UV   sparse

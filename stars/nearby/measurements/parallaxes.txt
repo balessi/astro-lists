@@ -1,322 +1,322 @@
-61 Cygni A	      ; 285.9949 ;  0.0599 ;  ;GaiaEDR3
 61 Cygni A            ; 285.9459 ;  0.1008 ;n ;GaiaDR2
+61 Cygni A            ; 285.9949 ;  0.0599 ;  ;GaiaEDR3
 61 Cygni A            ; 286.82   ;  6.78   ;  ;vanLeeuwen07
 61 Cygni AB           ; 286.9    ;  1.1    ;  ;YPC95
-61 Cygni B	      ; 286.0054 ;  0.0289 ;  ;GaiaEDR3
-61 Cygni B            ; 285.88   ;  0.54   ;  ;vanLeeuwen07
 61 Cygni B            ; 286.1456 ;  0.0590 ;n ;GaiaDR2
+61 Cygni B            ; 286.0054 ;  0.0289 ;  ;GaiaEDR3
+61 Cygni B            ; 285.88   ;  0.54   ;  ;vanLeeuwen07
 70 Ophiuchi A         ; 195.5674 ;  0.1964 ;  ;GaiaEDR3
-70 Ophiuchi AB        ; 193.0    ;  4.2    ;  ;Pourbaix00
 70 Ophiuchi AB        ; 194.2    ;  1.2    ;  ;Eggenberger08
 70 Ophiuchi AB        ; 195.2166 ;  0.1012 ;n ;GaiaDR2
+70 Ophiuchi AB        ; 193.0    ;  4.2    ;  ;Pourbaix00
 70 Ophiuchi AB        ; 195.7    ;  0.9    ;  ;Soderhjelm99
-70 Ophiuchi AB        ; 196.72   ;  0.83   ;  ;vanLeeuwen07
 70 Ophiuchi AB        ; 199.7    ;  3.4    ;  ;YPC95
+70 Ophiuchi AB        ; 196.72   ;  0.83   ;  ;vanLeeuwen07
 70 Ophiuchi B         ; 195.8563 ;  0.2535 ;  ;GaiaEDR3
-Alpha Centauri A      ; 754.81	 ;  4.11   ;n ;vanLeeuwen07
-Alpha Centauri AB     ; 737.0    ;  2.6    ;n ;Pourbaix99
-Alpha Centauri AB     ; 742.12   ;  1.40   ;n ;ESA97
-Alpha Centauri AB     ; 743.0    ;  1.3    ;  ;Pourbaix16
-Alpha Centauri AB     ; 745.3    ;  2.5    ;n ;Kervella03
-Alpha Centauri AB     ; 747.1    ;  1.2    ;  ;Soderhjelm99
-Alpha Centauri AB     ; 747.17   ;  0.61   ;  ;Kervella16
-Alpha Centauri AB     ; 749.9    ;  5.4    ;  ;YPC95
+Alpha Centauri A      ; 754.81   ;  4.11   ;n ;vanLeeuwen07
 Alpha Centauri AB     ; 750.6    ;  4.6    ;  ;Demarque86
-Alpha Centauri B      ; 796.92	 ; 25.90   ;n ;vanLeeuwen07
-Altair                ; 194.95   ;  0.57   ;  ;vanLeeuwen07
+Alpha Centauri AB     ; 742.12   ;  1.40   ;n ;ESA97
+Alpha Centauri AB     ; 745.3    ;  2.5    ;n ;Kervella03
+Alpha Centauri AB     ; 747.17   ;  0.61   ;  ;Kervella16
+Alpha Centauri AB     ; 743.0    ;  1.3    ;  ;Pourbaix16
+Alpha Centauri AB     ; 737.0    ;  2.6    ;n ;Pourbaix99
+Alpha Centauri AB     ; 747.1    ;  1.2    ;  ;Soderhjelm99
+Alpha Centauri AB     ; 749.9    ;  5.4    ;  ;YPC95
+Alpha Centauri B      ; 796.92   ; 25.90   ;n ;vanLeeuwen07
 Altair                ; 196.00   ;  0.83   ;  ;Gatewood95
 Altair                ; 197.9    ;  2.2    ;  ;YPC95
-BD+05 1668            ; 262.98   ;  1.39   ;  ;vanLeeuwen07
-BD+05 1668            ; 263.59   ;  3.83   ;  ;Vrijmoet20
+Altair                ; 194.95   ;  0.57   ;  ;vanLeeuwen07
 BD+05 1668            ; 264.1269 ;  0.0413 ;  ;GaiaEDR3
-BD+05 1668            ; 265.4    ;  2.6    ;  ;YPC95
 BD+05 1668            ; 267.4    ;  0.8    ;  ;Gatewood08
-BD+20 2465            ; 194.0    ; 15.4    ;  ;UPC
+BD+05 1668            ; 263.59   ;  3.83   ;  ;Vrijmoet20
+BD+05 1668            ; 265.4    ;  2.6    ;  ;YPC95
+BD+05 1668            ; 262.98   ;  1.39   ;  ;vanLeeuwen07
 BD+20 2465            ; 201.3683 ;  0.0678 ;n ;GaiaDR2
 BD+20 2465            ; 201.4064 ;  0.0296 ;  ;GaiaEDR3
+BD+20 2465            ; 194.0    ; 15.4    ;  ;UPC
 BD+20 2465            ; 204.6    ;  2.8    ;  ;YPC95
-BD+43 4305            ; 163.2    ; 20.2    ;n ;UPC
-BD+43 4305            ; 195.22   ;  1.87   ;  ;vanLeeuwen07
-BD+43 4305            ; 197.9573 ;  0.0220 ;  ;GaiaEDR3
-BD+43 4305            ; 198.0    ;  2.6    ;  ;YPC95
 BD+43 4305            ; 198.0112 ;  0.0381 ;n ;GaiaDR2
+BD+43 4305            ; 197.9573 ;  0.0220 ;  ;GaiaEDR3
 BD+43 4305            ; 199.21   ;  0.96   ;  ;Gatewood93
-BD+68 946             ; 219.1    ;  1.8    ;  ;YPC95
+BD+43 4305            ; 163.2    ; 20.2    ;n ;UPC
+BD+43 4305            ; 198.0    ;  2.6    ;  ;YPC95
+BD+43 4305            ; 195.22   ;  1.87   ;  ;vanLeeuwen07
 BD+68 946             ; 219.7807 ;  0.0324 ;n ;GaiaDR2
 BD+68 946             ; 219.7898 ;  0.0210 ;  ;GaiaEDR3
-BD+68 946             ; 220.84   ;  0.94   ;  ;vanLeeuwen07
 BD+68 946             ; 231.6    ; 10.6    ;n ;UPC
+BD+68 946             ; 219.1    ;  1.8    ;  ;YPC95
+BD+68 946             ; 220.84   ;  0.94   ;  ;vanLeeuwen07
 Barnard's star        ; 545.40   ;  0.30   ;  ;Benedict99
-Barnard's star        ; 545.6    ;  1.3    ;  ;YPC95
-Barnard's star        ; 546.7    ;  0.8    ;  ;Reid94
-Barnard's star        ; 546.9759 ;  0.0401 ;  ;GaiaEDR3
 Barnard's star        ; 547.4    ;  8.4    ;  ;Dittmann14
 Barnard's star        ; 547.4506 ;  0.2899 ;n ;GaiaDR2
+Barnard's star        ; 546.9759 ;  0.0401 ;  ;GaiaEDR3
+Barnard's star        ; 546.7    ;  0.8    ;  ;Reid94
+Barnard's star        ; 545.6    ;  1.3    ;  ;YPC95
 Barnard's star        ; 548.31   ;  1.51   ;  ;vanLeeuwen07
-CD-37 15492           ; 219.4    ;  9.3    ;  ;YPC95
-CD-37 15492           ; 230.0970 ;  0.0362 ;  ;GaiaEDR3
 CD-37 15492           ; 230.1331 ;  0.0600 ;n ;GaiaDR2
+CD-37 15492           ; 230.0970 ;  0.0362 ;  ;GaiaEDR3
+CD-37 15492           ; 219.4    ;  9.3    ;  ;YPC95
 CD-37 15492           ; 230.42   ;  0.90   ;  ;vanLeeuwen07
-CD-44 11909           ; 196.90   ;  2.15   ;  ;vanLeeuwen07
-CD-44 11909           ; 199.6944 ;  0.0312 ;  ;GaiaEDR3
 CD-44 11909           ; 199.7031 ;  0.0832 ;n ;GaiaDR2
+CD-44 11909           ; 199.6944 ;  0.0312 ;  ;GaiaEDR3
 CD-44 11909           ; 203.49   ;  1.30   ;  ;Vrijmoet20
 CD-44 11909           ; 210.7    ;  7.0    ;  ;YPC95
-CD-46 11540           ; 216.8    ;  7.1    ;  ;YPC95
-CD-46 11540           ; 219.6463 ;  0.0262 ;  ;GaiaEDR3
+CD-44 11909           ; 196.90   ;  2.15   ;  ;vanLeeuwen07
 CD-46 11540           ; 219.8012 ;  0.0486 ;n ;GaiaDR2
+CD-46 11540           ; 219.6463 ;  0.0262 ;  ;GaiaEDR3
+CD-46 11540           ; 216.8    ;  7.1    ;  ;YPC95
 CD-46 11540           ; 220.24   ;  1.42   ;  ;vanLeeuwen07
-CD-49 13515           ; 201.3252 ;  0.0237 ;  ;GaiaEDR3
 CD-49 13515           ; 201.4072 ;  0.0428 ;n ;GaiaDR2
-CD-49 13515           ; 201.87   ;  1.01   ;  ;vanLeeuwen07
+CD-49 13515           ; 201.3252 ;  0.0237 ;  ;GaiaEDR3
 CD-49 13515           ; 213.9    ;  8.8    ;  ;YPC95
-DENIS J0255-4700      ; 201      ;  4      ;  ;Dupuy12
+CD-49 13515           ; 201.87   ;  1.01   ;  ;vanLeeuwen07
 DENIS J0255-4700      ; 201.37   ;  3.89   ;  ;Costa06
+DENIS J0255-4700      ; 201      ;  4      ;  ;Dupuy12
 DENIS J0255-4700      ; 205.3266 ;  0.2545 ;n ;GaiaDR2
 DENIS J0255-4700      ; 205.4251 ;  0.1857 ;  ;GaiaEDR3
-DENIS J0255-4700      ; 205.83   ;  0.53   ;  ;Weinb16
-DENIS J0255-4700      ; 206.0    ;  7.0    ;  ;Theissen18
 DENIS J0255-4700      ; 206.06   ;  5.81   ;  ;Smart18
-DENIS J1048-3956      ; 241.0    ;  7.0    ;  ;Theissen18
-DENIS J1048-3956      ; 246.36   ;  0.60   ;  ;Weinb16
-DENIS J1048-3956      ; 247.2156 ;  0.0512 ;  ;GaiaEDR3
-DENIS J1048-3956      ; 247.2156 ;  0.1236 ;n ;GaiaDR2
-DENIS J1048-3956      ; 247.78   ;  0.60   ;  ;Henry18
+DENIS J0255-4700      ; 206.0    ;  7.0    ;  ;Theissen18
+DENIS J0255-4700      ; 205.83   ;  0.53   ;  ;Weinb16
 DENIS J1048-3956      ; 249.78   ;  1.81   ;  ;Costa05
 DENIS J1048-3956      ; 251.5    ;  0.7    ;  ;Ducourant08
-Epsilon Eridani       ; 304.9    ;  2.2    ;  ;YPC95
-Epsilon Eridani       ; 310.5773 ;  0.1355 ;  ;GaiaEDR3
-Epsilon Eridani       ; 310.94   ;  0.16   ;  ;vanLeeuwen07
+DENIS J1048-3956      ; 247.2156 ;  0.1236 ;n ;GaiaDR2
+DENIS J1048-3956      ; 247.2156 ;  0.0512 ;  ;GaiaEDR3
+DENIS J1048-3956      ; 247.78   ;  0.60   ;  ;Henry18
+DENIS J1048-3956      ; 241.0    ;  7.0    ;  ;Theissen18
+DENIS J1048-3956      ; 246.36   ;  0.60   ;  ;Weinb16
 Epsilon Eridani       ; 311.37   ;  0.11   ;  ;Benedict06
 Epsilon Eridani       ; 312.2191 ;  0.4673 ;n ;GaiaDR2
+Epsilon Eridani       ; 310.5773 ;  0.1355 ;  ;GaiaEDR3
+Epsilon Eridani       ; 304.9    ;  2.2    ;  ;YPC95
+Epsilon Eridani       ; 310.94   ;  0.16   ;  ;vanLeeuwen07
 Epsilon Indi A        ; 274.8048 ;  0.2494 ;n ;GaiaDR2
 Epsilon Indi A        ; 274.8431 ;  0.0956 ;  ;GaiaEDR3
-Epsilon Indi A        ; 276.06   ;  0.28   ;  ;vanLeeuwen07
 Epsilon Indi A        ; 289.3    ;  8.8    ;  ;YPC95
-Epsilon Indi Bab      ; 270.6580 ;  0.6896 ;  ;GaiaEDR3
-Epsilon Indi Bab      ; 275.32   ;  3.05   ;  ;Weinb16
+Epsilon Indi A        ; 276.06   ;  0.28   ;  ;vanLeeuwen07
 Epsilon Indi Bab      ; 276.88   ;  0.81   ;  ;Dieterich18
+Epsilon Indi Bab      ; 270.6580 ;  0.6896 ;  ;GaiaEDR3
 Epsilon Indi Bab      ; 277.37   ; 14.60   ;  ;Smart18    
 Epsilon Indi Bab      ; 278.01   ;  1.73   ;  ;Vrijmoet20
+Epsilon Indi Bab      ; 275.32   ;  3.05   ;  ;Weinb16
 G 51-15               ; 275.3    ;  4.1    ;  ;Dittmann14
-G 51-15               ; 275.8    ;  3.0    ;  ;YPC95
-G 51-15               ; 276.59   ;  1.40   ;  ;Vrijmoet20
-G 51-15               ; 279.2496 ;  0.0637 ;  ;GaiaEDR3
 G 51-15               ; 279.2901 ;  0.1345 ;n ;GaiaDR2
+G 51-15               ; 279.2496 ;  0.0637 ;  ;GaiaEDR3
 G 51-15               ; 279.6    ;  4.6    ;  ;UPC
-GJ 1002		      ; 207.18   ;  3.09   ;  ;Dav15
+G 51-15               ; 276.59   ;  1.40   ;  ;Vrijmoet20
+G 51-15               ; 275.8    ;  3.0    ;  ;YPC95
+GJ 1002               ; 207.18   ;  3.09   ;  ;Dav15
 GJ 1002               ; 206.2134 ;  0.1281 ;n ;GaiaDR2
 GJ 1002               ; 206.3500 ;  0.0474 ;  ;GaiaEDR3
 GJ 1002               ; 213.0    ;  3.6    ;  ;YPC95
-GJ 1245 Aab           ; 213.1328 ;  0.5737 ;n ;GaiaDR2
 GJ 1245 Aab           ; 224.6    ;  5.4    ;  ;Dittmann14
+GJ 1245 Aab           ; 213.1328 ;  0.5737 ;n ;GaiaDR2
 GJ 1245 Aab           ; 228.2    ;  6.9    ;  ;UPC
 GJ 1245 AabB          ; 219.90   ;  0.50   ;  ;Benedict16
-GJ 1245 AabB          ; 220.2    ;  1.0    ;  ;YPC95
+GJ 1245 AabB          ; 214.5745 ;  0.0476 ;  ;GaiaEDR3  
 GJ 1245 AabB          ; 227.9    ;  3.9    ;  ;Smart10b
-GJ 1245 AabB          ; 214.5745 ;  0.0476 ;  ;GaiaEDR3	
-GJ 1245 B             ; 214.5284 ;  0.0824 ;n ;GaiaDR2
+GJ 1245 AabB          ; 220.2    ;  1.0    ;  ;YPC95
 GJ 1245 B             ; 224.6    ;  5.0    ;  ;Dittmann14
+GJ 1245 B             ; 214.5284 ;  0.0824 ;n ;GaiaDR2
 GJ 1245 B             ; 232.0    ;  7.0    ;  ;UPC
-Gl 440                ; 215.6753 ;  0.0181 ;  ;GaiaEDR3
 Gl 440                ; 215.7372 ;  0.0324 ;n ;GaiaDR2
+Gl 440                ; 215.6753 ;  0.0181 ;  ;GaiaEDR3
 Gl 440                ; 217.01   ;  1.19   ;  ;Sub17
-Gl 440                ; 217.01   ;  2.40   ;  ;vanLeeuwen07
 Gl 440                ; 218.3    ;  6.7    ;  ;YPC95
-Gl 628                ; 230.31   ;  2.31   ;  ;Vrijmoet20
-Gl 628                ; 232.1390 ;  0.0268 ;  ;GaiaEDR3
+Gl 440                ; 217.01   ;  2.40   ;  ;vanLeeuwen07
 Gl 628                ; 232.2095 ;  0.0630 ;n ;GaiaDR2
-Gl 628                ; 232.98   ;  1.60   ;  ;vanLeeuwen07
+Gl 628                ; 232.1390 ;  0.0268 ;  ;GaiaEDR3
+Gl 628                ; 230.31   ;  2.31   ;  ;Vrijmoet20
 Gl 628                ; 244.0    ;  4.2    ;  ;YPC95
-Groombridge 1618      ; 205.21   ;  0.54   ;  ;vanLeeuwen07
-Groombridge 1618      ; 205.3148 ;  0.0224 ;  ;GaiaEDR3	
+Gl 628                ; 232.98   ;  1.60   ;  ;vanLeeuwen07
 Groombridge 1618      ; 205.3916 ;  0.0342 ;n ;GaiaDR2
-Groombridge 1618      ; 207.1    ;  1.2    ;  ;YPC95
+Groombridge 1618      ; 205.3148 ;  0.0224 ;  ;GaiaEDR3  
 Groombridge 1618      ; 216.9    ;  7.3    ;  ;UPC
+Groombridge 1618      ; 207.1    ;  1.2    ;  ;YPC95
+Groombridge 1618      ; 205.21   ;  0.54   ;  ;vanLeeuwen07
+Groombridge 34 A      ; 313.9    ;  9.3    ;  ;Dittmann14
 Groombridge 34 A      ; 280.6902 ;  0.0429 ;n ;GaiaDR2
 Groombridge 34 A      ; 280.7068 ;  0.0203 ;  ;GaiaEDR3
-Groombridge 34 A      ; 313.9    ;  9.3    ;  ;Dittmann14
-Groombridge 34 AB     ; 278.76   ;  0.77   ;  ;vanLeeuwen07
 Groombridge 34 AB     ; 281.4    ;  1.1    ;  ;Gatewood08
 Groombridge 34 AB     ; 282.0    ;  2.2    ;  ;YPC95
+Groombridge 34 AB     ; 278.76   ;  0.77   ;  ;vanLeeuwen07
 Groombridge 34 B      ; 279.3    ;  5.4    ;  ;Dittmann14
-Groombridge 34 B      ; 280.6947 ;  0.0278 ;  ;GaiaEDR3
 Groombridge 34 B      ; 280.7865 ;  0.0518 ;n ;GaiaDR2
-Kapteyn's star        ; 254.1986 ;  0.0168 ;  ;GaiaEDR3
+Groombridge 34 B      ; 280.6947 ;  0.0278 ;  ;GaiaEDR3
 Kapteyn's star        ; 254.2263 ;  0.0263 ;n ;GaiaDR2
-Kapteyn's star        ; 255.66   ;  0.91   ;  ;vanLeeuwen07
+Kapteyn's star        ; 254.1986 ;  0.0168 ;  ;GaiaEDR3
 Kapteyn's star        ; 256.7    ;  9.2    ;  ;YPC95
+Kapteyn's star        ; 255.66   ;  0.91   ;  ;vanLeeuwen07
 Kruger 60 A           ; 249.3926 ;  0.1653 ;  ;GaiaDR2
 Kruger 60 AB          ; 247.5    ;  1.5    ;  ;Soderhjelm99
-Kruger 60 AB          ; 249.94   ;  1.87   ;  ;vanLeeuwen07
 Kruger 60 AB          ; 250.5    ; 18.0    ;  ;UPC
 Kruger 60 AB          ; 251.5    ;  3.7    ;  ;YPC95
+Kruger 60 AB          ; 249.94   ;  1.87   ;  ;vanLeeuwen07
 Kruger 60 B           ; 249.9668 ;  0.7413 ;  ;GaiaDR2
-LHS 1565              ; 268.66   ;  0.59   ;  ;Weinb16
-LHS 1565              ; 270.53   ;  1.18   ;  ;Henry18
-LHS 1565              ; 272.1615 ;  0.0316 ;  ;GaiaEDR3
-LHS 1565              ; 272.2446 ;  0.0661 ;n ;GaiaDR2
 LHS 1565              ; 284.0    ;  1.0    ;  ;Bartlett09
-LHS 288		      ; 206.9698 ;  0.0448 ;  ;GaiaEDR3
-LHS 288               ; 206.04   ;  0.81   ;  ;Weinb16
-LHS 288               ; 206.8171 ;  0.0735 ;n ;GaiaDR2
-LHS 288               ; 209.45   ;  0.82   ;  ;Henry18
+LHS 1565              ; 272.2446 ;  0.0661 ;n ;GaiaDR2
+LHS 1565              ; 272.1615 ;  0.0316 ;  ;GaiaEDR3
+LHS 1565              ; 270.53   ;  1.18   ;  ;Henry18
+LHS 1565              ; 268.66   ;  0.59   ;  ;Weinb16
 LHS 288               ; 213.0    ;  2.0    ;  ;Bartlett09
+LHS 288               ; 206.8171 ;  0.0735 ;n ;GaiaDR2
+LHS 288               ; 206.9698 ;  0.0448 ;  ;GaiaEDR3
+LHS 288               ; 209.45   ;  0.82   ;  ;Henry18
+LHS 288               ; 206.04   ;  0.81   ;  ;Weinb16
 LHS 288               ; 222.5    ; 11.3    ;  ;YPC95
-LHS 292               ; 214.64   ;  1.02   ;  ;Henry18
-LHS 292               ; 218.10   ;  0.60   ;  ;Weinb16
 LHS 292               ; 219.1159 ;  0.1566 ;n ;GaiaDR2
 LHS 292               ; 219.3302 ;  0.0602 ;  ;GaiaEDR3
+LHS 292               ; 214.64   ;  1.02   ;  ;Henry18
+LHS 292               ; 218.10   ;  0.60   ;  ;Weinb16
 LHS 292               ; 220.3    ;  3.6    ;  ;YPC95
 Lacaille 8760         ; 251.8294 ;  0.0558 ;n ;GaiaDR2
 Lacaille 8760         ; 251.9124 ;  0.0352 ;  ;GaiaEDR3
-Lacaille 8760         ; 253.41   ;  0.80   ;  ;vanLeeuwen07
 Lacaille 8760         ; 258.8    ; 10.9    ;  ;YPC95
-Lacaille 9352         ; 278.6    ;  8.6    ;  ;YPC95
-Lacaille 9352         ; 304.1354 ;  0.0200 ;  ;GaiaEDR3
+Lacaille 8760         ; 253.41   ;  0.80   ;  ;vanLeeuwen07
 Lacaille 9352         ; 304.2190 ;  0.0450 ;n ;GaiaDR2
+Lacaille 9352         ; 304.1354 ;  0.0200 ;  ;GaiaEDR3
+Lacaille 9352         ; 278.6    ;  8.6    ;  ;YPC95
 Lacaille 9352         ; 305.26   ;  0.70   ;  ;vanLeeuwen07
-Lalande 21185         ; 392.64   ;  0.67   ;  ;vanLeeuwen07
 Lalande 21185         ; 392.7529 ;  0.0321 ;  ;GaiaEDR3
 Lalande 21185         ; 395.1    ;  1.0    ;  ;Gatewood92
+Lalande 21185         ; 392.64   ;  0.67   ;  ;vanLeeuwen07
 Lalande 21258 A       ; 203.8876 ;  0.0332 ;  ;GaiaEDR3
-Lalande 21258 AB      ; 201.6    ;  2.6    ;  ;YPC95
 Lalande 21258 AB      ; 204.0591 ;  0.1687 ;n ;GaiaDR2
+Lalande 21258 AB      ; 201.6    ;  2.6    ;  ;YPC95
 Lalande 21258 AB      ; 206.27   ;  1.00   ;  ;vanLeeuwen07
 Lalande 21258 B       ; 203.8323 ;  0.0500 ;  ;GaiaEDR3
+Luhman 16 AB          ; 501.14   ;  0.052  ;  ;Bedin17
 Luhman 16 AB          ; 495.0    ;  4.6    ;  ;Boffin13
+Luhman 16 AB          ; 514.0    ; 26.0    ;  ;Boffin13
+Luhman 16 AB          ; 501.01   ;  0.53   ;  ;Garcia17
+Luhman 16 AB          ; 501.557  ;  0.082  ;  ;Lazorenko18
 Luhman 16 AB          ; 496.0    ; 37.0    ;n ;Luhman13
 Luhman 16 AB          ; 500.0    ;  6.0    ;  ;Theissen18
-Luhman 16 AB          ; 501.01   ;  0.53   ;  ;Garcia17
-Luhman 16 AB          ; 501.14   ;  0.052  ;  ;Bedin17
-Luhman 16 AB          ; 501.557  ;  0.082  ;  ;Lazorenko18
-Luhman 16 AB          ; 514.0    ; 26.0    ;  ;Boffin13
 Luyten 1159-16        ; 217.7    ;  8.6    ;  ;Dittmann14
-Luyten 1159-16        ; 221.67   ;  0.71   ;  ;Weinb16
 Luyten 1159-16        ; 223.6348 ;  0.1066 ;n ;GaiaDR2
 Luyten 1159-16        ; 223.7321 ;  0.0699 ;  ;GaiaEDR3
-Luyten 1159-16        ; 224.75   ;  2.03   ;  ;Vrijmoet20
-Luyten 1159-16        ; 224.8    ;  2.9    ;  ;YPC95
 Luyten 1159-16        ; 251.0    ;  8.9    ;  ;UPC
-Luyten 725-32         ; 268.8    ;  3.2    ;  ;YPC95
-Luyten 725-32         ; 269.0573 ;  0.0337 ;  ;GaiaEDR3
+Luyten 1159-16        ; 224.75   ;  2.03   ;  ;Vrijmoet20
+Luyten 1159-16        ; 221.67   ;  0.71   ;  ;Weinb16
+Luyten 1159-16        ; 224.8    ;  2.9    ;  ;YPC95
 Luyten 725-32         ; 269.3628 ;  0.0784 ;n ;GaiaDR2
+Luyten 725-32         ; 269.0573 ;  0.0337 ;  ;GaiaEDR3
 Luyten 725-32         ; 270.59   ;  4.32   ;  ;Vrijmoet20
+Luyten 725-32         ; 268.8    ;  3.2    ;  ;YPC95
 Luyten 725-32         ; 271.01   ;  8.36   ;  ;vanLeeuwen07
-Luyten 726-8 A        ; 367.7119 ;  0.7418 ;  ;GaiaEDR3
 Luyten 726-8 A        ; 369.9318 ;  0.2684 ;n ;GaiaDR2
+Luyten 726-8 A        ; 367.7119 ;  0.7418 ;  ;GaiaEDR3
 Luyten 726-8 AB       ; 373.7    ;  2.7    ;  ;YPC95
 Luyten 726-8 B        ; 372.1631 ;  0.2803 ;n ;GaiaDR2
-Luyten 726-8 B        ; 373.8443 ;  0.5009 ;  ;GaiaEDR3	
+Luyten 726-8 B        ; 373.8443 ;  0.5009 ;  ;GaiaEDR3  
 Luyten 789-6 AabB     ; 290.4    ;  2.7    ;  ;Delfosse99
 Luyten 789-6 AabB     ; 293.0    ;  2.7    ;  ;Reid94
 Luyten 789-6 AabB     ; 293.6    ;  0.9    ;  ;Segransan00
 Luyten 789-6 AabB     ; 294.3    ;  3.5    ;  ;YPC95
 Omicron-2 Eridani A   ; 198.5656 ;  0.5101 ;n ;GaiaDR2
 Omicron-2 Eridani A   ; 199.6080 ;  0.1208 ;  ;GaiaEDR3
-Omicron-2 Eridani ABC ; 200.62   ;  0.23   ;  ;vanLeeuwen07
 Omicron-2 Eridani ABC ; 202.9    ;  1.9    ;  ;YPC95
+Omicron-2 Eridani ABC ; 200.62   ;  0.23   ;  ;vanLeeuwen07
 Omicron-2 Eridani B   ; 199.6911 ;  0.0512 ;  ;GaiaEDR3
 Omicron-2 Eridani BC  ; 199.4551 ;  0.3204 ;n ;GaiaDR2
 Omicron-2 Eridani C   ; 199.4516 ;  0.0692 ;  ;GaiaEDR3
 Omicron-2 Eridani C   ; 205.88   ;  3.36   ;  ;Vrijmoet20
-Procyon AB            ; 283.2    ;  1.5    ;  ;Girard00
-Procyon AB            ; 284.56   ;  1.26   ;  ;vanLeeuwen07
 Procyon AB            ; 286.00   ;  0.95   ;  ;Gatewood06
+Procyon AB            ; 283.2    ;  1.5    ;  ;Girard00
 Procyon AB            ; 286.7    ;  2.1    ;  ;YPC95
+Procyon AB            ; 284.56   ;  1.26   ;  ;vanLeeuwen07
 Proxima Centauri      ; 767.02   ;  0.11   ;  ;Benedict20
-Proxima Centauri      ; 768.0665 ;  0.0499 ;  ;GaiaEDR3
-Proxima Centauri      ; 768.5004 ;  0.2030 ;n ;GaiaDR2
 Proxima Centauri      ; 768.70   ;  0.30   ;  ;Benedict99
-Proxima Centauri      ; 769.66   ;  0.83   ;  ;Henry18
-Proxima Centauri      ; 769.8    ;  6.1    ;  ;YPC95
-Proxima Centauri      ; 771.64	 ;  2.60   ;  ;vanLeeuwen07
 Proxima Centauri      ; 772.0    ;  4.1    ;  ;Demarque86
 Proxima Centauri      ; 772.33   ;  2.42   ;n ;ESA97
-Ross 128              ; 296.3053 ;  0.0302 ;  ;GaiaEDR3
+Proxima Centauri      ; 768.5004 ;  0.2030 ;n ;GaiaDR2
+Proxima Centauri      ; 768.0665 ;  0.0499 ;  ;GaiaEDR3
+Proxima Centauri      ; 769.66   ;  0.83   ;  ;Henry18
+Proxima Centauri      ; 769.8    ;  6.1    ;  ;YPC95
+Proxima Centauri      ; 771.64   ;  2.60   ;  ;vanLeeuwen07
 Ross 128              ; 296.3072 ;  0.0699 ;n ;GaiaDR2
-Ross 128              ; 298.04   ;  2.30   ;  ;vanLeeuwen07
-Ross 128              ; 298.2    ;  1.7    ;  ;YPC95
+Ross 128              ; 296.3053 ;  0.0302 ;  ;GaiaEDR3
 Ross 128              ; 304.3    ; 11.1    ;  ;UPC
-Ross 154              ; 336.0266 ;  0.0317 ;  ;GaiaEDR3
-Ross 154              ; 336.1227 ;  0.0641 ;n ;GaiaDR2
-Ross 154              ; 336.72   ;  2.03   ;  ;vanLeeuwen07
+Ross 128              ; 298.2    ;  1.7    ;  ;YPC95
+Ross 128              ; 298.04   ;  2.30   ;  ;vanLeeuwen07
 Ross 154              ; 339.59   ;  1.63   ;  ;Cassy15
+Ross 154              ; 336.1227 ;  0.0641 ;n ;GaiaDR2
+Ross 154              ; 336.0266 ;  0.0317 ;  ;GaiaEDR3
 Ross 154              ; 345.2    ;  8.1    ;  ;YPC95
+Ross 154              ; 336.72   ;  2.03   ;  ;vanLeeuwen07
 Ross 248              ; 277.5    ;  6.0    ;  ;Dittmann14
-Ross 248              ; 298.0    ; 10.8    ;  ;UPC
-Ross 248              ; 316.0    ;  1.1    ;  ;YPC95
+Ross 248              ; 316.9558 ;  0.1260 ;n ;GaiaDR2
 Ross 248              ; 316.4812 ;  0.0444 ;  ;GaiaEDR3
 Ross 248              ; 316.7    ;  0.7    ;  ;Gatewood08
-Ross 248              ; 316.9558 ;  0.1260 ;n ;GaiaDR2
+Ross 248              ; 298.0    ; 10.8    ;  ;UPC
+Ross 248              ; 316.0    ;  1.1    ;  ;YPC95
 Ross 614 AB           ; 240.98   ;  0.40   ;  ;Benedict16
-Ross 614 AB           ; 242.32   ;  3.12   ;  ;vanLeeuwen07
 Ross 614 AB           ; 242.9658 ;  0.8833 ;  ;GaiaDR2
+Ross 614 AB           ; 244.07   ;  0.73   ;  ;Gatewood03
+Ross 614 AB           ; 248      ;  5      ;  ;Lippincott72
 Ross 614 AB           ; 243.2    ;  2.0    ;  ;Probst77
 Ross 614 AB           ; 243.7    ;  2.0    ;  ;Segransan00
-Ross 614 AB           ; 244.07   ;  0.73   ;  ;Gatewood03
 Ross 614 AB           ; 244.4    ;  2.4    ;  ;Soderhjelm99
-Ross 614 AB           ; 248      ;  5      ;  ;Lippincott72
 Ross 614 AB           ; 264.1    ; 11.0    ;  ;UPC
-Ross 780              ; 211.9    ;  5.4    ;  ;YPC95
-Ross 780              ; 213.11   ;  4.03   ;  ;Lurie14
-Ross 780              ; 213.28   ;  2.12   ;  ;vanLeeuwen07
+Ross 614 AB           ; 242.32   ;  3.12   ;  ;vanLeeuwen07
+Ross 780              ; 214.60   ;  0.20   ;  ;Benedict02
 Ross 780              ; 213.8668 ;  0.0758 ;n ;GaiaDR2
 Ross 780              ; 214.0380 ;  0.0356 ;  ;GaiaEDR3
-Ross 780              ; 214.60   ;  0.20   ;  ;Benedict02
-SCR J1845-6357 AB     ; 246.59   ;  1.39   ;  ;Weinb16
-SCR J1845-6357 AB     ; 249.6651 ;  0.1330 ;  ;GaiaEDR3
+Ross 780              ; 213.11   ;  4.03   ;  ;Lurie14
+Ross 780              ; 211.9    ;  5.4    ;  ;YPC95
+Ross 780              ; 213.28   ;  2.12   ;  ;vanLeeuwen07
 SCR J1845-6357 AB     ; 249.9186 ;  0.1550 ;n ;GaiaDR2
+SCR J1845-6357 AB     ; 249.6651 ;  0.1330 ;  ;GaiaEDR3
 SCR J1845-6357 AB     ; 251.27   ;  0.54   ;  ;Henry18
-Sirius AB             ; 379.21   ;  1.58   ;  ;vanLeeuwen07
+SCR J1845-6357 AB     ; 246.59   ;  1.39   ;  ;Weinb16
 Sirius AB             ; 381.6    ;  2.2    ;  ;YPC95
-Sirius B              ; 374.4896 ;  0.2313 ;  ;GaiaEDR3
+Sirius AB             ; 379.21   ;  1.58   ;  ;vanLeeuwen07
 Sirius B              ; 376.6801 ;  0.4526 ;n ;GaiaDR2
-Struve 2398 A	      ; 283.8401 ;  0.0220 ;  ;GaiaEDR3
-Struve 2398 A         ; 280.18   ;  2.18   ;  ;vanLeeuwen07
+Sirius B              ; 374.4896 ;  0.2313 ;  ;GaiaEDR3
 Struve 2398 A         ; 283.8624 ;  0.1065 ;n ;GaiaDR2
+Struve 2398 A         ; 283.8401 ;  0.0220 ;  ;GaiaEDR3
 Struve 2398 A         ; 303.5    ; 11.8    ;n ;UPC
+Struve 2398 A         ; 280.18   ;  2.18   ;  ;vanLeeuwen07
 Struve 2398 AB        ; 285.2    ;  2.5    ;  ;YPC95
-Struve 2398 B	      ; 283.8378 ;  0.0287 ;  ;GaiaEDR3	
 Struve 2398 B         ; 283.9489 ;  0.0623 ;n ;GaiaDR2
-Struve 2398 B         ; 289.48   ;  3.21   ;  ;vanLeeuwen07
+Struve 2398 B         ; 283.8378 ;  0.0287 ;  ;GaiaEDR3  
 Struve 2398 B         ; 302.1    ;  8.4    ;  ;UPC
-Tau Ceti              ; 273.8097 ;  0.1701 ;  ;GaiaEDR3
-Tau Ceti              ; 273.96   ;  0.17   ;  ;vanLeeuwen07
-Tau Ceti              ; 276.5    ;  2.5    ;  ;YPC95
+Struve 2398 B         ; 289.48   ;  3.21   ;  ;vanLeeuwen07
 Tau Ceti              ; 277.5162 ;  0.5173 ;n ;GaiaDR2
-Teegarden's star      ; 256.8    ;  8.0    ;  ;Dittmann14
-Teegarden's star      ; 259.25   ;  0.94   ;  ;Gatewood09
-Teegarden's star      ; 260.25   ;  0.93   ;  ;Weinb16
-Teegarden's star      ; 260.9884 ;  0.0934 ;  ;GaiaEDR3	
-Teegarden's star      ; 261.01   ;  1.76   ;  ;Henry18
-Teegarden's star      ; 261.0147 ;  0.2689 ;n ;GaiaDR2
+Tau Ceti              ; 273.8097 ;  0.1701 ;  ;GaiaEDR3
+Tau Ceti              ; 276.5    ;  2.5    ;  ;YPC95
+Tau Ceti              ; 273.96   ;  0.17   ;  ;vanLeeuwen07
 Teegarden's star      ; 261.12   ;  0.82   ;  ;Dahn17
+Teegarden's star      ; 256.8    ;  8.0    ;  ;Dittmann14
+Teegarden's star      ; 261.0147 ;  0.2689 ;n ;GaiaDR2
+Teegarden's star      ; 260.9884 ;  0.0934 ;  ;GaiaEDR3  
+Teegarden's star      ; 259.25   ;  0.94   ;  ;Gatewood09
+Teegarden's star      ; 261.01   ;  1.76   ;  ;Henry18
+Teegarden's star      ; 260.25   ;  0.93   ;  ;Weinb16
 UGPS J0722-0540       ; 242.8    ;  2.4    ;  ;Leggett12
 UGPS J0722-0540       ; 251.0    ; 26      ;  ;Theissen18
 WISE J0855-0714       ; 438.9    ;  3.0    ;n ;Kirkpatrick18
 WISE J0855-0714       ; 439.0    ;  2.4    ;  ;Kirkpatrick20
-WISE J0855-0714       ; 448.0    ; 33.0    ;  ;Wright14
 WISE J0855-0714       ; 449      ;  8      ;  ;Luhman16
-WISE J1639-6847       ; 202.3    ;  3.1    ;  ;Tinney14
+WISE J0855-0714       ; 448.0    ; 33.0    ;  ;Wright14
 WISE J1639-6847       ; 210.4    ;  1.8    ;n ;Bedin20
 WISE J1639-6847       ; 211.11   ;  0.56   ;  ;Fontanive20
 WISE J1639-6847       ; 219.6    ;  2.3    ;  ;Kirkpatrick20
 WISE J1639-6847       ; 228.05   ;  8.93   ;  ;Martin18
-WISE J1741+2553       ; 176.0    ; 26.0    ;n ;Marsh13
+WISE J1639-6847       ; 202.3    ;  3.1    ;  ;Tinney14
 WISE J1741+2553       ; 179.8    ; 14.7    ;n ;Dupuy13
 WISE J1741+2553       ; 214.3    ;  2.8    ;  ;Kirkpatrick18
-Wolf 359              ; 394.9    ;  7.8    ;n ;Dittmann14
-Wolf 359              ; 413.13   ;  1.27   ;  ;Weinb16
-Wolf 359              ; 414.40   ;  1.47   ;  ;Henry18
+WISE J1741+2553       ; 176.0    ; 26.0    ;n ;Marsh13
 Wolf 359              ; 415.16   ;  1.62   ;  ;Cassy15
+Wolf 359              ; 394.9    ;  7.8    ;n ;Dittmann14
 Wolf 359              ; 415.1794 ;  0.0684 ;  ;GaiaEDR3
+Wolf 359              ; 414.40   ;  1.47   ;  ;Henry18
+Wolf 359              ; 413.13   ;  1.27   ;  ;Weinb16
 Wolf 359              ; 419.1    ;  2.1    ;  ;YPC95
 Wolf 424 A            ; 231.1185 ;  0.5119 ;  ;GaiaEDR3
-Wolf 424 AB           ; 224.6    ;  8.8    ;  ;UPC
-Wolf 424 AB           ; 229.8    ;  3.8    ;  ;Reid94
-Wolf 424 AB           ; 233      ;  4      ;  ;Heintz89
 Wolf 424 AB           ; 235.46   ;  2.88   ;  ;Benedict16
+Wolf 424 AB           ; 233      ;  4      ;  ;Heintz89
+Wolf 424 AB           ; 229.8    ;  3.8    ;  ;Reid94
+Wolf 424 AB           ; 224.6    ;  8.8    ;  ;UPC
 Wolf 424 B            ; 223.4775 ;  0.4665 ;  ;GaiaEDR3
 van Maanen 2          ; 231.7374 ;  0.0379 ;n ;GaiaDR2
 van Maanen 2          ; 231.7800 ;  0.0183 ;  ;GaiaEDR3

@@ -486,7 +486,7 @@ Arp 2            Sagittarius                     GC          Forbes, 2020
 BH 176           CMa                             GC          <todo>
 BH 176           Main Disk                       GC          Massari, 2019
 BH 261           Main Bulge                      GC          Massari, 2019
-Berk 29          Sagttarius                      OC          Forbes, 2010
+Berk 29          Sagittarius                     OC          Forbes, 2010
 Crater           High Energy                     EGC         Massari, 2019
 Crater           High-Energy                     EGC         Forbes, 2020
 DES J0111-1341   Sagittarius                     UFD         Luque, 2017

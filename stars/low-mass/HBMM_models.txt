@@ -1,9 +1,11 @@
-===================================================================================================================================================================
-P R O P E R T I E S   O F   E V O L U T I O N A R Y   M O D E L S
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Model source                       H Burning      H Burning   SpT   H Burning    Metallicity    Stellar     Atmospheric properties
-                                 Mass(MSun/Jup)     Teff(K)         Log(L/LSun)    Z/ZSun    Radius(R/RSun) and comments
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+===============================================================================================================================================================================================================================++
+P R O P E R T I E S   O F   E V O L U T I O N A R Y   M O D E L S   ( F R O M   R E D   D W A R F S   T O   S U B - B R O W N   D W A R F S )
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Model source                     Mass(MSun/Jup)     Teff(K)   SpT   Log(L/LSun)    Z/ZSun    Radius(R/RSun) Atmospheric properties and comments
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Baraffe et al. (2018)           0.35      366                ~M3                                            maximum mass of a fully convective red dwarf
+Adams et al. (2004)             0.25      262                ~M3.5                                          the minimum mass a red dwarf must have to eventually evolve into a red giant (otherwise they will become blue dwarfs)
+
 Burrows et al. (1993, 1997)     0.0767     80.3      1747    ~L3.5     -4.21         1.28         0.085     gray with grains
 Baraffe et al. (1998)           0.072      75.4      1700    ~L4       -4.26         1.28         0.085     non-gray without grains
 Chabrier et al. (2000)          0.070      73.3      1550    ~L5.5     -4.42         1.28         0.086     "DUSTY" grains do not settle
@@ -29,21 +31,31 @@ Auddy et al. (2016)         0.064-0.087  67.0-91.1                              
 Rebolo (1992)                   0.065      68.0                                                             Minimum Lithium-burning treshold
 Chabrier (1996)                 0.057      60.0                                                             Minimum Lithium-burning treshold
 Basri (1998)                    0.06       62.8                                                             Minimum Lithium-burning treshold
-Adams & Laughlin (1997)         0.04       41.9      ~273                          >>1.0                    Hypothetical "Frozen stars"
-Spiegel et al. (2010)           0.0105     10.99                                     3.0                    Deuterium-burning range
-Spiegel et al. (2010)           0.0156     16.30                                     0.0                    Deuterium-burning range
+
+Burrows et al. (1997, 2001)     0.0124     13.0                                                             Deuterium burning minimum
+Chabrier et al. (2005)          0.0120     12.56                                                            Deuterium burning minimum
+Saumon & Marley (2008)          0.0125     13.1                                                             Cloudless case - minimum D-burning mass defined as objects that burn 90% of their initial deuterium in 10 Gyr
+Saumon & Marley (2008)          0.0118     12.4                                                             Cloudy case - minimum D-burning mass defined as objects that burn 90% of their initial deuterium in 10 Gyr
+Spiegel et al. (2010)           0.0105     10.99                                     3.0                    Deuterium-burning range (for three times solar metallicity, 10% of initial deuterium burned)
+Spiegel et al. (2010)           0.0156     16.30                                     0.0                    Deuterium-burning range (for zero metallicity, 90% of initial deuterium burned)
+
+Schlaufman (2018)               0.0096     10.0                                                             Largest mass of objects formed through core accretion (i.e. planets)
+Boss et al. (2003)             ~0.001       1.0                                                             The smallest mass of gas cloud that could collapse to form a bosy (sub-brown dwarf of BD-like)
+Boss et al. (2003)             ~0.002       2.0                                                             The largest mass of a body formed by accretion os dust and planetesimals (planet-like)
+Boss et al. (2003)             ~0.005       5.0                                                             The smallest mass for entities with EOS (interior equation of state) physics (BD-like)
+
 Forbes & Loeb (2019)      up to 0.12      125.6                                                             Overmassive BDs that gained mass through transfer
+Adams & Laughlin (1997)         0.04       41.9      ~273                          >>1.0                    Hypothetical "Frozen stars"
 
+-------------------------------------------------------------------------------------
+There is an increasing number of T dwarfs with measured masses in excess 60 MJup:
 
-There is increasing number of T-type dwarfs with measured masses in excess 60 MJup:
-
-Object              Mass (MJ)     ST     Teff (K)    [Fe/H]    Reference               
----------------------------------------------------------------------------------------
-Epsilon Indi Ba     75.0±0.82     T1.5   1312±9      -0.20     Dieterich et. al (2018) 
-15 Sge B            72.7±0.8      L4-5               +0.05     Brandt et. al. (2019)   
-Epsilon Indi Bb     70.1±0.68     T6      975±11     -0.20     Dieterich et. al (2018) 
-HD 4747 B           70.0±1.6      L9/T1  1380±50     -0.22     Peretti et al. (2019)
-2MASS J1059-2113 B  67.0+4.4-4.8  T3.5                         Sahlmann et. al (2020)
-2MASS J0805+4812 B  66.3+5.2-14   T5.5                         Sahlmann et. al (2020) 
-WISE J0720-0846 B   66±4          T5.5   1250±40     +0.15     Dupuy et. al (2019)
-HD 4113 C           66+5-4        T9 ?    700±40     +0.19     Cheetham et al. (2018)
+Object              Mass (MJ)      ST     Teff (K)  [Fe/H]   Reference               
+-------------------------------------------------------------------------------------
+Epsilon Indi Ba     75.0 ±0.82     T1.5   1312 ±9    -0.20   Dieterich et. al (2018) 
+Epsilon Indi Bb     70.1 ±0.68     T6      975 ±11   -0.20   Dieterich et. al (2018) 
+HD 4747 B           70.0 ±1.6      L9/T1  1380 ±50   -0.22   Peretti et al. (2019)
+2MASS J1059-2113 B  67.0 +4.4-4.8  T3.5                      Sahlmann et. al (2020)
+2MASS J0805+4812 B  66.3 +5.2-14   T5.5                      Sahlmann et. al (2020) 
+WISE J0720-0846 B   66   ±4        T5.5   1250 ±40   +0.15   Dupuy et. al (2019)
+HD 4113 C           66   +5-4      T9 ?    700 ±40   +0.19   Cheetham et al. (2018)

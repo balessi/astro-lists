@@ -13,7 +13,7 @@ Alicante 8          RSGC 4                   Sct  18 34 51.0 -07 14 00.0  MW    
 Alicante 9          Masgomas-3, Ryu 268      Aql  18 44 43.0 -03 14 30.0  MW     IR   RSG       4.5    3080                     
 Andrews-Lindsay 3   BH 261                   Sgr  18 14 04.8 -28 37 58.8  MW     Op   GC        9.6    6555        0.36  10.05  
 Aqr 2                                        Aqr  22 33 55.5 -09 19 39.0  MW     Op   dSph      5.1  107900   
-Arches Cl           NHS93 17, BDB 1          Sgr  17 45 50.0 -28 49 22.0  MW     IR   SSC?      0.5    8230                     
+Arches Cl           NHS93 17, BDB 1          Sgr  17 45 50.0 -28 49 22.0  MW     IR   SSC?      0.5    8230               6.40      
 Arp 2               ESO 460-6                Sgr  19 28 43.9 -30 21 21.6  SgrDEG Op   GC       13.2   28596        0.10  10.10  
 Arp-Madore 1        E 1                      Hor  03 55 02.4 -49 36 24.1  MW     Op   GC        1.3  123200        0.00  10.00  
 Arp-Madore 4        AM 1353-265              Hya  13 56 21.1 -27 10 03.0  SgrDEG Op   GC        1.3   33000        0.05   9.95  
@@ -23,7 +23,6 @@ BH 140              FSR 1632                 Mus  12 53 50.9 -67 10 48.0  MW    
 BH 176              ESO 224-8                Nor  15 39 05.3 -50 03 03.6  CMaDw  Op   GC       12.0   18887        0.54   9.80  
 BLISS 1             BLISS J0321+0438         Cet  03 21 43.6 +04 38 34.0  MW     Op   GC        1.2   23700                     UFD with MV +0.0 and Rh 4.1 pc
 Balbinot 1          SDSS J2211+1457          Peg  22 10 43.0 +14 56 30.0  MW     Op   GC/OC     2.0   31900              10.07  UFD with MV -1.2, Spatially close to Messier 2, SEGUE 3 and Kim 1
-Bica 78                                      Aql  18 44 40.0 -03 11 21.0  MW     Op   RSG??     2.0    3200                     Compact, includes RSG stars?
 Boo II                                       Boo  13 58 00.0 +12 51 00.0  MW     Op   dSph      4.2   52000   
 Boo IV              HSC J1534+4343           Boo  15 34 45.4 +43 43 34.0  MW     Op   dSph      7.6  209000   
 CVn II              SDSS J1257+3419          CVn  12 57 09.6 +34 19 12.0  MW     Op   dSph      1.6  152500   
@@ -54,11 +53,10 @@ ESO 456-29          Gran 1                   Sgr  17 58 35.9 -32 01 14.0  MW    
 ESO 456-38          Djorgovski 2             Sgr  18 01 49.0 -27 49 01.2  MW     Op   GC       10.2    6305        0.94   9.95  
 ESO 559-2                                    CMa  07 18 05.4 -18 35 44.0  MW     Op   GC?       1.6    7700                     Alessi: very compact, but probably an OC
 ESO 92-18                                    Car  10 14 55.2 -64 36 40.0  MW     Op   GC?       3.0   31250        0.31   9.15  Alessi: very rich and compact
-ESO 93-8                                     Car  11 19 41.0 -65 13 01.0  MW     Op   GC?       4.6   13890               9.80  Alessi: very rich and compact 
+ESO 93-8                                     Car  11 19 41.0 -65 13 01.0  MW     Op   GC        4.6   13890               9.80
 Eri Cl              Eri (I), ESO 551-1       Eri  04 24 44.7 -21 11 24.0  MW     Op   GC        1.0   89760        0.02  10.00                
 Eri II Cl                                    Eri  03 44 22.2 -43 31 59.2  EriII  Op   GC/NC     0.5  366000 19.4   0.01   9.40  Age is approximate
 Eri III             DES J0222-5217           Eri  02 22 45.5 -52 17 01.0  MW     Op   EGC       1.4   77600        0.02  10.08  UFD with MV -2.7, Easily visible in PanSTARRS
-FNY 1               RSG 2SW, Ryu 871         Sct  18 39 06.0 -06 04 28.0  MW     IR   RSG       4.0    3400                     In shell, pair with Stephenson 2
 FSR 1716            VVV-GC 5                 Nor  16 10 40.8 -53 45 00.0  MW     Op   GC       19.2    7500              10.00  Age is lower limit: arXiv:1703.02033v1
 FSR 1735            2MASS-GC 3, SHU 71       Ara  16 52 12.0 -47 03 18.0  MW     Op   GC        7.2    8831        2.08   9.90  
 FSR 1758                                     Sco  17 31 37.2 -39 50 24.0  MW     Op   EGC      12.0   11500        0.77   9.20  Age is probably wrong
@@ -69,9 +67,6 @@ For 2               Hodge 2                  For  02 38 44.1 -34 48 30.0  ForDw 
 For 4               Hodge 4                  For  02 40 07.7 -34 32 10.6  ForDw  Op   GC        0.9  131000 13.57  0.14  10.06  
 For 5               Hodge 5                  For  02 42 21.1 -34 06 05.8  ForDw  Op   GC+PN?    1.7  140000 13.42  0.03  10.11  Avg of dists in NED, Contains poss PN Larsen 1, loc about 1.5" (less than one core rad) SW of the centre of the cl
 For 6               Hodge 6                  For  02 40 07.0 -34 25 13.5  ForDw  Op   GC        0.6  139000 14.34        10.00  DES DR1: seems to be a genuine cluster
-Froebrich 4         Bica 49                  Sct  18 24 07.0 -13 19 48.0  MW     IR   RSG?      6.0    6000               7.20  Diam from extr rad, poss cluster of RSGS, weak candidate
-Froebrich 5                                  Sct  18 31 48.0 -10 40 12.0  MW     IR   RSG?      6.0    8000               7.20  Diam from extr rad, poss cluster of RSGS, weak candidate
-Froebrich 6                                  Aql  18 47 48.0 -01 42 00.0  MW     IR   RSG       6.0    6000               7.20  Diam from extr rad, cluster of RSGS
 GLIMPSE-C01                                  Aql  18 48 49.7 -01 29 49.9  MW     IR   GC        6.0    4100        4.85         
 GLIMPSE-C02         Mercer 3                 Sgr  18 18 30.6 -16 58 37.4  MW     IR   GC        0.9    4600        7.85  10.10  
 Gaia 3                                       Men  06 20 14.1 -73 24 52.0  LMC    Op   GC        1.1   48400                     
@@ -103,10 +98,9 @@ Kim 1                                        Peg  22 11 41.3 +07 01 31.8  MW    
 Kim 3                                        Cen  13 22 45.2 -30 36 03.6  MW     Op   OCR       2.0   15140        0.06   9.98  From arXiv:1512.03530v1. Tail points to Kim 3 B
 Koposov 1                                    Vir  11 59 18.5 +12 15 36.0  MW     Op   GC/OC     1.5   48300        0.01   9.90  UFD with MV +2.0 and Rh 3.6 pc, OC poss removed from Sgr dSph (2014AJ....148...19P)
 Koposov 2                                    Gem  07 58 17.0 +26 15 00.0  MW     Op   GC/OC     8.4   22063        0.02  10.10  UFD
-Kronberger 88       Gaia 2                   Per  01 52 33.0 +53 02 36.0  MW     Op   GC??      5.3    5500              10.00  Alessi: very open in PanSTARRS
+Kronberger 88       Gaia 2                   Per  01 52 33.0 +53 02 36.0  MW     Op   GC?       5.3    5500              10.00  Alessi: very open in PanSTARRS
 LAMOST 1                                     Dra  18 20 00.0 +52 19 48.0  MW     Op   GCR     480.0    2600              10.04  
 Laevens 3                                    Del  21 06 54.3 +14 58 48.0  MW     Op   GC        0.8   67000        0.07   9.95  Partly resolved in DSS, shows well in PanSTARRs
-Leo II clump                                 Leo  11 02 30.0 +22 10 00.0  LeoII  Op   GCR?      2.0  215000                     See 2007AJ....134..835K
 Liller 1                                     Sco  17 33 24.5 -33 23 20.0  MW     Op   GC        6.0    8120        3.07  10.10  
 Lynga 7             BH 184                   Nor  16 11 03.1 -55 18 50.4  MW     Op   GC       11.4    8785        0.87  10.05  
 MQI Cl 16.7                                  Sct  18 23 34.4 -14 39 11.0  MW     IR   RSG       1.3    3900               7.30  Cluster of RSGS
@@ -252,10 +246,10 @@ Palomar 4                                    UMa  11 29 16.5 +28 58 22.4  MW    
 Palomar 5           UGC 9792                 Ser  15 16 05.0 +00 06 43.2  MW     Op   EGC      16.8   23195        0.03  10.10  GC in process of disruption. Progenitor of a large and proeminent stream
 Palomar 6           ESO 520-21               Oph  17 43 42.2 -26 13 01.2  MW     Op   GC+PN    12.0    5802        1.46  10.05  Contains PN JaFu 1
 Palomar 8           ESO 591-12, FSR 48       Sgr  18 41 29.8 -19 49 48.0  MW     Op   GC       20.4   12801        0.32   9.90  
-Patchick 99                                  Sgr  18 15 47.0 -29 48 46    MW     Op   GC        2.4    6600              10.00
 Patchick 123        Pa-DeCAPS 5              Cru  12 10 19.6 -63 52 47.0  MW     Op   GC?       1.8    5200                     
 Patchick 125        Pa-DeCAPS 1              Sco  17 05 00.7 -35 29 41.0  MW     Op   GC?       2.0    4500                     
 Patchick 126        Pa-DeCAPS 6              Ara  17 05 38.6 -47 20 32.0  MW     Op   GC?       0.9    5800                     
+Patchick 99                                  Sgr  18 15 47.0 -29 48 46.0  MW     Op   GC?       2.4    6600              10.00  
 Peg III                                      Peg  22 24 24.2 +05 24 36.0  MW     Op   dSph      1.3  205000   
 Pfleiderer 2        PWM78 2                  Oph  17 58 38.9 -05 04 19.2  MW     Op   GC       10.8    8677        0.96   9.85  
 Phe II              DES J2339-5424           Phe  23 39 59.4 -54 24 22.0  MW     Op   dSph      1.2   89000   
@@ -319,6 +313,7 @@ Bica 523                                     Sco  17 14 58.0 -36 48 28.0  MW    
 Bica 524                                     Sco  17 15 08.0 -36 47 12.0  MW     IR   *Ast?     1.3                             Bica+ 2019
 Bica 640            Terzan 9B                Sgr  18 01 36.0 -26 50 04.0  MW     IR   *Ast?     0.9                             Small clump very near Terzan 9
 Bica 656                                     Vel  09 33 20.0 -52 03 41.0  MW     Op   *Ast?     2.5                             Bica+ 2019
+Bica 78                                      Aql  18 44 40.0 -03 11 21.0  MW     Op   RSG??     2.0    3200                     Compact, includes RSG stars?
 Camargo 1102        VVVX-GC 1                Oph  17 21 44.9 -26 32 40.0  MW     IR   GC??      1.0    8200                     Alessi: asterism-like in VVV
 Camargo 1103                                 Sgr  18 06 31.3 -25 09 42.0  MW     IR   *Ast      1.5                             Alessi: asterism-like in VVV and Spitzer
 Camargo 1104                                 Sgr  18 05 14.2 -24 58 46.0  MW     IR   *Ast      1.5                             Alessi: asterism-like in VVV and Spitzer
@@ -331,6 +326,7 @@ DB 44                                        Sgr  17 46 35.0 -24 53 28.0  MW    
 Dejc 1                                       Ari  02 37 00.0 +21 06 00.0  MW     Op   *Ast      0.0                             Alessi: only one star, Deutsch 1963 (1963ATsir.259....1D), GCL 4
 ESO 393-12                                   Sco  17 38 40.0 -35 39 04.0  MW     Op   OC?       2.5    8208        1.33  10.10  Alessi: does not look like a GC
 ESO 456-9                                    Sco  17 53 52.0 -32 28 55.0  MW     Op   OC?       6.0    7475        1.19  10.05  Alessi: does not look like a GC
+FNY 1               RSG 2SW, Ryu 871         Sct  18 39 06.0 -06 04 28.0  MW     IR   RSG       4.0    3400                     In shell, pair with Stephenson 2
 FSR 1                                        Oph  17 32 22.0 -27 03 41.0  MW     Op   *Ast      6.0                             Alessi: Nothing resembling a GC at this position, from Froebrich/Scholz/Raftery 2007
 FSR 1703            La Serena 238            Nor  15 41 55.0 -55 01 11.0  MW     Op   OC?       2.0    1330               8.55  Froebrich/Scholz/Raftery 2007
 FSR 1755                                     Sco  17 12 23.0 -38 26 53.0  MW     Op   OC??      8.0                             Froebrich/Scholz/Raftery 2007; young open cluster
@@ -343,10 +339,14 @@ FSR 55              BDS 8 ?                  Sct  18 24 42.0 -13 23 40.0  MW    
 FSR 584             SAI 20                   Cas  02 27 12.5 +61 37 40.8  MW     Op   EC?      11.2    1400        1.04   9.10  Alessi: seems to be an EC candidate, not a GC
 FSR 89                                       Aql  18 48 39.0 -03 30 34.0  MW     Op   *Ast?     4.0                             Froebrich/Scholz/Raftery 2007; old open cl
 Ferrero 45                                   Sgr  19 35 47.0 -30 30 15.0  MW     Op   OC?       1.0                             Bica+ 2019
+Froebrich 4         Bica 49                  Sct  18 24 07.0 -13 19 48.0  MW     IR   RSG?      6.0    6000               7.20  Diam from extr rad, poss cluster of RSGS, weak candidate
+Froebrich 5                                  Sct  18 31 48.0 -10 40 12.0  MW     IR   RSG?      6.0    8000               7.20  Diam from extr rad, poss cluster of RSGS, weak candidate
+Froebrich 6                                  Aql  18 47 48.0 -01 42 00.0  MW     IR   RSG?      6.0    6000               7.20  Diam from extr rad, cluster of RSGS
 Grindlay 1                                   Sco  17 31 58.0 -33 50 06.0  MW     IR   *Ast      0.0                             SC 2000.0, Webbink 1985
 Ind II              DES J2038-4609           Ind  20 38 52.8 -46 09 36.0  MW     Op   dSph??    2.9  214000                     Likely a false-positive, flagged due to a chance alignment of stars along the line of sight (Cantu et al. 2020)
 Kodaira 1                                    Ser  18 12 26.7 -12 04 12.0  MW     IR   *Ast      0.0                             Kodaira 1983, Webbink 1985; probably Red Star
 Kronberger 49                                Sgr  18 10 24.0 -23 20 25.0  MW     Op   OC??      0.2    8000        1.35  10.00  Alessi: seems to be an OC or *Ast instead (Spitzer, VVV)
+Leo II clump                                 Leo  11 02 30.0 +22 10 00.0  LeoII  Op   GCR?      2.0  215000                     See 2007AJ....134..835K
 Minni 1                                      Sgr  18 34 47.5 -28 42 39.6  MW     IR   *Ast      2.4                               
 Minni 10                                     Sco  17 42 46.3 -37 18 54.0  MW     IR   *Ast      2.4                               
 Minni 11                                     Sco  17 44 33.1 -34 43 22.8  MW     IR   *Ast      2.4                               
@@ -451,7 +451,7 @@ Schuster-West GC    Phoenix dwarf            Phe  01 51 06.0 -44 27 00.0  MW    
 Shakhbazian 1       GCl-16                   UMa  10 55 05.8 +40 27 23.0  --     Op   GxCl      2.0                             Saywer 1959, Shakhbazian 1957, Group of Galaxies
 Steine J1905+1942                            Sge  19 05 49.0 +19 42 43.0  MW     Op   *Ast?     0.5                             Bica+ 2019
 TBJ 2               TJ 16                    Oph  17 18 29.0 -27 46 30.0  MW     Op   *Ast      0.6                             Terzan/Bernard/Ju 1978, Terzan/Ju 1980, Webbink 1985
-TBJ 3               PK 357+05.1              Oph  17 18 49.6 -27 52 02.0  MW     Op   *Ast?     1.7                             or PN? error in coords?
+TBJ 3               PK 357+05.1              Oph  17 18 49.6 -27 52 02.0  --     Op   Gx        1.7                             
 TJ 15               LEDA 3097099             Oph  17 18 30.9 -26 17 41.0  --     Op   Gx        0.2                             Terzan/Ju 1980, Webbink 1985
 TJ 17               LEDA 140767              Oph  17 18 41.5 -27 50 14.5  --     Op   Gx        0.3                             Terzan/Bernard/Ju 1978, Terzan/Ju 1980, Webbink 1985
 TJ 23               PN G356.6-01.9           Sco  17 45 09.8 -32 46 17.0  MW     Op   PN        0.6                             Terzan/Ju 1980, Webbink 1985  

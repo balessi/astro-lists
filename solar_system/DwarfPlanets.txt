@@ -66,14 +66,12 @@ Number Name            Type  Hmag Diam_Km  Err  Ell? Dens  DP? Sat? SMA  Ecc   A
 472271 2014 UM33       Kui   4.7   ~540                             42.9 0.15   8  
        2014 FC69       Sca   4.7   ~540                             72.7 0.44   8  
        2020 FY30       Sca   4.71  ~537                             71.5 0.51   8  
-     4 Vesta           MB    3.2    535.4   0.2      3.46            2.4 0.09  42  Not in hydrostatic equilibrium, (572.6 x 557.2 x 446.4) ± 0.2 km
 308193 2005 CB79       Kui   4.6   ~530                             43.4 0.14   9  
 523635 2010 DN93       Kui   4.77  ~520                             55.5 0.19   8  
 312645 2010 EP65       Kui   5.54  ~520                             47.9 0.31   4  
        2014 OE394      Kui   4.8   ~515                             46.6 0.12   8  
 523742 2014 TZ85       Kui   4.8   ~515                             43.6 0.25   8  
 495603 2015 AM281      Kui   4.8   ~515                             55.1 0.25   8  
-     2 Pallas          MB    4.1    512     6        2.57            2.8 0.23  16  Not in hydrostatic equilibrium, 550±8 x 516±6 x 476±6 km
 120348 2004 TY364      Kui   4.3    512    40                       38.8 0.07  11  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -129,10 +127,12 @@ because it was very close to a brighter background object.
 Stable Jacobi ellipsoids with an axis ratio of a/b = 1.13 ± 0.03, as implied by its light-curve
 amplitude of delta_m = 0.13 ± 0.03, exist for densities in the range of 2.29-3.00 g/cm3
 
-Bright objects with H < 4.8, but diam < 500 km (and demoted ones):
+Bright objects with H < 4.8, but diam < 500 km or not in hydrostatic equilibrium (and demoted ones):
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Number Name            Type  Hmag Diam_Km  Err  Ell? Dens  DP? Sat? SMA  Ecc   Alb Comments
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     4 Vesta           MB    3.2    535.4   0.2      3.46            2.4 0.09  42  Not in hydrostatic equilibrium, (572.6 x 557.2 x 446.4) ± 0.2 km
+     2 Pallas          MB    4.1    512     6        2.57            2.8 0.23  16  Not in hydrostatic equilibrium, 550±8 x 516±6 x 476±6 km
 303775 2005 QU182     Sca    3.6    500    84                      110.5 0.67  33  
 202421 2005 UQ513     Kui    4.13   498    69                       43.2 0.15  31  
 499514 2010 OO12      Kui    4.78  ~490                             42.3 0.13   9  Demoted - previous H was 4.6
@@ -154,7 +154,7 @@ Number Name            Type  Hmag Diam_Km  Err  Ell? Dens  DP? Sat? SMA  Ecc   A
 444030 2004 NT33      Kui    4.76   423    87                       43.4 0.15  10  
  26181 1996 GQ21      Sca    4.7    404    52                       94.2 0.59   9  
 144897 2004 UX10      Kui    4.4    398    39                       38.9 0.04  14  
-       Dysnomia       Sca   ~4.9    393    35                       67.7 0.44   4  
+       Dysnomia       Sca   ~5.65   379    63                       67.7 0.44   4  
        Hi'iaka        Kui   ~3.2    380   110                       43.3 0.19  80  Satellite of Haumea
 230965 2004 XA192     Kui    4.36   340   110                       47.2 0.25  26  
    704 Interamnia     MB     5.9    332     6        1.98            3.1 0.15   7  362 × 348 × 310 ± 8 (VLT-SPHERE 2019 - (704) Interamnia: A transitional object between a dwarf planet and a typical irregular-shaped minor body)
@@ -213,7 +213,7 @@ Number Name        Diam               Source                      Primary plus S
 136199 Eris           ~2440               Brown et al. 2006            2400 ±100   ~369
 136199 Eris            2429               Brown et al. 2018                         700 ± 115
 136199 Eris           ~2365               Sicardy et al. 2011          2326 ±12    ~358
-136199 Eris           >2310               albedo < 1                 ~>2270
+136199 Eris           >2310               albedo < 1                 ~>2270        ~>99
 
 136472 Makemake        2148               Mommert 2013
 136472 Makemake        1500 + 400 -200    Stansberry et al. 2008

@@ -1,113 +1,145 @@
-Name                 ;Aliases                               ;Coordinates (J2000)  ;Cst ;Morph. Type     ;D_Kpc  ;Err    ;f ;BMag ;VMag ;f ;SBMa ;flag ;E(B-V);Rh(');f ;Rt(');f ;RH(');f ;Ro(');f ;RoMag;e(1-b/a);f ;[Fe/H];f
+Name                  Aliases                              Class   Coordinates (J2000)   Cst  Morph. Type         D_Kpc   Err    VMag   Rad     Notes 
 
-Clouds and streams
+47 Tuc                NGC 104                                 VI   00 24 04.7 -72 04 56  Tuc  GCl+halo              5.11                        
+NGC 5139              Omega Cen                               VI   13 26 45.9 -47 28 37  Cen  GCl/dE remnant?       5.36    0.09   3.7    5.0   
+CMa (I)                                                        I   07 29 01.8 -30 17 37  Pup  dGx remnant?          6.95    0.79  -0.1  360     
+NGC 2808                                                      VI   09 12 03.1 -64 51 49  Car  GCl/dE remnant?       9.60    0.17   6.2    0.8   
+NGC 1851                                                      VI   05 14 06.8 -40 02 48  Col  GCl/dE remn+halo?    12.01    0.20   7.1    0.51  
+Virgo Overdensity     VOD                                      I   12 46 30.0 +02 10 00  Vir  dGx remnant?         13.0     3.0        1600     
+SDSS J0821+5608                                                V   08 21 15.0 +56 08 16  Lyn  dSph?                13.8     1.5   14.1    4.7   Deemed dubious by Martin et al. 2008
+SDSS J0814+5105                                                V   08 13 42.0 +51 05 27  Lyn  dSph?                13.8     1.5   14.9    6.2   Deemed dubious by Martin et al. 2008
+EriPhe                                                         I   01 53 34.4 -54 54 44  Eri  Overd/Cloud          16              8.4 1800     
+[K2010] 160o struct                                            I   10 43 36.0 +13 18 00  Leo  dSph remnant?        17.0           10.6  260     
+Orphan str progen                                              V   11 08 30.0 -14 16 23  Crt  dGx remnant          18.0           13.0  120     
+Virgo Stellar Stream  VSS, 12.4h clump, S297+63-20.5           I   12 42 42.0 -00 47 00  Vir  dGx remnant?         18.90    0.85        900                                                                           
+[K2010] 180o struct   [KDP2009] structure C                    I   11 59 12.0 +02 00 00  Vir  dSph remnant?        19.0           12.5  270     
+IC 4499                                                       VI   15 00 18.6 -82 12 50  Aps  GCl/dE remn+halo?    19.03    0.25   9.8    1.7   
+TriAnd                                                         I   01 00 00.0 +32 50 00  Psc  Overd/Cloud          20                           
+JCW14 1247-00                                                  V   12 47 58.0 -00 45 00  Vir  dSph?                22.2     2.1          15     
+SDSS J1058+2843                                                V   10 58 04.1 +28 42 39  LMi  dSph                 24.0     2.7   13.9    4.7   
+Virgo Z               [JCW14] 1220-01                          V   12 20 19.2 -01 21 00  Vir  dSph??/Gx Cl?        24.3     2.5                 
+Per                                                            I   03 24 06.0 +20 08 00  Ari  Overd/Cloud          25                           
+HSC overd C                                                    I   01 04 24.0 -00 45 00  Cet  dGx?                 25                     2     
+TriAnd 2                                                       I   01 09 18.0 +35 44 00  And  Overd/Cloud          28                           
+HSC overd A                                                    I   15 56 48.0 +43 43 30  Her  dGx?                 32                     2     
+NGC 5694                                                      VI   14 39 36.5 -26 32 18  Hya  GCl/dE remn+halo?    36.3     1.1   10.2    0.4   
+BS I                                                           I   02 07 49.0 -74 26 32  Hyi  Tidal Dw             40                    90.0   
+BW15 A                                                         I   17 45 10.6 +36 52 47  Her  Overd                52                    35     
+SMC ESS               SMC Eastern Stellar Structure            I   01 54 00.0 -75 00 00  Hyi  Overd, dGx rem?      55.0                 540     
+BW15 B                                                         I   23 38 16.4 +25 43 17  Peg  Overd                57                    10     
+BS II                                                          I   02 28 17.0 -73 47 33  Hyi  Tidal Dw             58                    40.0   
+BS III                SMC OGLE Island                          I   02 55 21.0 -73 23 20  Hyi  Tidal Dw             60.7     3.5          60.0   
+SMCNOD                SMC Northern Overd                       I   00 48 00.0 -64 48 00  Tuc  Gx remnant?          62             11.3  120.4   
+Palomar 14            AvdB 1, BK12 MWEO-10                    VI   16 11 00.6 +14 57 28  Her  ExGCl/dSph           71.3     1.9   14.7    2.3   
+SDSS J1329+2841                                                V   13 29 13.0 +28 41 27  CVn  dSph?                75.9     8.5   15.5    8.6   Deemed dubious by Martin et al. 2008
+Outer Virgo Overd                                              I   13 38 24.0 -07 00 00  Vir  dSph remnant?        80      15           575     
+Psc Overd             SIL07 struct J, SMJ10 1                  I   23 39 48.0 -00 27 00  Psc  dSph remnant         81.5     2.0         240     
+SDSS J1000+5730                                                V   10 00 28.0 +57 30 10  UMa  dSph?                83.2     9.3   15.4    8.1   Probably an artifact of bad seeing, deemed dubious by Martin et al. 2008
+DES 1                 DES J0034-4902                          VI   00 33 59.7 -49 02 20  Phe  ExGCl/dSph           87             16.7    0.39  
+[CB2009] 1            'Galaxy X'                               V   16 21 32.9 -51 25 24  Nor  Gx                   89      12             4.1   
+NGC 2419              BK12 MWEO-1                             VI   07 38 07.9 +38 52 48  Lyn  ExGCl/dE remn?       89.4     1.9   10.4    0.89  
+[SJM2010] A15                                                  V   19 54 53.1 -77 25 34  Oct  dSph?                99      49                   
+UMa Y                                                          V   12 11 57.6 +53 35 24  UMa  dSph?               100                     5.0   
+Her X                                                          V   16 27 45.6 +29 27 00  Her  dSph?               100                     6.0   
+MDR08 Object Y        KBE08 Candidate Z                        V   11 56 30.0 +21 03 06  Leo  dSph?               130                     6.1   
+[BML15] For clump 5                                          III   02 39 14.5 -34 44 38  For  dSph fragment?      139       6             1.5   
+[BML15] For clump 4                                          III   02 39 18.5 -34 28 38  For  dSph fragment?      139       6             1.5   
+[CCB2004] For clump 1                                        III   02 40 28.0 -34 42 33  For  dSph fragment?      139       6     16.6    1.6   
+[BTS2013] For clump 3                                        III   02 41 02.2 -34 27 18  For  dSph fragment?      139       6             1.8   
+For clump 1                                                    V   02 36 42.0 -33 47 00  For  arc/clump           139.0     5.7          16     faint galaxies
+Crt (I)               Laevens 1                               VI   11 36 15.8 -10 52 40  Crt  ExGCl/dE            147.3     3.3   15.2    0.5   
+CVn W                                                          V   13 16 04.8 +33 15 00  CVn  dSph?               160                     5.0   
+Anticenter DG         Smith's cloud                            V   19 59 23.3 +00 09 04  Aql  HVC/dark Gx?        180      60           415     
+DES J2038-4609        Ind II                                   V   20 38 52.8 -46 09 36  Ind  dSph??              214      16     17.4    2.9   
+[KTF2007]             Leo II clump                           III   11 02 30.0 +22 10 00  Leo  dSph/GCl remn?      215      11     18.9    2.0   
+AGC 198606            HVC 214.76+42.45+44                     IV   09 30 02.5 +16 38 08  Leo  dIrr dark Gx        400     120     19.7   11.5   
+BW03 1                CLW12 1, NGC 6822 companion              I   19 43 33.5 -14 33 41  Sgr  HI cloud + dIrr???  496      42     16.2    2.5   
+HSC overd B                                                    I   16 11 12.0 +43 28 30  Her  dGx?                630                     2     
+Bol 520               MGC 1, NPM1G +32.0027                   VI   00 50 42.4 +32 54 59  Psc  ExGCl+halo          665      82     15.5    0.084 
+HVC 127-41-331        HVC 127-41-330                          IV   01 03 54.0 +21 53 00  Psc  dark Gx?            690      90            38     
+And NE                M31 Northern spur                        I   00 50 45.0 +44 15 41  And  dGx remn/stream     759      68     12.0   30     
+M31 Stream A                                                   I   01 11 00.0 +36 30 00  And  str/dSph rmn?       776             13.4   90     
+PAndAS-56                                                     VI   01 23 03.5 +41 55 11  And  dE                  776             17.6          
+PAndAS-1                                                      VI   23 57 12.0 +43 33 08  And  dE                  776             17.9          
+PAndAS-2                                                      VI   23 57 55.6 +41 46 49  And  ExGCl/dSph          776      36     18.3          
+PAndAS-4                                                      VI   00 04 42.9 +47 21 42  And  dE                  776             18.4          
+HTF08 HEC 10                                                  VI   00 54 36.4 +44 58 44  And  ExGCl/dSph          776      36     18.8          
+HTF08 HEC 12          M31-EC4, M31WFS C4                      VI   00 58 15.4 +38 03 02  And  ExGCl/dSph          776      36     18.8          
+HTF08 HEC 6                                                   VI   00 38 35.6 +44 16 49  And  ExGCl/dSph          776      36     19.0          
+PAndAS-58                                                     VI   01 29 02.1 +40 47 08  And  dE                  776             19.2          
+PAndAS-50                                                     VI   01 01 50.6 +48 18 19  And  dE                  776             19.3          
+PAndAS-57                                                     VI   01 27 47.5 +40 40 47  And  dE                  776             19.6          
+PAndAS-18                                                     VI   00 28 23.3 +39 55 05  And  ExGCl/dSph          776      36     19.6          
+PAndAS-55                                                     VI   01 19 20.4 +46 03 12  And  dE                  776             20.0          
+PAndAS-5                                                      VI   00 05 24.1 +43 55 35  And  dE                  776             20.3          
+PAndAS-C2                                                     VI   01 07 53.9 +48 22 42  And  dE                  776             20.4          
+PAndAS-38                                                     VI   00 49 45.7 +47 54 33  Cas  ExGCl/dSph          776      36     20.8          
+HTF08 HEC 13          BK12 M31EO-20                           VI   00 58 16.9 +37 13 51  And  ExGCl/dSph          776      36     19.6    0.092 
+PAndAS-3                                                      VI   00 03 56.4 +40 53 19  And  ExGCl/dSph          776      36     20.6    0.12  
+PAndAS-33                                                     VI   00 40 57.4 +38 38 10  And  ExGCl/dSph          776      36     19.3    0.16  
+Mayall II             SKHV 1, SKHB 1                          VI   00 32 46.5 +39 34 40  And  ExGCl/dE remn?      811.0     6.0   13.8    0.14  
+M31 E cloud                                                    I   01 27 47.5 +40 40 47  And  dGx remnant?        814      15     13.8   76.5   
+PAndAS-48                                                     VI   00 59 28.3 +31 29 11  Psc  ExGCl/dSph          820      42     19.9    0.3   
+M31 SW cloud                                                   I   00 12 54.0 +38 18 00  And  dGx remnant?        848      56     12.4   95     
+M31 GSS               Giant Southern Stream                    I   00 47 38.1 +39 05 57  And  dGx remnant         883      45     10.0          
+[MIM2013] 115                                                 II   00 10 56.0 +34 33 30  And  dGx?                900     400     20            
+[MIM2013] 114                                                 II   00 49 33.0 +32 28 53  And  dGx?                900     400     20            
+[MIM2013] 54                                                  II   01 10 57.0 +40 19 01  And  dGx?                900     400     20            
+[MIM2013] 125                                                 II   00 46 34.0 +35 03 09  And  dGx?                900     400     20            
+[MIM2013] 139                                                 II   00 56 18.0 +35 09 26  And  dGx?                900     400     20            
+[MIM2013] 110                                                 II   00 45 20.0 +33 36 34  And  dGx?                900     400     20            
+[MIM2013] 107                                                 II   00 07 18.0 +38 25 23  And  dGx?                900     400     20            
+[MIM2013] 106                                                 II   00 18 17.0 +37 33 42  And  dGx?                900     400     20            
+[MIM2013] 100                                                 II   00 11 22.0 +36 05 44  And  dGx?                900     400     20            
+[MIM2013] 140                                                 II   00 14 33.0 +37 07 43  And  dGx?                900     400     20            
+[MIM2013] 98                                                  II   00 20 29.0 +43 27 14  And  dGx?                900     400     20            
+[MIM2013] 96                                                  II   00 11 18.0 +36 41 50  And  dGx?                900     400     20            
+[MIM2013] 120                                                 II   00 49 31.0 +34 34 02  And  dGx?                900     400     20            
+[MIM2013] 94                                                  II   00 26 48.0 +44 52 27  And  dGx?                900     400     20            
+[MIM2013] 93                                                  II   01 03 59.0 +34 16 01  And  dGx?                900     400     20            
+[MIM2013] 92                                                  II   23 58 54.0 +37 35 26  And  dGx?                900     400     20            
+[MIM2013] 91                                                  II   00 20 14.0 +34 48 40  And  dGx?                900     400     20            
+[MIM2013] 88                                                  II   00 48 21.0 +32 39 51  And  dGx?                900     400     20            
+[MIM2013] 86                                                  II   00 22 29.0 +39 30 50  And  dGx?                900     400     20            
+[MIM2013] 85                                                  II   00 25 26.0 +44 45 43  And  dGx?                900     400     20            
+[MIM2013] 82                                                  II   00 34 33.0 +32 36 52  And  dGx?                900     400     20            
+[MIM2013] 80                                                  II   00 58 43.0 +33 30 22  Psc  dGx?                900     400     20            
+[MIM2013] 75                                                  II   00 25 17.0 +38 52 06  And  dGx?                900     400     20            
+[MIM2013] 73                                                  II   00 37 55.0 +35 57 57  And  dGx?                900     400     20            
+[MIM2013] 71                                                  II   00 37 40.0 +36 35 38  And  dGx?                900     400     20            
+[MIM2013] 118                                                 II   01 28 30.0 +43 04 24  And  dGx?                900     400     20            
+[MIM2013] 143                                                 II   00 25 24.0 +35 34 20  And  dGx?                900     400     20            
+[MIM2013] 124         [WPL2013] 4                             II   01 08 11.0 +37 46 21  And  dGx? + HI           900     400     20            
+[MIM2013] 113                                                 II   00 17 13.0 +37 50 46  And  dGx?                900     400     20            
+[MIM2013] 141                                                 II   01 13 05.0 +37 41 59  And  dGx?                900     400     20            
+[MIM2013] 134                                                 II   00 30 14.0 +34 58 00  And  dGx?                900     400     20            
+[MIM2013] 133                                                 II   01 15 15.0 +38 54 29  And  dGx?                900     400     20            
+[MIM2013] 132                                                 II   00 33 57.0 +35 31 51  And  dGx?                900     400     20            
+[MIM2013] 136                                                 II   01 19 49.0 +41 30 57  And  dGx?                900     400     20            
+[MIM2013] 128                                                 II   01 07 32.0 +48 34 51  And  dGx?                900     400     20            
+[MIM2013] 111                                                 II   23 57 34.0 +40 02 45  And  dGx?                900     400     20            
+[MIM2013] 123                                                 II   01 27 22.0 +41 05 23  And  dGx?                900     400     20            
+[MIM2013] 117                                                 II   01 28 33.0 +41 20 35  And  dGx?                900     400     20            
+[MIM2013] 95                                                  II   00 31 58.0 +35 15 55  And  dGx?                900     400     20            
+[MIM2013] 137                                                 II   00 14 05.0 +44 46 07  And  dGx?                900     400     20            
+[MPP2015] SSC 36      GALFA-HI 235.3+05.6-089                 IV   15 41 09.4 +05 38 26  Ser  HI+UV src          1450     450     20.5    3.6   
+[MPP2015] SSC 43      GALFA-HI 187.9+05.0+028                 IV   12 31 37.4 +05 00 24  Vir  HI+UV src          1450     450     19.5    4.9   
+[MPP2015] SSC 28      GALFA-HI 047.6+32.0-049                 IV   03 10 23.3 +32 00 30  Per  HI+UV src          1600     600     20.0    3.9   
+[MPP2015] SSC 88      AGC 268213, ALFALFA 019.13+35.24-123    IV   16 22 35.8 +05 08 48  Her  HI+UV src          1600     600     20.2    5.5   
+AGC 249525            HVC 011.76+67.89+60                     IV   14 17 53.4 +17 32 42  Boo  dIrr dark Gx UCHVC 1640     450     20.3    3.0   
+[MPP2015] SSC 47      GALFA-HI 327.2+22.7-062                 IV   21 48 55.0 +22 41 30  Peg  HI+UV src          1650     650     20.8    4.2   
+[MPP2015] SSC 39      GALFA-HI 235.3+07.9-035                 IV   15 41 07.0 +07 55 34  Ser  HI+UV src          1850     850     20.2    4.7   
+2FGL J1507-6223 host  HESS J1507-622 host                      V   15 07 00.0 -62 23 48  Cir  Gx?                2100    1900             9.0   
+HIZOA J1353-58                                               VII   13 53 21.9 -58 03 17  Cen  HI                 2100                           
+[MPP2015] SSC 44      GALFA-HI 222.2+26.4-045                 IV   14 48 36.7 +26 26 33  Boo  HI+UV src          2150    1150     20.4    4.2   
+[MPP2015] SSC 69      AGC 227987, ALFALFA 298.95+68.17+270    IV   12 45 29.8 +05 20 23  Vir  HI+UV src          2200    1200     20.5    6.5   
+UGC 6757              MCG +10-17-67                          VII   11 46 59.1 +61 20 06  UMa  dIrr/dSpiral       2440     290     16.0          
 
-Virgo Overdensity    ;VOD                               -   ;12 46 30.0 +02 10 00 ;Vir ;dGx remnant?    ;  13.0 ;   3.0 ;  ;     ;     ;  ;     ;     ;0.023 ;     ;  ;     ;  ;     ;  ;1600 ;  ;     ;        ;  ;      ;
-EriPhe               ;                                  -   ;01 53 34.4 -54 54 44 ;Eri ;Overd/Cloud     ;  16   ;       ;  ;     ; 8.4 ;r ;31.7 ;r    ;0.025 ;     ;  ;     ;  ;     ;  ;1800 ;  ;     ;0.7     ;  ;-1    ;
-[K2010] 160o struct  ;                                  -   ;10 43 36.0 +13 18 00 ;Leo ;dSph remnant?   ;  17.0 ;       ;  ;     ;10.6 ;: ;32.2 ;     ;0.025 ;     ;  ;     ;  ;     ;  ;260  ;  ;     ;        ;  ;      ;
-Virgo Stellar Stream ;VSS, 12.4h clump, S297+63-20.5    -   ;12 42 42.0 -00 47 00 ;Vir ;dGx remnant?    ;  18.90;   0.85;  ;     ;     ;  ;     ;     ;0.020 ;     ;  ;     ;  ;     ;  ;900  ;  ;     ;        ;  ;      ;                                                                        ;
-[K2010] 180o struct  ;[KDP2009] structure C             -?  ;11 59 12.0 +02 00 00 ;Vir ;dSph remnant?   ;  19.0 ;       ;  ;     ;12.5 ;: ;33.2 ;     ;0.018 ;     ;  ;     ;  ;     ;  ;270  ;  ;     ;        ;  ;      ;
-TriAnd               ;                                  -   ;01 00 00   +32 50    ;Psc ;Overd/Cloud     ;  20   ;       ;  ;     ;     ;  ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-Per                  ;                                  -   ;03 24 06   +20 08    ;Ari ;Overd/Cloud     ;  25   ;       ;  ;     ;     ;  ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-TriAnd 2             ;                                  -   ;01 09 18   +35 44    ;And ;Overd/Cloud     ;  28   ;       ;  ;     ;     ;  ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-SMC ESS              ;SMC Eastern Stellar Structure     o   ;01 54 00.0 -75 00 00 ;Hyi ;Overd, dGx rem? ;  55.0 ;       ;  ;     ;     ;  ;     ;     ;0.047 ;     ;  ;     ;  ;     ;  ;540  ;  ;     ;        ;  ;      ;
-Outer Virgo Overd    ;                                  -?  ;13 38 24   -07 00 00 ;Vir ;dSph remnant?   ;  80   ;  15   ;  ;     ;     ;  ;     ;     ;      ;     ;  ;     ;  ;     ;  ;575  ;  ;     ;        ;  ;      ;
-M31 Stream A         ;                                  -   ;01 11 00.0 +36 30 00 ;And ;str/dSph rmn?   ; 776   ;       ;  ;     ;13.4 ;~ ;30.0 ;>    ;0.058 ;     ;  ;     ;  ;     ;  ;90   ;~ ;     ;        ;  ;      ;
-M31 GSS              ;Giant Southern Stream             -   ;00 47 38.1 +39 05 57 ;And ;dGx remnant     ; 883   ;  45   ;  ;     ;10.0 ;~ ;29.0 ;~    ;0.045 ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;-0.74 ;
-
-Needs follow-up (not seen in any Aladin image)
-
-[MIM2013] 115        ;                                      ;00 10 56.0 +34 33 30 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 114        ;                                      ;00 49 33.0 +32 28 53 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 54         ;                                      ;01 10 57.0 +40 19 01 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;0.042 ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 125        ;                                      ;00 46 34.0 +35 03 09 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 139        ;                                      ;00 56 18.0 +35 09 26 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 110        ;                                      ;00 45 20.0 +33 36 34 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;0.077 ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 107        ;                                      ;00 07 18.0 +38 25 23 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;0.084 ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 106        ;                                      ;00 18 17.0 +37 33 42 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;0.055 ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 100        ;                                      ;00 11 22.0 +36 05 44 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;0.056 ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 140        ;                                      ;00 14 33.0 +37 07 43 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 98         ;                                      ;00 20 29.0 +43 27 14 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;0.077 ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 96         ;                                      ;00 11 18.0 +36 41 50 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;0.063 ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 120        ;                                      ;00 49 31.0 +34 34 02 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 94         ;                                      ;00 26 48.0 +44 52 27 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;0.059 ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 93         ;                                      ;01 03 59.0 +34 16 01 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;0.035 ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 92         ;                                      ;23 58 54.0 +37 35 26 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;0.094 ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 91         ;                                      ;00 20 14.0 +34 48 40 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;0.052 ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 88         ;                                      ;00 48 21.0 +32 39 51 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;0.077 ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 86         ;                                      ;00 22 29.0 +39 30 50 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;0.079 ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 85         ;                                      ;00 25 26.0 +44 45 43 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;0.056 ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 82         ;                                      ;00 34 33.0 +32 36 52 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;0.069 ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 80         ;                                      ;00 58 43.0 +33 30 22 ;Psc ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;0.058 ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 75         ;                                      ;00 25 17.0 +38 52 06 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;0.07  ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 73         ;                                      ;00 37 55.0 +35 57 57 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;0.057 ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 71         ;                                      ;00 37 40.0 +36 35 38 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;0.05  ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 118        ;                                      ;01 28 30.0 +43 04 24 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 143        ;                                      ;00 25 24.0 +35 34 20 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 124        ;[WPL2013] 4                           ;01 08 11.0 +37 46 21 ;And ;dGx? + HI       ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;0.063 ;     ;  ;     ;  ;     ;  ;20.6 ;  ;     ;        ;  ;      ;
-[MIM2013] 113        ;                                      ;00 17 13.0 +37 50 46 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 141        ;                                      ;01 13 05.0 +37 41 59 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 134        ;                                      ;00 30 14.0 +34 58 00 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 133        ;                                      ;01 15 15.0 +38 54 29 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 132        ;                                      ;00 33 57.0 +35 31 51 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 136        ;                                      ;01 19 49.0 +41 30 57 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 128        ;                                      ;01 07 32.0 +48 34 51 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 111        ;                                      ;23 57 34.0 +40 02 45 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 123        ;                                      ;01 27 22.0 +41 05 23 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 117        ;                                      ;01 28 33.0 +41 20 35 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 95         ;                                      ;00 31 58.0 +35 15 55 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;0.061 ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-[MIM2013] 137        ;                                      ;00 14 05.0 +44 46 07 ;And ;dGx?            ; 900   ; 400   ;r ;     ;20   ;> ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-
-Companions? to another MW galaxies
-
-[BML15] For clump 5  ;                                      ;02 39 14.5 -34 44 38 ;For ;dSph fragment?  ; 139   ;   6   ;  ;     ;     ;  ;     ;     ;0.024 ;     ;  ;     ;  ;     ;  ;1.5  ;  ;     ;        ;  ;      ;
-[BTS2013] For clump 3;                                      ;02 41 02.2 -34 27 18 ;For ;dSph fragment?  ; 139   ;   6   ;  ;     ;     ;  ;     ;     ;0.019 ;     ;  ;     ;  ;     ;  ;1.8  ;  ;     ;0.53    ;  ;-0.6  ;
-[BML15] For clump 4  ;                                      ;02 39 18.5 -34 28 38 ;For ;dSph fragment?  ; 139   ;   6   ;  ;     ;     ;  ;     ;     ;0.024 ;     ;  ;     ;  ;     ;  ;1.5  ;  ;     ;        ;  ;      ;
-[CCB2004] For clump 1;                                      ;02 40 28.0 -34 42 33 ;For ;dSph fragment?  ; 139   ;   6   ;  ;17.2 ;16.6 ;  ;25.8 ;V    ;0.022 ;     ;  ;     ;  ;     ;  ;1.6  ;  ;     ;0.47    ;  ;      ;
-[KTF2007]            ;Leo II clump                          ;11 02 30.0 +22 10 00 ;Leo ;dSph/GCl remn?  ; 215   ;  11   ;  ;19.5 ;18.9 ;  ;31.0 ;V    ;0.014 ;     ;  ;     ;  ;     ;  ;2.0  ;  ;     ;0.38    ;  ;      ;
-
-HI clouds
-
-HVC 127-41-331       ;HVC 127-41-330                        ;01 03 54.0 +21 53 00 ;Psc ;dark Gx?        ; 690   ;  90   ;  ;     ;     ;  ;     ;     ;0.036 ;     ;  ;     ;  ;     ;  ;38   ;  ;     ;        ;  ;      ;
-[MPP2015] SSC 36     ;GALFA-HI 235.3+05.6-089               ;15 41 09.4 +05 38 26 ;Ser ;HI+UV src       ;1450   ; 450   ;  ;20.5 ;     ;NU;     ;     ;0.062 ;     ;  ;     ;  ;     ;  ;3.6  ;  ;     ;        ;  ;      ;
-[MPP2015] SSC 43     ;GALFA-HI 187.9+05.0+028               ;12 31 37.4 +05 00 24 ;Vir ;HI+UV src       ;1450   ; 450   ;  ;19.5 ;     ;NU;     ;     ;0.020 ;     ;  ;     ;  ;     ;  ;4.9  ;  ;     ;        ;  ;      ;
-[MPP2015] SSC 28     ;GALFA-HI 047.6+32.0-049               ;03 10 23.3 +32 00 30 ;Per ;HI+UV src       ;1600   ; 600   ;  ;20.0 ;     ;NU;     ;     ;0.219 ;     ;  ;     ;  ;     ;  ;3.9  ;  ;     ;        ;  ;      ;
-[MPP2015] SSC 88     ;AGC 268213, ALFALFA 019.13+35.24-123  ;16 22 35.8 +05 08 48 ;Her ;HI+UV src       ;1600   ; 600   ;  ;20.2 ;     ;NU;     ;     ;0.063 ;     ;  ;     ;  ;     ;  ;5.5  ;  ;     ;        ;  ;      ;
-[MPP2015] SSC 47     ;GALFA-HI 327.2+22.7-062               ;21 48 55.0 +22 41 30 ;Peg ;HI+UV src       ;1650   ; 650   ;  ;20.8 ;     ;NU;     ;     ;0.070 ;     ;  ;     ;  ;     ;  ;4.2  ;  ;     ;        ;  ;      ;
-[MPP2015] SSC 39     ;GALFA-HI 235.3+07.9-035               ;15 41 07.0 +07 55 34 ;Ser ;HI+UV src       ;1850   ; 850   ;  ;20.2 ;     ;NU;     ;     ;0.049 ;     ;  ;     ;  ;     ;  ;4.7  ;  ;     ;        ;  ;      ;
-[MPP2015] SSC 44     ;GALFA-HI 222.2+26.4-045               ;14 48 36.7 +26 26 33 ;Boo ;HI+UV src       ;2150   ;1150   ;  ;20.4 ;     ;NU;     ;     ;0.031 ;     ;  ;     ;  ;     ;  ;4.2  ;  ;     ;        ;  ;      ;
-[MPP2015] SSC 69     ;AGC 227987, ALFALFA 298.95+68.17+270  ;12 45 29.8 +05 20 23 ;Vir ;HI+UV src       ;2200   ;1200   ;  ;20.5 ;     ;NU;     ;     ;0.020 ;     ;  ;     ;  ;     ;  ;6.5  ;  ;     ;        ;  ;      ;
-
-Dubious overdensities
-
-SDSS J0814+5105    ;                        -    ;08 13 42.0 +51 05 27 ;Lyn ;dSph?           ;  13.8 ;  1.5  ;  ;     ;14.9 ;29.7 ;   ;0.048 ;6.2  ;   ;      ;-0.7  ;Deemed dubious by Martin et al. 2008
-SDSS J0821+5608    ;                        -    ;08 21 15.0 +56 08 16 ;Lyn ;dSph?           ;  13.8 ;  1.5  ;  ;     ;14.1 ;28.3 ;   ;0.074 ;4.7  ;   ;      ;-0.7  ;Deemed dubious by Martin et al. 2008
-Orphan str progen  ;                        -    ;11 08 30.0 -14 16 23 ;Crt ;dGx remnant     ;  18.0 ;       ;  ;     ;13.0 ;: ;     ;     ;0.056 ;     ;  ;     ;  ;     ;  ;120  ;  ;     ;        ;  ;-1.85 ;
-Virgo Z            ;[JCW14] 1220-01         -    ;12 20 19.2 -01 21 00 ;Vir ;dSph??/Gx Cl?   ;  24.3 ;  2.5  ;  ;     ;     ;     ;  ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;faint galaxies
-SDSS J1329+2841    ;                        -    ;13 29 13.0 +28 41 27 ;CVn ;dSph?           ;  75.9 ;  8.5  ;  ;     ;15.5 ;31.1 ;   ;0.011 ;8.6  ;   ;      ;-2.3  ;Deemed dubious by Martin et al. 2008
-SDSS J1000+5730    ;                        -    ;10 00 28.0 +57 30 10 ;UMa ;dSph?           ;  83.2 ;  9.3  ;  ;     ;15.4 ;30.8 ;   ;0.011 ;8.1  ;   ;      ;-1.3  ;Probably an artifact of bad seeing, deemed dubious by Martin et al. 2008
-[SJM2010] A15      ;                        -    ;19 54 53.1 -77 25 34 ;Oct ;dSph?           ;  99   ;  49   ;  ;     ;     ;  ;     ;     ;0.141 ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-For clump 1        ;                        -    ;02 36 42.0 -33 47 00 ;For ;arc/clump       ; 139.0 ;  5.7  ;  ;     ;     ;     ;  ;     ;     ;      ;     ;  ;     ;  ;     ;  ;16   ;  ;     ;        ;  ;      ;faint galaxies
-
-Dubious
-
-[CB2009] 1           ;'Galaxy X'            -    ;16 21 32.9 -51 25 24 ;Nor ;Gx              ;  89   ;  12   ;  ;     ;     ;  ;     ;     ;4.1   ;     ;  ;     ;  ;     ;  ;90   ;? ;     ;        ;  ;      ;
-Anticenter DG        ;Smith's cloud         -    ;19 59 23.3 +00 09 04 ;Aql ;HVC/dark Gx?    ; 180   ;  60   ;  ;     ;     ;  ;     ;     ;0.60  ;     ;  ;     ;  ;     ;  ;415  ;: ;     ;        ;  ;      ;
-2FGL J1507-6223 host ;HESS J1507-622 host   -    ;15 07 00.0 -62 23 48 ;Cir ;Gx?             ;2100   ;1900   ;r ;     ;     ;  ;     ;     ;1.478 ;     ;  ;     ;  ;     ;  ;9.0  ;  ;     ;        ;  ;      ;
-
-Globular Clusters
-
-PAndAS-50         ;                         -      ;01 01 50.6 +48 18 19 ;And ;dE                ; 776   ;       ;  ;19.3 ;     ;  ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-PAndAS-5          ;                         -      ;00 05 24.1 +43 55 35 ;And ;dE                ; 776   ;       ;  ;20.3 ;     ;  ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-PAndAS-4          ;                         -      ;00 04 42.9 +47 21 42 ;And ;dE                ; 776   ;       ;  ;18.4 ;     ;  ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-PAndAS-55         ;                         -      ;01 19 20.4 +46 03 12 ;And ;dE                ; 776   ;       ;  ;20.0 ;     ;  ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-PAndAS-1          ;                         -      ;23 57 12.0 +43 33 08 ;And ;dE                ; 776   ;       ;  ;17.9 ;     ;  ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-PAndAS-C2         ;                         -      ;01 07 53.9 +48 22 42 ;And ;dE                ; 776   ;       ;  ;20.4 ;     ;  ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-PAndAS-56         ;                         -      ;01 23 03.5 +41 55 11 ;And ;dE                ; 776   ;       ;  ;17.6 ;     ;  ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-PAndAS-57         ;                         -      ;01 27 47.5 +40 40 47 ;And ;dE                ; 776   ;       ;  ;19.6 ;     ;  ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-PAndAS-58         ;                         -      ;01 29 02.1 +40 47 08 ;And ;dE                ; 776   ;       ;  ;19.2 ;     ;  ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-
-dist > 2.5 MPc
-
-HIZOA J1353-58    ;                   ;13 53 21.9 -58 03 17 ;Cen ;                ;2100   ;       ;  ;      ;     ;     ;  ;     ;     ;      ;     ;  ;     ;  ;     ;  ;     ;  ;     ;        ;  ;      ;
-UGC 6757          ;MCG +10-17-67      ;11 46 59.1 +61 20 06 ;UMa ;dIrr/dSpiral    ;2440   ; 290   ;  ;16.3  ;16.0 ;     ;  ;25.0 ;     ;0.024 ;     ;  ;     ;  ;     ;  ;0.55 ;  ;25.0B;0.45    ;  ;      ;
+Classes
+  I - Streams and Overdensities
+ II - Needs confirmation
+III - Possible companions to another LG galaxies
+ IV - HI clouds and possible dark galaxies
+  V - Dubious/unconfirmed/rejected dwarfs
+ VI - extended GCs
+VII - Demoted: new dist > 2.5 MPc

@@ -14,6 +14,7 @@ Proxima Centauri   0.11           RECONS100
 Alpha Centauri A   1.173  0.091   Valenti05
 Alpha Centauri A   1.14           RECONS100
 Alpha Centauri A   1.137  0.065   Pinheiro14
+Alpha Centauri A   1.1330 0.0050  Pourbaix16
 Alpha Centauri A   1.12   0.02    Valenti05
 Alpha Centauri A   1.12           Soederhjelm99
 Alpha Centauri A   1.110          Ramirez13
@@ -21,6 +22,7 @@ Alpha Centauri A   1.1055 0.0039  Kervella16
 Alpha Centauri A   1.105  0.007   Brown10
 Alpha Centauri A   1.10           Zeichmeister13
 Alpha Centauri A   1.09   0.01    Belikov95
+Alpha Centauri A   1.0788 0.0029  Akeson21
 Alpha Centauri A   1.063          Takeda07
 Alpha Centauri A   1.06           Cvetkovic10
 Alpha Centauri A   1.04           Mortier13
@@ -29,6 +31,7 @@ Alpha Centauri A   1.02           Tokovinin08
 Alpha Centauri A   0.99   0.05    Allende Prieto99
 
 Alpha Centauri B   1.021  0.069   Valenti05
+Alpha Centauri A   0.9720 0.0045  Pourbaix16
 Alpha Centauri B   0.94   0.05    Allende Prieto99
 Alpha Centauri B   0.9373 0.0033  Kervella16
 Alpha Centauri B   0.934  0.006   Brown10
@@ -36,6 +39,7 @@ Alpha Centauri B   0.93           Soederhjelm99
 Alpha Centauri B   0.93           Zeichmeister13
 Alpha Centauri B   0.920  0.055   Pinheiro14
 Alpha Centauri B   0.92           RECONS100
+Alpha Centauri A   0.9092 0.0025  Akeson21
 Alpha Centauri B   0.905          Ramirez13
 Alpha Centauri B   0.90   0.01    Belikov95
 Alpha Centauri B   0.90           Cvetkovic10

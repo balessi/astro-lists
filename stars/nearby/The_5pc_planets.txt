@@ -1,4 +1,4 @@
-Status: (C)onfirmed, (U)nconfirmed, (D)ubious, (R)etracted/spurious/artifact
+Status: (C)onfirmed, (U)nconfirmed, (D)ubious or (D)isputed, (R)etracted
 Type:   (H)ot | (W)arm | (C)old  +  (J)upiterian | (N)eptunian | (S)uper Terran (~2-10 ME) | (T)erran | (D)warf Planet | (A)steroidal
 
 Star Name         Seq  Name        St Ty  l  Mass   u  Period  u    SMA    l Ecc    Rad   ESI  Notes
@@ -13,14 +13,14 @@ Sun               VII  Uranus      C  CN    14.54   E   84.02  y   19.22     0.0
 Sun               VIII Neptune     C  CN    17.15   E  164.8   y   30.11     0.009  3.88
 Sun                    Pluto       C  CD     0.0022 E  247.9   y   39.48     0.249  0.19       Dwarf planet, largest in the Kuiper Belt
 Sun               IX   Planet Nine D  CS     5.0    E    9.55  Ky 450        0.225  2.2        May not exist (reasons summarized by Lawler - The Conversation)
-Proxima Centauri  d                U  HT  >  0.29   E    5.15  d    0.02895
-Proxima Centauri  b                C  WT  >  1.17   E   11.184 d    0.0486   0.109 ~1.15  0.87 Rad= 0.8-1.5 RE, mass = 3.0 if coplanar with c (Benedict 2020)
-Proxima Centauri  c                C  CN  ~ 14      E    5.21  y    1.48     0.0               Mass from range: 4-24 derived from >=5.8+-1.9 (Damasso 2020), 12+12-5 (Kervella 2020), 18+-5 (Benedict 2020)
-Alpha Centauri A  C1               U  WN  < 53      E  400     d    1.1            <7          3.3 < R < 7, consistent with being either a Neptune-to-Saturn-sized planet or an exozodiacal dust disk ( arXiv:2102.05159)
+Proxima Centauri  d                U  HT  >  0.29   E    5.168 d    0.02895
+Proxima Centauri  b                C  WT  >  1.17   E   11.184 d    0.04857  0.109 ~1.15  0.87 Rad= 0.8-1.5 RE, mass = 3.0 if coplanar with c (Benedict 2020)
+Proxima Centauri  c                C  CN  ~ 14      E    5.21  y    1.489    0.04              Mass from range: 4-24 derived from >=5.8+-1.9 (Damasso 2020), 12+12-5 (Kervella 2020), 18+-5 (Benedict 2020)
+Alpha Centauri A  b                U  WN    35      E  360     d    1.1             5.2        3.3 < R < 7, consistent with being either a Neptune-to-Saturn-sized planet or an exozodiacal dust disk ( arXiv:2102.05159)
 Alpha Centauri B  b                R  HT  >  1.13   E    3.236 d    0.042    0.0               Retracted - supurious artefact of the data analysis
 Alpha Centauri B  c                U  HT     0.78   E   12.4   d    0.102  < 0.24   0.92       Mass assumes density = earth's
 Barnard's star    d                D  CT  <  5.0    E   81     d    0.198                      Marginal detection, MSini upper limit derived from fig 6 of Choi 2013
-Barnard's star    b                C  CS  >  3.23   E  232.8   d    0.404    0.32              
+Barnard's star    b                D  CS  >  3.23   E  232.8   d    0.404    0.32              See arXiv:2105.07005 - Stellar Activity Manifesting at a One Year Alias Explains Barnard b as a False Positive
 Barnard's star    c                U  CN  > 15      E   18.1   y    3.6                        Mass from range >=15 (Ribas 2018) and MSin i <25 (extrapolated from fig 6 of Choi 2013)
 Barnard's star                     R  CJ     0.8    J   12     y    2.8      0                 Dimissed: one of the infamous planets claimed by van de Kamp (1969)
 Barnard's star                     R  CJ     1.1    J   26     y    4.7      0                 Dimissed: one of the infamous planets claimed by van de Kamp (1969)

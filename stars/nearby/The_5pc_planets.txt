@@ -1,4 +1,4 @@
-Status: (C)onfirmed, (U)nconfirmed, (D)ubious or (D)isputed, (R)etracted
+Status: (C)onfirmed, (U)nconfirmed, (P)pedicted, (D)ubious or (D)isputed, (R)etracted or false positive
 Type:   (H)ot | (W)arm | (C)old  +  (J)upiterian | (N)eptunian | (S)uper Terran (~2-10 ME) | (T)erran | (D)warf Planet | (A)steroidal
 
 Star Name         Seq  Name        St Ty  l  Mass   u  Period  u    SMA    l Ecc    Rad   ESI  Notes
@@ -16,24 +16,28 @@ Sun               IX   Planet Nine D  CS     5.0    E    9.55  Ky 450        0.2
 Proxima Centauri  d                U  HT  >  0.29   E    5.168 d    0.02895
 Proxima Centauri  b                C  WT  >  1.17   E   11.184 d    0.04857  0.109 ~1.15  0.87 Rad= 0.8-1.5 RE, mass = 3.0 if coplanar with c (Benedict 2020)
 Proxima Centauri  c                C  CN  ~ 14      E    5.21  y    1.489    0.04              Mass from range: 4-24 derived from >=5.8+-1.9 (Damasso 2020), 12+12-5 (Kervella 2020), 18+-5 (Benedict 2020)
-Alpha Centauri A  b                U  WN    35      E  360     d    1.1             5.2        3.3 < R < 7, consistent with being either a Neptune-to-Saturn-sized planet or an exozodiacal dust disk ( arXiv:2102.05159)
+Alpha Centauri A  b    C1          U  WN    35      E  360     d    1.1             5.2        Directly imaged, 3.3 < R < 7, consistent with being either a Neptune-to-Saturn-sized planet or an exozodiacal dust disk ( arXiv:2102.05159)
 Alpha Centauri B  b                R  HT  >  1.13   E    3.236 d    0.042    0.0               Retracted - supurious artefact of the data analysis
 Alpha Centauri B  c                U  HT     0.78   E   12.4   d    0.102  < 0.24   0.92       Mass assumes density = earth's
 Barnard's star    d                D  CT  <  5.0    E   81     d    0.198                      Marginal detection, MSini upper limit derived from fig 6 of Choi 2013
-Barnard's star    b                D  CS  >  3.23   E  232.8   d    0.404    0.32              See arXiv:2105.07005 - Stellar Activity Manifesting at a One Year Alias Explains Barnard b as a False Positive
+Barnard's star    b                D  CS  >  3.23   E  232.8   d    0.404    0.32              Deemed as result of stellar activity by Lubin (2021). Ribas, the discoverer, disagrees and maintains that it is real (see: https://skyandtelescope.org/astronomy-news/astronomers-challenge-claim-of-planet-around-barnards-star/)
 Barnard's star    c                U  CN  > 15      E   18.1   y    3.6                        Mass from range >=15 (Ribas 2018) and MSin i <25 (extrapolated from fig 6 of Choi 2013)
 Barnard's star                     R  CJ     0.8    J   12     y    2.8      0                 Dimissed: one of the infamous planets claimed by van de Kamp (1969)
 Barnard's star                     R  CJ     1.1    J   26     y    4.7      0                 Dimissed: one of the infamous planets claimed by van de Kamp (1969)
 Luhman 16 B                        R  CJ  ~ 16      J  >60     d   >0.09                       Claimed by Boffin (2014), dismissed by Bedin (2017) who ruled out any BDs and any neptune mass Pls with 1-2 y period
-WISE J0855-0714                    C  WJ  ~  6      J   -1     -   -1       -1                 Sub-brown dwarf or rogue planetary-mass object, mass range 3-10 MJ, Teff 225-260 K
+WISE J0855-0714                    C  WJ  ~  6      J                                          Sub-brown dwarf or rogue planetary-mass object, mass range 3-10 MJ, Teff 225-260 K
 Wolf 359          c                C  HS  >  3.8    E    2.687 d    0.018    0.15              
 Wolf 359          b                C  CJ  > 44      E    8.04  y    1.84     0.04          
-Lalande 21185     b                C  HS  >  3.0    E   12.953 d    0.0785   0.22          
+Lalande 21185     b                C  HS  >  3.53   E   12.9   d    0.07892  0.38          
+Lalande 21185                      R  C             E  214.59  d             0.52              False positive (Rosenthal, 2021)
+Lalande 21185     c                C  CN  > 24.7    E    8.46  y    3.1      0.14
 Lalande 21185                      R  CJ     0.9    J    5.8   y    2.4      0                 Dismissed: claimed by Gatewood (1996), but not confirmed by RV
 Lalande 21185                      R  CJ    10      J    8.0   y    3.0      0.3               Dismissed: claimed by Lippincott (1960), but not confirmed by RV
-Lalande 21185                      R  CJ     1.6    J   30     y    7.3      0                 Dismissed: claimed by Gatewood (1996), but not confirmed by RV                                             
+Lalande 21185                      R                    29     y                               False positive (Rosenthal, 2021) - probably long-term activity
+Lalande 21185                      R  CJ     1.6    J   30     y    7.3      0                 Dismissed: claimed by Gatewood (1996), but not confirmed by RV
+Epsilon Eridani                    R  CJ            J  773.4   d                               False positive (Rosenthal, 2021)
 Epsilon Eridani                    C  CA  <  0.0001 E    5.74  y    3.0                        Asteroid belt 3.0 +- 0.75 AU
-Epsilon Eridani   b    AEgir       U  CJ  >  0.78   J    7.37  y    3.48     0.07              Dust disks, asteroid belt
+Epsilon Eridani   b    AEgir       U  CJ  >  0.651  J    7.23  y    3.50     0.044             Dust disks, asteroid belt
 Epsilon Eridani                    C  CA            E   57.8   y   14                          Asteroid belt 8-20 AU
 Epsilon Eridani   c                U  CN     0.1    J  280     y   40        0.3           
 Epsilon Eridani                    C  CA     0.002  E  513     y   60                          Dust disk 35-100 AU, peak of emission at 60 AU
@@ -89,23 +93,26 @@ Luyten 1159-16    b                U  HS  >  4.0    E    1.931 d    0.016    0.0
 Luyten 1159-16    c                C  CN  > 30.9    E  241.9   d    0.403    0.18
 Luyten 1159-16    d                C  CJ  >  0.225  J  767.9   d    0.870    0.33
 CD-46 11540       b                C  HN  > 11.8    E    4.694 d    0.039    0.2               
-BD+68 946         b                C  WN  > 17.2    E   38.14  d    0.163    0.27              
+BD+68 946                          R                    28.749 d                               False positive (Rosenthal, 2021)
+BD+68 946         b                D  WN  > 17.6    E   38.14  d    0.1658   0.153             
 BD+68 946         c                C  CN  > 16.0    E  728     d    1.16     0.40              Feng+, 2020, same obj as Kervella+ 2019? det by RV
 BD+68 946         c?               U  CJ  ~  0.23   J >668     d   >1.1                        Kervella+, 2019, same obj as Feng+ 2020? det by astrometry
 L 145-141         b                U  CJ     2      J   39.2   y   10.5                        Kervella+, 2019, 1 < m < 3, 1 < sma < 20
-Ross 780          d                C  HS  >  6.83   E    1.938 d    0.0208   0.207             
-Ross 780          f                R  HS  >  7.95   E   10.01  d    0.065    0.090             Probably not real
-Ross 780          g                R  HJ  >  0.118  J   15.04  d    0.086    0.007             Probably not real
-Ross 780          c                C  WJ  >  0.714  J   30.008 d    0.1296   0.256
-Ross 780          b                C  WJ  >  2.276  J   61.117 d    0.2083   0.032
+Ross 780          d                D  HS  >  6.83   E    1.938 d    0.0208   0.207             False positive (Rosenthal, 2021)
+Ross 780          f                R  HS  >  7.95   E   10.01  d    0.065    0.090             Probably not real (Millholland+ 2018), False positive (Rosenthal, 2021)
+Ross 780          g                R  HJ  >  0.118  J   15.04  d    0.086    0.007             Probably not real (Millholland+ 2018), False positive (Rosenthal, 2021)
+Ross 780                           D  HT  >  1.29   E   15.0   d    0.086                      Possible, but a model with 4 planets is a better fit (Millholland+ 2018)
+Ross 780          c                C  WJ  >  0.698  J   30.186 d    0.1363   0.0055
+Ross 780          b                C  WJ  >  2.108  J   60.82  d    0.2177   0.0019
 Ross 780          e                C  CN  > 14.6    E  124.26  d    0.3343   0.055
 LHS 288           b                U  CJ     4.7    J    4.14  y    1.25                       Det by astrometry, values in the ranges: 1.5 < p < 6.77 y, 2.4 < m < 7
 Groombridge 1618  b                U  WJ  >  4      J  122.5   d    0.41     0
+Lalande 21258 A                    R                    36.88  d                               False positive (Rosenthal, 2021)
 CD-49 13515       c                C  WS  >  5.4    E   35.68  d    0.162    0.18         0.74 
 CD-49 13515       b                C  CJ  >  0.64   J    9.35  y    3.4      0.12
-BD+20 2465        b                R  HN  > 23.1    E    2.226 d    0.025    0.03              Refuted by Carleo et al. (2020)
+BD+20 2465        b                R  HN  > 23.1    E    2.226 d    0.025    0.03              Refuted by Carleo et al. (2020), False positive (Rosenthal, 2021)
 Omicron-2 Eri A   b                C  HS  >  8.47   E   42.378 d    0.224    0.04
-CD-44 11909 AB    b                C  WS  >  4.4    E   17.48  d    0.08     0.08              Planets are not circumbinary
-CD-44 11909 AB    c                C  CS  >  8.7    E   57.32  d    0.18     0.10         0.59 Planets are not circumbinary
+CD-44 11909 AB    b                C  WS  >  4.4    E   17.48  d    0.08     0.08              The planets are not circumbinary
+CD-44 11909 AB    c                C  CS  >  8.7    E   57.32  d    0.18     0.10         0.59 The planets are not circumbinary
 BD+43 4305                         R  CJ    20      J   28.9   y    6.8      0.44              Prob not real, claimed by van de Kamp (1972)
 BD+43 4305                         R  CJ     3      J   45     y    8.9      0.5               Prob not real, claimed by Lippincott (1983)

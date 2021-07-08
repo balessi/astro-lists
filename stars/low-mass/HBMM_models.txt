@@ -16,6 +16,7 @@ Baraffe et al. (2015)           0.070      73.3      1626    ~L4.5     -4.30    
 Dupuy & Liu (2017)              0.067      70.0               L3-5   -3.9/-4.3                              empirical, from mass measurements
 Dieterich et al. (2014)                              2075     L2.5     -3.90                      0.086     empirical, from diameter measurements
 Smart et al. (2018)                                           L2-6                               ~0.08      approx radius taken from graphic
+Hsu et al. (2021)***                               1500-1600  L5-6                                          terminus of the stellar MS based on a kinematic break
 
 Burrows et al. (1993)           0.094      98.4      3630              -2.90         0.0          0.090     metal free
 Saumon et al. (1994)            0.092      96.3      3600                            0.0                    metal free
@@ -59,3 +60,15 @@ HD 4747 B           70.0 ±1.6      L9/T1  1380 ±50   -0.22   Peretti et al. (201
 2MASS J0805+4812 B  66.3 +5.2-14   T5.5                      Sahlmann et. al (2020) 
 WISE J0720-0846 B   66   ±4        T5.5   1250 ±40   +0.15   Dupuy et. al (2019)
 HD 4113 C           66   +5-4      T9 ?    700 ±40   +0.19   Cheetham et al. (2018)
+
+***
+We interpret this newly-discerned “kinematic break” around spectral types L5–L6 to be an observable of the
+terminus of the stellar Main Sequence. The effective temperature range of L5–L6 dwarfs, 1500K-1600K
+(Filippazzo et al. 2015), corresponds to evolutionary model predictions for the HBMM at ages of 4–5 Gyr
+(Baraffe et al. 2003), in rough agreement with the average age of the local UCD population. Dupuy & Liu (2017)
+identify a similar HBMM boundary at slightly earlier spectral types of L3–L5 based on the distribution of 38
+dynamical mass measurements from binaries; while Dieterich et al. (2014) anchor the HBMM at ~2075 K,
+corresponding to L1–L2 subtypes, based on an inferred radius minimum. The differences among these empirical
+indicators of the HBMM may reflect both sample variations and sensitivity to specific brown dwarf indicators.
+For example, the L1–L2 range may represent a threshold in the brown dwarf-to-star ratio in the field population,
+while the L5-L6 range represents the disappearance of stars entirely

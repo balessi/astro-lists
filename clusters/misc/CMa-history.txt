@@ -1,0 +1,146 @@
+
+Lund Era (pre internet) < 1994 [ NGC, Alter, Lund ]
+
+Messier 41        1654  Hodierna       06 45 59.8 -20 42 58  Op  OC  1    39.8    719    8.23    338   7.09  NGC 2287
+NGC 2204          1784  W Herschel     06 15 31.7 -18 40 12  Op  OC  1    11.8   3990    9.32    335  11.25  
+NGC 2318          1784  W Herschel     06 59 25.0 -13 49 19  Op  OC  1    20.6   1318    8.64     83  10.54  
+NGC 2354          1784  W Herschel     07 14 00.7 -25 43 26  Op  OC  1    18.2   1235    9.15    225   9.09  
+NGC 2358          1784  W Herschel     07 17 02.6 -17 08 35  Op  OC  1    25.2    910    8.82     73   9.99  
+NGC 2362          1784  W Herschel     07 18 41.0 -24 57 14  Op  OC  1     6.2   1251    6.76     93   8.16  Tau CMa
+NGC 2367          1784  W Herschel     07 20 07.4 -21 52 01  Op  OC  1     5.5   2200    7.15     34   9.33  
+NGC 2374          1784  W Herschel     07 24 03.8 -13 14 06  Op  OC  1    18.7   1220    8.46     46  10.00  
+NGC 2360          1785  C Herschel     07 17 46.3 -15 37 52  Op  OC  1    18.5   1051    9.01    351   9.99  
+NGC 2243          1827  Dunlop         06 29 34.8 -31 16 55  Op  OC  1     5.5   3810    9.64    317  11.57  
+NGC 2345          1847  J Herschel     07 08 18.0 -13 11 56  Op  OC  1    10.9   2530    8.32    256   9.00  TV CMa
+NGC 2383          1847  J Herschel     07 24 41.8 -20 56 56  Op  OC  1     4.3   3100    8.41    164  11.55  
+NGC 2384          1847  J Herschel     07 25 09.9 -21 01 16  Op  OC  1     7.6   2570    7.32     32   8.56  
+Trumpler 6        1930  Trumpler       07 26 25.0 -24 12 23  Op  *   4     7.0
+Collinder 121     1931  Collinder      06 53 56.3 -24 16 31  Op  OC  1    73.4    869    7.07    110   8.23  Omicron CMa, Escorial 10
+Collinder 132     1931  Collinder      07 13 56.4 -30 45 29  Op  OC  1   160.0    638    7.39     61   6.28  Escorial 17
+Collinder 140     1931  Collinder      07 23 31.7 -31 57 58  Op  OC  1    68.2    378    7.43     32   5.37  Escorial 19
+Tombaugh 1        1938  Tombaugh       07 00 30.2 -20 34 08  Op  OC  1     6.1   2400    9.10    136  12.63  Haffner 1
+Tombaugh 2        1938  Tombaugh       07 03 05.5 -20 49 12  Op  OC  1     3.4   9550n   9.21    153  12.60  Haffner 2
+Haffner 23        1957  Haffner        07 09 33.4 -16 51 58  Op  OC  1    14.0   2040    8.50     95  11.57  
+Haffner 4         1957  Haffner        07 06 02.9 -15 00 07  Op  OC  1     2.9   4100    8.66     68  13.11  
+Haffner 5         1957  Haffner        07 17 58.3 -22 39 36  Op  OC  1     7.2   1654    9.67    108  10.77  
+Haffner 6         1957  Haffner        07 19 59.5 -13 09 04  Op  OC  1     5.9   4420    8.79    170  12.73  
+Haffner 7         1957  Haffner        07 22 56.2 -29 30 07  Op  OC  1     3.8   4320    8.94     62  13.45  BH 1
+Haffner 8         1957  Haffner        07 23 06.5 -12 18 36  Op  OC  1     4.8   2740    8.38     75  11.76  
+Haffner 9         1957  Haffner        07 24 42.0 -17 00 04  Op  OC  1     4.2   2980    8.58     78  13.41  
+Berkeley 25       1960  Setteducati    06 41 16.1 -16 29 13  Op  OC  1     2.3   9750n   9.39     68  14.01  
+Berkeley 33       1960  Setteducati    06 57 49.4 -13 13 37  Op  OC  1     3.8   4880    8.37    123  13.27  Ruprecht 7
+Berkeley 36       1960  Setteducati    07 16 25.2 -13 11 46  Op  OC  1     5.5   4220    9.83    141  13.34  
+Berkeley 75       1960  Setteducati    06 49 00.5 -23 59 56  Op  OC  1     3.8   8700n   9.23     67  13.79  
+Berkeley 76       1960  Setteducati    07 06 41.3 -11 44 06  Op  OC  1     6.2   8800n   9.22    119  13.76  
+Ruprecht 1        1961  Ruprecht       06 36 20.2 -14 09 25  Op  OC  1    15.1   1451    8.46     67  11.42  
+Ruprecht 10       1961  Ruprecht       07 06 30.2 -20 07 30  Op  OC  1     5.6   2230    8.46     36  13.92  
+Ruprecht 16       1961  Ruprecht       07 23 11.5 -19 28 48  Op  OC  1     8.5   3020    8.43     60  13.15  
+Ruprecht 18       1961  Ruprecht       07 24 38.4 -26 12 47  Op  OC  1    10.2   2460    8.11    160  10.80  
+Ruprecht 19       1961  Ruprecht       07 25 55.2 -21 50 38  Op  OC  1    16.1   1382    7.86     46  10.32  
+Ruprecht 6        1961  Ruprecht       06 56 05.2 -13 15 11  Op  OC  1     2.5   6490n   9.40     48  14.31  
+Ruprecht 8        1961  Ruprecht       07 01 41.8 -13 32 20  Op  OC  1    17.6   2190    8.60     67  11.87  UBC 219
+vdBergh 83        1966  Van den Bergh  06 40 06.0 -27 11 20  Op  EC  1    18.1    898    7.49     39  11.40  CMa R2, GN 06.37.7
+vdBergh 92        1966  Van den Bergh  07 03 55.0 -11 34 30  Op  EC  1     7.0   1107    6.89     30   9.29  Z CMa, BRC 27
+Basel 11 A        1972  Fenkart+       07 17 11.0 -13 59 17  Op  OC  1     9.4   1323    7.98     56   7.77  
+Auner 1           1980  Auner+         07 04 14.4 -19 44 53  Op  OC  1     3.1   8400n   9.49     90  14.42  
+Waterloo 7        1980  Fitzgerald+    07 26 07.7 -15 05 24  Op  OC  1     2.9   3410    7.48     28   9.19  
+ESO 559-2         1982  Lauberts+      07 18 05.4 -18 35 43  Op  OC  2     2.5   7700n            65  13.94  
+
+Internet age 1994-2017 [ Hipparcos, Tycho, DSH, IR clusters, DAML, MWSC ]
+
+Melnik-Efremov 6  1995  Mel'nik+       07 07 50.6 -25 27 43  Op  OC  1    43.7    637    8.44     96   7.72  Teutsch 205, Gulliver 21
+TPN 9             1998  Testi+         07 01 48.0 -11 18 00  Op  EC  2    12.0   1125             19  12.81  FSR 1186, GN 06.59.4
+Platais 5         1998  Platais+       06 14 42.0 -22 30 00  Op  OB  2   250.0    299    7.78     25   8.02  HIP 28944
+Ivanov 6          2002  Ivanov+        07 24 13.9 -24 38 00  Op  EC  2     5.0   1410    6.60     41  14.63  DBSB 11, Bran 22C, LDN 1664
+Alessi 33         2003  Alessi         07 02 24.0 -26 24 00  Op  OC  1    51.0    780    7.40     88   9.16  ASCC 32, Escorial 12
+Alessi 72         2003  Alessi         07 06 02.0 -16 03 23  Op  OC  2    12.0   1211             14  10.24  
+BDSB 96           2003  Bica+          07 05 19.7 -12 19 37  Op  EC  1     5.4   1082    6.90     41   7.95  GN 07.02.9, LBN 1037
+DBSB 12           2003  Dutra+         07 20 22.0 -27 47 07  Op  EC  2     5.0   3170             19  14.00  Bran 19
+DBSB 2            2003  Dutra+         07 10 12.0 -18 26 28  Op  EC  2     1.1   3620             14  14.54  IRAS 07079-1820
+DBSB 3            2003  Dutra+         07 10 21.0 -18 29 21  Op  EC  1     3.5   3250    6.58     30  13.04  Bran 7D
+ASCC 36           2005  Kharchenko+    07 14 44.7 -21 05 56  Op  OC  2    23.5    942    8.51     17   9.59  
+DC 1              2005  Drake          06 42 01.1 -12 58 25  Op  OC  2     1.2   6100n            19  17.02  
+DC 4              2005  Drake          06 54 03.4 -13 33 45  Op  OC  2     2.0   4900:   8.70     36  14.71  
+Soares-Bica 2     2005  Soares+        07 24 38.0 -24 35 00  Op  EC  2     4.4   1420    6.40      9  16.47  Riddle 13, Majaess 89, GGD 20
+Soares-Bica 1     2005  Soares+        07 04 08.0 -11 18 58  Op  OC  2     2.2   1130    6.18      9  15.54  NGC 2327, BDB 242, LkHalpha 221
+Juchert 12        2006- Juchert        07 20 57.0 -22 52 00  Op  OC  2     2.5   5100:   7.85     87  14.04  
+Juchert 7         2006- Juchert        07 04 31.0 -11 15 20  Op  OC  2     7.0   5000            148  13.82  Xuyi 23
+FSR 1184          2007  Froebrich+     07 02 42.0 -11 27 03  Op  OC  2     8.0   1129    8.35     29  11.73  
+FSR 1185          2007  Froebrich+     06 59 33.8 -11 59 15  Op  OC  2     4.4   1074    9.10     10  12.35  
+FSR 1190          2007  Froebrich+     07 07 03 0 -11 20 06  IR  EC  2     1.8   1261              6  17.13  
+FSR 1207          2007  Froebrich+     07 07 31.9 -13 19 41  Op  OC  1     2.9   2410    8.38     34  14.47  
+FSR 1209          2007  Froebrich+     07 07 08.4 -13 49 37  Op  OC  1     4.0   4660    8.45     58  13.86  Kernya 36
+FSR 1212          2007  Froebrich+     07 07 45.8 -14 08 42  Op  OC  1     3.7   5600:   9.14     64  15.52  Kernya 37
+FSR 1252          2007  Froebrich+     07 22 38.2 -18 42 11  Op  OC  1     5.4   3270    8.93     66  11.93  
+FSR 1253          2007  Froebrich+     07 26 19.9 -18 25 59  Op  OC  1     6.8   3840    8.47     90  12.62  SAI 76
+FSR 1284          2007  Froebrich+     07 19 58.1 -24 32 06  Op  OC  1     5.0   2341    8.77     38  13.03  
+FSR 1293          2007  Froebrich+     07 23 55.9 -25 21 32  Op  OC  2    10.0   1226    9.01     20  12.15  
+FSR 1297          2007  Froebrich+     07 23 56.2 -25 52 44  Op  EC  2     5.9   1218    6.70     13  11.81  Majaess 88, Camargo 1030
+Escorial 11       2008  Caballero+     06 58 08.8 -21 37 43  Op  OB  2   186.0    932                        HH CMa
+Escorial 14       2008  Caballero+     07 08 39.1 -28 16 08  Op  OB  2   110.0    816             48   7.71  HD 55019
+Escorial 15       2008  Caballero+     07 14 54.6 -27 04 05  Op  OB  2   161.0    553                        27 CMa
+SAI 69            2010  Glushkova+     06 45 28.2 -11 47 51  Op  OC  2     2.0   7140n   9.10     23  16.07  
+Alessi 204        2010s Alessi         07 09 27.6 -12 03 18  Op  OC  2    18.6   1127             38   9.91  in CMa OB1 B
+Kernya-Santa 1    2010s Kernya+        07 20 40.0 -14 06 18  Op  OC  2    17.0   3070             18  11.58  Theia 4126
+Mamajek 11        2010s Mamajek        07 19 45.3 -24 02 28  Op  EC  2    14.0   1150    6.04     43   8.74  Camargo 997/8, Ced 96, GN 07.17.5
+Prestgard 67      2010s Prestgard      07 12 24.0 -20 32 30  Op  OC  2     2.4   9700n            33  15.45  
+Majaess 90        2013  Majaess        07 24 45.0 -24 29 35  Op  EC  2     7.0   1270             22  12.95  Camargo 1008, GM 3-7
+HD 54881 Grp      2013- Teutsch        07 10 16.0 -12 23 00  Op  OC  2    20.0   1102             19  11.10  
+TC 0718-1642      2013- Teutsch        07 18 03.0 -16 42 16  Op  OC  2     3.4   3300             29  13.52  
+Teutsch 95        2013- Teutsch        07 26 39.0 -31 37 21  Op  OC  2     3.5   5300:            26  14.24  
+Camargo 1028      2016  Camargo+       07 24 13.0 -25 50 02  Op  EC  2     1.6   1315              5  14.67  Bran 23
+Camargo 1029      2016  Camargo+       07 22 43.0 -26 00 40  Op  OC  2     3.6   1490             10   6.94  NN CMa, LS 352
+Camargo 1033      2016  Camargo+       07 18 10.0 -26 51 22  Op  EC  2     6.0   2580             14  11.80  BBW 15
+Camargo 994       2016  Camargo+       07 19 16.0 -23 56 25  Op  EC  2     4.0   1262             12  11.90  Bran 17A
+Xuyi 21           2017  Guo+           06 51 56.7 -11 28 03  Op  OC  2     2.5   4630    8.90     13  15.97  
+
+Gaia era - 2017+ [ Gaia, Machine learning ]
+
+Gaia 1            2017  Koposov+       06 45 53.8 -16 43 59  Op  OC  1    10.3   4250    9.50    441  12.09  
+Gulliver 13       2018  Cantat-Gaudin+ 06 59 25.9 -13 15 14  Op  OC  1    13.8   1494    9.00     43  11.61  
+Theia 69          2019  Kounkel+       06 49 00.0 -15 12 00  Op  OC  2   203.0    168    7.50     20   7.55  
+LP 1406           2019  Liu+           07 21 18.3 -11 47 28  Op  OC  1     5.2   2670    8.67     34  12.61  
+LP 2383           2019  Liu+           06 21 32.0 -16 02 39  Op  OC  1   110.0    367    7.52     40   9.17  BBJ 1b
+LP 665            2019  Liu+           07 14 47.6 -26 14 41  Op  OC  1    15.0   3300    9.99     77  13.75  
+LP 733            2019  Liu+           07 24 12.0 -20 12 36  Op  OC  1    16.0   2690    8.43     79  10.95  PHOC 16
+UPK 442           2019  Sim+           06 33 36.0 -11 32 56  Op  OC  1   135.0    615    8.23     27  10.46  
+UPK 448           2019  Sim+           06 40 14.6 -12 14 39  Op  OC  1    88.8    879    7.90     27   9.50  
+UPK 450           2019  Sim+           06 55 01.1 -13 56 28  Op  OC  1   110.4    830    7.95     83   7.97  
+UPK 451           2019  Sim+           06 38 25.5 -16 42 39  Op  OC  1    54.0    463    7.60     30   9.50  
+UPK 452           2019  Sim+           07 20 48.7 -11 42 43  Op  OC  1    37.9    609    8.22     13   9.91  
+UPK 455           2019  Sim+           07 25 22.2 -13 32 29  Op  OC  1    31.2    829    8.04     18  11.17  HeXuHao 5
+UPK 456           2019  Sim+           07 05 12.0 -17 27 00  Op  OC  1    58.0    551    7.95     19   9.19  
+UPK 457           2019  Sim+           06 57 49.4 -18 42 17  Op  OC  1    28.6    941    7.35     12  12.20  
+UPK 463           2019  Sim+           06 56 32.1 -20 00 00  Op  YA  1   210.0    656    7.90    114   7.90  
+UPK 465           2019  Sim+           07 10 06.0 -18 36 29  Op  OC  1    67.0    931    7.90     52  10.55  
+UPK 469           2019  Sim+           07 11 54.8 -19 26 29  Op  OC  1   171.0    413    7.55     27   8.51  
+UPK 470           2019  Sim+           07 13 34.6 -19 29 42  Op  OC  1    69.2    982    7.62     47  11.34  
+UPK 477           2019  Sim+           07 10 06.2 -25 13 13  Op  YA  1   180.0    648    7.60    149   5.66  Escorial 13
+UPK 478           2019  Sim+           06 58 30.0 -27 00 00  Op  OC  1   291.0    390    7.65     39   2.58  Sigma CMa, BBJ 2b, Alessi J0700-2746
+UPK 479           2019  Sim+           07 11 23.7 -27 30 00  Op  OC  1   129.0    597    7.65     40   8.49  
+Gaia 5            2019  Torrealba+     07 23 12.7 -29 43 08  Op  OC  2     2.5   6760n   8.28     28  12.87  V423 CMa
+VVVX CL 124       2020  Borissova+     07 23 01.4 -14 41 28  Op  EC  2     1.5   3230             11  16.11  IRAS 07207-1435
+VVVX CL 125       2020  Borissova+     07 23 05.2 -14 54 54  Op  EC  2     2.0   5360:            16  16.01  Teutsch GN J0723-1455
+VVVX CL 126       2020  Borissova+     07 23 05.6 -14 42 39  Op  EC  2     2.0   3460             15  13.22  IRAS 07207-1435
+UBC 220           2020  Castro-Ginard+ 07 22 36.0 -17 10 26  Op  OC  1     6.2   2940    8.50     42  12.93  
+UBC 222           2020  Castro-Ginard+ 07 19 41.8 -20 50 28  Op  OC  1     8.8   1965    8.63     32  12.80  
+UBC 225           2020  Castro-Ginard+ 07 06 32.4 -23 32 02  Op  OC  1     8.6   2660    8.83     22   9.59  
+UBC 450           2020  Castro-Ginard+ 07 20 24.7 -19 21 11  Op  OC  1    14.9   2760    7.84     88  12.84  
+UBC 451           2020  Castro-Ginard+ 06 42 50.4 -23 42 00  Op  OC  1    10.2   1710    7.79     11  10.98  Theia 3060
+UBC 452           2020  Castro-Ginard+ 07 24 44.4 -19 13 30  Op  OC  1    12.4   3220    9.00     41  13.16  
+UBC 453           2020  Castro-Ginard+ 07 18 05.8 -20 17 42  Op  OC  1     6.8   3970    8.04     59  13.81  
+UBC 454           2020  Castro-Ginard+ 07 17 06.7 -20 39 40  Op  OC  1     7.0   3440    8.40     52  12.50  
+UBC 456           2020  Castro-Ginard+ 07 20 52.1 -20 46 48  Op  OC  1     7.2   3140    8.03     65  12.69  
+UBC 457           2020  Castro-Ginard+ 07 19 24.0 -21 24 25  Op  OC  1     5.5   2700    7.74     44  12.30  
+UBC 634           2020  Castro-Ginard+ 07 19 42.7 -18 58 30  Op  OC  1     5.2   2910    8.25     21  14.08  
+HeXuHao 17        2020  He+            07 17 14.1 -12 02 40  Op  OC  1    28.8   1064    8.42     39  10.97  
+HeXuHao 26        2020  He+            07 26 35.0 -26 35 01  Op  OC  1    37.2   1197    7.44     80  10.16  
+HeXuHao 62        2020  He+            07 12 35.1 -20 30 54  Op  OC  1    12.0   1776    8.38     35  13.22  
+HeXuHao 69        2020  He+            06 44 47.7 -24 16 44  Op  OC  1    39.6   1017    8.60     61   9.82  Santa 62
+Theia 2063        2020  Kounkel+       07 10 07.2 -15 41 24  Op  OC  2    18.0   1228             27   7.30  LS 209
+Theia 3099        2020  Kounkel+       07 21 36.0 -24 51 00  Op  OC  2    57.0   1259             31  11.42  
+GEDR3-25          2021  Alessi         07 06 48.0 -12 18 00  Op  OC  2    30.0   1545             73  11.64  
+GEDR3-26          2021  Alessi         07 13 56.4 -30 00 00  Op  OC  2   120.0    845             29  10.96  Collinder 132 B
+GEDR3-27          2021  Alessi         07 06 24.0 -25 18 00  Op  OC  2    27.0    763             30   8.80  
+GEDR3-28          2021  Alessi         07 24 33.6 -20 18 00  Op  OC  2    19.0   2750             74  10.94  LP 733 B
+GEDR3-29          2021  Alessi         07 03 12.0 -12 37 00  Op  OC  2    29.0   1218             39  10.95  

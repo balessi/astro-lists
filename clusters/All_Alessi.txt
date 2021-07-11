@@ -1,0 +1,663 @@
+Alessi Name           ;Published Name   ;Cns  ;Coordinates (J2000)  ;Wv   ;Type ;   Diam;  Dist; E-BV;   Age;Alias                                         ;Comments
+2MASS J1645-4521      ;                 ;Sco  ;16 45 44.6 -45 21 51 ;IR   ;EC?  ;    1.3;      ;     ;      ;                                              ;
+2MASS J1819-1328      ;                 ;SerCd;18 19 51.0 -13 27 58 ;IR   ;***  ;    3.0;      ;     ;      ;                                              ;Dubious, grp found by Alessi in 2MASS/Spitzer Aladin
+2MASS J1842-0330      ;                 ;Aql  ;18 42 19.9 -03 30 09 ;IR   ;***  ;    1.0;      ;     ;      ;                                              ;
+AWG 1                 ;                 ;Ori  ;05 06 52.0 -03 20 37 ;IR   ;EC   ;   13.0;   390;     ;  6.49;NGC 1788 Cl, Alessi 196                       ;AWG is AKARI-WISE-Gaia (Alessi, 2018)
+AWG 2                 ;                 ;Eri  ;05 07 22.6 -06 16 03 ;IR   ;EC   ;   18.0;   296;     ;      ;                                              ;On the top of witch's head neb (IC 2118) 7 vf *s G 15.7..19.1, clump in IC 2118 Assoc
+AWG 3                 ;                 ;Ori  ;05 20 38.0 -05 49 22 ;Op   ;EC   ;   26.0;   388;     ;      ;Zannin J0520-05                               ;
+AWG 4                 ;Bica 285         ;Ori  ;05 29 24.0 +11 52 02 ;Op   ;EC   ;    7.0;   418;     ;      ;                                              ;In Lambda Ori Association
+AWG 5                 ;Bica 286         ;Ori  ;05 31 23.6 +12 10 05 ;Op   ;EC   ;   10.0;      ;     ;      ;                                              ;
+AWG 6                 ;                 ;Lep  ;05 58 42.5 -13 28 59 ;IR   ;EC   ;   21.0;   673;     ;      ;                                              ;Pair with Mamajek 10 - sep 39', in Dn Dobashi 5027, not vis optic
+AWG 7                 ;Cha II Assoc     ;Cha  ;13 05 04.9 -77 23 47 ;IR   ;YAs  ;  120.0;   199;     ;  6.60;Theia 29                                      ;Shows nicely in Gaia DR2 VPD, 37* G 11..18, sharply defined
+Aladin 1              ;                 ;Cru  ;12 15 20.3 -60 22 18 ;Op   ;***  ;    0.9;      ;     ;      ;                                              ;
+Aladin 10             ;                 ;Cru  ;12 23 14.0 -61 38 17 ;Op   ;***  ;    0.6;      ;     ;      ;                                              ;
+Aladin 11             ;                 ;Cru  ;12 34 23.5 -61 11 36 ;IR   ;OC   ;    8.0;  2370;     ;  7.81;VX Cru                                        ;Near Cepheid VX Cru
+Aladin 12             ;                 ;Cru  ;12 11 45.0 -62 51 46 ;Op   ;***  ;    2.4;      ;     ;      ;                                              ;
+Aladin 13             ;La Serena 25     ;Cru  ;12 12 52.5 -62 44 54 ;Op   ;OC   ;    1.8;  5200;     ;      ;                                              ;
+Aladin 14             ;                 ;Cru  ;12 14 18.0 -61 01 42 ;Op   ;***  ;   14.0;      ;     ;      ;                                              ;
+Aladin 15             ;                 ;Cru  ;11 58 12.2 -63 33 51 ;Op   ;***  ;    3.2;      ;     ;      ;                                              ;
+Aladin 16             ;                 ;Cru? ;---------LOST------- ;Op   ;***  ;    0.0;      ;     ;      ;                                              ;I lost the data of this object. Most probably some asterism in Crux
+Aladin 17             ;UBC 282          ;Cru  ;12 00 30.0 -60 29 06 ;Op   ;OC   ;   18.0;  3521;     ;  8.80;FoF 1581                                      ;       
+Aladin 18             ;UBC 522          ;Cru  ;12 42 49.8 -61 22 15 ;Op   ;OC   ;    9.0;  2280; 0.69;  7.18;                                              ;
+Aladin 19             ;                 ;Pup  ;07 48 12.7 -36 08 48 ;Op   ;OC   ;    1.8; 13900;     ;      ;ALS 795                                       ;
+Aladin 2              ;VVVX CL 3        ;Cru  ;12 17 06.0 -60 13 16 ;Op   ;EC   ;    1.5;  4200; 2.85;      ;Magakian 572 Cl                               ;Aladin 1-18 are cl candidates disc during visual inspection of nother clusters using Aladin
+Aladin 20             ;?UBC 238         ;Pup  ;07 48 39.4 -33 50 36 ;Op   ;OC   ;    3.6;  4270;     ;      ;ALS 802                                       ;
+Aladin 3              ;                 ;Cru  ;12 32 19.8 -61 43 16 ;Op   ;EC   ;   15.0;  3520;     ;      ;                                              ;Assoc to neb Bran 389?
+Aladin 4              ;                 ;Cru  ;12 32 49.4 -61 53 18 ;Op   ;***  ;    2.8;      ;     ;      ;                                              ;
+Aladin 5              ;                 ;Cru  ;12 46 25.0 -64 11 28 ;Op   ;EC   ;    1.2;  2960;     ;      ;Magakian 588 Cl                               ;
+Aladin 6              ;                 ;Cru  ;12 48 42.8 -62 57 51 ;Op   ;OC   ;    7.0;  3560;     ;      ;                                              ;
+Aladin 7              ;                 ;Cru  ;12 53 08.0 -62 42 28 ;Op   ;OC   ;    2.2;  2700;     ;      ;                                              ;
+Aladin 8              ;                 ;Cru  ;11 56 45.0 -59 41 57 ;Op   ;***  ;    2.2;      ;     ;      ;                                              ;Small, but brght and detached circular group, Gaia-TGAS: not a cluster
+Aladin 9              ;Gulliver 58      ;Cru  ;12 46 03.6 -61 57 54 ;Op   ;OC   ;    8.9;  2344; 1.05;  8.70;                                              ;
+Aladin A  (21)        ;                 ;Sct  ;18 41 37.0 -06 28 00 ;Op   ;OC   ;    4.4;  3610;     ;      ;                                              ;
+Aladin B  (22)        ;UBC 103          ;Sct  ;18 42 30.8 -06 36 12 ;Op   ;OC   ;   12.3;  3484;     ;  6.70;FoF 297                                       ;
+Aladin C  (23)        ;BDSB 8           ;Sct  ;18 25 08.0 -13 16 24 ;Op   ;OC   ;   12.9;  2101;     ;  6.60;FoF 2115                                      ;Optical Grp forming a very close pair to an IR embedded cluster BDSB 8. Are they the same object?
+Aladin D  (24)        ;                 ;Sct  ;18 35 07.8 -08 05 20 ;Op   ;OC   ;    8.0;  2510;     ;      ;Alpha Sct North Cl                            ;Just N of Alpha Sct. centered on a string of 6*
+Aladin E  (25)        ;                 ;Sct  ;18 22 53.8 -13 10 08 ;Op   ;OC   ;    5.5;  2040;     ;      ;ALS 4988 Cl                                   ;Around OB star ALS 4988. Poor, with only 8*, but with very good agreement in PMs and pi
+Aladin F  (26)        ;Ruprecht 170     ;Sct  ;18 25 20.4 -09 59 42 ;Op   ;OC   ;   15.0;  2033; 1.21;  6.00;                                              ;
+Aladin G  (27)        ;                 ;Sct  ;18 29 26.0 -11 55 44 ;Op   ;***  ;   22.0;      ;     ;      ;                                              ;
+Aladin H  (28)        ;                 ;Ser  ;18 18 12.9 -15 36 03 ;Op   ;***  ;    5.0;      ;     ;      ;                                              ;
+Aladin J0429-8445     ;                 ;Men  ;04 29 55.0 -84 45 06 ;Op   ;***  ;   18.0;      ;     ;      ;                                              ;
+Aladin J1410-8843     ;                 ;Oct  ;14 10 00.0 -88 43 30 ;Op   ;***  ;   57.0;      ;     ;      ;                                              ;Found using Aladin Lite. Large, very loose cl. Kin: -8.7+-3.9, -2.9+-3.1, 15*, used (McDonald+, 2017) and (Pickles+, 2010) to calculate E(B-V)
+Aladin J1658+1819     ;                 ;Her  ;16 57 57.5 +18 19 48 ;Op   ;***  ;    3.0;      ;     ;      ;                                              ;Obvious little group of 22 stars
+Aladin J1807-2126     ;                 ;Sgr  ;18 07 11.3 -21 26 38 ;Op   ;***  ;    5.0;      ;     ;      ;                                              ;
+Aladin J1820-0358     ;                 ;SerCd;18 20 26.0 -03 58 57 ;Op   ;***  ;    3.0;      ;     ;      ;                                              ;
+Aladin J1843-0351     ;                 ;Aql  ;18 43 15.8 -03 51 51 ;Op   ;***  ;    2.6;      ;     ;      ;                                              ;
+Alessi 1              ;Alessi 1         ;Cas  ;00 53 22.3 +49 32 10 ;Op   ;OC   ;   29.9;   705; 0.10;  8.94;LeDrew 1, Casado 1, Theia 1254, UPK 245       ;Also Saloranta-Holmstrom 1, TC 0053+4934, Santa 21, Kupco 8
+Alessi 10             ;Alessi 10        ;Aql  ;20 04 55.9 -10 33 18 ;Op   ;OC   ;   32.0;   442; 0.14;  7.75;LeDrew 3, Theia 535, Alessi J2004-1030        ;
+Alessi 100            ;                 ;Aur  ;05 47 53.0 +35 14 28 ;Op   ;OC   ;   22.0;   756;     ;      ;                                              ;
+Alessi 101            ;                 ;Cen  ;13 44 44.0 -49 49 27 ;Op   ;***  ;   38.0;      ;     ;      ;                                              ;
+Alessi 102            ;UBC 54           ;Per  ;04 18 52.8 +46 26 24 ;Op   ;OC   ;   24.0;  1140; 0.31;  8.40;                                              ;
+Alessi 103            ;                 ;Tau  ;05 45 48.0 +22 04 53 ;Op   ;***  ;   21.0;      ;     ;      ;                                              ;
+Alessi 104            ;                 ;TrA  ;16 27 49.0 -65 45 16 ;Op   ;***  ;   59.0;      ;     ;      ;                                              ;
+Alessi 105            ;?Theia 256       ;Cnc  ;08 16 00.0 +07 00 00 ;Op   ;OC   ;  180.0;   538;     ;      ;                                              ;very tight, fine VPD!
+Alessi 106            ;                 ;CMa  ;06 49 41.0 -24 06 41 ;Op   ;HM?  ;    5.0;   214; 0.02;  8.75;                                              ;Only 5*, but w similar PMs and Pars, no more additional stars found even with r<30 and G<17
+Alessi 107            ;                 ;Sex  ;10 29 29.0 -02 44 21 ;Op   ;***  ;  420.0;      ;     ;      ;Beta Sex, Delta Sex                           ;Includes Beta, Delta and 25 Sextantis
+Alessi 108            ;                 ;Del  ;20 29 47.8 +19 28 47 ;Op   ;OC?  ;   48.0;   553;     ;      ;                                              ;9* to G<15 remnant?
+Alessi 109            ;                 ;UMa  ;11 26 49.7 +63 50 15 ;Op   ;MG?  ;  280.0;   244; 0.09;  8.50;                                              ;Obvious in GDR2 VPD, good RVs too!
+Alessi 11             ;Alessi 11        ;Del  ;20 21 16.1 +18 23 24 ;Op   ;***  ;   18.6;      ;     ;      ;                                              ;
+Alessi 110            ;                 ;CMi  ;07 10 19.0 +07 39 44 ;Op   ;***  ;   38.0;      ;     ;      ;                                              ;
+Alessi 111            ;                 ;Lac  ;22 02 06.0 +39 20 57 ;Op   ;***  ;   54.0;      ;     ;      ;                                              ;
+Alessi 112            ;                 ;Pup  ;08 08 44.0 -42 04 22 ;Op   ;***  ;   15.0;      ;     ;      ;                                              ;
+Alessi 113            ;Gulliver 9       ;Vel  ;08 27 59.5 -47 55 44 ;Op   ;OC   ;  116.3;   497; 0.05;  7.15;Vela Ring I                                   ;
+Alessi 114            ;Theia 231        ;Vel  ;10 34 49.0 -47 17 14 ;Op   ;OC   ;   91.6;   335;     ;  7.95;UPK 561                                       ;
+Alessi 115            ;                 ;Her  ;18 32 39.0 +17 33 00 ;Op   ;***  ;   31.0;      ;     ;      ;                                              ;
+Alessi 116            ;UPK 84           ;Vul  ;20 40 52.5 +20 10 30 ;Op   ;OC   ;   27.5;   904;     ;  8.75;Theia 1177, UBC 131                           ;
+Alessi 117            ;                 ;Cap  ;20 23 32.0 -10 27 23 ;Op   ;***  ;   14.0;      ;     ;      ;                                              ;
+Alessi 118            ;Gulliver 47      ;Mon  ;07 11 43.7 +00 49 37 ;Op   ;OC   ;   19.3;  1922; 0.18;  8.57;                                              ;
+Alessi 119            ;                 ;Her  ;18 28 15.0 +22 46 34 ;Op   ;***  ;   26.0;      ;     ;      ;                                              ;
+Alessi 12             ;Alessi 12        ;Vul  ;20 43 30.0 +23 52 16 ;Op   ;OC   ;   81.8;   542; 0.07;  8.09;LeDrew 2, Theia 254, UPK 95, FoF 2391         ;
+Alessi 120            ;                 ;Del  ;20 32 57.0 +18 35 07 ;Op   ;***  ;   20.0;      ;     ;      ;                                              ;
+Alessi 121            ;                 ;Oph  ;17 35 51.0 +05 55 05 ;Op   ;***  ;   40.0;      ;     ;      ;                                              ;
+Alessi 122            ;                 ;Mon  ;06 36 21.0 +10 54 19 ;Op   ;EC?  ;    3.0;  3850;     ;      ;                                              ;
+Alessi 123            ;                 ;CMi  ;07 44 32.0 +10 16 52 ;Op   ;***  ;   26.0;      ;     ;      ;                                              ;
+Alessi 124            ;                 ;Cha  ;10 24 43.0 -80 58 55 ;Op   ;***  ;  260.0;      ;     ;      ;                                              ;
+Alessi 125            ;                 ;Cen  ;14 26 57.0 -62 26 14 ;Op   ;***  ;   36.0;      ;     ;      ;                                              ;
+Alessi 126            ;                 ;Nor  ;15 39 31.0 -48 29 54 ;Op   ;***  ;   18.0;      ;     ;      ;                                              ;
+Alessi 127            ;                 ;CVn  ;13 14 55.0 +40 24 50 ;Op   ;***  ;  240.0;      ;     ;      ;                                              ;
+Alessi 129            ;                 ;Gem  ;06 55 35.0 +13 54 34 ;Op   ;OC   ;    4.0;  4000;     ;      ;                                              ;
+Alessi 13             ;Alessi 13        ;For  ;03 27 02.9 -35 49 16 ;Op   ;OC   ;  163.3;   104; 0.02;  8.72;Chi-2 For, Harrington 2, OPD 19, Slotegraaf 3 ;Also Ramakers 26
+Alessi 130            ;                 ;Aps  ;15 59 41.0 -82 27 03 ;Op   ;***  ;   60.0;      ;     ;      ;Kernya 66, Alessi J1559-8227                  ;
+Alessi 131            ;                 ;Gem  ;06 10 30.0 +26 28 05 ;Op   ;***  ;   72.0;      ;     ;      ;Santa 6                                       ;
+Alessi 132            ;                 ;Dra  ;19 30 52.0 +63 17 43 ;Op   ;***  ;   48.0;      ;     ;      ;                                              ;
+Alessi 133            ;                 ;Cep  ;03 54 48.0 +83 32 48 ;Op   ;***  ;   72.0;      ;     ;      ;                                              ;
+Alessi 134            ;                 ;Cam  ;05 08 46.0 +57 24 06 ;Op   ;***  ;   60.0;      ;     ;      ;                                              ;
+Alessi 135            ;Majaess 65       ;Tau  ;05 49 47.8 +27 00 29 ;Op   ;EC   ;   33.0;   942; 0.26;  7.76;COIN-Gaia 23                                  ;
+Alessi 136            ;                 ;Eri  ;04 54 34.0 -13 28 38 ;Op   ;***  ;  150.0;      ;     ;      ;                                              ;
+Alessi 137            ;Meingast 1       ;Aqr  ;23 51 39.8 -18 41 26 ;Op   ;OC   ;   92.0;   100; 0.04;  8.36;Alessi 231, MAF 4                             ;Overdensity in Meingast 1 stream. Incl 106, 108 Aqr, 2 Cet, HD 223785, 223192, 220811, 223543, 220611, Avg of ages and E(B-V) of 106 and 108 Aqr (Gontcharov)
+Alessi 138            ;                 ;Car  ;08 14 31.0 -58 06 06 ;Op   ;***  ;    4.0;      ;     ;      ;Alessi J0814-5806                             ;
+Alessi 139            ;                 ;Car  ;08 15 22.0 -58 07 56 ;Op   ;***  ;    4.5;      ;     ;      ;Alessi J0815-5808                             ;
+Alessi 14             ;Alessi 14        ;Mon  ;06 30 25.9 +09 44 28 ;Op   ;***  ;   10.2;      ;     ;      ;                                              ;
+Alessi 140            ;                 ;Aql  ;19 44 50.0 +15 51 57 ;Op   ;***  ;   27.0;      ;     ;      ;                                              ;
+Alessi 141            ;                 ;Ari  ;02 36 46.0 +20 15 19 ;Op   ;***  ;   45.0;      ;     ;      ;                                              ;
+Alessi 142            ;MWSC 5602        ;Ari  ;03 04 55.4 +23 05 42 ;Op   ;***  ;   18.6;      ;     ;      ;                                              ;
+Alessi 143            ;                 ;Ari  ;03 09 04.0 +24 20 19 ;Op   ;***  ;    9.0;      ;     ;      ;Alessi J0309+2420                             ;HSOY: possible, prelim dist Gaia-DR2 - recheck
+Alessi 144            ;UPK 418          ;CMi  ;07 30 14.6 +05 37 03 ;Op   ;OC   ;   19.5;   890;     ;  7.80;                                              ;
+Alessi 145            ;UBC 13           ;CMi  ;08 04 48.9 +04 11 28 ;Op   ;OC   ;  170.0;   625; 0.00;  8.26;Theia 467, UPK 435                            ;
+Alessi 146            ;                 ;Car  ;10 11 27.0 -59 55 05 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi 147            ;                 ;Gem  ;06 59 38.0 +12 17 00 ;Op   ;***  ;   33.0;      ;     ;      ;                                              ;
+Alessi 148            ;                 ;Mon  ;06 57 07.0 +08 33 36 ;Op   ;***  ;   45.0;      ;     ;      ;                                              ;
+Alessi 149            ;                 ;Oct  ;19 35 56.0 -84 19 39 ;Op   ;***  ;   90.0;      ;     ;      ;                                              ;
+Alessi 15             ;Alessi 15        ;Mon  ;06 43 04.1 +01 40 19 ;Op   ;OC   ;    1.0;  8228; 0.27;  9.25;                                              ;
+Alessi 150            ;                 ;Per  ;04 37 48.0 +41 45 32 ;Op   ;***  ;   23.0;      ;     ;      ;                                              ;
+Alessi 151            ;                 ;Pic  ;05 30 56.0 -49 38 50 ;Op   ;***  ;   12.0;      ;     ;      ;Alessi J0530-4938                             ;Gaia-TGAS: stars are unrelated
+Alessi 152            ;UBC 350          ;Sct  ;18 57 31.0 -08 58 44 ;Op   ;OC   ;   16.0;  1730; 0.31;  8.37;                                              ;
+Alessi 153            ;NGC 6664         ;Sct  ;18 36 30.0 -08 11 38 ;Op   ;OC   ;   12.2;  2012; 0.71;  7.19;Col 385, Iss 603                              ;Cepheid EV Sct
+Alessi 154            ;                 ;Sct  ;18 47 38.0 -06 40 36 ;Op   ;***  ;   28.0;      ;     ;      ;Saloranta J1847.5-0639                        ;
+Alessi 155            ;DBSB 13          ;Pup  ;08 12 14.4 -22 20 42 ;Op   ;OC   ;    5.0;  3558; 0.29;  8.74;                                              ;           
+Alessi 156            ;                 ;Pup  ;08 14 09.0 -14 33 41 ;Op   ;***  ;    7.0;      ;     ;      ;Alessi J0814-1432                             ;
+Alessi 157            ;                 ;Pav  ;18 47 54.0 -59 46 00 ;Op   ;***  ;    2.0;      ;     ;      ;                                              ;
+Alessi 158            ;                 ;Her  ;18 32 40.0 +18 50 22 ;Op   ;***  ;   39.0;      ;     ;      ;                                              ;
+Alessi 159            ;NGC 6659         ;Her  ;18 34 08.4 +23 35 56 ;Op   ;***  ;   19.8;      ;     ;      ;                                              ;
+Alessi 16             ;Alessi 16        ;Mon  ;06 43 34.8 +02 10 23 ;Op   ;EC   ;    1.0;  4000;     ;      ;                                              ;
+Alessi 160            ;                 ;Her  ;18 47 29.0 +15 30 46 ;Op   ;***  ;   60.0;      ;     ;      ;                                              ;
+Alessi 161            ;UBC 3            ;Her  ;18 55 08.4 +12 18 51 ;Op   ;OC   ;   20.0;  1770; 0.31;  8.10;                                              ;
+Alessi 162            ;                 ;Mic  ;20 45 49.0 -43 14 48 ;Op   ;***  ;   80.0;      ;     ;      ;                                              ;
+Alessi 163            ;UPK 569          ;Mus  ;11 20 07.8 -72 01 15 ;Op   ;OB?  ;  212.0;   252;     ;  7.58;HIP 55350 Assoc, OPD 41                       ;Plx=3.82..4.20, pmRA= -26.8..-25.0, pmDe= -3.2..-0.1, G<14, RV= -8..+8 (if available)
+Alessi 164            ;                 ;Mus  ;12 28 42.0 -70 42 09 ;Op   ;***  ;   40.0;      ;     ;      ;                                              ;
+Alessi 166            ;                 ;Leo  ;11 09 54.0 -00 52 20 ;Op   ;***  ;  220.0;      ;     ;      ;                                              ;
+Alessi 167            ;WRB 1            ;SerCp;15 49 57.7 -03 55 18 ;Op   ;MG   ;  300.0;   112; 0.10;  6.70;HD 141569 MG                                  ;GDR2: 8* to G=17, cent on trpl HD 141569, HD 141693 and 140574 are not members
+Alessi 168            ;                 ;Aql  ;19 40 06.0 +12 18 13 ;Op   ;***  ;   70.0;      ;     ;      ;                                              ;
+Alessi 169            ;                 ;Lac  ;22 05 40.0 +44 52 04 ;Op   ;***  ;  160.0;      ;     ;      ;                                              ;
+Alessi 17             ;Alessi 17        ;Pup  ;07 35 24.7 -15 05 53 ;Op   ;OC   ;    2.6;  3419; 0.44;  8.22;                                              ;
+Alessi 170            ;FoF 2209         ;Mon  ;06 41 49.6 -05 13 07 ;Op   ;OC   ;   23.0;  1489;     ;  8.84;                                              ;
+Alessi 171            ;                 ;Men  ;06 47 00.0 -76 01 00 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi 172            ;UBC 482          ;Vel  ;08 43 41.0 -46 00 56 ;Op   ;OC   ;   19.0;  2060; 0.28;  7.43;                                              ;
+Alessi 173            ;                 ;Mon  ;06 49 09.0 +00 37 24 ;Op   ;***  ;   40.0;      ;     ;      ;                                              ;
+Alessi 174            ;                 ;Mon  ;07 06 03.0 -09 28 30 ;Op   ;OC   ;   12.0;  3330;     ;      ;Rouault 7, Santa 75                           ;
+Alessi 175            ;?Theia 360       ;Mon  ;07 15 53.0 -00 42 54 ;Op   ;OC?  ;   28.0;      ;     ;  8.05;                                              ;
+Alessi 176            ;                 ;Mon  ;07 25 17.0 -00 45 42 ;Op   ;***  ;   34.0;      ;     ;      ;                                              ;
+Alessi 177            ;                 ;Mon  ;07 27 49.0 -01 29 42 ;Op   ;***  ;   64.0;      ;     ;      ;                                              ;
+Alessi 178            ;Escorial 22      ;Pup  ;07 36 04.0 -25 24 42 ;Op   ;OC?  ;   90.0;   433;     ;      ;HD 61071 Cl, TC 0736-2524                     ;
+Alessi 179            ;                 ;Pup  ;08 02 17.0 -18 54 00 ;Op   ;***  ;   32.0;      ;     ;      ;TC 0802-1854, HD 66271 Grp                    ;
+Alessi 18             ;Alessi 18        ;Pup  ;07 37 10.8 -26 23 10 ;Op   ;OC   ;    2.3;  6457; 0.65;  9.01;                                              ;
+Alessi 180            ;                 ;Pup  ;08 09 53.0 -19 40 12 ;Op   ;***  ;   60.0;      ;     ;      ;                                              ;
+Alessi 181            ;                 ;Aql  ;19 17 48.0 +16 09 06 ;Op   ;***  ;   80.0;      ;     ;      ;                                              ;
+Alessi 182            ;Melnik-Efremov 2 ;Cru  ;12 09 45.0 -63 52 42 ;Op   ;OC?  ;   29.0;  2580;     ;      ;                                              ;
+Alessi 183            ;                 ;Gru  ;22 55 25.0 -42 53 06 ;Op   ;***  ;  400.0;      ;     ;      ;                                              ;Gaia-DR1: stars are unrelated
+Alessi 184            ;                 ;Her  ;18 53 36.0 +18 29 54 ;Op   ;***  ;   34.0;      ;     ;      ;                                              ;
+Alessi 185            ;                 ;Peg  ;22 34 46.4 +29 55 51 ;Op   ;OC   ;   42.0;   316; 0.10;  8.75;Renou 14                                      ;
+Alessi 186            ;                 ;Her  ;16 22 50.0 +45 31 07 ;Op   ;***  ;  450.0;      ;     ;      ;                                              ;
+Alessi 187            ;                 ;UMi  ;14 21 08.0 +67 48 10 ;Op   ;***  ;  320.0;      ;     ;      ;                                              ;
+Alessi 188            ;                 ;Lib  ;14 50 48.0 -12 55 00 ;Op   ;***  ;  720.0;      ;     ;      ;                                              ;
+Alessi 189            ;                 ;Hor  ;03 05 26.0 -60 33 42 ;Op   ;***  ;  180.0;      ;     ;      ;                                              ;
+Alessi 19             ;Alessi 19        ;Oph  ;18 18 57.8 +12 18 40 ;Op   ;OC   ;   71.4;   575; 0.05;  7.38;LeDrew 5                                      ;
+Alessi 190            ;UBC 5            ;Nor  ;15 54 42.7 -47 40 13 ;Op   ;OC   ;  140.0;   564; 0.08;  8.30;                                              ;
+Alessi 191            ;UBC 577          ;Her  ;18 48 31.4 +22 03 38 ;Op   ;OC   ;   25.0;   991; 0.00;  9.44;                                              ;Poor, remnant?
+Alessi 192            ;                 ;Pup  ;07 31 55.0 -20 22 23 ;Op   ;***  ;   38.0;      ;     ;      ;                                              ;
+Alessi 193            ;                 ;Ori  ;05 31 41.0 -07 02 55 ;Op   ;***  ;  120.0;      ;     ;      ;Nu Ori Cl                                     ;
+Alessi 194            ;UPK 563          ;Car  ;10 31 30.2 -64 08 58 ;Op   ;OC   ;   85.0;   564;     ;  7.95;                                              ;
+Alessi 195            ;FoF 816          ;Car  ;10 48 00.0 -61 59 48 ;Op   ;OC?  ;   30.0;  2222;     ;  9.31;                                              ;
+Alessi 197            ;                 ;Mon  ;06 13 56.0 -06 49 23 ;Op   ;***  ;  300.0;      ;     ;      ;                                              ;
+Alessi 198            ;                 ;Cas  ;01 13 22.0 +49 16 50 ;Op   ;***  ;  200.0;      ;     ;      ;                                              ;
+Alessi 199            ;                 ;Sge  ;18 59 09.0 +20 18 42 ;Op   ;***  ;  120.0;      ;     ;      ;                                              ;
+Alessi 2              ;Alessi 2         ;Cam  ;04 46 24.5 +55 11 56 ;Op   ;OC   ;   66.5;   618; 0.16;  8.76;LeDrew 4, Theia 847, UPK 320, Santa 25        ;
+Alessi 20             ;Alessi 20        ;Cas  ;00 10 22.3 +58 44 31 ;Op   ;OC   ;   28.2;   427; 0.22;  6.48;Cas R2, Theia 34, FoF 2409                    ;
+Alessi 200            ;                 ;Vul  ;19 20 11.0 +22 37 06 ;Op   ;***  ;  100.0;      ;     ;      ;                                              ;
+Alessi 201            ;                 ;Aql  ;19 38 17.0 +15 52 01 ;Op   ;***  ;   40.0;      ;     ;      ;                                              ;
+Alessi 202            ;                 ;Pup  ;08 05 22.0 -33 08 28 ;Op   ;***  ;   96.0;      ;     ;      ;                                              ;
+Alessi 203            ;                 ;CMa  ;07 01 13.0 -13 18 16 ;Op   ;***  ;   28.0;      ;     ;      ;                                              ;
+Alessi 204            ;CMa OB1B         ;CMa  ;07 09 22.5 -12 03 30 ;Op   ;OB   ;   17.0;  1199;     ;      ;                                              ;Cl in CMA OB1 B or det part / nucl
+Alessi 205            ;                 ;Mon  ;06 58 18.0 -10 57 29 ;Op   ;***  ;   42.0;      ;     ;      ;                                              ;
+Alessi 206            ;                 ;Mon  ;07 03 26.0 -07 47 20 ;Op   ;***  ;   32.0;      ;     ;      ;                                              ;
+Alessi 207            ;                 ;Mon  ;06 50 04.0 -04 57 48 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi 208            ;                 ;CMi  ;07 14 44.0 +05 40 41 ;Op   ;***  ;   45.0;      ;     ;      ;                                              ;
+Alessi 209            ;                 ;Car  ;07 45 06.0 -55 48 30 ;Op   ;***  ;  156.0;      ;     ;      ;                                              ;
+Alessi 21             ;Alessi 21        ;Mon  ;07 10 45.6 -09 21 47 ;Op   ;OC   ;   56.0;   572; 0.08;  7.82;Escorial 16, UPK 449, FoF 2410                ;
+Alessi 210            ;                 ;Pup  ;06 40 55.0 -38 19 36 ;Op   ;***  ;  280.0;      ;     ;      ;                                              ;
+Alessi 211            ;                 ;Pup  ;07 33 51.0 -36 20 18 ;Op   ;***  ;  150.0;      ;     ;      ;                                              ;
+Alessi 212            ;                 ;Cha  ;07 49 25.0 -80 40 20 ;Op   ;***  ;    9.0;      ;     ;      ;                                              ;
+Alessi 213            ;                 ;Cha  ;08 03 36.0 -80 09 12 ;Op   ;***  ;   18.0;      ;     ;      ;                                              ;
+Alessi 214            ;                 ;Cha  ;08 26 18.0 -82 10 24 ;Op   ;***  ;    3.0;      ;     ;      ;                                              ;Obvious group with a dozen stars arranged in two parallel lines
+Alessi 215            ;                 ;Cha  ;08 39 45.0 -78 51 46 ;Op   ;***  ;    2.0;      ;     ;      ;                                              ;Compact group of a dozen stars N of Mamajek 1
+Alessi 216            ;                 ;Cha  ;09 35 51.0 -78 23 00 ;Op   ;***  ;   15.0;      ;     ;      ;                                              ;
+Alessi 217            ;                 ;Cha  ;09 59 48.0 -76 14 43 ;Op   ;***  ;    1.0;      ;     ;      ;                                              ;Line of 7-8 tightly packed stars
+Alessi 218            ;                 ;Cha  ;10 25 39.0 -79 53 22 ;Op   ;***  ;    6.0;      ;     ;      ;                                              ;
+Alessi 219            ;                 ;Cha  ;10 30 16.0 -76 08 00 ;Op   ;***  ;    6.0;      ;     ;      ;                                              ;
+Alessi 22             ;Theia 1106       ;And  ;23 48 07.0 +36 12 18 ;Op   ;OC   ;  170.0;   369; 0.16;  8.92;V707 And Cl                                   ;
+Alessi 220            ;                 ;Cha  ;10 52 18.0 -77 27 24 ;Op   ;***  ;    4.0;      ;     ;      ;                                              ;L-shaped gr of 7 * plus few fainter ones nearby
+Alessi 221            ;Bica 466         ;Cha  ;11 06 50.0 -77 23 30 ;IR   ;EC   ;   12.0;   184; 0.31;  6.30;WPW 1, Ced 110 Cl, Bica 467                   ;Low mass embedded Cl in Ced 110 = Bran 341A, Alessi: 5 B stars w neb in WISE, nothing in DSS2R
+Alessi 222            ;                 ;Cha  ;11 52 36.0 -83 08 26 ;Op   ;***  ;    9.0;      ;     ;      ;                                              ;
+Alessi 223            ;                 ;Cha  ;12 31 32.0 -76 20 30 ;Op   ;***  ;    4.0;      ;     ;      ;                                              ;
+Alessi 224            ;Bica 482         ;Cha  ;12 55 09.0 -76 57 41 ;IR   ;EC?? ;    7.0;      ;     ;      ;Cha II HH Cl                                  ;in Cha II, inc HH, in Bica 481, Alessi: did not find it in Gaia GR2
+Alessi 225            ;                 ;Cen  ;12 08 21.5 -50 43 21 ;Op   ;OC?? ;   12.0;   127;     ;  7.33;Delta Cen Cl                                  ;Adopted distance and age of Delta Cen. Includes HD 105382 and HD 105383. Shows nicely in WISE 3.4
+Alessi 226            ;                 ;Cen  ;12 12 00.7 -50 48 43 ;Op   ;***  ;    6.0;      ;     ;      ;                                              ;
+Alessi 227            ;                 ;Sco  ;16 18 16.8 -26 07 29 ;Op   ;***  ;   12.0;      ;     ;      ;                                              ;Shows nicely in WISE 3.4
+Alessi 228            ;                 ;Ant  ;10 01 40.0 -32 13 16 ;Op   ;***  ;   18.0;      ;     ;      ;                                              ;
+Alessi 229            ;                 ;Oct  ;03 40 48.0 -88 21 25 ;IR   ;GxCl ;    5.0;      ;     ;      ;                                              ;IR group visible WISE 3.4 and 4.6. Possible Cl of galaxies?
+Alessi 230            ;                 ;Oct  ;07 50 04.0 -87 05 30 ;Op   ;***  ;    2.5;      ;     ;      ;                                              ;Compact grp of 15 stars
+Alessi 232            ;                 ;Her  ;18 01 49.0 +19 33 33 ;Op   ;***  ;    8.0;      ;     ;      ;                                              ;
+Alessi 233            ;                 ;CMa  ;07 15 32.0 -12 52 27 ;Op   ;***  ;    2.1;      ;     ;      ;                                              ;
+Alessi 234            ;                 ;CMa  ;07 15 36.0 -24 02 58 ;Op   ;***  ;    4.0;      ;     ;      ;                                              ;
+Alessi 235            ;                 ;CMa  ;07 16 00.0 -25 07 48 ;Op   ;***  ;   14.0;      ;     ;      ;                                              ;Dubious
+Alessi 236            ;                 ;CMa  ;07 21 58.9 -25 32 56 ;Op   ;***  ;    0.6;      ;     ;      ;                                              ;Very small and compact
+Alessi 237            ;                 ;CMa  ;07 26 13.0 -21 38 33 ;Op   ;***  ;    1.4;      ;     ;      ;                                              ;Very small and compact. In Ruprecht 19 field
+Alessi 238            ;                 ;CMa  ;07 22 46.2 -19 25 09 ;Op   ;***  ;    0.9;      ;     ;      ;                                              ;In Ruprecht 16 field. ~10 stars in a tiny triangle
+Alessi 239            ;                 ;Her  ;18 40 55.0 +13 02 42 ;Op   ;***  ;    7.0;      ;     ;      ;                                              ;
+Alessi 24             ;ASCC 89          ;Ara  ;17 23 03.4 -62 41 35 ;Op   ;OC   ;   55.9;   479; 0.11;  7.95;Theia 175, UPK 623, FoF 2389                  ;B-association
+Alessi 25             ;ASCC 79          ;Cir  ;15 18 55.4 -60 47 53 ;Op   ;OC   ;  117.6;   830; 0.16;  6.86;Delta Cir, ASCC 80                            ;
+Alessi 28             ;UPK 67           ;Vul  ;19 26 58.0 +21 07 07 ;Op   ;OC   ;   52.0;   502; 0.09;  8.70;Foldvari 7, HD 183058 Grp                     ;
+Alessi 29             ;                 ;Ori  ;04 49 26.4 +10 40 34 ;Op   ;OC   ;   10.0;  1159; 0.56;  7.10;Lotkin-Popova 15                              ;
+Alessi 3              ;Alessi 3         ;Pup  ;07 17 06.0 -46 08 31 ;Op   ;OC   ;  184.9;   278; 0.10;  8.86;Theia 1011, UPK 505, FoF 2434                 ;
+Alessi 31             ;ASCC 92          ;SerCd;17 50 47.5 -11 51 11 ;Op   ;OC   ;   39.7;   664; 0.25;  9.01;                                              ;
+Alessi 33             ;ASCC 32          ;CMa  ;07 02 51.4 -26 30 43 ;Op   ;OC   ;   78.7;   795; 0.07;  7.40;                                              ;
+Alessi 34             ;ASCC 44          ;Pup  ;08 01 55.2 -50 34 48 ;Op   ;OC   ;   28.8;   553; 0.26;  8.31;Vela Ring J                                   ;
+Alessi 35             ;ASCC 30          ;Mon  ;06 57 05.0 -06 13 48 ;Op   ;OC   ;   32.4;  1080; 0.15;  8.20;                                              ;
+Alessi 36             ;UBC 7            ;Pup  ;07 07 40.8 -37 44 24 ;Op   ;OC   ;  120.0;   280; 0.09;  7.64;FoF 2385                                      ;
+Alessi 37             ;ASCC 124         ;Lac  ;22 47 50.6 +46 20 31 ;Op   ;OC   ;   51.0;   708; 0.16;  8.13;                                              ;
+Alessi 38             ;ASCC 70          ;Cru  ;12 14 49.2 -64 24 00 ;Op   ;OB   ;   42.0;  1930; 0.35;  6.92;                                              ;
+Alessi 39             ;                 ;Gem  ;06 53 44.0 +22 55 12 ;Op   ;***  ;   28.0;      ;     ;      ;                                              ;
+Alessi 4              ;Alessi 4         ;Ant  ;10 16 08.0 -34 15 15 ;Op   ;***  ;   60.0;      ;     ;      ;                                              ;
+Alessi 40             ;ASCC 97          ;Sgr  ;18 37 03.1 -19 08 20 ;Op   ;OC   ;   16.8;   565; 0.39;  8.49;                                              ;
+Alessi 41             ;ASCC 90          ;Sco  ;17 39 06.5 -34 52 26 ;Op   ;OC   ;   46.6;   574; 0.30;  8.81;                                              ;
+Alessi 42 A           ;                 ;Lac  ;22 46 54.0 +53 48 12 ;Op   ;***  ;   36.0;      ;     ;      ;                                              ;
+Alessi 42 B           ;                 ;Lac  ;22 51 10.0 +53 55 12 ;Op   ;***  ;   32.0;      ;     ;      ;                                              ;
+Alessi 43             ;ASCC 50          ;Vel  ;08 50 31.4 -41 44 17 ;Op   ;OC   ;   34.8;   943; 0.55;  8.01;                                              ;
+Alessi 44             ;ASCC 106         ;Aql  ;19 41 18.0 +01 35 31 ;Op   ;MG?  ;  156.0;   656; 0.56;  8.49;                                              ;
+Alessi 45             ;                 ;Cru  ;12 00 48.0 -61 23 25 ;Op   ;OC   ;   27.0;  2630;     ;      ;                                              ;
+Alessi 47             ;ASCC 24          ;Mon  ;06 28 44.0 -07 01 12 ;Op   ;OC?  ;   42.0;   204; 0.14;  6.96;Beta Mon                                      ;Dubious: It's only the triple system Beta Mon plus less than a handful of stars
+Alessi 48             ;                 ;Mon  ;06 27 16.0 -00 16 36 ;Op   ;***  ;  180.0;      ;     ;      ;                                              ;
+Alessi 49             ;Alessi 49        ;Car  ;10 16 16.0 -57 20 54 ;Op   ;EC   ;    0.7;  9700;     ;      ;                                              ;Compact cluster
+Alessi 5              ;Alessi 5         ;Car  ;10 43 16.6 -61 04 52 ;Op   ;OC   ;   65.0;   395; 0.19;  7.72;                                              ;
+Alessi 50             ;Alessi 50        ;Gem  ;06 22 03.0 +21 04 11 ;Op   ;OC   ;    3.0;  3800; 0.57;  9.10;FSR 901                                       ;
+Alessi 51             ;OPD 28           ;Tau  ;04 38 37.9 +22 22 20 ;Op   ;OC?  ;  450.0;   128;     ;      ;                                              ;
+Alessi 52             ;Alessi 52        ;Cru  ;12 13 02.0 -62 42 23 ;Op   ;OC   ;    2.2;  5000; 1.08;  9.15;FSR 1606, VVV-CL 101                          ;
+Alessi 53             ;Alessi 53        ;Mon  ;06 29 24.5 +09 10 48 ;Op   ;OC   ;    2.6;  4406; 0.66;  8.97;DC 7, FSR 986                                 ;
+Alessi 54             ;                 ;CMi  ;07 28 13.0 +00 31 09 ;Op   ;***  ;    2.2;      ;     ;      ;                                              ;Alessi: 5 unrelated stars (UCAC4), not a cluster (PPMXL)
+Alessi 55             ;Alessi 55        ;Mon  ;06 58 12.0 +00 52 07 ;Op   ;***  ;   18.0;      ;     ;      ;FSR 1080                                      ;
+Alessi 56             ;Alessi 56        ;Aql  ;19 06 53.3 +09 35 05 ;Op   ;OC   ;    2.2;  4300; 2.19;  8.59;Mercer 19                                     ;
+Alessi 57             ;Alessi 57        ;Aql  ;19 20 54.0 +15 40 36 ;Op   ;OC   ;    3.0;  5700; 1.87;  8.65;FSR 130                                       ;
+Alessi 58             ;Alessi 58        ;Gem  ;06 25 45.0 +19 54 55 ;Op   ;OC   ;    6.0;  3700; 0.50;  8.20;FSR 912                                       ;
+Alessi 59             ;Alessi 59        ;Mon  ;06 52 18.7 +02 11 46 ;Op   ;OC   ;    0.7;  3904; 0.42;  8.24;                                              ;
+Alessi 6              ;Alessi 6         ;Cir  ;14 40 13.9 -66 07 37 ;Op   ;OC   ;   35.3;   886; 0.23;  8.78;                                              ;
+Alessi 60             ;Alessi 60        ;Mon  ;07 02 28.6 -01 07 12 ;Op   ;OC   ;    5.8;  2737; 0.29;  8.34;                                              ;
+Alessi 61             ;                 ;Cir  ;15 14 51.0 -63 24 00 ;Op   ;***  ;    1.5;      ;     ;      ;                                              ;
+Alessi 62             ;Alessi 62        ;Her  ;18 55 51.0 +21 36 08 ;Op   ;OC   ;   50.0;   617; 0.20;  8.96;                                              ;
+Alessi 63             ;HeXuHao 66       ;SerCd;18 12 26.0 -15 22 48 ;Op   ;OC   ;    4.5;  1940;     ;  6.80;                                              ;
+Alessi 64             ;Alessi 64        ;Lep  ;05 51 41.3 -12 13 12 ;Op   ;***  ;   15.6;      ;     ;      ;FSR 1123                                      ;
+Alessi 65             ;Alessi 65        ;Mon  ;06 44 20.0 +06 58 45 ;Op   ;EC   ;    3.5;  4900;     ;      ;                                              ;Obvious cl assoc with nebula (DSS, 2MASS, WISE)
+Alessi 66             ;Alessi 66        ;Pup  ;07 35 38.0 -27 46 16 ;Op   ;***  ;    2.5;      ;     ;      ;Alessi J0735-2746                             ;
+Alessi 67             ;Alessi 67        ;Pav  ;18 47 05.0 -59 50 33 ;Op   ;***  ;    0.5;      ;     ;      ;                                              ;Compact grp of 8 stars
+Alessi 68             ;Alessi 68        ;Aql  ;19 10 48.0 +13 12 49 ;Op   ;***  ;    2.4;      ;     ;      ;                                              ;
+Alessi 69             ;                 ;Cep  ;23 43 02.0 +70 04 12 ;Op   ;***  ;   60.0;      ;     ;      ;                                              ;
+Alessi 7              ;BH 164           ;Cir  ;14 49 14.6 -66 27 54 ;Op   ;OC   ;   76.7;   418; 0.12;  7.81;                                              ;
+Alessi 70             ;ASCC 129         ;Cas  ;23 28 06.5 +55 36 47 ;Op   ;***  ;   31.2;      ;     ;      ;Alessi J2327+55                               ;
+Alessi 71             ;Mamajek 4        ;Tel  ;18 26 35.8 -50 44 13 ;Op   ;OC   ;  169.0;   444; 0.06;  8.82;                                              ;
+Alessi 72             ;                 ;CMa  ;07 06 02.0 -16 03 23 ;Op   ;OC   ;   11.0;  1305;     ;      ;                                              ;
+Alessi 73             ;FoF 2060         ;Mus  ;12 18 52.6 -65 25 33 ;Op   ;OC   ;   33.0;  1764;     ;  8.55;UBC 285, Theia 2191                           ;
+Alessi 74             ;                 ;Mus  ;12 25 08.0 -65 06 43 ;Op   ;OC   ;   24.0;  1760;     ;      ;                                              ;
+Alessi 75             ;                 ;Sco  ;17 48 12.0 -34 57 10 ;Op   ;***  ;   25.0;      ;     ;      ;                                              ;
+Alessi 76             ;UBC 114          ;Aql  ;19 05 45.6 -00 25 17 ;Op   ;OC   ;   20.0;  1610; 0.32;  7.70;                                              ;
+Alessi 77             ;                 ;Sgr  ;18 13 01.0 -32 19 43 ;Op   ;***  ;   19.0;      ;     ;      ;Alessi J1813-3214                             ;
+Alessi 78             ;FoF 115          ;Vel  ;08 49 41.0 -47 34 48 ;Op   ;OB?  ;   46.0;  2186;     ;  9.01;                                              ;
+Alessi 79             ;NGC 5045         ;Cen  ;13 14 31.2 -63 25 12 ;Op   ;OC   ;   37.8;  1662; 0.46;  7.96;                                              ;
+Alessi 8              ;Alessi 8         ;Nor  ;15 29 37.9 -51 13 37 ;Op   ;OC   ;   26.9;   663; 0.10;  8.14;                                              ;B-association
+Alessi 80             ;Sco OB5          ;Sco  ;17 52 26.4 -38 38 06 ;Op   ;OB   ;   37.2;  2695; 0.46;  6.33;Melnik-Efremov 5                              ;
+Alessi 81             ;                 ;Cap  ;20 21 01.0 -14 46 53 ;Op   ;MG?? ;  420.0;   163; 0.02;  8.00;Beta-1 Cap Grp                                ;Dubious
+Alessi 82             ;                 ;Cen  ;13 10 54.8 -64 36 14 ;Op   ;OC   ;   30.0;   596;     ;      ;                                              ;
+Alessi 83             ;UPK 168          ;Lac  ;22 54 46.3 +43 18 28 ;Op   ;OC   ;   32.8;   596; 0.23;  8.65;UBC 165                                       ;
+Alessi 84             ;RSG 2            ;Lyn  ;07 22 49.2 +55 09 42 ;Op   ;OC   ;  400.0;   203; 0.04;  8.10;OPD 16                                        ;
+Alessi 85             ;                 ;Ori  ;05 38 02.0 -06 23 38 ;Op   ;***  ;   60.0;      ;     ;      ;                                              ;
+Alessi 86             ;DBSB 104         ;Ara  ;17 03 59.3 -51 05 17 ;Op   ;EC   ;    4.2;  1067; 0.10;  8.37;Sco R2, vdBH-RN 81                            ;In vdBH-RN 81
+Alessi 87             ;                 ;Ara  ;17 04 46.2 -51 24 30 ;Op   ;OC   ;    6.0;  1140;     ;      ;MWC 246                                       ;
+Alessi 88             ;                 ;Cyg  ;20 29 02.0 +55 59 45 ;Op   ;***  ;   61.0;      ;     ;      ;                                              ;
+Alessi 89             ;                 ;And  ;23 13 20.0 +53 09 54 ;Op   ;***  ;   28.0;      ;     ;      ;                                              ;
+Alessi 9              ;Alessi 9         ;Ara  ;17 43 53.8 -47 01 41 ;Op   ;OC   ;  207.6;   206; 0.10;  8.55;Theia 598                                     ;
+Alessi 90             ;                 ;Tau  ;05 45 05.0 +18 45 39 ;Op   ;***  ;   31.0;      ;     ;      ;EU Tau Grp                                    ;
+Alessi 91             ;ASCC 64          ;Car  ;11 02 36.0 -60 34 01 ;Op   ;OC   ;   27.0;  3400; 0.15;  8.01;                                              ;
+Alessi 92             ;FoF 2290         ;Car  ;09 49 32.0 -60 11 02 ;Op   ;OC   ;   24.0;  1126;     ;  7.77;                                              ;
+Alessi 93             ;                 ;Car  ;07 59 07.0 -52 25 54 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi 94             ;UBC 2            ;And  ;00 23 12.0 +46 35 24 ;Op   ;OC   ;  120.0;   575; 0.19;  8.16;                                              ;
+Alessi 95             ;Alessi 95        ;Cas  ;02 52 15.0 +68 53 19 ;Op   ;OC   ;   24.0;   443; 0.33;  8.20;Cas R1, SU Cas Cl                             ;
+Alessi 96             ;RSG 1            ;Aur  ;05 02 01.9 +37 28 30 ;Op   ;OC   ;   74.5;   330; 0.24;  8.10;                                              ;Mamajek: A poor cluster with at least half a dozen A0 stars, and one B8 star (HD 32270)
+Alessi 97             ;UPK 596          ;Cen  ;13 24 23.6 -49 49 24 ;Op   ;OC   ;   99.5;   889;     ;  7.95;Theia 289                                     ;
+Alessi 98             ;Alessi 98        ;Sct  ;18 51 40.0 -15 10 48 ;Op   ;OC   ;   26.0;   623; 0.09;  9.00;UPK 21                                        ;
+Alessi 99             ;                 ;Cam  ;04 18 07.0 +67 48 20 ;Op   ;***  ;   16.0;      ;     ;      ;                                              ;
+Alessi J0021+6234     ;                 ;Cas  ;00 21 24.0 +62 34 00 ;Op   ;***  ;   60.0;      ;     ;      ;                                              ;
+Alessi J0022+5417     ;                 ;Cas  ;00 22 47.0 +54 17 54 ;Op   ;***  ;   10.0;      ;     ;      ;Foldvari 4                                    ;
+Alessi J0053-6546     ;                 ;Tuc  ;00 53 56.0 -65 46 28 ;Op   ;***  ;   16.0;      ;     ;      ;                                              ;
+Alessi J0114+6054     ;UPK 250          ;Cas  ;01 14 18.0 +60 54 00 ;Op   ;OC   ;   25.0;   787;     ;  7.90;TC 0114+6054, HD 7252 Grp                     ;
+Alessi J0120-4933     ;                 ;Phe  ;01 20 56.0 -49 33 42 ;Op   ;***  ;   35.0;      ;     ;      ;                                              ;
+Alessi J0123-3330     ;                 ;Scl  ;01 23 12.0 -33 29 40 ;Op   ;***  ;    7.0;      ;     ;      ;Slotegraaf 1                                  ;
+Alessi J1819-1518     ;                 ;Ser  ;18 19 09.4 -15 18 51 ;Op   ;***  ;   13.0;      ;     ;      ;                                              ;
+Alessi J0133+6015     ;                 ;Cas  ;01 33 43.6 +60 15 25 ;Op   ;***  ;   10.0;      ;     ;      ;VB73 128, VB73 132, Iss 47                    ;VB73 128 plus Iss 47 (VB73 132)
+Alessi J0146+4247     ;                 ;And  ;01 46 04.0 +42 46 58 ;Op   ;***  ;   56.0;      ;     ;      ;                                              ;
+Alessi J0213+6351     ;                 ;Cas  ;02 13 05.0 +63 51 44 ;Op   ;***  ;   12.0;      ;     ;      ;                                              ;
+Alessi J0232-5127     ;                 ;Hor  ;02 32 24.0 -51 27 06 ;Op   ;***  ;   90.0;      ;     ;      ;                                              ;
+Alessi J0234+4002     ;                 ;And  ;02 34 04.0 +40 02 30 ;Op   ;***  ;   90.0;      ;     ;      ;                                              ;
+Alessi J0234-3533     ;                 ;For  ;02 34 26.0 -35 33 09 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi J0240-5247     ;                 ;Hor  ;02 40 28.0 -52 47 00 ;Op   ;***  ;   88.0;      ;     ;      ;                                              ;
+Alessi J0304-5116     ;                 ;Hor  ;03 04 36.0 -51 16 00 ;Op   ;***  ;   24.0;      ;     ;      ;Slotegraaf 2                                  ;
+Alessi J0306+2413     ;                 ;Ari  ;03 06 33.0 +24 13 17 ;Op   ;***  ;  100.0;      ;     ;      ;                                              ;
+Alessi J0325+4054     ;                 ;Per  ;03 25 16.0 +40 54 00 ;Op   ;***  ;   66.0;      ;     ;      ;                                              ;
+Alessi J0343-2925     ;                 ;For  ;03 43 34.0 -29 24 48 ;Op   ;MS?  ;   16.0;   306;     ;      ;                                              ;Four possibly related stars in Gaia-Tgas
+Alessi J0345-2749     ;                 ;For  ;03 45 03.0 -27 49 18 ;Op   ;***  ;   50.0;      ;     ;      ;                                              ;
+Alessi J0346+4800     ;                 ;Per  ;03 46 11.0 +48 00 36 ;Op   ;***  ;    2.0;      ;     ;      ;                                              ;
+Alessi J0350+3708     ;                 ;Per  ;03 50 50.0 +37 08 19 ;Op   ;***  ;   44.0;      ;     ;      ;                                              ;
+Alessi J0402+0846     ;                 ;Tau  ;04 02 02.0 +08 45 30 ;Op   ;***  ;   48.0;      ;     ;      ;                                              ;
+Alessi J0404+7921     ;                 ;Cam  ;04 04 30.0 +79 21 24 ;Op   ;***  ;   80.0;      ;     ;      ;                                              ;
+Alessi J0436+3038     ;                 ;Tau  ;04 36 15.0 +30 37 43 ;Op   ;***  ;   36.0;      ;     ;      ;                                              ;
+Alessi J0503-3158     ;                 ;Cae  ;05 03 05.0 -31 58 12 ;Op   ;***  ;   13.0;      ;     ;      ;                                              ;Fine visually and VPD is fair, but Gaia-TGAS: asterism
+Alessi J0517+3745     ;                 ;Aur  ;05 17 49.0 +37 45 09 ;Op   ;***  ;   36.0;      ;     ;      ;                                              ;
+Alessi J0533+3741     ;                 ;Aur  ;05 33 34.6 +37 41 51 ;Op   ;***  ;    0.9;      ;     ;      ;                                              ;
+Alessi J0556+1559     ;                 ;Ori  ;05 56 48.0 +15 59 18 ;Op   ;***  ;    4.2;      ;     ;      ;                                              ;
+Alessi J0601+3531     ;FSR 802          ;Aur  ;06 01 36.0 +35 31 00 ;Op   ;***  ;    3.0;      ;     ;      ;                                              ;
+Alessi J0602+1447     ;                 ;Ori  ;06 02 28.0 +14 47 29 ;Op   ;***  ;    3.8;      ;     ;      ;                                              ;
+Alessi J0615+1247     ;                 ;Ori  ;06 15 15.7 +12 47 54 ;Op   ;***  ;    1.9;      ;     ;      ;                                              ;
+Alessi J0615+4849     ;                 ;Aur  ;06 15 06.0 +48 49 00 ;Op   ;***  ;    5.0;      ;     ;      ;Patchick 5                                    ;
+Alessi J0618+1454     ;                 ;Ori  ;06 18 09.0 +14 53 36 ;Op   ;OC   ;   14.0;  2700;     ;      ;Saloranta J0618+1454, TYC 743-237 Grp         ;
+Alessi J0620+1319     ;                 ;Ori  ;06 20 10.0 +13 19 48 ;Op   ;***  ;    4.0;      ;     ;      ;GSC 743-1687 Grp                              ;
+Alessi J0620+2929     ;UPK 386          ;Aur  ;06 22 01.5 +29 09 48 ;Op   ;OC   ;   34.7;   707;     ;  8.70;                                              ;
+Alessi J0622+2114     ;                 ;Gem  ;06 22 26.0 +21 14 50 ;Op   ;OC   ;    2.0;  3800;     ;      ;                                              ;
+Alessi J0623+2124     ;                 ;Gem  ;06 23 32.0 +21 24 05 ;Op   ;***  ;    2.0;      ;     ;      ;                                              ;
+Alessi J0623+2152     ;                 ;Gem  ;06 23 09.0 +21 52 13 ;Op   ;***  ;    4.0;      ;     ;      ;                                              ;
+Alessi J0623+2155     ;                 ;Gem  ;06 23 16.0 +21 55 04 ;Op   ;***  ;    2.0;      ;     ;      ;                                              ;
+Alessi J0624-3151     ;                 ;CMa  ;06 24 20.0 -31 51 18 ;Op   ;***  ;   13.0;      ;     ;      ;                                              ;
+Alessi J0625+1942     ;                 ;Gem  ;06 25 18.0 +19 42 35 ;Op   ;***  ;    2.6;      ;     ;      ;                                              ;
+Alessi J0628+1227     ;Xuyi 13          ;Gem  ;06 28 27.0 +12 27 02 ;Op   ;***  ;    2.0;      ;     ;      ;                                              ;
+Alessi J0639-2349     ;                 ;CMa  ;06 39 48.0 -23 49 18 ;Op   ;***  ;   25.0;      ;     ;      ;                                              ;
+Alessi J0640+1918     ;                 ;Gem  ;06 40 32.0 +19 18 41 ;Op   ;***  ;    3.0;      ;     ;      ;                                              ;
+Alessi J0640+2509     ;                 ;Gem  ;06 40 01.0 +25 09 50 ;Op   ;***  ;   26.0;      ;     ;      ;                                              ;
+Alessi J0641+1647     ;                 ;Gem  ;06 41 10.0 +16 47 00 ;Op   ;***  ;    7.0;      ;     ;      ;                                              ;
+Alessi J0644-4658     ;                 ;Pup  ;06 44 44.0 -46 58 12 ;Op   ;***  ;   56.0;      ;     ;      ;Lorenzin 16                                   ;
+Alessi J0645+0037     ;                 ;Mon  ;06 45 43.0 +00 37 08 ;Op   ;***  ;    3.0;      ;     ;      ;                                              ;
+Alessi J0649+0734     ;                 ;Mon  ;06 49 34.0 +07 34 08 ;Op   ;***  ;    3.0;      ;     ;      ;                                              ;
+Alessi J0652+1439     ;                 ;Gem  ;06 52 37.0 +14 39 18 ;Op   ;***  ;   10.0;      ;     ;      ;                                              ;
+Alessi J0652+1805     ;                 ;Gem  ;06 52 32.0 +18 05 36 ;Op   ;***  ;   10.0;      ;     ;      ;                                              ;
+Alessi J0653-0102     ;                 ;Mon  ;06 53 43.0 -01 02 10 ;Op   ;OC   ;    2.0;  4900;     ;      ;                                              ;
+Alessi J0658+0609     ;                 ;Mon  ;06 58 22.3 +06 09 39 ;Op   ;***  ;    2.6;      ;     ;      ;                                              ;
+Alessi J0659-1027     ;                 ;Mon  ;06 59 32.0 -10 27 00 ;Op   ;***  ;    8.0;      ;     ;      ;                                              ;
+Alessi J0700-2746     ;                 ;CMa  ;07 00 29.0 -27 46 42 ;Op   ;***  ;   40.0;      ;     ;      ;                                              ;
+Alessi J0702-6534     ;                 ;Vol  ;07 02 25.0 -65 34 30 ;Op   ;***  ;    4.5;      ;     ;      ;                                              ;
+Alessi J0708+2159     ;                 ;Gem  ;07 08 31.0 +21 59 12 ;Op   ;***  ;   38.0;      ;     ;      ;                                              ;
+Alessi J0709+0915     ;                 ;CMi  ;07 09 46.0 +09 14 40 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi J0709-0557     ;                 ;Mon  ;07 09 33.0 -05 57 54 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi J0709-0707     ;UPK 446          ;Mon  ;07 09 15.0 -07 04 14 ;Op   ;OC   ;   32.0;   896;     ;  8.05;Santa 54, Theia 361                           ;
+Alessi J0710-1826     ;DBSB 3           ;CMa  ;07 10 19.0 -18 26 02 ;Op   ;OC   ;    4.0;  3231; 1.15;  7.00;FSR 1237                                      ;
+Alessi J0712-0236     ;UPK 436          ;Mon  ;07 12 44.6 -02 43 16 ;Op   ;OC   ;   41.7;   734;     ;  8.43;Theia 409                                     ;
+Alessi J0715+0201     ;                 ;CMi  ;07 14 59.0 +02 00 40 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi J0715-0727     ;SAI 75           ;Mon  ;07 15 19.0 -07 26 06 ;Op   ;OC   ;    4.0;  2800; 0.23;  8.60;Santa 53, Patchick 79                         ;
+Alessi J0720-0000     ;                 ;CMi  ;07 20 03.0 -00 00 06 ;Op   ;***  ;   26.0;      ;     ;      ;                                              ;
+Alessi J0720-2343     ;                 ;CMa  ;07 20 22.0 -23 43 58 ;Op   ;***  ;    2.0;      ;     ;      ;                                              ;
+Alessi J0721-3631     ;                 ;Pup  ;07 21 50.0 -36 31 54 ;Op   ;***  ;   12.0;      ;     ;      ;                                              ;
+Alessi J0725-2717     ;                 ;CMa  ;07 25 14.0 -27 17 24 ;Op   ;***  ;    9.0;      ;     ;      ;                                              ;
+Alessi J0727-5141     ;                 ;Car  ;07 27 54.0 -51 41 00 ;Op   ;***  ;   20.0;      ;     ;      ;                                              ;
+Alessi J0734+1154     ;                 ;CMi  ;07 34 58.0 +11 54 24 ;Op   ;***  ;   54.0;      ;     ;      ;                                              ;
+Alessi J0734+3535     ;                 ;Lyn  ;07 34 37.0 +35 34 36 ;Op   ;***  ;   54.0;      ;     ;      ;                                              ;
+Alessi J0740-5155     ;                 ;Car  ;07 40 30.0 -51 55 00 ;Op   ;***  ;   10.0;      ;     ;      ;                                              ;
+Alessi J0743-0005     ;                 ;CMi  ;07 43 04.0 -00 05 36 ;Op   ;***  ;   17.0;      ;     ;      ;                                              ;
+Alessi J0753-1935     ;                 ;Pup  ;07 53 23.0 -19 35 36 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi J0753-3423     ;                 ;Pup  ;07 53 24.0 -34 23 06 ;Op   ;***  ;   30.0;      ;     ;      ;Slotegraaf 14                                 ;
+Alessi J0800-0452     ;                 ;Mon  ;08 00 29.0 -04 52 48 ;Op   ;***  ;   54.0;      ;     ;      ;Kupco 10                                      ;
+Alessi J0812-3507     ;Gulliver 36      ;Pup  ;08 12 44.4 -35 06 40 ;Op   ;OC   ;   16.8;  1327; 0.12;  9.05;Slotegraaf 17                                 ;
+Alessi J0813-5011     ;                 ;Vel  ;08 13 34.0 -50 11 48 ;Op   ;***  ;   60.0;      ;     ;      ;                                              ;
+Alessi J0814+0700     ;                 ;Cnc  ;08 14 36.0 +07 00 00 ;Op   ;***  ;   18.0;      ;     ;      ;                                              ;
+Alessi J0817-2521     ;                 ;Pup  ;08 17 31.0 -25 21 06 ;Op   ;***  ;   16.0;      ;     ;      ;                                              ;
+Alessi J0822-3409     ;                 ;Pup  ;08 22 45.0 -34 09 05 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi J0838-2502     ;                 ;Pyx  ;08 38 33.0 -25 02 24 ;Op   ;***  ;   14.0;      ;     ;      ;                                              ;
+Alessi J0839-2629     ;                 ;Pyx  ;08 39 49.0 -26 29 12 ;Op   ;***  ;    9.0;      ;     ;      ;                                              ;
+Alessi J0841-2428     ;                 ;Pyx  ;08 41 50.0 -24 27 49 ;Op   ;***  ;   70.0;      ;     ;      ;                                              ;
+Alessi J0845+1228     ;                 ;Cnc  ;08 45 56.0 +12 28 00 ;Op   ;***  ;   10.0;      ;     ;      ;Ferrero 35                                    ;
+Alessi J0855-5906     ;                 ;Car  ;08 55 55.0 -59 06 42 ;Op   ;***  ;    4.0;      ;     ;      ;GSC 8594-2209 Grp                             ;
+Alessi J0922-3626     ;                 ;Pyx  ;09 22 53.0 -36 26 37 ;Op   ;***  ;    3.5;      ;     ;      ;                                              ;Found near nebula WHI B0921-36
+Alessi J0927-3810     ;                 ;Ant  ;09 27 30.0 -38 10 42 ;Op   ;***  ;   27.0;      ;     ;      ;                                              ;
+Alessi J0935-4901     ;                 ;Vel  ;09 35 32.0 -49 01 17 ;Op   ;***  ;   70.0;      ;     ;      ;                                              ;
+Alessi J0941-4018     ;                 ;Ant  ;09 41 37.0 -40 18 28 ;Op   ;***  ;    3.0;      ;     ;      ;                                              ;
+Alessi J0951-4634     ;                 ;Vel  ;09 51 18.0 -46 34 00 ;Op   ;***  ;   12.0;      ;     ;      ;                                              ;
+Alessi J1008-3000     ;                 ;Ant  ;10 08 15.0 -29 59 48 ;Op   ;***  ;   98.0;      ;     ;      ;                                              ;
+Alessi J1018-5816     ;                 ;Car  ;10 18 05.0 -58 16 26 ;Op   ;***  ;    2.0;      ;     ;      ;                                              ;
+Alessi J1026-4339     ;                 ;Vel  ;10 26 02.0 -43 39 38 ;Op   ;***  ;    0.6;      ;     ;      ;                                              ;
+Alessi J1032-4437     ;                 ;Vel  ;10 32 34.0 -44 37 06 ;Op   ;***  ;   21.0;      ;     ;      ;                                              ;
+Alessi J1053-5750     ;                 ;Car  ;10 53 14.0 -57 50 54 ;Op   ;***  ;   11.0;      ;     ;      ;                                              ;
+Alessi J1058-3725     ;                 ;Ant  ;10 58 23.0 -37 25 00 ;Op   ;***  ;   11.0;      ;     ;      ;                                              ;
+Alessi J1058-8312     ;                 ;Oct  ;10 58 17.0 -83 12 58 ;Op   ;***  ;    3.0;      ;     ;      ;                                              ;
+Alessi J1101-6927     ;                 ;Car  ;11 01 06.0 -69 27 11 ;Op   ;***  ;   50.0;      ;     ;      ;                                              ;
+Alessi J1104-3157     ;                 ;Hya  ;11 04 36.0 -31 57 36 ;Op   ;***  ;    3.0;      ;     ;      ;                                              ;
+Alessi J1115-6000     ;                 ;Car  ;11 15 21.0 -60 00 07 ;Op   ;***  ;   36.0;      ;     ;      ;                                              ;
+Alessi J1121-2957     ;                 ;Hya  ;11 21 08.0 -29 57 24 ;Op   ;***  ;    9.0;      ;     ;      ;                                              ;
+Alessi J1121-6059     ;                 ;Cen  ;11 21 51.0 -60 59 42 ;Op   ;***  ;    5.0;      ;     ;      ;Slotegraaf 34                                 ;
+Alessi J1127-6134     ;                 ;Cen  ;11 27 41.0 -61 34 21 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi J1129-6127     ;FoF 245          ;Cen  ;11 29 02.5 -61 27 59 ;Op   ;OC   ;   22.7;  4337;     ;  8.86;                                              ;
+Alessi J1145-6158     ;                 ;Cen  ;11 45 43.0 -61 57 43 ;Op   ;***  ;   18.0;      ;     ;      ;                                              ;
+Alessi J1151-6010     ;                 ;Cen  ;11 51 06.0 -60 10 06 ;Op   ;***  ;    2.4;      ;     ;      ;                                              ;
+Alessi J1152-6221     ;                 ;Cen  ;11 52 00.0 -62 21 06 ;Op   ;***  ;   10.0;      ;     ;      ;                                              ;
+Alessi J1156-6314     ;                 ;Cen  ;11 56 08.0 -63 14 12 ;Op   ;***  ;   15.0;      ;     ;      ;Slotegraaf 39                                 ;
+Alessi J1217-6118     ;                 ;Cru  ;12 17 17.0 -61 17 41 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi J1248-5956     ;                 ;Cru  ;12 48 56.0 -59 56 51 ;Op   ;***  ;    2.4;      ;     ;      ;                                              ;
+Alessi J1249-6131     ;                 ;Cru  ;12 49 25.0 -61 31 12 ;Op   ;OC   ;    2.1;  3400;     ;      ;                                              ;
+Alessi J1257-6728     ;                 ;Mus  ;12 57 20.0 -67 27 41 ;Op   ;***  ;   55.0;      ;     ;      ;                                              ;
+Alessi J1302-5956     ;Loden 733        ;Cen  ;13 02 53.0 -59 56 54 ;Op   ;OC   ;   16.0;   687;     ;  8.20;UPK 583                                       ;Loose core
+Alessi J1309-2338     ;                 ;Hya  ;13 09 24.0 -23 38 00 ;Op   ;***  ;   90.0;      ;     ;      ;                                              ;
+Alessi J1412-2416     ;                 ;Hya  ;14 12 21.0 -24 16 00 ;Op   ;***  ;   29.0;      ;     ;      ;                                              ;
+Alessi J1420-6405     ;                 ;Cen  ;14 20 37.0 -64 05 30 ;Op   ;***  ;    3.0;      ;     ;      ;                                              ;
+Alessi J1423-1256     ;                 ;Lib  ;14 23 46.0 -12 56 30 ;Op   ;***  ;    7.0;      ;     ;      ;                                              ;
+Alessi J1424-1442     ;                 ;Lib  ;14 24 38.0 -14 42 48 ;Op   ;***  ;   38.0;      ;     ;      ;                                              ;
+Alessi J1443-5101     ;                 ;Lup  ;14 43 50.0 -51 01 27 ;Op   ;***  ;   32.0;      ;     ;      ;                                              ;
+Alessi J1506-5636     ;                 ;Cir  ;15 06 45.0 -56 36 46 ;Op   ;***  ;    2.2;      ;     ;      ;?FSR 1697                                     ;
+Alessi J1507-6424     ;                 ;TrA  ;15 07 34.0 -64 24 32 ;Op   ;***  ;   12.0;      ;     ;      ;Sandqvist 170 grp                             ;clumpy, open grp of B blue stars in front of Sandqvist 170
+Alessi J1521-8333     ;                 ;Oct  ;15 21 08.0 -83 33 30 ;Op   ;***  ;    5.0;      ;     ;      ;GSC 9509-2846 Grp                             ;
+Alessi J1524-4828     ;                 ;Lup  ;15 24 37.0 -48 28 06 ;Op   ;***  ;   31.0;      ;     ;      ;                                              ;
+Alessi J1543-3514     ;                 ;Lup  ;15 43 17.0 -35 14 36 ;Op   ;***  ;  132.0;      ;     ;      ;                                              ;
+Alessi J1546-6630     ;                 ;TrA  ;15 46 07.0 -66 30 07 ;Op   ;***  ;    0.9;      ;     ;      ;                                              ;
+Alessi J1605-2031     ;Dolidze 50       ;Sco  ;16 05 36.5 -20 29 06 ;Op   ;***  ;   15.0;      ;     ;      ;Santa 147                                     ;
+Alessi J1608-6221     ;                 ;TrA  ;16 08 34.0 -62 21 24 ;Op   ;***  ;    5.0;      ;     ;      ;                                              ;
+Alessi J1609+1648     ;                 ;Her  ;16 09 40.0 +16 48 18 ;Op   ;***  ;  100.0;      ;     ;      ;                                              ;
+Alessi J1614-5113     ;                 ;Nor  ;16 14 54.4 -51 13 12 ;Op   ;***  ;    2.1;      ;     ;      ;                                              ;Located N of Ru 176, obvious arc of ~12 *
+Alessi J1616-5136     ;                 ;Nor  ;16 16 14.0 -51 36 41 ;Op   ;***  ;    5.0;      ;     ;      ;                                              ;
+Alessi J1623-7723     ;                 ;Aps  ;16 23 55.0 -77 23 50 ;Op   ;***  ;    3.0;      ;     ;      ;                                              ;Alessi B. S. dez/2016, HSOY: no
+Alessi J1626-6530     ;                 ;TrA  ;16 26 24.0 -65 30 12 ;Op   ;***  ;   40.0;      ;     ;      ;                                              ;
+Alessi J1636-3127     ;UPK 653          ;Sco  ;16 36 26.7 -31 24 49 ;Op   ;OC   ;   13.7;   742;     ;  7.95;                                              ;
+Alessi J1651-2653     ;                 ;Sco  ;16 51 07.0 -26 53 42 ;Op   ;***  ;   43.0;      ;     ;      ;                                              ;
+Alessi J1705-4750     ;                 ;Ara  ;17 05 16.0 -47 50 42 ;Op   ;***  ;    4.0;      ;     ;      ;                                              ;
+Alessi J1706-3433     ;                 ;Sco  ;17 06 53.0 -34 33 30 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi J1708-4301     ;                 ;Sco  ;17 08 20.0 -43 01 30 ;Op   ;***  ;   45.0;      ;     ;      ;                                              ;
+Alessi J1711-7838     ;                 ;Aps  ;17 11 25.0 -78 38 08 ;Op   ;***  ;    4.2;      ;     ;      ;                                              ;Alessi B. S. dez/2016, HSOY: no
+Alessi J1741-6506     ;                 ;Ara  ;17 41 59.0 -65 06 30 ;Op   ;***  ;   45.0;      ;     ;      ;                                              ;
+Alessi J1750-4128     ;                 ;Sco  ;17 50 06.0 -41 28 30 ;Op   ;***  ;   36.0;      ;     ;      ;                                              ;
+Alessi J1751-3033     ;                 ;Sco  ;17 51 13.0 -30 33 24 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi J1753-2729     ;                 ;Sgr  ;17 53 12.0 -27 29 00 ;Op   ;***  ;    1.5;      ;     ;      ;                                              ;
+Alessi J1758-4616     ;                 ;Ara  ;17 58 01.0 -46 16 06 ;Op   ;***  ;   19.0;      ;     ;      ;                                              ;
+Alessi J1800-3724     ;                 ;CrA  ;18 00 15.0 -37 24 30 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi J1802-2922     ;                 ;Sgr  ;18 02 47.0 -29 22 00 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi J1813+1522     ;                 ;Her  ;18 13 40.1 +15 22 30 ;Op   ;MS?  ;    2.9;   170;     ;      ;                                              ;Only two doubles
+Alessi J1815+2515     ;                 ;Her  ;18 15 36.0 +25 15 00 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi J1816+0151     ;                 ;Oph  ;18 16 57.0 +01 51 18 ;Op   ;***  ;    1.1;      ;     ;      ;                                              ;Cl or asterism foud in SDSS9 with Aladin
+Alessi J1816-1529     ;                 ;SerCd;18 16 16.0 -15 28 35 ;Op   ;OC   ;   30.0;  1730;     ;      ;                                              ;
+Alessi J1816-5932     ;                 ;Pav  ;18 16 59.0 -59 32 12 ;Op   ;***  ;    6.0;      ;     ;      ;                                              ;
+Alessi J1824-6219     ;                 ;Pav  ;18 24 16.0 -62 18 49 ;Op   ;***  ;    2.2;      ;     ;      ;                                              ;
+Alessi J1827-4100     ;                 ;CrA  ;18 27 56.0 -41 00 48 ;Op   ;***  ;   21.0;      ;     ;      ;                                              ;
+Alessi J1828+2631     ;                 ;Lyr  ;18 28 09.8 +26 31 31 ;Op   ;***  ;    2.0;      ;     ;      ;                                              ;
+Alessi J1828+2632     ;                 ;Lyr  ;18 28 26.3 +26 32 32 ;Op   ;***  ;    2.0;      ;     ;      ;                                              ;
+Alessi J1834-1248     ;                 ;Sct  ;18 34 38.0 -12 47 57 ;Op   ;***  ;   40.0;      ;     ;      ;                                              ;
+Alessi J1835+7223     ;Kemble 2         ;Dra  ;18 35 06.0 +72 21 42 ;Op   ;***  ;   26.0;      ;     ;      ;Little Queen                                  ;
+Alessi J1839-1508     ;UPK 17           ;Sct  ;18 38 57.4 -15 03 23 ;Op   ;OC   ;   17.3;   659; 0.56;  8.39;Theia 1048                                    ;
+Alessi J1842-0629     ;                 ;Sct  ;18 42 18.1 -06 30 54 ;Op   ;***  ;   39.0;      ;     ;      ;                                              ;
+Alessi J1843-0556     ;                 ;Sct  ;18 43 47.0 -05 56 30 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi J1845+2301     ;                 ;Her  ;18 45 50.0 +23 01 14 ;Op   ;***  ;   22.0;      ;     ;      ;                                              ;
+Alessi J1845-1104     ;UBC 100          ;Sct  ;18 45 05.7 -11 02 16 ;Op   ;OB   ;   47.0;  1470; 0.43;  8.20;                                              ;Confirmed wth Gaia DR2, many B giants among its members
+Alessi J1847-1813     ;UPK 13           ;Sgr  ;18 47 58.0 -18 13 42 ;Op   ;OC   ;   30.0;   943; 0.29;  7.80;                                              ;
+Alessi J1850-0553     ;                 ;Sct  ;18 50 24.0 -05 53 00 ;Op   ;***  ;   60.0;      ;     ;      ;                                              ;
+Alessi J1855+1845     ;                 ;Her  ;18 55 50.0 +18 45 58 ;Op   ;***  ;   21.0;      ;     ;      ;                                              ;
+Alessi J1856+1330     ;                 ;Her  ;18 56 32.0 +13 30 13 ;Op   ;***  ;   18.0;      ;     ;      ;                                               ;
+Alessi J1859+1349     ;                 ;Aql  ;18 59 46.0 +13 49 19 ;Op   ;***  ;   27.0;      ;     ;      ;                                              ;
+Alessi J1859-0809     ;                 ;Aql  ;18 59 33.0 -08 09 17 ;Op   ;***  ;   36.0;      ;     ;      ;                                              ;
+Alessi J1900+1317     ;                 ;Aql  ;19 00 45.0 +13 17 49 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi J1904+1541     ;UPK 55           ;Aql  ;19 04 26.8 +15 40 52 ;Op   ;OC   ;   39.4;   832;     ;  8.05;Theia 495                                     ;
+Alessi J1907-7833     ;                 ;Oct  ;19 07 00.0 -78 33 11 ;Op   ;***  ;    6.0;      ;     ;      ;                                              ;Near DNs BHR 89, 90
+Alessi J1909+0448     ;                 ;Aql  ;19 09 06.0 +04 48 42 ;Op   ;***  ;    0.8;      ;     ;      ;                                              ;
+Alessi J1910+0509     ;                 ;Aql  ;19 10 10.0 +05 09 18 ;Op   ;***  ;    4.5;      ;     ;      ;GSC 471-614 Grp                               ;
+Alessi J1910+1200     ;                 ;Aql  ;19 10 32.0 +12 00 09 ;Op   ;***  ;   27.0;      ;     ;      ;                                              ;
+Alessi J1913+0625     ;                 ;Aql  ;19 13 32.0 +06 25 06 ;Op   ;OC   ;   18.0;  2180;     ;      ;                                              ;
+Alessi J1914+0610     ;                 ;Aql  ;19 14 41.0 +06 10 05 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi J1915+0552     ;                 ;Aql  ;19 15 45.0 +05 52 34 ;Op   ;***  ;   18.0;      ;     ;      ;                                              ;
+Alessi J1915+0558     ;                 ;Aql  ;19 15 00.3 +05 58 31 ;Op   ;***  ;   29.0;      ;     ;      ;                                              ;
+Alessi J1916+1102     ;                 ;Aql  ;19 16 15.0 +11 02 08 ;Op   ;***  ;   21.0;      ;     ;      ;                                              ;
+Alessi J1917-0023     ;                 ;Aql  ;19 17 51.0 -00 23 47 ;Op   ;***  ;   46.0;      ;     ;      ;                                              ;
+Alessi J1917-1857     ;                 ;Sgr  ;19 17 38.0 -18 57 12 ;Op   ;***  ;   48.0;      ;     ;      ;43 Sgr Grp                                    ;
+Alessi J1921-0000     ;                 ;Aql  ;19 21 35.0 -00 00 58 ;Op   ;***  ;   38.0;      ;     ;      ;                                              ;
+Alessi J1924-0512     ;                 ;Aql  ;19 24 36.0 -05 12 00 ;Op   ;***  ;   55.0;      ;     ;      ;                                              ;
+Alessi J1933+1147     ;                 ;Aql  ;19 33 44.2 +11 48 04 ;Op   ;OC   ;    5.3;  1040;     ;      ;                                              ;Small and poor
+Alessi J1934+1314     ;                 ;Aql  ;19 34 15.0 +13 14 35 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi J1936+1250     ;                 ;Aql  ;19 36 34.0 +12 47 20 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi J1936+2921     ;                 ;Cyg  ;19 36 23.0 +29 21 26 ;Op   ;***  ;   16.0;      ;     ;      ;                                              ;
+Alessi J1944+1413     ;                 ;Aql  ;19 44 47.0 +14 13 37 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi J1947+2927     ;                 ;Cyg  ;19 47 27.0 +29 26 58 ;Op   ;***  ;   27.0;      ;     ;      ;                                              ;
+Alessi J1953+0732     ;                 ;Aql  ;19 53 15.0 +07 32 34 ;Op   ;***  ;   42.0;      ;     ;      ;                                              ;
+Alessi J1953+0746     ;                 ;Aql  ;19 53 00.0 +07 46 13 ;Op   ;***  ;   23.0;      ;     ;      ;                                              ;
+Alessi J1956+2627     ;FoF 2317         ;Vul  ;19 56 22.0 +26 27 18 ;Op   ;OC   ;   22.0;  1192;     ;  7.32;                                              ;
+Alessi J1959+0552     ;                 ;Aql  ;19 59 02.0 +05 52 56 ;Op   ;***  ;   38.0;      ;     ;      ;                                              ;
+Alessi J2005+4732     ;                 ;Cyg  ;20 05 18.0 +47 32 00 ;Op   ;***  ;   12.0;      ;     ;      ;Santa 29                                      ;
+Alessi J2007-1038     ;                 ;Cap  ;20 07 30.0 -10 38 00 ;Op   ;***  ;   12.0;      ;     ;      ;                                              ;
+Alessi J2053-5939     ;                 ;Pav  ;20 53 48.0 -59 39 48 ;Op   ;***  ;    5.5;      ;     ;      ;                                              ;
+Alessi J2100-0535     ;                 ;Aqr  ;21 00 34.0 -05 35 24 ;Op   ;***  ;   29.0;      ;     ;      ;10 Aqr Grp                                    ;Possible cl, although stars G<11.5 does not form a cluster (Gaia,HSOY), those between 11.5 and 14.5 could. Visually nice
+Alessi J2104-1149     ;                 ;Aqr  ;21 04 04.0 -11 49 00 ;Op   ;***  ;   12.0;      ;     ;      ;                                              ;
+Alessi J2107+1619     ;French 1         ;Del  ;21 07 27.0 +16 20 06 ;Op   ;***  ;   15.0;      ;     ;      ;Toadstool, Santa 17, Vastagh 10               ;
+Alessi J2108+0731     ;                 ;Equ  ;21 08 53.0 +07 31 12 ;Op   ;***  ;   36.0;      ;     ;      ;                                              ;
+Alessi J2117+0338     ;                 ;Equ  ;21 17 45.0 +03 38 26 ;Op   ;***  ;    9.0;      ;     ;      ;                                              ;
+Alessi J2119-0945     ;                 ;Aqr  ;21 19 03.1 -09 45 31 ;Op   ;***  ;   18.0;      ;     ;      ;                                              ;
+Alessi J2137+4912     ;                 ;Cyg  ;21 37 28.0 +49 11 42 ;Op   ;OC   ;   22.0;  2500;     ;      ;                                              ;
+Alessi J2138+5347     ;ASCC 114         ;Cyg  ;21 39 04.0 +53 46 49 ;Op   ;OC?  ;   26.0;   913; 0.29;  7.75;FSR 326, Santa 200                            ;
+Alessi J2142+1004     ;                 ;Peg  ;21 42 36.0 +10 04 00 ;Op   ;***  ;   24.0;      ;     ;      ;                                              ;
+Alessi J2143+1027     ;                 ;Peg  ;21 43 06.0 +10 27 00 ;Op   ;***  ;   14.0;      ;     ;      ;Picot 2                                       ;
+Alessi J2145+1647     ;                 ;Peg  ;21 45 00.0 +16 47 00 ;Op   ;***  ;   48.0;      ;     ;      ;                                              ;
+Alessi J2204+5951     ;Dolidze 56       ;Cep  ;22 04 06.5 +59 54 00 ;Op   ;OC   ;    7.8;  7000; 1.00;  8.95;Prestgard 26                                  ;
+Alessi J2231+6157     ;                 ;Cep  ;22 31 12.0 +61 57 12 ;Op   ;***  ;   48.0;      ;     ;      ;                                              ;
+Alessi J2247+5742     ;                 ;Cep  ;22 47 06.0 +57 42 36 ;Op   ;***  ;   24.0;      ;     ;      ;                                              ;
+Alessi J2258+5843     ;                 ;Cas  ;22 58 34.9 +58 43 06 ;Op   ;MS   ;    0.4;  2150;     ;      ;                                              ;Very close pair with Bica 187
+Alessi J2336+6543     ;                 ;Cep  ;23 36 07.6 +65 43 28 ;Op   ;***  ;    6.0;      ;     ;      ;                                              ;
+Alessi J2338+5019     ;                 ;And  ;23 38 17.0 +50 18 39 ;Op   ;***  ;   48.0;      ;     ;      ;                                              ;
+Alessi J2340+0757     ;                 ;Psc  ;23 40 42.0 +07 56 30 ;Op   ;***  ;   13.0;      ;     ;      ;Saloranta J2340+0756, HD 222454 Grp           ;
+Alessi J2344+5523     ;                 ;Cas  ;23 44 42.0 +55 23 30 ;Op   ;***  ;   30.0;      ;     ;      ;                                              ;
+Alessi J2350+4148     ;                 ;And  ;23 50 35.0 +41 48 48 ;Op   ;***  ;   12.0;      ;     ;      ;Saloranta J2350+4148, HD 223583 Grp           ;
+Alessi-Teutsch 1      ;COIN-Gaia 2      ;Cas  ;01 00 14.4 +55 24 32 ;Op   ;OC   ;   22.4;  1226; 0.32;  8.77;UBC 35                                        ;
+Alessi-Teutsch 10     ;UBC 19           ;Tau  ;03 45 55.2 +29 54 36 ;Op   ;OC   ;   55.0;   418; 0.42;  9.36;Alessi 23                                     ;
+Alessi-Teutsch 11     ;ASCC 112         ;Cyg  ;20 16 30.5 +52 03 04 ;Op   ;OC   ;   30.8;   646; 0.10;  8.18;Alessi 46                                     ;
+Alessi-Teutsch 12     ;ASCC 86          ;Ara  ;17 01 41.0 -58 58 52 ;Op   ;OC   ;   58.7;   602; 0.12;  7.98;Theia 257, UPK 625, Alessi J1701-5857         ;B-association
+Alessi-Teutsch 13     ;                 ;Mon  ;07 27 48.0 -08 53 18 ;Op   ;***  ;   24.0;      ;     ;      ;TC 0727-0853                                  ;
+Alessi-Teutsch 14     ;                 ;Car  ;10 14 09.0 -59 19 11 ;Op   ;***  ;   18.0;      ;     ;      ;Alessi 128, TC 1014-5920                      ;
+Alessi-Teutsch 15     ;Cen OB1 E        ;Cen  ;13 18 12.0 -62 30 00 ;Op   ;OB   ;   32.0;  1820;     ;      ;TC 1315-6206                                  ;
+Alessi-Teutsch 16     ;                 ;Her  ;18 05 34.0 +21 28 30 ;Op   ;***  ;   22.0;      ;     ;      ;TC 1805+2128, HD 165524 Grp                   ;
+Alessi-Teutsch 17     ;                 ;Cnc  ;08 09 06.0 +12 50 51 ;Op   ;***  ;   56.0;      ;     ;      ;TC 0809+1250, HD 67425 Grp, Alessi 165        ;
+Alessi-Teutsch 2      ;                 ;Aur  ;06 10 34.0 +41 06 24 ;Op   ;***  ;   19.0;      ;     ;      ;Alessi 32                                     ;
+Alessi-Teutsch 3      ;ASCC 42          ;Car  ;07 52 54.7 -53 01 19 ;Op   ;OC   ;   58.9;   692; 0.14;  7.99;Alessi 30, Theia 150, Ferrero 52              ;
+Alessi-Teutsch 4      ;RSG 3            ;Hya  ;08 24 31.2 -08 33 36 ;Op   ;OC   ;  140.0;   452; 0.01;  8.88;UBC 12, Alessi 26, Theia 929                  ;Clearly seen on a DSS2 3.5x1.7 deg inage on Aladin, also Alessi-Teutsch 4 and Alessi 26
+Alessi-Teutsch 5      ;ASCC 118         ;Cep  ;22 08 52.3 +61 06 11 ;Op   ;OC   ;   51.2;   877; 0.35;  7.42;Alessi 27                                     ;Very sparse
+Alessi-Teutsch 6      ;Escorial 25      ;Pup  ;07 49 18.4 -46 50 20 ;Op   ;OC   ;  110.0;   441;     ;  7.00;QS Pup Cl, p Pup Cl                           ;Also BBJ 1, Vela Ring D 
+Alessi-Teutsch 7      ;ASCC 47          ;Vel  ;08 31 47.3 -39 03 18 ;Op   ;OC   ;   33.6;   780; 0.34;  8.30;Alessi J0831-3904                             ;
+Alessi-Teutsch 8      ;ASCC 68          ;Cru  ;12 02 35.8 -60 56 06 ;Op   ;OC   ;   35.8;  1004; 0.20;  8.26;                                              ;
+Alessi-Teutsch 9      ;ASCC 10          ;Per  ;03 27 28.8 +34 58 52 ;Op   ;OC   ;   67.0;   672; 0.14;  8.60;                                              ;
+Cartes du Ciel 1      ;                 ;Ori  ;05 37 15.7 -00 16 00 ;Op   ;EC   ;   58.0;   412;     ;      ;RK 31/33 Cl                                   ;Alessi (2018) incl Ref Nebs RKC 31 and 33, two conds/subgroups one nr RKC 31 and the other nr RKC 33
+Cartes du Ciel 2      ;UPK 576          ;Cru  ;12 35 38.0 -58 08 32 ;Op   ;OC   ;   76.0;   866;     ;  7.90;                                              ;Disc by Alessi B (2018) while checking for concentrations of blue-white stars in Tycho-2 using SW Cartes du Ciel. Gaia DR2 data confirmed it as a probable Cl
+Cartes du Ciel 3      ;UPK 33           ;Sct  ;18 40 10.0 -04 20 45 ;Op   ;OC   ;   24.8;   507; 0.73;  7.85;                                              ;
+Cartes du Ciel 4      ;UPK 26           ;Sct  ;18 53 52.7 -09 49 36 ;Op   ;OC   ;   31.8;   875; 0.32;  7.96;                                              ;
+Cha I SW              ;                 ;Cha  ;09 52 38.9 -79 27 58 ;Op   ;EC   ;   44.0;   213;     ;      ;                                              ;9* only, found By Alessi (2019) while checking for groups in the vicinity of Cha I
+Eps Cap               ;                 ;Cap  ;21 37 04.6 -19 27 57 ;Op   ;OC   ;  160.0;   285;     ;  7.44;                                              ;
+Eta PsA               ;                 ;PsA  ;22 00 52.1 -28 34 36 ;Op   ;MG   ;  380.0;   267; 0.05;  8.06;                                              ;Disc by Alessi, B. in 2018/08/03. Good RVs too. Can be larger.
+GEDR3-1               ;                 ;Lup  ;14 30 23.7 -53 55 41 ;IR   ;EC   ;    7.0;  1029;     ;      ;GN 14.26.8 Cl, IRAS 14268-5341                ;
+GEDR3-10              ;                 ;Sct  ;18 42 24.0 -06 54 00 ;Op   ;OC   ;   12.0;  1770;     ;      ;UBC 102 B                                     ;
+GEDR3-11              ;                 ;Sct  ;18 41 16.8 -05 24 36 ;Op   ;OC   ;   12.0;  1970;     ;      ;UBC 105 B                                     ;
+GEDR3-12              ;                 ;Sct  ;18 39 03.6 -04 48 00 ;Op   ;OC   ;   18.0;  2750;     ;      ;UBC 107 B                                     ;
+GEDR3-13              ;                 ;Sct  ;18 38 12.0 -06 58 48 ;Op   ;OC   ;   15.0;  1883;     ;      ;                                              ;
+GEDR3-14              ;                 ;Sct  ;18 38 30.0 -07 00 00 ;Op   ;OC   ;   15.0;  1740;     ;      ;                                              ;
+GEDR3-15              ;                 ;Sct  ;18 40 36.0 -05 19 48 ;Op   ;OC   ;    9.0;  3480;     ;      ;                                              ;
+GEDR3-16              ;                 ;Tri  ;02 22 00.0 +30 00 00 ;Op   ;OC   ;  150.0;   811;     ;      ;                                              ;not Ramakers 50: all stars are fainter than G=13
+GEDR3-17              ;                 ;Cep  ;22 27 05.3 +65 07 56 ;Op   ;OC   ;   10.0;   957;     ;      ;26 Cep                                        ;
+GEDR3-18              ;                 ;Lac  ;22 16 10.3 +52 21 27 ;Op   ;EC   ;    7.0;  2660;     ;      ;CPM 37 Cl                                     ;Alessi (2018) visible in PanSTARRS
+GEDR3-19              ;Bica 170         ;Lac  ;22 34 41.0 +40 40 06 ;Op   ;EC   ;   20.0;   518;     ;      ;GN 22.32.5 Cl, LK Halpha 233                  ;Alessi (2018) includes LK Halpha 233
+GEDR3-2               ;                 ;Lup  ;14 53 12.0 -54 06 00 ;Op   ;OC   ;   15.0;  1057;     ;      ;                                              ;
+GEDR3-20              ;?Cir OB1         ;Cir  ;14 44 24.0 -63 00 00 ;Op   ;OC   ;  130.0;  1062;     ;      ;                                              ;
+GEDR3-21              ;?Theia 1709      ;Ser  ;18 18 28.8 -15 12 00 ;Op   ;OC   ;   24.0;  1617;     ;      ;                                              ;
+GEDR3-22              ;                 ;Gem  ;06 15 48.0 +22 36 00 ;Op   ;OC   ;   15.0;  1834;     ;      ;                                              ;
+GEDR3-23              ;                 ;Gem  ;06 08 06.0 +21 31 12 ;Op   ;OC   ;   10.0;  4070;     ;      ;                                              ;
+GEDR3-24              ;                 ;Gem  ;06 26 48.0 +15 06 00 ;Op   ;OC   ;   36.0;  1177;     ;      ;                                              ;
+GEDR3-3               ;                 ;Lup  ;15 18 40.8 -37 39 36 ;Op   ;OC   ;   14.0;   133;     ;      ;LW Lup                                        ;
+GEDR3-4               ;                 ;Lep  ;06 02 48.0 -19 45 00 ;Op   ;OC   ;  180.0;   353;     ;      ;                                              ;found by Alessi while checking Platais 5 kinematics
+GEDR3-5               ;                 ;Sct  ;18 39 24.0 -05 22 30 ;Op   ;OC   ;    9.0;  3080;     ;      ;                                              ;
+GEDR3-6               ;                 ;Sct  ;18 46 30.0 -05 07 30 ;Op   ;OC   ;   18.0;  1501;     ;      ;UBC 108 B                                     ;
+GEDR3-7               ;                 ;Sct  ;18 43 57.6 -10 46 48 ;Op   ;OC   ;    6.0;  1544;     ;      ;                                              ;
+GEDR3-8               ;                 ;Sct  ;18 43 24.0 -04 27 00 ;Op   ;OC   ;    6.0;  2920;     ;      ;FoF 2169 B                                    ;
+GEDR3-9               ;                 ;Sct  ;18 39 36.0 -08 25 48 ;Op   ;OC   ;    9.0;  2950;     ;      ;Trumpler 34 B                                 ;
+Gaia-TGAS 1           ;UPK 587          ;Cru  ;12 51 43.1 -57 22 54 ;Op   ;OC   ;    8.0;   942;     ;  8.85;                                              ;
+PanSTARRS J1844-0343  ;                 ;Aql  ;18 44 51.6 -03 43 56 ;Op   ;***  ;    1.4;      ;     ;      ;                                              ;Near RM 16, dist from GDR2 mean
+PanSTARRS J1845-0200  ;                 ;Aql  ;18 45 27.5 -02 00 37 ;Op   ;***  ;    2.6;      ;     ;      ;                                              ;
+PanSTARRS J1845-0235  ;                 ;Aql  ;18 45 13.9 -02 35 08 ;Op   ;OC   ;    3.4;  1360;     ;      ;                                              ;Tight VPD!
+PanSTARRS J1847-0204  ;                 ;Aql  ;18 47 09.5 -02 04 02 ;Op   ;***  ;    1.0;      ;     ;      ;                                              ;Somewhat dubious
+PanSTARRS J1847-0335  ;                 ;Aql  ;18 47 06.6 -03 35 48 ;Op   ;***  ;    2.8;      ;     ;      ;                                              ;
+PanSTARRS J1849-0046  ;                 ;Aql  ;18 49 31.7 -00 46 12 ;Op   ;***  ;    2.0;      ;     ;      ;                                              ;
+PanSTARRS J1852-0013  ;                 ;Aql  ;18 52 15.0 -00 13 23 ;Op   ;***  ;    2.0;      ;     ;      ;                                              ;
+PanSTARRS J1931+2103  ;                 ;Vul  ;19 31 56.6 +21 03 03 ;Op   ;***  ;    1.3;      ;     ;      ;                                              ;Near Camargo 515 (Alessi)
+Pic-OC-1              ;                 ;Pic  ;05 50 09.0 -50 53 59 ;Op   ;***  ;   60.0;      ;     ;      ;                                              ;Large, triangular group following Beta Pictoris found by Alessi B. S. while checking Aladin images
+QY Cen                ;                 ;Cen  ;14 08 17.1 -61 44 14 ;Op   ;OC   ;   17.0;  2510;     ;      ;                                              ;Found by Alessi near QY Cen
+Skyview J1228-6258    ;                 ;Cru  ;12 28 24.1 -62 58 12 ;Op   ;***  ;    3.6;      ;     ;      ;                                              ;
+Spitzer J1517-5635    ;                 ;Cir  ;15 17 50.0 -56 35 38 ;IR   ;OC?? ;    2.6;  2520;     ;      ;                                              ;
+Spitzer J1638-4726    ;                 ;Ara  ;16 38 57.1 -47 26 18 ;IR   ;EC?? ;    0.4;  3000;     ;      ;                                              ;
+Spitzer J1750-2639    ;                 ;Sgr  ;17 50 45.8 -26 39 51 ;IR   ;OC?? ;    2.1;      ;     ;      ;                                              ;
+Spitzer J1751-2633    ;                 ;Sgr  ;17 51 20.6 -26 33 58 ;IR   ;OC?? ;    0.8;      ;     ;      ;                                              ;
+Spitzer J1804-2203    ;                 ;Sgr  ;18 04 55.5 -22 03 21 ;IR   ;OC?? ;    0.9;      ;     ;      ;                                              ;
+Spitzer J1834-0842    ;                 ;Sct  ;18 34 37.2 -08 42 35 ;IR   ;EC   ;    1.0;  4700;     ;      ;                                              ;In HII reg WISE G23.27-0.25
+Spitzer J1835-0855    ;                 ;Sct  ;18 35 09.0 -08 55 24 ;IR   ;EC   ;    1.2;  4600;     ;      ;                                              ;Dist from Urquhart+, 2018
+Spitzer J1837-0614    ;                 ;Sct  ;18 37 31.1 -06 14 10 ;IR   ;EC   ;    0.7;  6600;     ;      ;                                              ;In HII reg WISE G25.79+0.23
+Spitzer J1844-0345    ;                 ;Aql  ;18 44 51.2 -03 45 40 ;IR   ;EC   ;    1.2;  4760;     ;      ;                                              ;Near RM 16, in UC HII region G28.83-0.25, at the border of the shell of HII reg. WAM G28.82-0.22
+Spitzer J1845-0230    ;                 ;Aql  ;18 45 51.7 -02 30 16 ;IR   ;EC   ;    1.0;  5820;     ;      ;                                              ;In HII reg WISE G30.06+0.09, dist from Traficante+ 2015
+Spitzer J1846-0245    ;                 ;Aql  ;18 46 11.0 -02 45 14 ;IR   ;OC   ;    1.6;  4900;     ;      ;                                              ;Dist from GDR2 mean
+Spitzer J1848-0110    ;                 ;Aql  ;18 48 41.9 -01 10 09 ;IR   ;EC   ;    0.5;  6100;     ;      ;                                              ;In HII reg WISE G31.58+0.07, dist from Anderson+ 2014
+Spitzer J1848-0111    ;                 ;Aql  ;18 48 57.4 -01 11 55 ;IR   ;OC?  ;    6.0;  3000;     ;      ;                                              ;Very uncertain dist: mean of 4* only
+Spitzer J1850-0001    ;                 ;Aql  ;18 50 31.0 -00 01 58 ;IR   ;EC   ;    1.4; 13100;     ;      ;Russeil 67                                    ;In HII reg WISE G32.80+0.19
+Spitzer J1852+0046    ;                 ;Aql  ;18 52 11.4 +00 46 37 ;IR   ;OC   ;    4.0;  3300;     ;      ;                                              ;Very uncertain dist: avg of gaia stars in the field
+Spitzer J1853+0204    ;                 ;Aql  ;18 53 56.0 +02 04 04 ;IR   ;EC   ;    0.7;  5500;     ;      ;IRAS 18513+0200                               ;V compact, v uncertain dist based on only 1 faint GDR2 star
+Spitzer J1854+0201    ;                 ;Aql  ;18 54 07.6 +02 01 44 ;IR   ;EC   ;    0.7;  2540;     ;      ;                                              ;In HII reg, dist from Ellsworth-Bowers+, 2015
+Spitzer J1901+0454    ;                 ;Aql  ;19 01 33.5 +04 54 19 ;IR   ;OC?  ;    1.6;  1521;     ;      ;                                              ;Dist v uncert: median dist of stars in Bailer-Jones+ 2018
+Spitzer J1925+1516    ;                 ;Aql  ;19 25 34.7 +15 16 30 ;IR   ;EC   ;    0.5;  4400;     ;      ;                                              ;
+Tri-Cl-1              ;                 ;Tri  ;02 48 42.4 +32 34 54 ;Op   ;***  ;   16.0;      ;     ;      ;                                              ;Nice elong cl, richer and more detached than nearby Camargo 4, HSOY: probable cl, strong conc in VPD, Dist from 10 cpm stars in common with Pickles+ 2010 table 16 with 0.4 < d < 2.4 kpc
+U Car A               ;                 ;Car  ;10 57 30.9 -59 44 02 ;Op   ;***? ;    3.4;      ;     ;      ;                                              ;Found by Alessi near U Car
+U Car B               ;                 ;Car  ;10 58 48.2 -59 45 18 ;Op   ;***? ;   27.0;      ;     ;      ;                                              ;Found by Alessi near U Car
+Urq G15.032-0.12      ;                 ;SerCd;18 18 27.3 -15 53 40 ;IR   ;EC?  ;    0.6; 12100;     ;      ;                                              ;
+Urq G17.04-0.91       ;                 ;Sct  ;18 25 02.7 -14 30 40 ;IR   ;EC   ;    1.3;  3300;     ;      ;                                              ;
+Urq G18.08+0.06       ;                 ;Sct  ;18 23 35.4 -13 09 22 ;IR   ;EC   ;    1.1;  3700;     ;      ;                                              ;In HII reg WISE G18.07+0.06
+Urq G18.67+0.02       ;                 ;Sct  ;18 24 51.7 -12 39 15 ;IR   ;EC   ;    1.0; 10100;     ;      ;                                              ;Two HII regs nearby
+Urq G19.48+0.14       ;                 ;Sct  ;18 26 01.1 -11 52 25 ;IR   ;EC   ;    3.2; 14100;     ;      ;                                              ;4 HII regions nearby
+Urq G19.82-0.33       ;                 ;Sct  ;18 28 22.2 -11 47 44 ;IR   ;EC   ;    1.0;  3300;     ;      ;                                              ;In HII reg WISE G19.82-0.32
+Urq G25.73+0.23       ;                 ;Sct  ;18 37 28.3 -06 16 34 ;IR   ;EC   ;    3.5;  8700;     ;      ;                                              ;
+Urq G26.30+0.05       ;                 ;Sct  ;18 39 04.1 -05 52 18 ;IR   ;EC   ;    1.1;  3800;     ;      ;                                              ;
+Urq G28.98+0.07       ;                 ;Aql  ;18 43 58.5 -03 28 42 ;IR   ;EC   ;    1.2; 10400;     ;      ;                                              ;In HII reg WISE G29.00+0.08
+Urq G30.22+0.27       ;Theia 12         ;Aql  ;18 46 24.5 -02 24 00 ;Op   ;YAs  ;  144.0;   647;     ;  7.05;                                              ;Contains BSP 12
+Urq G301.635-0.25     ;                 ;Cru  ;12 40 05.8 -63 05 19 ;IR   ;EC?  ;    2.2;  4800;     ;      ;                                              ;
+Urq G301.717+1.10 A   ;                 ;Cru  ;12 41 12.4 -61 43 37 ;IR   ;EC?  ;    0.4;  3300;     ;      ;                                              ;
+Urq G301.717+1.10 B   ;                 ;Cru  ;12 41 18.2 -61 44 42 ;IR   ;EC?  ;    0.7;  3300;     ;      ;                                              ;
+Urq G303.127-0.92     ;                 ;Cru  ;12 53 07.4 -63 50 32 ;IR   ;EC?  ;    0.5;  1600;     ;      ;                                              ;
+Urq G303.271+1.23     ;                 ;Cru  ;12 54 17.5 -61 38 02 ;IR   ;EC?  ;    2.6;  2500;     ;      ;                                              ;
+Urq G312.351-0.42 A   ;                 ;Cen  ;14 12 14.3 -61 49 06 ;IR   ;EC?  ;    0.4;  9500;     ;      ;                                              ;
+Urq G312.351-0.42 B   ;                 ;Cen  ;14 12 43.9 -61 47 07 ;IR   ;EC?  ;    0.5;  9500;     ;      ;                                              ;
+Urq G316.049+0.07     ;                 ;Cen  ;14 39 26.4 -60 01 14 ;IR   ;EC?  ;    1.4;  9000;     ;      ;                                              ;
+Urq G317.007+0.30     ;La Serena 175    ;Cir  ;14 45 18.3 -59 25 52 ;IR   ;EC?  ;    0.7;  2800;     ;      ;                                              ;
+Urq G318.725-0.72     ;SUH 35           ;Cir  ;15 01 27.1 -59 34 37 ;IR   ;EC?  ;    0.4;  2300;     ;      ;La Serena 194                                 ;
+Urq G320.403+0.13     ;La Serena 197    ;Cir  ;15 09 38.5 -57 59 44 ;IR   ;EC?  ;    0.7; 12500;     ;      ;                                              ;
+Urq G320.415-0.92     ;                 ;Cir  ;15 13 38.6 -58 53 38 ;IR   ;EC?  ;    0.4;  2800;     ;      ;                                              ;
+Urq G320.875-0.38     ;La Serena 204    ;Cir  ;15 14 40.9 -58 11 49 ;IR   ;EC?  ;    0.4;  2800;     ;      ;                                              ;
+Urq G321.699+1.18     ;                 ;Cir  ;15 13 49.1 -56 24 56 ;IR   ;EC?  ;    2.8;  2400;     ;      ;                                              ;
+Urq G328.573+0.27     ;                 ;Nor  ;15 56 04.0 -53 09 48 ;IR   ;EC?  ;    0.3;  3700;     ;      ;                                              ;
+Urq G331.143+0.13     ;                 ;Nor  ;16 09 23.9 -51 33 08 ;IR   ;EC?  ;    0.3; 10100;     ;      ;                                              ;
+Urq G335.991+0.20     ;                 ;Nor  ;16 30 28.8 -48 06 40 ;IR   ;EC?  ;    0.8; 10600;     ;      ;                                              ;
+Urq G336.079+0.02     ;                 ;Nor  ;16 31 34.4 -48 08 58 ;IR   ;EC?  ;    0.4;  7600;     ;      ;                                              ;
+Urq G337.022+0.11     ;                 ;Ara  ;16 34 55.8 -47 25 54 ;IR   ;EC?  ;    0.6; 10600;     ;      ;                                              ;
+Urq G337.651-0.04     ;                 ;Ara  ;16 38 30.4 -47 00 45 ;IR   ;EC?  ;    0.6; 12100;     ;      ;                                              ;
+Urq G338.555+0.00     ;                 ;Ara  ;16 41 36.8 -46 17 52 ;IR   ;EC?  ;    1.0;  5700;     ;      ;                                              ;
+Urq G339.753+0.07 A   ;                 ;Sco  ;16 45 37.8 -45 22 37 ;IR   ;EC?  ;    0.4; 11800;     ;      ;                                              ;
+Urq G339.753+0.07 B   ;                 ;Sco  ;16 45 51.0 -45 23 34 ;IR   ;EC?  ;    0.5; 11800;     ;      ;                                              ;
+Urq G34.69-0.05       ;                 ;Aql  ;18 54 51.6 +01 32 46 ;IR   ;OC?  ;    1.6;  4800;     ;      ;                                              ;
+Urq G342.533+0.17     ;                 ;Sco  ;16 55 03.1 -43 12 48 ;IR   ;EC?  ;    1.0; 12500;     ;      ;                                              ;Three clusters?
+Urq G346.523+0.09     ;                 ;Sco  ;17 08 43.0 -40 05 02 ;IR   ;EC?  ;    0.6;      ;     ;      ;                                              ;
+Urq G35.448+0.13      ;                 ;SerCd;18 55 34.5 +02 19 00 ;IR   ;EC?  ;    1.2;  4700;     ;      ;                                              ;
+Urq G35.58-0.03       ;                 ;SerCd;18 56 00.9 +02 22 54 ;IR   ;EC?  ;    1.9; 10400;     ;      ;                                              ;
+Urq G352.584+0.19     ;                 ;Sco  ;17 25 56.4 -35 04 04 ;IR   ;OC?  ;    1.0; 10800;     ;      ;                                              ;
+Urq G39.25-0.05       ;                 ;Aql  ;19 03 12.6 +05 36 01 ;IR   ;EC?  ;    3.0; 11800;     ;      ;                                              ;Three HII reg
+Urq G49.99-0.13       ;                 ;Aql  ;19 23 47.1 +15 04 18 ;IR   ;EC?  ;    2.3;  7000;     ;      ;                                              ;In HII reg WISE G49.99-0.13
+VVV J1242-6307        ;                 ;Cru  ;12 42 19.8 -63 07 33 ;Op   ;***? ;    2.5;      ;     ;      ;                                              ;
+WG 1                  ;Bica 245         ;Ari  ;03 25 10.6 +30 48 35 ;IR   ;EC   ;   13.0;   283;     ;  6.00;RNO 14 Cl, PST 1, Autochthe                   ;Alessi (2018) 7 f *s to G=19, WG means WISE-Gaia
+WG 2                  ;Bica 244         ;Ari  ;03 25 48.1 +30 56 30 ;IR   ;EC   ;   19.0;   296;     ;  6.00;vdB 13 Cl, PST 1, Autochthe                   ;Alessi (2018) 14 f *s around BD+30 540
+WG 3                  ;                 ;Ari  ;03 28 11.9 +30 13 47 ;IR   ;EC   ;   36.0;   276;     ;      ;LDN 1455 Cl                                   ;Alessi (2018) 6* to G=19
+WG 4                  ;                 ;Ari  ;03 29 01.0 +30 51 44 ;IR   ;EC   ;   28.0;   410;     ;      ;                                              ;Alessi (2019) 6* to G=20
+WG 5                  ;                 ;Cha  ;10 58 24.9 -77 17 19 ;IR   ;EC   ;   21.0;   185;     ;  6.90;SZ Cha                                        ;Subgroup in Cha I, Incl. TW, SY and SZ Cha
+WISE 1                ;                 ;CrA  ;19 03 28.7 -38 20 00 ;IR   ;***  ;   21.0;      ;     ;      ;                                              ;Disc by Alessi, IR/Op group of 6 bright stars: HD 176577, V701 CrA, CD-38 13299, VW CrA, VX CrA, RAFGL 5553
+WISE 2                ;                 ;CrA  ;18 33 18.7 -38 23 50 ;IR   ;***  ;   16.0;      ;     ;      ;                                              ;Disc bu Alessi, IR/Op group of ~13 bright stars
+WISE J0322+6330       ;                 ;Cam  ;03 22 35.0 +63 30 24 ;IR   ;OC?  ;   14.0;      ;     ;      ;                                              ;
+WISE J0718-2205       ;                 ;CMa  ;07 18 24.6 -22 05 45 ;IR   ;***  ;    4.0;      ;     ;      ;                                              ;
+WISE J0856-4328       ;                 ;Vel  ;08 56 22.0 -43 28 04 ;IR   ;OC?  ;    3.4;      ;     ;      ;                                              ;
+WISE J1104-6145       ;                 ;Car  ;11 04 18.2 -61 45 27 ;IR   ;OC   ;    4.0;  7100;     ;      ;                                              ;
+WR 71 Grp             ;                 ;TrA  ;16 03 51.0 -62 41 45 ;Op   ;***  ;    1.5;      ;     ;      ;                                              ;Alessi: there is a small concentration of stars near WR 71
+Zeta CrB              ;                 ;CrB  ;15 39 22.2 +36 38 13 ;Op   ;OC   ;  410.0;   158; 0.02;  7.90;                                              ;Alessi (2018) Quintuple Zeta1-2 CrB plus at least 4 *s
+
+---------------------------------------------------------------------------------------------------------------------
+EXTRAGALACTIC
+
+Alessi Name         ;Published Name     ;Galaxy ;Cns  ;Coordinates (J2000)     ;Wv  ;Type ;Diam_";Dist_Kpc;Comments
+
+Aqr-SC?-1           ;[MEH2009] 7 Cl     ;DDO210 ;Aqr  ;20 46 53.70 -12 50 58.6 ;Op  ;OC?  ;   1.5;   957  ;In SFR [MEH2009] 7, Clump of stars seen by B. Alessi on MAST image hst_12925_01_acs_wfc_f475w
+Fornax 7            ;                   ;ForDw  ;For  ;02 39 43.9  -34 26 14.7 ;Op  ;***? ;  17.0;        ;Alessi: Smaller version of Fornax 6. Probably an asterism
+LeoA-SC?-1          ;Leo A-C1           ;LeoA   ;Leo  ;09 59 16.51 +30 44 58.4 ;Op  ;OC   ;   2.4;   809  ;Disc by Stonkute et al. (2015). Found by Alessi on HST MAST image. Also seen in GALEX images using Aladin
+LeoA-SC?-10         ;                   ;LeoA   ;Leo  ;09 59 19.81 +30 45 32.3 ;Op  ;OC?  ;   1.4;   809  ;found by Alessi in Hubble images
+LeoA-SC?-11         ;                   ;LeoA   ;Leo  ;09 59 20.54 +30 44 36.0 ;Op  ;OC?  ;   1.6;   809  ;found by Alessi in Hubble images
+LeoA-SC?-12         ;                   ;LeoA   ;Leo  ;09 59 23.52 +30 45 06.1 ;Op  ;OC?  ;   1.9;   809  ;found by Alessi in Hubble images
+LeoA-SC?-13         ;                   ;LeoA   ;Leo  ;09 59 27.37 +30 45 08.1 ;Op  ;OC?  ;   2.2;   809  ;found by Alessi in Hubble images
+LeoA-SC?-2          ;Leo A-C3           ;LeoA   ;Leo  ;09 59 17.91 +30 45 02.4 ;Op  ;OC   ;   1.4;   809  ;Disc by Stonkute et al. (2019). Found by Alessi in Hubble images
+LeoA-SC?-3          ;                   ;LeoA   ;Leo  ;09 59 20.71 +30 44 36.1 ;Op  ;EC?  ;   1.5;   809  ;found by Alessi in Hubble images
+LeoA-SC?-4          ;                   ;LeoA   ;Leo  ;09 59 16.22 +30 45 05.6 ;Op  ;OC?  ;   1.6;   809  ;found by Alessi in Hubble images
+LeoA-SC?-5          ;Leo A-C2           ;LeoA   ;Leo  ;09 59 17.19 +30 44 07.8 ;Op  ;OC   ;   3.4;   809  ;Disc by Stonkute et al. (2019). Found by Alessi in Hubble images
+LeoA-SC?-6          ;                   ;LeoA   ;Leo  ;09 59 17.68 +30 45 00.3 ;Op  ;OC?  ;   1.2;   809  ;found by Alessi in Hubble images
+LeoA-SC?-7          ;                   ;LeoA   ;Leo  ;09 59 17.69 +30 45 02.6 ;Op  ;OC?  ;   1.2;   809  ;found by Alessi in Hubble images
+LeoA-SC?-8          ;                   ;LeoA   ;Leo  ;09 59 17.76 +30 45 04.1 ;Op  ;OC?  ;   1.0;   809  ;found by Alessi in Hubble images
+LeoA-SC?-9          ;                   ;LeoA   ;Leo  ;09 59 19.09 +30 44 37.7 ;Op  ;OC?  ;   2.2;   809  ;found by Alessi in Hubble images
+N6822-GALEX-Assoc   ;[BW2003] OB 1?     ;N6822  ;Sgr  ;19 43 34.0  -14 33 36   ;UV  ;OB?  ; 288.0;   496  ;Alessi: GALEX image shows an unconcentrated, but clearly detached group of blue stars at this position. Position coincides with NGC 6822 HI cloud. The concentration does not appear in DSS2. (Blok, Walter 2003): There is a small OB association at this position
+N6822-SC 1          ;                   ;N6822  ;Sgr  ;19 43 33.82 -14 34 43.6 ;Op  ;SC?  ;   2.0;   496  ;Op/UV, compact  
+N6822-SC 2          ;                   ;N6822  ;Sgr  ;19 43 35.52 -14 34 14.4 ;Op  ;SC?  ;   6.0;   496  ;Op, sparse
+N6822-SC 3          ;                   ;N6822  ;Sgr  ;19 45 43.16 -14 55 30.0 ;Op  ;SC?  ;   5.0;   496  ;Op/UV
+N6822-SC 4          ;                   ;N6822  ;Sgr  ;19 45 46.56 -14 56 24.9 ;Op  ;SC?  ;  12.0;   496  ;Op/UV, sparse
+Phe-As?-1           ;                   ;PheDw  ;Phe  ;01 51 01.9  -44 26 41.7 ;Op  ;OB?  ;  36.0;   419  ;Found in Hubble image by Alessi, B. S. Also seen on DES DR1. Diam from HST image
+Phe-SC?-1           ;                   ;PheDw  ;Phe  ;01 51 05.33 -44 27 09.0 ;Op  ;OC?  ;   3.6;   419  ;Found in Hubble image by Alessi, B. S. Diam from HST image
+Phe-SC?-2           ;                   ;PheDw  ;Phe  ;01 51 05.18 -44 27 26.8 ;Op  ;OC?  ;   1.6;   419  ;Found in Hubble image by Alessi, B. S. Diam from HST image
+Phe-SC?-3           ;                   ;PheDw  ;Phe  ;01 51 06.86 -44 27 11.9 ;Op  ;OC?  ;   2.0;   419  ;Found in Hubble image by Alessi, B. S. Diam from HST image
+Phe-SC?-4           ;                   ;PheDw  ;Phe  ;01 51 06.47 -44 27 08.1 ;Op  ;OC?  ;   3.3;   419  ;Found in Hubble image by Alessi, B. S. Diam from HST image
+SexA-As?-1          ;                   ;SexA   ;Sex  ;10 10 54.2  -04 41 16   ;Op  ;OB?  ;  28.0;  1404  ;Obvious in HST image
+SexA-SC?-1          ;                   ;SexA   ;Sex  ;10 10 53.8  -04 41 58   ;Op  ;SC?  ;   5.0;  1404  ;Seen by Alessi in HST MAST image
+SexB-SC?-1          ;                   ;SexB   ;Sex  ;10 00 02.35 +05 19 53.8 ;Op  ;GC?  ;   4.5;  1440  ;Seen by Alessi in HST MAST image
+U4879-SC?-1         ;                   ;U4879  ;UMa  ;09 16 01.08 +52 50 09.2 ;Op  ;SC?  ;   1.0;  1220  ;Nebulous. Seen by B alessi in HST MAST image

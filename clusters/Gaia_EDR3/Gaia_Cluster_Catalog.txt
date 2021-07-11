@@ -173,6 +173,7 @@ Alessi 10           Aql  20 04 55.9 -10 33 18  Op  OC     31.9    448   0.19   8
 M 72                Aqr  20 53 27.6 -12 32 13  Op  GC     15.6  12500   0.05  10.10   -1.27   -3.36  arXiv:2102.09568v1  NGC 6981
 UPK 51              Aqr  20 56 17.5 -06 35 17  Op  OC     49.6    569   0.04   8.03    5.07    2.02  Cantat-Gaudin 2020b 
 M 2                 Aqr  21 33 27.1 -00 49 23  Op  GC     31.2  12658   0.06  10.10    3.43   -2.16  arXiv:2102.09568v1  NGC 7089
+Aqr 2               Aqr  22 33 55.5 -09 19 39  Op  dSph    5.1 107900         10.08                  non-Gaia GCs        
 NGC 7492            Aqr  23 08 26.6 -15 36 40  Op  GC     10.8  14286         10.10    0.76   -2.32  arXiv:2102.09568v1  
 MAF 4               Aqr  23 45 07.9 -16 51 52  Op  MG    900.0    100          8.08   27.17   -4.10  Alessi GEDR3        
 Alessi 137          Aqr  23 51 18.2 -18 41 12  Op  OC    100.0    100          8.36   27.24   -3.63  Alessi GEDR3        Alessi 231, MAF 4
@@ -204,6 +205,7 @@ UBC 549             Ara  16 48 37.4 -46 57 54  Op  OC      7.6   3215   0.69   7
 NGC 6208            Ara  16 49 20.6 -53 42 50  Op  OC     19.4   1205   0.21   9.19   -0.97   -1.52  Cantat-Gaudin 2020b FSR 1724, FoF 2063, Theia 5118
 Majaess 173         Ara  16 50 49.6 -46 10 45  IR  EC      2.8   2500                                selected non-Gaia   La Serena 420, IRAS 16471-4605, SHU 120
 UFMG 47             Ara  16 52 05.2 -47 23 43  Op  OC      5.4   3067   1.05   8.67   -0.04   -2.08  Dias 2021           
+FSR 1735            Ara  16 52 12.0 -47 03 18  Op  GC      7.2   9080   2.08   9.90                  non-Gaia GCs        2MASS-GC 3, SHU 71
 UBC 546             Ara  16 54 44.9 -48 27 32  Op  OC     12.5   2016   0.75   8.45   -1.28   -2.69  Cantat-Gaudin 2020b Theia 2688
 UPK 624             Ara  16 56 33.1 -60 25 19  Op  OC     57.5    319   0.16   7.65   -1.42  -14.34  Cantat-Gaudin 2020b HIP 83071, Theia 119
 NGC 6250            Ara  16 57 59.3 -45 57 04  Op  OC     12.6   1012   0.37   7.41    0.45   -2.38  Cantat-Gaudin 2020b Ara OB1A B, Ara OB1B-East, BH 206, ESO 277-20, FoF 2225, Theia 132
@@ -227,6 +229,7 @@ UPK 639             Ara  17 27 34.4 -46 17 27  Op  MG    236.4    707          8
 NGC 6362            Ara  17 31 55.0 -67 02 53  Op  GC     27.6   7576   0.09  10.10   -5.50   -4.76  arXiv:2102.09568v1  FSR 1702, FoF 6
 NGC 6397            Ara  17 40 42.0 -53 40 26  Op  GC     48.6   2415   0.19  10.05    3.26  -17.66  arXiv:2102.09568v1  FSR 1733, FoF 14, FoF 2263
 Alessi 9            Ara  17 43 53.7 -47 01 41  Op  OC    207.6    207   0.05   8.55    9.92   -9.16  Cantat-Gaudin 2020b Theia 598
+ESO 280-6           Ara  18 09 06.0 -46 25 01  Op  GC      7.8  20950   0.07  10.08                  non-Gaia GCs        
 SEGUE 2             Ari  02 19 16.0 +20 10 31  Op  UFD     6.8  35000         10.08                  selected non-Gaia   
 Latyshev 1          Ari  02 54 57.9 +26 29 51  Op  OC    392.2     23          9.55  260.40 -151.81  Alessi GEDR3        
 MBM 12 Assoc        Ari  02 57 49.3 +20 08 37  Op  EC     64.7    246          6.30    6.10   -7.26  Alessi GEDR3        Ari T1
@@ -246,7 +249,7 @@ Xuyi 7              Aur  04 56 25.2 +50 17 19  Op  OC      3.0   5405   0.91   9
 Froebrich Cl 127    Aur  04 56 55.2 +37 57 17  IR  EC      1.4   2000                                selected non-Gaia   IRAS 04535+3752, SUH 109
 Czernik 19          Aur  04 57 01.9 +28 45 47  Op  OC      9.1   2725   0.67   7.84    1.05   -2.13  Cantat-Gaudin 2020b FSR 792, Theia 3429, BD Cas
 HeXuHao 18          Aur  04 57 16.6 +39 35 39  Op  OC     36.0   1053          7.54   -0.40   -3.05  He 2020             
-Skiff J0458+43.0    Aur  04 58 11.3 +43 02 10  Op  OC      8.0   2618   0.37   8.64    0.59   -1.11  Cantat-Gaudin 2020b FoF 1366, Skiff 2
+Skiff 2             Aur  04 58 11.3 +43 02 10  Op  OC      8.0   2618   0.37   8.64    0.59   -1.11  Cantat-Gaudin 2020b FoF 1366, Skiff J0458+43.0
 FSR 696             Aur  04 58 32.0 +47 59 03  Op  OC      1.9   3247                  0.44   -0.68  Alessi GDR2         DZS 1, SAI 39
 Majaess 52          Aur  04 59 12.0 +47 51 20  IR  EC      7.0                                       selected non-Gaia   IRAS 04555+4747
 Berkeley 14         Aur  04 59 44.4 +43 29 17  Op  OC      6.1   5348   0.52   9.30    1.50    0.43  Cantat-Gaudin 2020b FSR 726, FoF 580
@@ -264,7 +267,7 @@ FSR 771             Aur  05 03 40.6 +32 09 25  Op  OC     13.8   1618   0.73   8
 Camargo 13          Aur  05 03 50.0 +42 22 15  Op  OC      6.0   5190                  0.26   -0.26  Alessi GEDR3        
 COIN-Gaia 15        Aur  05 04 21.6 +35 49 52  Op  OC     17.6   1214   0.45   7.94    0.44   -3.78  Cantat-Gaudin 2020b Theia 2491, UBC 62
 Anon 0504+34        Aur  05 04 27.0 +34 58 18  Op  OC     18.0   4900                  0.43   -0.55  Alessi GEDR3        
-Skiff J0507+30.8    Aur  05 07 07.2 +30 50 46  Op  OC      9.0   5848   0.43   9.27    0.78   -0.69  Cantat-Gaudin 2020b FSR 790
+Skiff 3             Aur  05 07 07.2 +30 50 46  Op  OC      9.0   5848   0.43   9.27    0.78   -0.69  Cantat-Gaudin 2020b FSR 790, Skiff J0507+30.8
 UPK 347             Aur  05 08 07.7 +40 44 34  Op  OC     72.0    917          7.90   -0.46   -3.70  Sim 2019            Theia 501
 NGC 1778            Aur  05 08 07.9 +37 01 12  Op  OC     13.4   1721   0.34   8.15    0.51   -3.15  Cantat-Gaudin 2020b FoF 2141, Theia 2031
 SAI 43              Aur  05 08 17.4 +49 51 53  Op  OC      3.4   9346   0.18   8.90    0.60   -0.56  Dias 2021           Teutsch 24, Teutsch 36
@@ -312,7 +315,7 @@ Majaess 56          Aur  05 21 07.0 +36 39 45  IR  EC      6.0                  
 OC-5                Aur  05 21 28.8 +33 23 24  Op  OC      6.0   1266          7.74   -0.12   -3.18  Hao 2020            
 Majaess 57          Aur  05 21 53.0 +36 38 52  IR  EC      4.0                                       selected non-Gaia   IRAS 05184+3635
 Bica 247            Aur  05 22 01.0 +40 05 35  Op  EC      2.0   4200                 -0.01   -0.44  Alessi GEDR3        IRAS 05185+4002
-Berkeley 18         Aur  05 22 07.4 +45 26 31  Op  OC     14.0   6579   0.47   9.63    0.85   -0.06  Cantat-Gaudin 2020b FoF 619, King 22
+Berkeley 18         Aur  05 22 07.4 +45 26 31  Op  OC     14.0   6579   0.47   9.63    0.85   -0.06  Cantat-Gaudin 2020b King 22, FoF 619
 OC-6                Aur  05 22 09.6 +33 49 48  Op  OC      8.4    787          7.92   -0.45   -3.43  Hao 2020            
 Gulliver 8          Aur  05 22 14.4 +33 47 31  Op  OC     12.2   1147   0.24   7.40   -0.16   -2.98  Cantat-Gaudin 2020b OC-8, Teutsch 89
 OC-7                Aur  05 22 16.8 +35 25 12  Op  OC     10.8   1724          7.60    1.49   -2.88  Hao 2020            
@@ -420,7 +423,7 @@ Sh2-235 E2          Aur  05 41 24.0 +35 52 21  IR  EC      2.3   2100          6
 Camargo 926         Aur  05 41 24.0 +36 10 01  IR  EC      5.0                                       selected non-Gaia   Onsala 57, IRAS 05380+3608
 Bica 258            Aur  05 41 31.0 +35 49 52  IR  EC      2.0                                       selected non-Gaia   
 FSR 823             Aur  05 41 54.2 +29 22 04  Op  OC     14.2   2398   0.55   8.80    0.59   -3.46  Hunt 2021           
-Teutsch 45          Aur  05 42 44.5 +30 58 04  Op  EC      6.0   5000   0.87   7.05    0.76   -1.62  Alessi GDR2         Teutsch GN J0542.7+3057, IRAS 05395+3055
+Teutsch 45          Aur  05 42 44.5 +30 58 04  Op  EC      6.0   5000   0.87   7.05    0.76   -1.62  Alessi GDR2         Teutsch GN J0542+3057, IRAS 05395+3055
 FSR 826             Aur  05 43 03.6 +28 59 20  Op  OC?    12.8   3559   0.98   7.15   -0.54   -1.58  Cantat-Gaudin 2020b SAI 55
 FSR 799             Aur  05 44 10.7 +33 40 39  Op  OC     25.4   1431   0.42   9.10   -1.10   -5.02  Hunt 2021           
 PHOC 34             Aur  05 44 11.9 +30 04 10  Op  OC     11.4   1952                  1.50   -2.23  Hunt 2021           
@@ -470,8 +473,10 @@ Theia 3747          Aur  06 27 48.0 +36 03 00  Op  OC     19.0   1154          8
 UPK 350             Aur  06 46 45.4 +48 41 17  Op  OC    100.6    447   0.10   8.11   -4.84   -6.35  Cantat-Gaudin 2020b Theia 826
 NGC 2281            Aur  06 48 21.8 +41 03 36  Op  OC     50.0    527   0.06   8.78   -2.95   -8.32  Cantat-Gaudin 2020b Theia 635
 Bootes II           Boo  13 58 00.0 +12 51 00  Op  UFD     8.4  49400                                selected non-Gaia   
+Boo II              Boo  13 58 00.0 +12 51 00  Op  dSph    4.2  52000         10.05                  non-Gaia GCs        
 NGC 5466            Boo  14 05 27.4 +28 32 02  Op  GC     24.6  18868         10.10   -5.34   -0.82  arXiv:2102.09568v1  
 Bootes IV           Boo  15 34 45.4 +43 43 34  Op  UFD    15.2 209000                                selected non-Gaia   HSC J1534+4343
+Boo IV              Boo  15 34 45.4 +43 43 34  Op  dSph    7.6 209000   0.02  10.11                  non-Gaia GCs        HSC J1534+4343
 Platais 5           CMa  06 14 42.0 -22 30 00  Op  OB    250.0    299          7.78   -5.28    6.87  Alessi GEDR3        HIP 28944
 NGC 2204            CMa  06 15 31.7 -18 40 12  Op  OC     11.8   4785   0.04   9.30   -0.56    1.96  Cantat-Gaudin 2020b ESO 556-7, FSR 1201, FoF 2, Theia 6191
 FoF 2383            CMa  06 21 32.0 -16 02 39  Op  OC    110.0    377          7.52   -5.38    4.97  Liu 2019            BBJ 1b
@@ -503,7 +508,7 @@ UPK 473             CMa  06 55 29.4 -24 13 48  Op  YA    226.8    871          7
 Ruprecht 6          CMa  06 56 05.2 -13 15 11  Op  OC      2.5   6490          9.40   -0.03    1.11  Alessi GEDR3        
 UPK 463             CMa  06 56 32.1 -19 40 13  Op  YA    228.0    677          7.90   -5.31    1.46  Sim 2019            Theia 398
 UPK 478             CMa  06 57 26.7 -26 41 15  Op  OC    247.2    398          7.65   -5.98    5.90  Sim 2019            BBJ 2b
-Berkeley 33         CMa  06 57 49.4 -13 13 37  Op  OC      3.8   6944   0.55   8.48   -0.73    1.55  Cantat-Gaudin 2020b FoF 31, Ruprecht 7
+Berkeley 33         CMa  06 57 49.4 -13 13 37  Op  OC      3.8   6944   0.55   8.48   -0.73    1.55  Cantat-Gaudin 2020b Ruprecht 7, FoF 31
 UPK 457             CMa  06 57 53.0 -18 43 41  Op  OC     22.1    976                 -3.81    5.14  2020A&A...633A..99C 
 Escorial 11         CMa  06 58 08.8 -21 37 43  Op  OB    186.0    932                 -3.9     3.6   Alessi GEDR3        HH CMa
 Camargo 209         CMa  06 59 12.0 -11 58 49  IR  EC      3.8   1790          6.54                  selected non-Gaia   CMa W, GN 06.56.9.01
@@ -511,21 +516,21 @@ UPK 456             CMa  06 59 14.6 -17 05 31  Op  OC    201.6    506          7
 NGC 2318            CMa  06 59 25.0 -13 49 19  Op  OC     20.6   1397   0.31   8.73   -1.78   -2.20  Cantat-Gaudin 2020b FoF 2057, Theia 3278
 Gulliver 13         CMa  06 59 25.9 -13 15 14  Op  OC     13.8   1613   0.39   8.89   -2.94    0.28  Cantat-Gaudin 2020b 
 FSR 1185            CMa  06 59 33.8 -11 59 15  Op  OC      4.4   1074          9.10   -3.40    0.28  Alessi GEDR3        
-Tombaugh 1          CMa  07 00 30.2 -20 34 08  Op  OC      6.1   2695   0.28   9.06   -2.56    3.83  Cantat-Gaudin 2020b ESO 558-4, FSR 1246, FoF 18, FoF 2051, Haffner 1, Theia 5222
+Tombaugh 1          CMa  07 00 30.2 -20 34 08  Op  OC      6.1   2695   0.28   9.06   -2.56    3.83  Cantat-Gaudin 2020b FSR 1246, Haffner 1, FoF 18, FoF 2051, Theia 5222
 GMR 2               CMa  07 01 09.0 -11 28 00  Op  EC     30.0   1241          7.06   -3.11    0.92  Alessi GEDR3        GU CMa
 Ruprecht 8          CMa  07 01 41.8 -13 32 20  Op  OC     17.6   2252   0.45   8.72   -1.02   -1.42  Cantat-Gaudin 2020b UBC 219
 TPN 9               CMa  07 01 48.0 -11 18 00  Op  EC     12.0   1125                 -4.02    1.58  Alessi GEDR3        
 FSR 1184            CMa  07 02 42.0 -11 27 03  Op  OC      8.0   1129          8.35   -3.83    1.52  Alessi GEDR3        Saurer 1
 ASCC 32             CMa  07 02 51.4 -26 30 43  Op  OC     78.7    813   0.08   7.81   -3.31    3.48  Cantat-Gaudin 2020b Alessi 33, FoF 2271, Theia 87
 SGM 1               CMa  07 02 59.0 -11 27 25  Op  OC     25.0   1450                 -0.90   -0.12  Alessi GEDR3        FZ CMa
-Tombaugh 2          CMa  07 03 05.5 -20 49 12  Op  OC      3.4  12658   0.29   9.11   -0.46    1.35  Cantat-Gaudin 2020b ESO 558-7, FSR 1250, Haffner 2
+Tombaugh 2          CMa  07 03 05.5 -20 49 12  Op  OC      3.4  12658   0.29   9.11   -0.46    1.35  Cantat-Gaudin 2020b FSR 1250, Haffner 2
 GEDR3-29            CMa  07 03 12.0 -12 37 00  Op  OC     29.0   1218                 -0.57   -0.36  Alessi GEDR3        
 Soares-Bica 1       CMa  07 04 08.0 -11 18 58  Op  OC      2.2   1130          6.18   -4.83    1.50  Alessi GEDR3        BDB 242, LkHalpha 221, NGC 2327, SB 1
 vdBergh 92          CMa  07 04 09.1 -11 28 30  Op  OC     13.4   1188   0.35   7.12   -4.54    1.62  Cantat-Gaudin 2020b BDB 243, FSR 1188, FoF 2082, Magakian 242, Theia 1654
 Auner 1             CMa  07 04 14.4 -19 44 53  Op  OC      3.1  10753   0.36   9.42   -0.28    1.01  Cantat-Gaudin 2020b ESO 558-8
 Froebrich Cl 95     CMa  07 04 21.6 -16 23 20  IR  EC      1.2   1690                                selected non-Gaia   IRAS 07020-1618, [CB88] 54
 Juchert 7           CMa  07 04 31.0 -11 15 20  Op  OC      7.0   5000                 -0.47    1.09  Alessi GEDR3        Xuyi 23
-BDSB 96             CMa  07 05 19.7 -12 19 37  Op  OC      5.4   1185   0.38   6.89   -3.84    1.07  Cantat-Gaudin 2020b BDSB96
+BDSB 96             CMa  07 05 19.7 -12 19 37  Op  OC      5.4   1185   0.38   6.89   -3.84    1.07  Cantat-Gaudin 2020b 
 Alessi 72           CMa  07 06 02.0 -16 03 23  Op  OC     12.0   1211                 -3.11    1.77  Alessi GEDR3        
 Haffner 4           CMa  07 06 02.9 -15 00 07  Op  OC      2.9   4484   0.48   8.70   -0.42    0.90  Cantat-Gaudin 2020b FoF 683
 GEDR3-27            CMa  07 06 24.0 -25 18 00  Op  OC     27.0    763                 -3.56    3.41  Alessi GEDR3        
@@ -650,12 +655,12 @@ UBC 440             CMi  07 32 21.6 +06 00 54  Op  OC      5.4   3367   0.09   9
 ASCC 41             CMi  07 46 41.8 +00 08 13  Op  OC     81.5    298   0.02   8.44    0.65   -3.99  Cantat-Gaudin 2020b FoF 2430, Herschel 1, Theia 225, UPK 437
 UBC 13              CMi  08 03 39.4 +03 32 24  Op  OC    132.0    622          8.26   -7.75   -1.13  Cantat-Gaudin 2020b Alessi 145, Theia 467, UPK 435
 Canes Venatici II   CVn  12 57 09.6 +34 19 12  Op  UFD     3.2 152500                 -0.08   -0.05  Alessi GEDR3        SDSS J1257+3419
+CVn II              CVn  12 57 09.6 +34 19 12  Op  dSph    1.6 152500         10.08                  non-Gaia GCs        SDSS J1257+3419
 M 3                 CVn  13 42 11.5 +28 22 37  Op  GC     52.8   9434   0.01  10.10   -0.15   -2.67  arXiv:2102.09568v1  NGC 5272
 OPD 37              Cae  04 35 29.5 -41 55 21  Op  OC    289.7    139          8.50    0.59   19.82  Alessi GEDR3        
 Stock 23            Cam  03 16 18.0 +60 22 37  Op  OC     90.5    620   0.24   8.04   -4.26   -0.86  Cantat-Gaudin 2020b Pazmino's Cluster, Theia 127, UPK 291
 Czernik 14          Cam  03 17 02.9 +58 36 43  Op  OC      3.2   3509   0.99   8.58   -0.49   -0.40  Cantat-Gaudin 2020b FoF 1950, Theia 1722
 Kronberger 93       Cam  03 18 59.0 +63 08 30  Op  OC      8.0   3470                  0.27   -0.26  Alessi GEDR3        
-Kronb-Patchick 1    Cam  03 23 43.8 +67 22 00  Op  OC      3.9   4405                  0.19   -0.10  Alessi GDR2         
 Kr-Pa 1             Cam  03 23 44.0 +67 21 00  Op  OC      7.0   4250                  0.16   -0.25  Alessi GEDR3        
 King 6              Cam  03 27 55.7 +56 26 38  Op  OC     19.1    743   0.55   8.36    3.86   -1.81  Cantat-Gaudin 2020b FSR 636, FoF 2321, Theia 864, UPK 297
 Majaess 35          Cam  03 31 54.0 +60 08 13  Op  OC      5.0   1099                 -1.50   -0.98  Alessi GEDR3        
@@ -713,7 +718,9 @@ Eps Cap             Cap  21 37 04.6 -19 27 57  Op  OC    160.0    285          7
 M 30                Cap  21 40 22.1 -23 10 48  Op  GC     34.2   7576   0.03  10.10   -0.74   -7.30  arXiv:2102.09568v1  NGC 7099
 Palomar 12          Cap  21 46 38.9 -21 15 11  Op  GC     10.8  21277   0.02  10.05   -3.22   -3.33  arXiv:2102.09568v1  Capricornus, ESO 600-11
 UPK 524             Car  07 01 13.0 -54 25 55  Op  OC    114.8    567   0.10   8.03   -2.76    8.65  Cantat-Gaudin 2020b Theia 146
+Car II              Car  07 36 25.6 -57 59 57  Op  dSph    8.7  36200         10.00                  non-Gaia GCs        MagLiteS J0736-5800
 UPK 540             Car  07 38 16.1 -58 36 33  Op  OC     86.3    372   0.12   7.51   -4.83    7.67  Cantat-Gaudin 2020b Theia 79
+Car III             Car  07 38 31.2 -57 53 59  Op  dSph    3.8  27800          9.99                  non-Gaia GCs        MagLiteS J0738-5754
 Car-near            Car  07 40 45.8 -57 25 45  Op  OC    707.8     33          8.00  -55.93  151.06  Alessi GDR2         
 UPK 526             Car  07 40 47.5 -52 50 21  Op  OC     97.1    584   0.16   7.49   -8.00    7.42  Cantat-Gaudin 2020b Theia 107
 OPD 32              Car  07 48 19.8 -58 45 53  Op  MG    829.9    105          7.65   -5.21   23.96  2017AJ....153..257O Theia 113
@@ -746,7 +753,7 @@ El Kanbi-Prestg 6   Car  10 01 06.0 -60 41 18  Op  OC      1.2   7700           
 BH 84               Car  10 01 19.4 -58 13 05  Op  OC      2.9   5000   0.59   8.44   -4.85    3.29  Cantat-Gaudin 2020b FSR 1526
 DBSB 40             Car  10 01 22.0 -57 43 10  IR  EC      1.5          1.04   7.99                  selected non-Gaia   GN 09.59.8, Bran 280
 DBSB 41             Car  10 01 28.0 -57 43 49  IR  EC      1.5                                       selected non-Gaia   GN 09.59.8, Bran 280
-Gulliver 35         Car  10 01 31.0 -58 11 53  Op  OC     10.8   2469   0.38   8.01   -6.97    3.97  Cantat-Gaudin 2020b 
+Gulliver 35 A       Car  10 01 31.0 -58 11 53  Op  OC     10.8   2469   0.38   8.01   -6.97    3.97  Cantat-Gaudin 2020b 
 NGC 3114            Car  10 02 12.7 -60 02 28  Op  OC     49.2   1048   0.08   8.16   -7.38    3.78  Cantat-Gaudin 2020b FoF 2058, Theia 293, UPK 556
 Camargo 426         Car  10 02 49.0 -57 39 50  IR  EC      7.0                                       selected non-Gaia   IRAS 10011-5725
 ESO 92-5            Car  10 03 12.2 -64 45 18  Op  OC      5.2  16393   0.10   9.30   -2.92    2.40  Cantat-Gaudin 2020b 
@@ -922,7 +929,7 @@ UPK 569             Car  11 06 59.8 -71 31 09  Op  OC    177.6    252          7
 BH 110              Car  11 07 04.0 -61 30 39  Op  OC      3.5   6500   0.41   8.50   -5.91    2.22  Alessi GEDR3        
 UBC 269             Car  11 07 04.6 -62 52 12  Op  OC      8.0   1916   0.36   8.01   -7.01    1.65  Cantat-Gaudin 2020b Kronberger 124
 OC-12               Car  11 08 28.8 -58 44 24  Op  OC     10.8   1667          8.84   -7.03    2.07  Hao 2020            
-Teutsch 143A        Car  11 08 33.9 -60 44 28  Op  OC      4.0   4566   0.53   8.93   -5.60    2.28  Cantat-Gaudin 2020b Wray 15-751
+Teutsch 143 A       Car  11 08 33.9 -60 44 28  Op  OC      4.0   4566   0.53   8.93   -5.60    2.28  Cantat-Gaudin 2020b Wray 15-751
 Loden 309           Car  11 08 36.9 -60 15 14  Op  OC     24.4   1490   0.25   8.34   -9.58    1.12  Hunt 2021           FoF 1529
 UBC 659             Car  11 09 08.4 -60 41 13  Op  OC      8.9   2725   0.34   7.44   -6.30    1.39  Cantat-Gaudin 2020b FoF 1533
 Kronberger 125      Car  11 09 13.3 -61 09 18  Op  OC      1.1   4620                 -5.38    1.62  Alessi GEDR3        
@@ -1326,7 +1333,7 @@ BDB 122             Cas  02 58 14.0 +62 20 31  IR  EC      4.0   2273          6
 TKMLM 1             Cas  02 58 28.0 +57 37 30  Op  OC      8.0   2571                  0.43   -1.09  Alessi GDR2         HD 18391 Cl
 FSR 604             Cas  02 58 50.0 +63 34 51  Op  OC      7.0   5100                 -1.02    0.40  Alessi GEDR3        
 SAI 24              Cas  02 59 15.8 +60 33 58  Op  EC     13.3   2242   0.54   6.64   -0.20    0.11  Cantat-Gaudin 2020b Collinder 34, FoF 565, W5 E Central, LS I +60 291, NSN08 1
-Kronberger J0259+64 Cas  02 59 24.0 +64 16 18  Op  OC      1.7   5070                  0.26    0.35  Alessi GEDR3        
+Kronb J0259+64      Cas  02 59 24.0 +64 16 18  Op  OC      1.7   5070                  0.26    0.35  Alessi GEDR3        
 COIN-Gaia 37        Cas  03 00 10.9 +58 25 17  Op  OC     83.8   1024          7.41    0.86   -2.04  Dias 2020           Theia 592, UPK 289
 BDB 125             Cas  03 01 01.0 +60 40 20  IR  EC      2.0                                       selected non-Gaia   BRC 13, IRAS 02570+6028
 BDB 126             Cas  03 01 31.0 +60 29 15  Op  EC      1.4   3500          6.05                  selected non-Gaia   AFGL 4029, IRAS 02575+6017, BRC 14
@@ -1903,7 +1910,10 @@ PTB 6               Cep  23 53 01.5 +68 14 10  Op  EC     12.3   3286   1.24   8
 Bk 59 West          Cep  23 59 58.0 +67 51 17  Op  OC     14.0   1034                 -1.75   -1.52  Alessi GEDR3        
 DES 2               Cet  01 11 10.3 -13 41 05  Op  UFD     0.6  23800         10.06                  selected non-Gaia   DES J0111-1341
 Cetus II            Cet  01 17 52.8 -17 25 12  Op  UFD?    3.8  30000         10.04                  selected non-Gaia   DES J0117-1725
+Cet II              Cet  01 17 52.8 -17 25 12  Op  UFD?    3.8  30000   0.02  10.04                  non-Gaia GCs        DES J0117-1725
+WHI B0200-03        Cet  02 02 57.0 -03 15 10  Op  GC      1.2  30600   0.03   9.81                  non-Gaia GCs        Whiting 1
 Cetus III           Cet  02 05 19.4 -04 16 12  Op  UFD     2.5 251000         10.11                  selected non-Gaia   HSC J0209-0416
+Cet III             Cet  02 05 19.4 -04 16 12  Op  dSph    1.2 251000         10.11                  non-Gaia GCs        HSC J0209-0416
 MAF 2               Cet  02 18 28.5 -04 13 57  Op  MG    840.0    118          8.08    5.21  -10.82  Alessi GEDR3        
 DES J0225+0304      Cet  02 25 42.4 +03 04 10  Op  UFD     5.4  24000         10.07                  selected non-Gaia   
 BLISS 1             Cet  03 21 43.6 +04 38 34  Op  UFD     1.2  23700          9.96                  selected non-Gaia   BLISS J0321+0438
@@ -1920,7 +1930,7 @@ Feigelson 1         Cha  11 59 51.0 -78 12 27  Op  OC    114.0    102          6
 Cha II              Cha  12 53 38.8 -77 10 17  Op  OC    129.5    198          6.00  -20.70   -8.00  2018ApJ...867..151D AWG 7, Theia 29
 NGC 5288            Cir  13 48 46.3 -64 40 48  Op  OC      5.3   2899   0.60   8.59   -3.85   -1.94  Cantat-Gaudin 2020b FoF 138
 Loden 1002          Cir  13 55 09.0 -65 24 02  Op  OC     40.0   1284          8.00   -4.97   -2.10  Alessi GEDR3        
-Garro 1             Cir  14 09 00.0 -65 37 48  Op  GC      4.2  15500         10.04   -4.68   -1.34  2020A&A...642L..19G 
+Garro 1             Cir  14 09 00.0 -65 37 48  Op  GC      4.2  15500         10.04   -4.68   -1.34  2020A&A...642L..19G VVVX-GC-140900-653712
 UPK 595             Cir  14 33 30.2 -67 02 38  Op  MG    134.4    875          8.80   -5.93   -3.92  Sim 2019            
 UPK 594             Cir  14 36 41.5 -67 58 30  Op  OC     70.9    972   0.28   8.18   -1.90   -3.12  Cantat-Gaudin 2020b Theia 505
 Alessi 6            Cir  14 40 13.9 -66 07 37  Op  OC     35.3    909   0.23   8.70  -10.47   -5.56  Cantat-Gaudin 2020b FoF 2277, Theia 996, UPK 597
@@ -1980,10 +1990,13 @@ M 67                Cnc  08 51 23.1 +11 48 50  Op  OC     19.9    881   0.04   9
 NGC 1851            Col  05 14 06.7 -40 02 49  Op  GC     27.0  11905   0.02  10.10    2.14   -0.65  arXiv:2102.09568v1  
 Columba Assoc       Col  05 27 02.4 -35 06 32  Op  YA   2400.0     82          7.48                  selected non-Gaia   
 Columba Dwarf       Col  05 31 26.4 -28 01 48  Op  UFD     3.8 182000         10.08                  selected non-Gaia   DES J0531-2801
+Col I               Col  05 31 26.4 -28 01 48  Op  dSph    1.9 182000                                non-Gaia GCs        
 AB Dor Assoc        Col  05 42 56.4 -41 53 14  Op  YA   3000.0     50          7.70                  selected non-Gaia   
 UPK 483             Col  06 31 10.0 -35 58 43  Op  MG    166.8    680          8.20   -2.05    6.24  Sim 2019            
+NGC 4147            Com  12 10 06.2 +18 32 34  Op  GC      7.2  18540   0.02  10.09                  non-Gaia GCs        NGC 4153
 Melotte 111         Com  12 24 03.4 +25 39 07  Op  OC    373.4     86   0.01   8.79  -12.03   -8.97  Cantat-Gaudin 2020b Coma Berenices, OPD 7
 Coma Berenicis      Com  12 26 59.0 +23 54 15  Op  UFD    11.0  43300                  0.46   -1.73  Alessi GEDR3        
+Com (I)             Com  12 26 59.0 +23 54 15  Op  dSph    5.5  43300                                non-Gaia GCs        
 MMH 1               Com  13 09 05.7 +29 26 02  Op  MG?    27.1   2790                -10.27   -3.18  Alessi GEDR3        [MMH94] 1
 M 53                Com  13 12 55.2 +18 10 05  Op  GC     30.0  15625   0.02  10.10   -0.13   -1.33  arXiv:2102.09568v1  NGC 5024
 NGC 5053            Com  13 16 27.1 +17 42 00  Op  GC     18.0  21277   0.01  10.10   -0.33   -1.21  arXiv:2102.09568v1  
@@ -1993,8 +2006,9 @@ Theia 766           CrA  18 11 36.0 -37 48 00  Op  OC     36.0    710          8
 Extended R CrA      CrA  18 12 00.0 -39 00 00  Op  YA   1920.0    100          7.00                  selected non-Gaia   
 Theia 551           CrA  18 12 00.0 -41 30 00  Op  OC    120.0    647          8.32    0.33   -4.69  Alessi GEDR3        
 UPK 655             CrA  19 01 09.5 -36 56 25  Op  OC     52.8    153          7.10    4.48  -27.20  Sim 2019            Coronet, CrA
-Zeta CrB Cl         CrB  15 38 06.8 +37 01 55  Op  MG    348.2    155          7.90  -14.96   -5.78  Alessi GEDR3        
+Zeta CrB            CrB  15 38 06.8 +37 01 55  Op  MG    348.2    155          7.90  -14.96   -5.78  Alessi GEDR3        
 OPD 97              Crt  11 20 02.0 -20 15 24  Op  MG    240.0    110                -52.97    7.12  Alessi GEDR3        
+Crt (I)             Crt  11 36 16.2 -10 52 39  Op  EGC     2.6 147300          9.85                  non-Gaia GCs        Laevens 1, LDu 11, PSO J174.06-10.87
 FoF 1582            Cru  11 56 17.8 -62 15 31  Op  OC      7.8   4484   0.57   8.06   -6.44    0.79  Dias 2021           
 UBC 515             Cru  11 57 14.7 -62 58 05  Op  OC      9.0   4184   0.48   7.12   -6.15    0.69  Cantat-Gaudin 2020b FoF 1115
 Ruprecht 97         Cru  11 57 28.6 -62 42 29  Op  OC      3.6   5025   0.33   8.30   -6.49    0.43  Cantat-Gaudin 2020b FoF 247, SV Cru
@@ -2081,7 +2095,7 @@ VVV-CL 17           Cru  12 35 35.2 -63 02 30  IR  EC      0.8   4260           
 DBSB 78             Cru  12 36 01.0 -61 50 54  IR  EC      2.0   2890          6.00                  selected non-Gaia   LMR 178, Gum 44, IRAS 12331-6134
 UBC 287             Cru  12 39 03.6 -61 16 19  Op  OC      7.1   2309   0.57   7.37   -4.75   -0.73  Cantat-Gaudin 2020b FoF 1601
 La Serena 42        Cru  12 39 12.9 -62 17 59  Op  OC      2.2   2980                 -6.59   -0.23  Alessi GEDR3        IRAS 12362-6201
-Trumpler 20         Cru  12 39 31.7 -60 38 13  Op  OC     13.4   3984   0.39   9.22   -7.09    0.18  Cantat-Gaudin 2020b FSR 1624, FoF 424, Harvard 7
+Trumpler 20         Cru  12 39 31.7 -60 38 13  Op  OC     13.4   3984   0.39   9.22   -7.09    0.18  Cantat-Gaudin 2020b Harvard 7, FSR 1624, FoF 424
 Theia 3525          Cru  12 40 48.0 -57 27 00  Op  MG     60.0   1410          8.36   -7.24   -1.74  Alessi GEDR3        
 La Serena 44        Cru  12 41 53.9 -62 04 12  Op  EC      0.7   4400                                selected non-Gaia   RCW 68
 NGC 4609            Cru  12 42 19.7 -62 59 42  Op  OC     16.4   1515   0.37   7.81   -4.87   -1.04  Cantat-Gaudin 2020b FoF 1129, Theia 2070, WISE J1242-6251
@@ -2350,8 +2364,8 @@ DB 80               Cyg  20 42 33.0 +42 56 50  IR  EC      1.7   3050           
 DB 80               Cyg  20 42 34.8 +42 56 46  Op  OC      3.8   3731   2.23   7.24   -2.71   -4.64  Cantat-Gaudin 2020a BDB 62
 Majaess 210         Cyg  20 42 39.0 +48 53 38  IR  EC      9.0                                       selected non-Gaia   
 Ruprecht 174        Cyg  20 43 25.4 +37 01 52  Op  OC      7.9   2513   0.38   8.79   -3.15   -4.67  Cantat-Gaudin 2020b FSR 216, FoF 70, Theia 5385
-FSR 248 a           Cyg  20 43 57.0 +41 39 27  Op  OC     18.0   1590                 -5.17   -8.72  Alessi GEDR3        
-FSR 248 b           Cyg  20 44 14.4 +41 38 06  Op  OC     15.0    925                 -2.44   -3.59  Alessi GEDR3        
+FSR 248 A           Cyg  20 43 57.0 +41 39 27  Op  OC     18.0   1590                 -5.17   -8.72  Alessi GEDR3        
+FSR 248 B           Cyg  20 44 14.4 +41 38 06  Op  OC     15.0    925                 -2.44   -3.59  Alessi GEDR3        
 UPK 125             Cyg  20 44 38.6 +43 59 15  Op  OC    146.4    386          7.85    4.51    0.36  Sim 2019            
 UPK 115             Cyg  20 44 43.3 +39 26 02  Op  OC     54.0    928          7.75   -4.50   -7.63  Sim 2019            Theia 48
 FSR 258             Cyg  20 44 47.3 +43 53 17  Op  OC     12.0   2695   1.67   8.30   -3.14   -4.42  Alessi GDR2         
@@ -2524,31 +2538,35 @@ NGC 6934            Del  20 34 11.3 +07 24 14  Op  GC     16.8  13514   0.10  10
 Theia 269           Del  20 57 00.0 +16 45 00  Op  OC    100.0    822          7.92    1.99    2.07  Alessi GEDR3        
 Theia 314           Del  20 58 00.0 +16 45 00  Op  OC    120.0    363          8.04    5.32   -4.65  Alessi GEDR3        
 NGC 7006            Del  21 01 29.3 +16 11 13  Op  GC     15.0  30303   0.05  10.10   -0.13   -0.63  arXiv:2102.09568v1  FSR 164
-NGC 1786            Dor  04 59 06.0 -67 44 42  Op  GC      2.0  48800         10.08    1.92    0.05  Alessi GEDR3        
-NGC 1835            Dor  05 05 06.0 -69 24 14  Op  GC      2.3  49600          9.85    1.98   -0.01  Alessi GEDR3        
+Laevens 3           Del  21 06 54.3 +14 58 48  Op  GC      0.8  61800   0.07   9.95                  non-Gaia GCs        
+30 Dor              Dor  05 38 42.0 -69 06 02  Op  SSC     3.5  52500          6.48    1.44    0.74  Alessi GEDR3        SL 633, NGC 2070 Cl
+DES 4               Dor  05 28 22.8 -61 43 25  Op  GC      1.7  31300                  1.73    0.35  Alessi GEDR3        Eri III
 DES 5               Dor  05 10 00.8 -62 34 50  Op  GC      0.4  24800                  1.91   -0.07  Alessi GEDR3        
-NGC 1898            Dor  05 16 41.0 -69 39 23  Op  GC      1.6  48630          9.99    2.00    0.18  Alessi GEDR3        
-SL 372              Dor  05 18 00.4 -64 06 04  Op  OC      1.1  39628                  2.03   -0.03  Alessi GEDR3        LW 180
+Hodge 11            Dor  06 14 22.0 -69 50 54  Op  GC      2.7  50800         10.11    1.42    0.95  Alessi GEDR3        
+KMHK 854            Dor  05 24 00.4 -63 12 01  Op  OC      0.7  37670                                selected non-Gaia   
+NGC 1786            Dor  04 59 06.0 -67 44 42  Op  GC      2.0  48800         10.08    1.92    0.05  Alessi GEDR3        SL 149
+NGC 1835            Dor  05 05 06.0 -69 24 14  Op  GC      2.3  49600          9.85    1.98   -0.01  Alessi GEDR3        SL 215
+NGC 1898            Dor  05 16 41.0 -69 39 23  Op  GC      1.6  48630          9.99    2.00    0.18  Alessi GEDR3        SL 350
 NGC 1901            Dor  05 18 14.6 -68 17 39  Op  OC     78.2    424   0.04   8.88    1.54   12.67  Cantat-Gaudin 2020b AFF 5, Bok 1
 NGC 1916            Dor  05 18 38.0 -69 24 23  Op  GC      2.1  49900          9.87    1.91    0.24  Alessi GEDR3        
 NGC 1928            Dor  05 20 57.0 -69 28 40  Op  GC      1.3  50130          9.03    1.39    0.62  Alessi GEDR3        
-KMHK 854            Dor  05 24 00.4 -63 12 01  Op  OC      0.7  37670                                selected non-Gaia   
-DES 4               Dor  05 28 22.8 -61 43 25  Op  GC      1.7  31300                  1.73    0.35  Alessi GEDR3        Eri III
 NGC 2005            Dor  05 30 10.0 -69 45 10  Op  GC      1.6  47600          9.86    1.95    0.29  Alessi GEDR3        
-30 Dor              Dor  05 38 42.0 -69 06 02  Op  SSC     3.5  52500          6.48    1.44    0.74  Alessi GEDR3        
 NGC 2210            Dor  06 11 31.0 -69 07 18  Op  GC      3.3  45000         10.04    1.53    1.30  Alessi GEDR3        
-Hodge 11            Dor  06 14 22.0 -69 50 54  Op  GC      2.7  50800         10.11    1.42    0.95  Alessi GEDR3        
 NGC 2257            Dor  06 30 12.0 -64 19 34  Op  GC      4.0  49900         10.08    1.36    0.97  Alessi GEDR3        ESO 87-24, KMHK 1756, LW 481, SL 895
+R 136a              Dor  05 38 43.3 -69 06 08  Op  pSSC    0.1  52500          6.48                  non-Gaia GCs        
+SL 372              Dor  05 18 00.4 -64 06 04  Op  OC      1.1  39628                  2.03   -0.03  Alessi GEDR3        LW 180
 Draco II            Dra  15 52 47.6 +64 33 55  Op  UFD     5.4  20000         10.08    1.00    0.92  Alessi GEDR3        Laevens 4
+Dra II              Dra  15 52 47.6 +64 33 55  Op  UFD     5.4  20000   0.02  10.08                  non-Gaia GCs        Laevens 4
 OPD 81              Dra  15 54 40.1 +52 13 06  Op  OC    280.0    118          9.02  -10.58   -1.40  Alessi GEDR3        HIP 77903
 RSG 4               Dra  19 11 28.8 +56 48 04  Op  OC     79.8    323          8.26   -2.49    3.67  Alessi GEDR3        TRSG 4, Theia 520, UBC 1, UPK 134
-UBC 1               Dra  19 11 28.8 +56 48 04  Op  OC     79.8    328   0.11   7.84   -2.58    3.65  Cantat-Gaudin 2020b RSG 4, TRSG 4, UPK 134
+RSG 4               Dra  19 11 28.8 +56 48 04  Op  OC     79.8    328   0.11   7.84   -2.58    3.65  Cantat-Gaudin 2020b UBC 1, UPK 134
 UPK 160             Dra  20 23 20.0 +64 10 44  Op  OC     58.8    480          6.70    3.68    0.29  Sim 2019            in Theia 124
 Eridanus III        Eri  02 22 45.5 -52 17 05  Op  EGC     0.8  91000         10.10                  selected non-Gaia   DES 4, DES J0222-5217
 Eri II Cluster      Eri  03 44 22.0 -43 31 59  Op  GC      0.2 366000                                selected non-Gaia   
+Eri Cl              Eri  04 24 44.7 -21 11 24  Op  GC      1.0  84700   0.02  10.08                  non-Gaia GCs        Eri (I), ESO 551-1
 OPD 51 B            Eri  04 36 16.3 -08 37 28  Op  MG    360.4    165          8.30   -9.49   -4.70  Alessi GEDR3        HIP 21258, in MAF 1
 OPD 51 A            Eri  04 37 17.4 -07 37 01  Op  MG    409.6    159          8.42   -4.62   -1.29  Alessi GEDR3        HIP 21484, in MAF 1
-HIP 22931           Eri  04 55 14.0 -05 09 48  Op  MG    340.0    328                  0.17   -1.10  Alessi GDR2 (chk)   Theia 218
+HIP 22931           Eri  04 55 14.0 -05 09 48  Op  MG    340.0    328                  0.17   -1.10  Alessi GDR2         Theia 218
 Platais A1          Eri  04 56 14.1 -06 00 46  Op  OB    226.2    229                 -3.54   -1.65  Alessi GEDR3        
 L1616-5             Eri  05 04 41.3 -05 08 39  Op  OC    233.2    343          6.72    0.75   -0.90  Alessi GEDR3        
 AWG 2               Eri  05 07 19.0 -06 15 43  Op  EC     15.9    289                  0.73   -3.68  Alessi GEDR3        
@@ -2563,7 +2581,7 @@ Alessi 13           For  03 27 02.8 -35 49 16  Op  OC    163.3    104   0.02   8
 NGC 2129            Gem  06 01 06.0 +23 19 41  Op  OC      6.0   2037   0.72   7.24    0.27   -2.22  Cantat-Gaudin 2020b Collinder 77, FSR 870, FoF 189, Theia 1660
 Teutsch 169         Gem  06 01 39.0 +26 31 18  Op  OC      1.1   5320                  0.31   -0.61  Alessi GEDR3        DSH J0601+2631A
 BDSB 76             Gem  06 01 55.4 +26 25 03  Op  EC      1.5   4190                  0.26   -0.52  Alessi GEDR3        
-Teutsch 92          Gem  06 02 14.0 +26 08 07  Op  OC      3.4   3440                  0.15   -0.93  Alessi GEDR3        DSH J0602+2608
+Teutsch 92          Gem  06 02 14.0 +26 08 07  Op  OC      3.4   3440                  0.15   -0.93  Alessi GEDR3        
 UBC 435             Gem  06 02 43.7 +25 31 08  Op  OC     11.2   3636   0.25   8.23   -0.10   -1.60  Cantat-Gaudin 2020b FoF 1376
 COIN-Gaia 24        Gem  06 02 46.3 +23 12 11  Op  OC     23.3   1036   0.27   8.16    2.54   -2.95  Cantat-Gaudin 2020b FoF 2300
 UBC 72              Gem  06 03 49.3 +26 38 06  Op  OC     15.8   1953          8.98    0.35   -0.04  Hunt 2021           FoF 2143, Theia 4318
@@ -2647,11 +2665,14 @@ NGC 2420            Gem  07 38 24.5 +21 34 30  Op  OC      6.4   2755   0.03   9
 Ko 2                Gem  07 58 17.0 +26 15 18  Op  GC      3.0   2564                 -0.59   -0.02  arXiv:2102.09568v1  
 Koposov 2           Gem  07 58 17.0 +26 15 18  Op  GC      3.0  22100         10.10   -0.59   -0.02  Alessi GEDR3        
 Grus II             Gru  22 04 04.8 -46 26 24  Op  UFD    12.0  53000         10.10                  selected non-Gaia   DES J2204-4626
+Gru II              Gru  22 04 04.8 -46 26 24  Op  dSph    6.0  53000         10.10                  non-Gaia GCs        DES J2204-4626
 Grus I              Gru  22 56 42.4 -50 09 48  Op  UFD     4.0 120000                                selected non-Gaia   DES J2256-5010
+Gru I               Gru  22 56 42.4 -50 09 48  Op  dSph    2.0 120000         10.15                  non-Gaia GCs        DES J2256-5010
+Palomar 14          Her  16 11 00.6 +14 57 28  Op  EGC     2.2  73600   0.04  10.06                  non-Gaia GCs        AvdB 1
 M 13                Her  16 41 41.3 +36 27 36  Op  GC     56.4   8130   0.02  10.10   -3.15   -2.57  arXiv:2102.09568v1  Great Her Cl, NGC 6205
 NGC 6229            Her  16 46 58.8 +47 31 41  Op  GC     19.8  27027   0.01  10.10   -1.17   -0.47  arXiv:2102.09568v1  
 M 92                Her  17 17 07.4 +43 08 10  Op  GC     48.6   9259   0.02  10.10   -4.94   -0.62  arXiv:2102.09568v1  NGC 6341
-Theia 817b          Her  18 18 00.0 +23 00 00  Op  MG    146.0    329                 -0.32   -6.53  Alessi GEDR3        
+Theia 817 B         Her  18 18 00.0 +23 00 00  Op  MG    146.0    329                 -0.32   -6.53  Alessi GEDR3        
 Theia 817           Her  18 21 00.0 +24 15 00  Op  MG    193.0    369                 -1.85    1.20  Alessi GEDR3        
 UBC 9               Her  18 26 10.6 +26 25 55  Op  OC     52.4    349   0.05   7.42    0.65   -5.40  Cantat-Gaudin 2020b Teutsch 179, Teutsch 195, UPK 61
 UPK 64              Her  18 46 59.6 +24 41 52  Op  OC    169.2    442          8.00   -0.93   -5.03  Sim 2019            
@@ -2661,22 +2682,30 @@ Alessi 62           Her  18 56 06.2 +21 35 49  Op  OC     30.7    629   0.18   8
 UBC 120             Her  18 56 25.9 +13 14 31  Op  OC     10.4   1193   0.28   8.27    1.13    1.44  Cantat-Gaudin 2020b Theia 4064
 Eta Hor             Hor  02 36 43.3 -53 52 32  Op  MG    685.1     45          8.16   89.90  -13.59  Alessi GEDR3        
 Horologium I        Hor  02 55 31.7 -54 07 08  Op  UFD     2.6  83000          9.96                  selected non-Gaia   DES J0255-5406
+Hor I               Hor  02 55 31.7 -54 07 08  Op  dSph    1.3  83300         10.14                  non-Gaia GCs        DES J0255-5406
 NGC 1261            Hor  03 12 16.3 -55 12 58  Op  GC     17.4  15625   0.01  10.10    1.60   -2.06  arXiv:2102.09568v1  ESO 155-11
 Horologium II       Hor  03 16 32.1 -50 01 05  Op  UFD     4.2  78700         10.13                  selected non-Gaia   
+Hor II              Hor  03 16 32.1 -50 01 05  Op  dSph    2.1  78000   0.02  10.13                  non-Gaia GCs        
+Arp-Madore 1        Hor  03 55 02.4 -49 36 24  Op  GC      1.3 118900   0.00  10.04                  non-Gaia GCs        E 1
 NGC 2548 Clump A    Hya  08 11 56.0 -06 11 12  Op  OC     13.0    794                 -1.28    1.09  Alessi GEDR3        
 NGC 2548            Hya  08 13 38.9 -05 43 34  Op  OC     44.3    776   0.04   8.60   -1.31    1.03  Cantat-Gaudin 2020b ?M 48, FoF 2362, Theia 870, UPK 453
 RSG 3               Hya  08 24 06.5 -08 24 18  Op  OC     55.6    439          8.37   -8.33    4.19  Alessi GEDR3        Alessi 26, Alessi-Teutsch 4, Theia 929, UBC 12, UPK 466
-UBC 12              Hya  08 24 06.5 -08 24 18  Op  OC     55.6    451   0.07   8.37   -8.30    4.13  Cantat-Gaudin 2020b Alessi-Teutsch 4, RSG 3, Theia 929, UPK 466
+RSG 3               Hya  08 24 06.5 -08 24 18  Op  OC     55.6    451   0.07   8.37   -8.30    4.13  Cantat-Gaudin 2020b Alessi-Teutsch 4, UBC 12, Theia 929, UPK 466
 FSR 1304            Hya  08 53 28.0 -14 46 52  Op  OC?     8.0   2820                 -1.92    0.09  Alessi GEDR3        
 Hydra I             Hya  08 53 48.0 +03 28 00  Op  UFD   104.0  12700          9.74   -0.96   -0.08  Alessi GEDR3        
+Hya I               Hya  08 55 36.0 +03 36 00  Op  dSph   52.0  12700   0.04   9.74                  non-Gaia GCs        
 PW 1A West          Hya  11 54 24.0 -29 18 00  Op  OC     25.8  28902          8.11   -0.64    0.49  Alessi GEDR3        
 PW 1A East          Hya  11 56 24.0 -29 30 00  Op  OC     28.2  28902          8.11   -0.73    0.52  Alessi GEDR3        
 PW 1B               Hya  12 00 24.0 -27 54 00  Op  OC      6.2  28902          8.11   -0.72    0.69  Alessi GEDR3        
+Hya II              Hya  12 21 42.1 -31 59 07  Op  dSph    1.7 142500                                non-Gaia GCs        
 M 68                Hya  12 39 28.1 -26 44 38  Op  GC     23.4   9174   0.05  10.10   -2.74    1.78  arXiv:2102.09568v1  NGC 4590
-PD 15               Hyi  01 28 26.9 -57 54 25  Op  MG   2492.0     45                                selected non-Gaia   Achernar subgr
+Arp-Madore 4        Hya  13 56 21.1 -27 10 03  Op  GC      1.3  29010   0.05   9.95                  non-Gaia GCs        AM 1353-265
+NGC 5694            Hya  14 39 36.2 -26 32 20  Op  GC     11.4  34840   0.09  10.10                  non-Gaia GCs        
+OPD 15              Hyi  01 28 26.9 -57 54 25  Op  MG   2492.0     45                                selected non-Gaia   Achernar subgr
 NGC 643             Hyi  01 35 00.0 -75 33 24  Op  OC      2.2  49900                  1.02   -1.14  Alessi GEDR3        ESO 29-50, L 111
 DELVE 2             Hyi  01 55 05.3 -68 15 11  Op  GC      1.0  71000                  1.02   -0.85  arXiv:2009.08550v1  DELVE J0155-6815
 Hydrus I            Hyi  02 29 33.4 -79 18 32  Op  UFD    14.8  27600                  3.74   -1.51  Alessi GEDR3        
+Hyi I               Hyi  02 29 33.4 -79 18 32  Op  dSph    7.4  27600                                non-Gaia GCs        
 Eps Hyi             Hyi  02 36 21.1 -68 09 24  Op  MG    330.7     48                 71.38   -0.08  Alessi GEDR3        
 ICA 72              Hyi  03 08 53.0 -73 18 48  Op  OB      4.1  49900                                selected non-Gaia   
 BS 247              Hyi  03 10 23.0 -73 30 10  Op  OB      0.7  49900                  1.70   -0.80  Alessi GEDR3        OGLE-MBR-CL-88
@@ -2690,7 +2719,7 @@ UBC 383             Lac  22 02 52.8 +49 06 50  Op  OC     13.8   1848   0.16   8
 NGC 7209            Lac  22 04 53.8 +46 30 29  Op  OC     36.5   1220   0.17   8.62    2.25    0.28  Cantat-Gaudin 2020b Collinder 444, FoF 2055, Melotte 238, Theia 4421
 FSR 342             Lac  22 07 43.4 +53 06 14  Op  OC     12.4   2915   0.58   8.85   -1.35   -1.84  Cantat-Gaudin 2020b FoF 167, SAI 146, Theia 4081
 UBC 592             Lac  22 08 50.2 +53 00 04  Op  OC?    13.4   3663   0.31   7.92   -3.37   -3.50  Cantat-Gaudin 2020b 
-IC 1434             Lac  22 10 30.0 +52 51 29  Op  OC     10.9   3597   0.18   8.44   -3.90   -3.33  Cantat-Gaudin 2020b Collinder 445, FSR343, FoF 165, Melotte 239
+IC 1434             Lac  22 10 30.0 +52 51 29  Op  OC     10.9   3597   0.18   8.44   -3.90   -3.33  Cantat-Gaudin 2020b Collinder 445, FSR 343, FoF 165, Melotte 239
 Theia 6035          Lac  22 13 01.0 +53 59 00  Op  OC     41.0   1061                 -1.77   -2.37  Alessi GEDR3        
 NGC 7243            Lac  22 15 09.1 +49 49 48  Op  OC     30.6    896   0.22   8.06    0.43   -2.86  Cantat-Gaudin 2020b Collinder 448, FoF 2214, Melotte 240, Theia 356
 NGC 7245            Lac  22 15 14.9 +54 20 10  Op  OC      7.3   3663   0.46   8.65   -3.95   -3.25  Cantat-Gaudin 2020b Collinder 449, FSR 348, FoF 166, Melotte 241
@@ -2700,8 +2729,8 @@ GEDR3-18            Lac  22 16 10.3 +52 21 27  Op  EC      7.0   3770           
 Kronberger 96       Lac  22 16 27.9 +55 30 39  Op  OC      2.4   4500                 -3.01   -2.75  Alessi GEDR3        
 FoF 886             Lac  22 16 55.2 +54 37 14  Op  OC     22.2   3480          8.62   -3.56   -3.02  Alessi GEDR3        
 UBC 166             Lac  22 17 03.1 +54 13 44  Op  OC      8.5   3215   0.38   7.38   -3.63   -2.97  Cantat-Gaudin 2020b FoF 166, FoF 885
-Teutsch J2217+5359  Lac  22 17 13.0 +53 59 12  Op  OC:     2.5   4380                 -2.70   -2.22  Alessi GEDR3        Teutsch J2217+5359a
-Teutsch 159         Lac  22 18 37.0 +53 53 15  Op  OC      3.0   3440                 -2.46   -2.30  Alessi GEDR3        DSH J2218+5353, Teutsch J2218+5353
+TC 2217+5359        Lac  22 17 13.0 +53 59 12  Op  OC:     2.5   4380                 -2.70   -2.22  Alessi GEDR3        
+Teutsch 159         Lac  22 18 37.0 +53 53 15  Op  OC      3.0   3440                 -2.46   -2.30  Alessi GEDR3        
 UPK 171             Lac  22 22 01.8 +53 57 12  Op  OC    183.6    533          7.50    4.19   -0.84  Sim 2019            ?Alessi 83
 HeXuHao 23          Lac  22 22 13.2 +54 33 33  Op  OC     12.0   1471          8.72    1.71   -2.25  He 2020             
 Teutsch 141         Lac  22 26 58.7 +55 54 21  Op  OC      2.4   3970                 -3.69   -3.00  Alessi GEDR3        DSH J2226+5553
@@ -2717,7 +2746,7 @@ GEDR3-19            Lac  22 34 40.2 +40 40 25  Op  EC     20.3    493           
 Teutsch 330         Lac  22 35 39.0 +56 12 10  Op  OC      1.6   3950                 -3.53   -2.78  Alessi GEDR3        
 FSR 321             Lac  22 36 07.2 +39 37 16  Op  OC     22.0    503   0.26   7.16   -1.91   -4.79  Cantat-Gaudin 2020b Escorial 35, FoF 2392, Lac OB1, Theia 18, UBC 159
 UPK 180             Lac  22 36 12.2 +56 46 16  Op  OC     76.7    858   0.28   8.39   -0.59    0.33  Cantat-Gaudin 2020b Theia 287
-Teutsch 39          Lac  22 36 37.0 +37 43 34  Op  OC     28.0    488          6.60   -1.71   -6.15  Alessi GEDR3        FoF 2379, Teutsch J2236+3747
+Teutsch 39          Lac  22 36 37.0 +37 43 34  Op  OC     28.0    488          6.60   -1.71   -6.15  Alessi GEDR3        FoF 2379
 UPK 166             Lac  22 36 48.7 +46 55 37  Op  OC     92.0    663   0.11   7.60   -0.91   -3.23  Cantat-Gaudin 2020b 
 HD 214919 Grp       Lac  22 40 57.0 +38 52 48  Op  OC     27.0    491                 -1.55   -5.11  Alessi GEDR3        
 ASCC 123            Lac  22 41 11.7 +53 59 10  Op  OC    155.3    235   0.10   7.99   12.09   -1.41  Cantat-Gaudin 2020b Theia 117, UPK 177
@@ -2773,6 +2802,7 @@ OPD 8               Lup  15 57 19.5 -38 28 27  Op  OB   1470.0    134           
 Lupus IV            Lup  16 03 12.4 -42 07 43  Op  OC    146.5    163                -11.90  -23.90  2018ApJ...867..151D 
 RSG 2               Lyn  07 22 35.8 +55 07 43  Op  OC    292.8    204          7.95   -2.83  -31.27  Alessi GEDR3        Alessi 84, OPD 16, UPK 343
 UPK 343             Lyn  07 22 35.8 +55 07 43  Op  OC    292.8    204          7.95   -2.83  -31.27  Sim 2019            OPD 16, RSG 2
+NGC 2419            Lyn  07 38 08.4 +38 52 55  Op  EGC    14.4  88500   0.08  10.10                  non-Gaia GCs        
 SDSS J0814+5105     Lyn  08 13 42.0 +51 05 27  Op  UFD    12.4  13800         10.05    0.47   -0.62  Alessi GEDR3        
 SDSS J0821+5608     Lyn  08 21 15.0 +56 08 16  Op  UFD     9.4  13800         10.00    0.62   -0.14  Alessi GEDR3        
 UPK 78              Lyr  18 42 33.8 +32 14 55  Op  OC    184.8    375          7.75    0.31   -3.52  Sim 2019            
@@ -2827,7 +2857,7 @@ UPK 406             Mon  06 23 54.2 +03 42 56  Op  OC    129.6    697          8
 HeXuHao 50          Mon  06 24 17.5 +07 30 00  Op  OC      8.4   2041          8.16   -0.90   -0.24  He 2020             PHOC 26
 UBC 618             Mon  06 24 57.8 +07 37 01  Op  OC      7.3   7576   0.39   8.71    0.25    0.06  Cantat-Gaudin 2020b 
 Theia 3998          Mon  06 25 12.0 -01 21 00  Op  OC     42.0   1810          8.49   -0.70    1.93  Alessi GEDR3        
-BDSB 91             Mon  06 25 16.6 -10 33 04  Op  OC      4.3    968   0.56   6.74   -3.18    1.15  Cantat-Gaudin 2020b BDSB91, FSR 1143
+BDSB 91             Mon  06 25 16.6 -10 33 04  Op  OC      4.3    968   0.56   6.74   -3.18    1.15  Cantat-Gaudin 2020b FSR 1143
 NGC 2225            Mon  06 26 36.5 -09 38 35  Op  OC      3.1   3448   0.35   9.13   -0.28    0.50  Cantat-Gaudin 2020b FSR 1135, FoF 11
 FSR 1140            Mon  06 27 18.0 -10 09 30  Op  OC      8.0   1030                 -3.42    1.11  Alessi GEDR3        
 NGC 2232            Mon  06 27 33.1 -04 44 56  Op  OC     61.9    326   0.03   7.70   -4.75   -1.84  Cantat-Gaudin 2020b Escorial 8, FoF 2393, Theia 55, UPK 425, Tian Core 2
@@ -2898,7 +2928,7 @@ Lotkin-Popova 40    Mon  06 36 46.8 +04 35 53  Op  OC     16.0   1550           
 Collinder 107       Mon  06 36 48.7 +04 58 19  Op  OC     46.8   1621   0.44   7.17   -1.32    0.66  Cantat-Gaudin 2020b Mon OB1B, Theia 1734
 vdBergh 1           Mon  06 37 06.0 +03 04 41  Op  OC      3.6   1912   0.72   7.87    0.40   -0.77  Cantat-Gaudin 2020b CV Mon, FSR 1042, Theia 3178
 Collinder 106       Mon  06 37 06.7 +06 00 07  Op  OC     22.3   1575   0.20   7.21   -1.47    0.53  Cantat-Gaudin 2020b FSR 1008
-Magakian 208 Cl     Mon  06 37 19.0 +05 57 55  Op  EC      3.0   1482                 -1.59    0.55  Alessi GEDR3        Ced 8
+Magakian 208        Mon  06 37 19.0 +05 57 55  Op  EC      3.0   1482                 -1.59    0.55  Alessi GEDR3        Ced 8
 Berkeley 24         Mon  06 37 48.5 -00 52 26  Op  OC      6.1   6410   0.54   9.21    0.38    1.28  Cantat-Gaudin 2020b FSR 1070
 BDSB 84             Mon  06 38 28.0 +00 44 41  Op  EC      1.5   5700                 -0.19    0.38  Alessi GEDR3        Sh2-283
 NGC 2259            Mon  06 38 31.9 +10 53 06  Op  OC      3.4   3067   0.59   8.50   -0.27   -1.03  Cantat-Gaudin 2020b FSR 972, FoF 370
@@ -2987,7 +3017,7 @@ Bica 313            Mon  06 56 06.0 +00 33 54  Op  EC      3.0   3890           
 UPK 447             Mon  06 56 57.9 -10 06 55  Op  OC     82.8    962          7.65   -3.60    0.41  Sim 2019            
 ASCC 30             Mon  06 57 05.0 -06 13 48  Op  OC     32.4   1115   0.15   8.24   -1.59   -0.17  Cantat-Gaudin 2020b Alessi 35, Theia 2563
 Bica 332            Mon  06 57 09.0 -08 14 24  IR  EC     15.0                                       selected non-Gaia   [KC97c] G220.9-02.5
-BDSB 93             Mon  06 57 11.3 -08 12 07  Op  OC      4.3   1299   0.67   7.08   -2.41    1.02  Cantat-Gaudin 2020b BDSB93
+BDSB 93             Mon  06 57 11.3 -08 12 07  Op  OC      4.3   1299   0.67   7.08   -2.41    1.02  Cantat-Gaudin 2020b 
 FSR 1144            Mon  06 57 11.5 -06 37 41  Op  OC      5.6   1953   0.30   8.18   -1.28    1.14  Cantat-Gaudin 2020b FoF 731, Kernya 45, Theia 2002
 BDSB 92             Mon  06 57 12.0 -08 11 00  Op  EC      5.0   1236                 -2.50    1.10  Alessi GEDR3        FSR 1155
 Mon OB3             Mon  06 57 25.2 -03 56 44  Op  OB     29.9   2364          7.94   -1.41   -0.30  Alessi GDR2         
@@ -3143,7 +3173,7 @@ UPK 582             Mus  12 56 22.2 -69 19 39  Op  YA    159.6    947          7
 NGC 4815            Mus  12 57 59.8 -64 57 36  Op  OC      6.7   3831   0.81   8.57   -5.75   -0.96  Cantat-Gaudin 2020b BH 142, Collinder 265, ESO 96-1, FSR 1637, FoF 136, Theia 4324
 DBSB 81             Mus  12 58 40.0 -66 22 40  Op  EC      4.0   1940                 -8.39   -0.31  Alessi GEDR3        
 NGC 4833            Mus  12 59 33.8 -70 52 37  Op  GC     24.6   6250   0.32  10.10   -8.38   -0.96  arXiv:2102.09568v1  ESO 65-4, FSR 1636, FoF 20, FoF 667
-BH 144              Mus  13 15 13.9 -65 55 12  Op  OC      2.9  22222   0.62   9.00   -5.11   -0.38  Cantat-Gaudin 2020b Andrews-Lindsay 1, PHR 1315-6555
+Andrews-Lindsay 1   Mus  13 15 13.9 -65 55 12  Op  OC      2.9  22222   0.62   9.00   -5.11   -0.38  Cantat-Gaudin 2020b BH 144, PHR 1315-6555
 Collinder 268       Mus  13 18 10.3 -67 04 44  Op  OC      9.6   2801   0.36   8.42   -5.48   -0.41  Cantat-Gaudin 2020b FSR 1644, FoF 65, Harvard 8
 Ruprecht 107        Mus  13 19 44.9 -64 56 38  Op  OC      4.0   4219   0.48   8.27   -5.84   -1.62  Cantat-Gaudin 2020b BH 146, ESO 96-8
 Collinder 269       Mus  13 23 58.1 -66 12 14  Op  OC     16.4   1761   0.27   8.59   -5.06   -2.49  Cantat-Gaudin 2020b ESO 96-10, Theia 4348
@@ -3225,7 +3255,7 @@ La Serena 280       Nor  15 59 56.1 -52 48 33  IR  EC      2.9                  
 Majaess 169         Nor  15 59 58.0 -51 37 45  IR  EC     10.0                                       selected non-Gaia   La Serena 281
 Mercer 70           Nor  16 00 28.0 -52 10 48  IR  EC      0.8   7000          6.65   -4.40   -4.42  Alessi GEDR3        Ryu 273, WR 70-12
 La Serena 284       Nor  16 00 32.9 -52 44 47  IR  EC      0.4   7310          6.00                  selected non-Gaia   IRAS 15567-5236
-Trumpler 23         Nor  16 00 52.3 -53 32 20  Op  OC      7.4   2841   0.64   8.90   -4.18   -4.75  Cantat-Gaudin 2020b BH 180, ESO 178-6, FoF 2103, FoF 269
+Trumpler 23         Nor  16 00 52.3 -53 32 20  Op  OC      7.4   2841   0.64   8.90   -4.18   -4.75  Cantat-Gaudin 2020b FoF 2103, FoF 269
 SUH 50              Nor  16 01 24.0 -51 50 02  Op  EC      1.0   5750                 -4.38   -4.36  Alessi GEDR3        VVV-CL 105, ASAS J160125-5150.3
 Moffat 1            Nor  16 01 35.3 -54 08 56  Op  OC      4.0   2488   0.86   6.90   -2.21   -3.04  Cantat-Gaudin 2020b C1557-540, ALS 14308
 FoF 434             Nor  16 01 42.0 -52 07 12  Op  OC     10.3   2210   1.07   9.24   -4.92   -5.42  Alessi GEDR3        
@@ -3345,15 +3375,17 @@ Ryu 320             Nor  16 33 51.3 -49 01 14  Op  EC      0.8                  
 UBC 545             Nor  16 34 06.5 -48 52 52  Op  OC      9.0   3012   0.74   7.16   -1.09   -2.72  Cantat-Gaudin 2020b Theia 2030
 Ryu 27              Nor  16 34 27.8 -53 40 53  Op  EC      2.0                                       selected non-Gaia   
 NGC 6167            Nor  16 34 38.9 -49 45 32  Op  OC     10.2   1531   0.78   8.04   -0.62   -2.85  Cantat-Gaudin 2020b FoF 864, Harvard 11, Theia 1962
+Oph Stream          Oph  16 07 12.0 -06 55 30  Op  GCR   150.0   9500         10.07                  non-Gaia GCs        
 Mamajek 5           Oph  16 25 29.7 -23 26 53  Op  OC     25.2    141                 -7.15  -25.23  Alessi GDR2         
 Grasdalen 1         Oph  16 26 42.6 -24 31 10  Op  YA     54.0    136   2.08   7.90   -8.02  -26.21  Alessi GDR2         BDB 271, LDN 1688, Rho Oph, Rho Oph Dark Cloud Cl
 Rho Oph ES          Oph  16 27 23.1 -24 40 26  Op  EC      9.9    140                 -6.55  -25.45  Alessi GDR2         LDN 1688 Core-1, Rho Oph Core E South, Rho Oph E, SKF Oph EF
-DELVE 1             Oph  16 30 54.0 -00 58 19  Op  GC      1.1  19000                 -1.70    1.60  arXiv:1912.03301v1  
+DELVE 1             Oph  16 30 54.0 -00 58 19  Op  GC      1.1  19000                 -1.70    1.60  arXiv:1912.03301v1  DELVE J1630-0058
 Bonatto 2           Oph  16 31 30.4 -24 27 58  Op  EC     12.0    145                 -6.97  -23.52  Alessi GDR2         
 M 107               Oph  16 32 31.9 -13 03 14  Op  GC     27.6   5263   0.33  10.10   -1.94   -5.98  arXiv:2102.09568v1  NGC 6171, FoF 647
 M 12                Oph  16 47 14.2 -01 56 56  Op  GC     36.0   4902   0.19  10.10   -0.19   -6.80  arXiv:2102.09568v1  NGC 6218
 NGC 6235            Oph  16 53 25.2 -22 10 37  Op  GC     18.0  11765   0.31  10.10   -3.93   -7.59  arXiv:2102.09568v1  FSR 1787
 M 10                Oph  16 57 09.1 -04 06 00  Op  GC     31.8   5181   0.28  10.10   -4.76   -6.60  arXiv:2102.09568v1  NGC 6254, FoF 2203, FoF 648
+Palomar 15          Oph  16 59 50.9 +00 31 58  Op  GC      8.4  44100   0.42  10.08                  non-Gaia GCs        
 M 62                Oph  17 01 12.7 -30 06 50  Op  GC     25.2   5556   0.47  10.10   -4.98   -2.95  arXiv:2102.09568v1  NGC 6266, FoF 625, FoF 626
 M 19                Oph  17 02 37.7 -26 16 05  Op  GC     25.2   7246   0.39  10.10   -3.25    1.66  arXiv:2102.09568v1  NGC 6273, FoF 636
 ASCC 87             Oph  17 02 37.9 -28 25 16  Op  OC     41.6    787   0.23   8.54   -1.18   -3.81  Cantat-Gaudin 2020b Theia 330, UPK 650
@@ -3371,7 +3403,7 @@ NGC 6356            Oph  17 23 35.0 -17 48 47  Op  GC     20.4  10870   0.27  10
 NGC 6355            Oph  17 23 58.6 -26 21 11  Op  GC     10.8   6897   0.77  10.10   -4.74   -0.57  arXiv:2102.09568v1  FSR 1788
 IC 1257             Oph  17 27 08.4 -07 05 35  Op  GC     13.2  17857   0.73  10.05   -1.01   -1.49  arXiv:2102.09568v1  
 NGC 6366            Oph  17 27 44.2 -05 04 48  Op  GC     54.0   3559   0.71  10.00   -0.33   -5.16  arXiv:2102.09568v1  FSR 56, FoF 2045, FoF 649
-Trumpler 26         Oph  17 28 30.2 -29 29 13  Op  OC      8.6   1605   0.57   8.56   -0.87   -3.08  Cantat-Gaudin 2020b FoF 2244, Harvard 15, Theia 2599, UBC 332
+Trumpler 26         Oph  17 28 30.2 -29 29 13  Op  OC      8.6   1605   0.57   8.56   -0.87   -3.08  Cantat-Gaudin 2020b Harvard 15, FoF 2244, Theia 2599, UBC 332
 HP 1                Oph  17 31 05.3 -29 58 55  Op  GC     15.6   8403   1.12  10.10    2.51  -10.11  arXiv:2102.09568v1  BH 229, Dufay 1, ESO 455-11, FSR 1781
 UFMG 63             Oph  17 33 36.0 -25 00 36  Op  OC     21.8   1242   1.40   7.80    1.23   -0.28  Ferreira 2021       
 UFMG 70             Oph  17 36 48.0 -29 52 19  Op  OC     34.7   1890   0.75   8.90    1.45    0.57  Ferreira 2021       OGLE-BLG-CEP-57
@@ -3380,6 +3412,7 @@ M 14                Oph  17 37 36.0 -03 14 46  Op  GC     36.0   8000   0.60  10
 UFMG 96             Oph  17 37 49.2 -29 46 34  Op  OC     28.9   2421   1.28   8.55   -1.44   -3.42  Ferreira 2021       
 UFMG 69             Oph  17 38 00.0 -29 30 00  Op  OC     22.2   3521   1.90   8.20   -0.43   -0.22  Ferreira 2021       OGLE-BLG-CEP-57
 NGC 6401            Oph  17 38 36.5 -23 54 36  Op  GC     16.8   6944   0.72  10.05   -2.75    1.45  arXiv:2102.09568v1  Peterson 1
+VVV-CL 2            Oph  17 41 06.0 -28 50 42  IR  GC      2.0   7300   2.88   9.81                  non-Gaia GCs        
 UFMG 71             Oph  17 42 13.2 -27 19 44  Op  OC     11.7   1658   0.95   8.00    0.76   -1.78  Ferreira 2021       
 DB 52               Oph  17 42 28.0 -29 56 23  IR  EC      0.9   2000                                selected non-Gaia   IRAS 17392-2954
 VVV-CL 135          Oph  17 42 43.0 -29 51 35  IR  EC      1.2   1800                                selected non-Gaia   IRAS 17395-2950, Terz N 124
@@ -3480,7 +3513,7 @@ MGM 2               Ori  05 47 36.0 +00 38 41  IR  EC      8.0    435           
 Cezar 6             Ori  05 47 45.0 +00 38 44  IR  EC      8.0                                       selected non-Gaia   GLM-G360 18
 Collinder 74        Ori  05 48 40.8 +07 22 26  Op  OC      7.6   2639   0.39   9.15    1.01   -1.51  Cantat-Gaudin 2020b FSR 973, FoF 10, Theia 4366
 UPK 414             Ori  05 48 51.1 -05 10 22  Op  OC    213.6    442          7.30   -2.43    0.21  Sim 2019            Spurious 1
-HD 38856            Ori  05 48 58.6 +00 44 04  Op  OC     21.5    363                 -2.91    1.04  Alessi GEDR3        
+HD 38856 Grp        Ori  05 48 58.6 +00 44 04  Op  OC     21.5    363                 -2.91    1.04  Alessi GEDR3        
 Platais A2          Ori  05 49 29.6 +04 08 05  Op  OB    198.1    288          8.00   -7.76   -6.56  Alessi GEDR3        HIP 27345 Assoc
 UPK 402             Ori  05 50 03.6 +02 49 19  Op  OC     22.7    419   0.39   6.86   -1.11   -1.92  Cantat-Gaudin 2020b Ori BN
 Berkeley 72         Ori  05 50 14.2 +22 14 49  Op  OC      4.8   6494   0.52   8.66    0.85   -0.26  Cantat-Gaudin 2020b FSR 810
@@ -3509,7 +3542,7 @@ Camargo 944         Ori  06 02 19.0 +17 11 17  IR  EC      2.5                  
 NGC 2141            Ori  06 02 56.2 +10 27 04  Op  OC      8.8   5102   0.30   9.24   -0.03   -0.77  Cantat-Gaudin 2020b FSR 971, FoF 28, Theia 3250
 UPK 388             Ori  06 03 32.4 +18 14 32  Op  MG    180.0    909          8.70   -0.13   -1.47  Sim 2019            
 FSR 894             Ori  06 04 07.8 +20 17 13  Op  OC     11.1   1761   1.24   7.20    1.17   -2.47  Hunt 2021           
-Kronb J0604+0911    Ori  06 04 14.0 +09 11 48  Op  OC      7.0   4510                  0.52    0.14  Alessi GEDR3        GSC 717-377 Grp
+Kronb J0604+09      Ori  06 04 14.0 +09 11 48  Op  OC      7.0   4510                  0.52    0.14  Alessi GEDR3        GSC 717-377 Grp
 FSR 932             Ori  06 04 20.9 +14 34 23  Op  OC      4.7   2488   0.81   8.45   -0.36   -0.79  Cantat-Gaudin 2020b SAI 57
 FSR 921             Ori  06 05 10.8 +16 41 02  Op  OC      4.4   3058   0.99   8.67   -0.01   -1.65  Cantat-Gaudin 2020b SAI 58
 Camargo 959         Ori  06 05 11.0 +14 25 23  IR  EC      6.0                                       selected non-Gaia   IRAS 06023+1425
@@ -3589,7 +3622,7 @@ Bica 289            Ori  06 14 30.0 +13 50 53  IR  EC      0.5                  
 Ferrero 11          Ori  06 14 35.0 +00 38 13  Op  OC     27.7    806   0.20   8.45   -3.01   -4.34  Cantat-Gaudin 2020b ASCC 22, Theia 488, UPK 409
 EC95 1              Ori  06 14 38.0 +13 49 30  IR  EC      1.0   4000                                selected non-Gaia   Sh2-269, IRAS 06117+1350, BDB 192
 IRAS 06117+1901     Ori  06 14 40.9 +18 59 54  Op  OC     17.8   2208   0.77   8.05   -0.05   -1.25  Hunt 2021           ?FSR 909, DB 87, DB2001 29
-Skiff J0614+12.9    Ori  06 14 45.8 +12 52 12  Op  OC      3.1   4016   0.52   8.51    0.92   -1.96  Cantat-Gaudin 2020b FSR 963, Luginbuhl-Skiff 1, Skiff 4
+Skiff 4             Ori  06 14 45.8 +12 52 12  Op  OC      3.1   4016   0.52   8.51    0.92   -1.96  Cantat-Gaudin 2020b FSR 963, Luginbuhl-Skiff 1, Skiff J0614+12.9
 Theia 2991          Ori  06 14 48.0 +02 42 00  Op  OC     55.0   1366   0.58   8.21    0.45   -2.29  Alessi GEDR3        
 Platais 6           Ori  06 14 57.7 +03 46 28  Op  OC    178.4    320                 -4.25   -3.58  Alessi GEDR3        PLK98 8
 BDSB 82             Ori  06 14 59.3 +12 20 17  Op  EC      6.0   4115                 -0.16   -0.38  Alessi GDR2         Sh2-272, PK 197-02.2, Kj 1-1
@@ -3598,7 +3631,7 @@ FSR 909             Ori  06 15 25.0 +19 04 40  Op  OC      8.4   2266   0.69   8
 Bica 288            Ori  06 15 35.0 +14 17 07  IR  EC      2.5                                       selected non-Gaia   Sh2-269B, WB89 784
 Camargo 971         Ori  06 15 42.0 +14 25 59  IR  EC      3.0                                       selected non-Gaia   
 Ivanov 2            Ori  06 15 53.0 +14 16 04  IR  EC      6.0   3500          7.15    0.01   -0.57  Alessi GEDR3        BDSB 81, Sh2-267, PK 196-01.1, ARO 78, V-V 1-5
-Theia 281 a         Ori  06 16 48.0 +07 00 00  Op  MG    119.0    828   0.16   7.97   -0.97   -3.62  Alessi GEDR3        
+Theia 281 A         Ori  06 16 48.0 +07 00 00  Op  MG    119.0    828   0.16   7.97   -0.97   -3.62  Alessi GEDR3        
 GLM-G360 169        Ori  06 16 54.6 +16 24 02  IR  EC      4.6   3050                 -0.17   -1.04  Alessi GEDR3        
 Camargo 970         Ori  06 17 05.0 +14 37 50  IR  EC      3.0   4040                 -0.15   -0.40  Alessi GEDR3        IRAS 06142+1439
 Brand-Wouterloot 1  Ori  06 17 24.0 +14 54 50  IR  EC      2.5  11900          6.58                  selected non-Gaia   IRAS 06145+1455, WB89-789
@@ -3610,11 +3643,11 @@ FSR 902             Ori  06 18 18.0 +20 32 24  Op  OC     18.6   1818   0.40   7
 BDB 191             Ori  06 18 46.0 +15 16 51  IR  EC      2.4   3600                  0.04   -0.37  Alessi GEDR3        Sh2-266, MWC 137, V1308 Ori
 UBC 617             Ori  06 18 57.4 +10 07 16  Op  OC      6.8   2247   0.38   9.16   -1.38   -0.20  Cantat-Gaudin 2020b Theia 4212
 FSR 953             Ori  06 19 02.9 +14 09 00  Op  OC      6.2   3021   0.48   8.75   -0.13   -2.88  Cantat-Gaudin 2020b FoF 926
-Skiff J0619+18.5    Ori  06 19 19.0 +18 32 46  Op  OC     18.8   1553   0.24   8.03   -0.53   -1.28  Cantat-Gaudin 2020b Ferrero 48, Theia 2067, Skiff 5
+Skiff 5             Ori  06 19 19.0 +18 32 46  Op  OC     18.8   1553   0.24   8.03   -0.53   -1.28  Cantat-Gaudin 2020b Ferrero 48, Theia 2067, Skiff J0619+18.5
 UBC 438             Ori  06 19 24.2 +15 17 13  Op  OC     11.6   4831   0.83   6.67    0.15   -0.39  Cantat-Gaudin 2020b 
 Camargo 968         Ori  06 19 33.0 +17 22 45  IR  EC      5.0                                       selected non-Gaia   IRAS 06166+1724
 Camargo 965         Ori  06 20 40.0 +15 38 22  IR  EC      8.0                                       selected non-Gaia   IRAS 06178+1539
-Theia 281 b         Ori  06 20 48.0 +07 23 00  Op  OC     24.0    800                 -2.23   -1.89  Alessi GEDR3        
+Theia 281 B         Ori  06 20 48.0 +07 23 00  Op  OC     24.0    800                 -2.23   -1.89  Alessi GEDR3        
 PHOC 25             Ori  06 20 57.3 +07 19 17  Op  OC     16.2   2164                 -0.53   -2.64  Hunt 2021           
 FSR 941             Ori  06 21 46.8 +15 46 34  Op  OC      4.9   5051   0.81   8.68    0.76    0.14  Cantat-Gaudin 2020b 
 Froebrich Cl 23     Ori  06 21 47.7 +10 39 23  IR  EC      1.3   5780                                selected non-Gaia   IRAS 06190+1040
@@ -3632,7 +3665,9 @@ Balbinot 1          Peg  22 10 42.9 +14 56 27  Op  UFD     1.2  31900         10
 Kim 1               Peg  22 11 41.3 +07 01 32  Op  UFD     2.4  19800         10.08                  selected non-Gaia   
 HSC 1               Peg  22 17 14.2 +03 28 48  Op  UFD     0.8  46000         10.11                  selected non-Gaia   HSC J2217+0328
 Pegasus III         Peg  22 24 24.2 +05 24 36  Op  UFD     2.6 205000         10.07                  selected non-Gaia   
+Peg III             Peg  22 24 24.2 +05 24 36  Op  dSph    1.3 205000                                non-Gaia GCs        
 Renou 14            Peg  22 34 47.0 +29 57 50  Op  OC     42.0    317          8.75   -7.86   -4.34  Alessi GEDR3        Alessi 185, Theia 1188
+Palomar 13          Peg  23 06 44.5 +12 46 19  Op  GC      0.7  23480   0.05  10.04                  non-Gaia GCs        UGCA 435
 UBC 188             Per  01 49 51.8 +53 54 00  Op  OC     17.0   2985   0.16   7.32   -0.87   -1.56  Cantat-Gaudin 2020b SAI 15
 Stock 4             Per  01 52 09.4 +57 03 18  Op  OC     19.6   1372   0.14   8.22   -1.11    0.34  Cantat-Gaudin 2020b 
 Gaia 2              Per  01 52 33.0 +53 02 36  Op  OC      3.7   4900   0.28  10.00   -1.33    1.32  Garro 2021 priv     Kronberger 88
@@ -3649,7 +3684,7 @@ BDB 114             Per  02 16 31.0 +55 23 05  IR  EC      3.0   2500          8
 UPK 281             Per  02 16 47.7 +52 43 40  Op  MG    213.6    624          8.10   -4.07    0.39  Sim 2019            ?Theia 258, Theia 258
 UBC 419             Per  02 18 46.6 +58 55 26  Op  OC     20.5   2532   0.38   8.30   -0.92   -0.59  Cantat-Gaudin 2020b 
 NGC 869             Per  02 18 57.8 +57 08 02  Op  OC     16.3   2506   0.56   7.11   -0.69   -1.08  Cantat-Gaudin 2020b Theia 1729, h Per, FoF 2075
-Basel 10            Per  02 19 30.7 +58 18 14  Op  OC      3.8   2262   0.77   7.61   -0.48   -0.81  Cantat-Gaudin 2020b Dolidze 47b, FSR 586, FoF 913
+Basel 10            Per  02 19 30.7 +58 18 14  Op  OC      3.8   2262   0.77   7.61   -0.48   -0.81  Cantat-Gaudin 2020b FSR 586, FoF 913
 BDB 113             Per  02 21 08.0 +58 59 06  IR  EC      2.0                                       selected non-gaia   IRAS 02175+5845
 FoF 921             Per  02 22 17.4 +58 00 03  Op  OC     24.8   3690   0.71   7.40   -1.04   -0.36  Dias 2021           
 NGC 884             Per  02 22 20.2 +57 08 56  Op  OC     15.0   2513   0.56   7.19   -0.63   -1.07  Cantat-Gaudin 2020b Chi Per
@@ -3665,7 +3700,7 @@ Czernik 8           Per  02 32 57.6 +58 45 50  Op  OC      3.0   3012   0.80   7
 FoF 2134            Per  02 33 02.5 +58 11 18  Op  OC    159.2   2203          8.15   -0.23   -0.79  Liu 2019            ?FSR 596, FoF 180, UBC 191, UBC 192, UBC 606, UBC 421
 NGC 957             Per  02 33 22.3 +57 33 11  Op  OC     15.6   2469   0.71   7.25   -0.25   -1.07  Cantat-Gaudin 2020b Collinder 28, FSR 603, Theia 1659
 UPK 286             Per  02 36 12.6 +56 22 13  Op  MG    160.8    705          8.95    0.30   -3.68  Sim 2019            Theia 862
-Trumpler 2          Per  02 36 55.7 +55 54 18  Op  OC     38.8    699   0.32   7.96    1.58   -5.35  Cantat-Gaudin 2020b Collinder 29, FoF 2297, Theia 851
+Trumpler 2          Per  02 36 55.7 +55 54 18  Op  OC     38.8    699   0.32   7.96    1.58   -5.35  Cantat-Gaudin 2020b FoF 2297, Theia 851
 Czernik 12          Per  02 39 24.7 +54 55 19  Op  OC      5.6   2075   0.27   9.08   -0.19    0.93  Cantat-Gaudin 2020b FSR 619, Theia 6569
 UPK 303             Per  02 40 12.9 +40 17 28  Op  OC     88.1    217   0.02   7.93   18.20  -24.15  Cantat-Gaudin 2020b 
 M 34                Per  02 42 07.4 +42 43 19  Op  OC     48.4    513   0.07   8.25    0.72   -5.68  Cantat-Gaudin 2020b NGC 1039, FoF 2264, Theia 251, UPK 299
@@ -3702,7 +3737,7 @@ Gulliver 25         Per  03 28 02.6 +45 09 07  Op  OC     39.7   1406   0.29   8
 NGC 1333            Per  03 29 11.3 +31 18 36  Op  OC     11.4    299   0.95   6.80    7.42   -9.87  Cantat-Gaudin 2020b LAL96 1, LAL96 1 + LAL96 2, LAL96 2, Theia 21
 Czernik 16          Per  03 31 01.0 +52 36 43  Op  OC      6.8   2941   0.90   8.30    0.80   -2.18  Cantat-Gaudin 2020b FSR 645
 NGC 1342            Per  03 31 34.6 +37 22 48  Op  OC     34.7    666   0.33   8.65    0.52   -1.60  Cantat-Gaudin 2020b Collinder 40, FSR 679, FoF 2265, Melotte 21, Theia 853, UPK 330
-ASCC 11             Per  03 32 13.4 +44 51 22  Op  OC     37.4    876   0.23   8.50    0.93   -3.03  Cantat-Gaudin 2020b FoF 2205, Santa 33, TC 0332+4450, Teutsch J0332+4450, Theia 152, UPK 316
+ASCC 11             Per  03 32 13.4 +44 51 22  Op  OC     37.4    876   0.23   8.50    0.93   -3.03  Cantat-Gaudin 2020b FoF 2205, Santa 33, TC 0332+4450, Theia 152, UPK 316
 Loktin-Popova 4     Per  03 32 31.2 +51 31 12  Op  OC     15.0   3460   0.56   8.58    0.40   -1.06  Alessi GDR2         Reiland 3
 Berkeley 9          Per  03 32 40.1 +52 38 56  Op  OC      6.4   1949   0.79   9.18    1.49    0.04  Cantat-Gaudin 2020b FSR 646, FoF 722, Theia 5840
 NGC 1348            Per  03 34 05.8 +51 24 32  Op  OC      8.2   2475   0.92   8.11    1.29   -0.73  Cantat-Gaudin 2020b FSR 650, FoF 724, Theia 2975
@@ -3818,11 +3853,14 @@ UBC 429             Per  04 50 18.7 +44 45 43  Op  OC      5.0   2740   0.59   8
 RSG 9               Per  04 50 57.6 +52 13 48  Op  OC    307.2    315   0.05   8.25    9.32  -16.93  Alessi GDR2         Theia 536, HD 233019 Grp
 DES 1               Phe  00 33 59.8 -49 02 18  Op  EGC     0.7  82400         10.00                  selected non-Gaia   DES J0034-4902
 Phoenix II          Phe  23 39 59.4 -54 24 22  Op  UFD     2.4  89000         10.13    0.80   -1.20  Alessi GEDR3        DES J2339-5424
+Phe II              Phe  23 39 59.4 -54 24 22  Op  dSph    1.2  89000         10.13                  non-Gaia GCs        DES J2339-5424
 Pictor I            Pic  04 43 47.4 -50 16 59  Op  UFD     1.4 120000                                selected non-Gaia   DES J0443-5017
+Pic I               Pic  04 43 47.4 -50 16 59  Op  dSph    0.9 120000         10.07                  non-Gaia GCs        DES J0443-5017
 ESO 121-3           Pic  06 02 03.1 -60 31 25  Op  EGC     3.3  45700          9.93    1.63    0.87  Alessi GEDR3        AM 0601-603, KMHK 1591
 SL 842              Pic  06 08 15.4 -62 59 14  Op  OC      2.2  49900                  1.36    0.79  Alessi GEDR3        
 Pictor II           Pic  06 44 43.2 -59 54 00  Op  UFD     7.2  45000                                selected non-Gaia   MagLiteS J0664-595
-Eta PsA Cl          PsA  22 00 36.1 -29 02 20  Op  MG    427.7    261          8.06   15.30    0.10  Alessi GEDR3        
+Pic II              Pic  06 44 43.2 -59 54 00  Op  dSph    3.6  45000         10.00                  non-Gaia GCs        MagLiteS J0664-5953
+Eta PsA             PsA  22 00 36.1 -29 02 20  Op  MG    427.7    261          8.06   15.30    0.10  Alessi GEDR3        
 MAF 3               Psc  00 14 25.4 +02 26 04  Op  Ovd   960.0    120          8.08   19.29  -15.33  Alessi GEDR3        
 Platais C2          Psc  01 14 15.3 +31 58 02  Op  OC     75.1    209                 13.00  -11.87  Alessi GDR2 (chk)   
 NGC 2298            Pup  06 48 59.5 -36 00 18  Op  GC     13.8   8547   0.14  10.10    3.32   -2.17  arXiv:2102.09568v1  
@@ -4234,12 +4272,16 @@ ESO 371-25          Pyx  08 52 59.5 -35 28 34  Op  OC      2.8   7463   0.42   9
 Theia 3039          Pyx  08 55 36.0 -25 42 00  Op  OC     54.0    940          8.22   -6.46    2.71  Alessi GEDR3        
 UPK 499             Pyx  09 02 16.1 -29 08 24  Op  YA    220.8   1001          7.90   -6.75    2.67  Sim 2019            
 UPK 508             Pyx  09 03 06.0 -34 56 31  Op  OC     23.0    849   0.21   8.60  -10.56    6.24  Cantat-Gaudin 2020b Theia 891, UBC 477
+Pyx Cl              Pyx  09 07 58.0 -37 13 17  Op  GC      4.0  36530   0.21  10.06                  non-Gaia GCs        Weinberger 3
 Theia 376           Pyx  09 14 46.9 -30 30 41  Op  OC    350.0    259          8.18  -20.90   16.47  Alessi GEDR3        
 NGC 2818            Pyx  09 16 10.6 -36 37 26  Op  OC      9.4   3636   0.13   8.92   -4.44    4.53  Cantat-Gaudin 2020b 
 Reticulum II        Ret  03 35 42.1 -54 02 57  Op  UFD     7.2  30900         10.08    2.41   -1.35  Alessi GEDR3        DES J0335-5403
+Ret II              Ret  03 35 42.1 -54 02 57  Op  dSph    3.6  30900         10.13                  non-Gaia GCs        DES J0335-5403
 Reticulum III       Ret  03 45 26.4 -60 27 00  Op  UFD     4.8  92000         10.10                  selected non-Gaia   DES J0345-6026
+Ret III             Ret  03 45 26.4 -60 27 00  Op  dSph    2.4  92000                                non-Gaia GCs        DES J0345-6026
 HS 8                Ret  04 30 38.2 -66 57 17  Op  OC      0.7  49900          9.20    1.60   -0.23  Alessi GEDR3        KMHK 5
-Reticulum Cl        Ret  04 36 09.2 -58 51 36  Op  EGC     6.0  49900         10.08    1.99   -0.33  Alessi GEDR3        
+Reticulum           Ret  04 36 00.1 -58 51 03  Op  GC      4.7  49900         10.10                  non-Gaia GCs        Ser 40/3, KMHK 10, ESO 118-31
+Reticulum           Ret  04 36 09.2 -58 51 36  Op  EGC     6.0  49900         10.08    1.99   -0.33  Alessi GEDR3        
 Blanco 1            Scl  00 03 24.7 -29 57 29  Op  OC     83.9    238   0.01   7.89   18.74    2.60  Cantat-Gaudin 2020b Zeta Scl, OPD 17, UPK 9
 NGC 288             Scl  00 52 45.1 -26 34 59  Op  GC     37.2   7299   0.03  10.10    4.16   -5.71  arXiv:2102.09568v1  ESO 474-37
 OPD 25              Sco  15 56 03.2 -29 22 49  Op  MG    752.5    108                -21.98  -33.56  2017AJ....153..257O 
@@ -4293,13 +4335,13 @@ UPK 638             Sco  16 54 39.9 -42 34 30  Op  MG    231.6    679          8
 ESO 332-8           Sco  16 54 45.7 -40 43 48  Op  OC     19.6   1890   0.24   8.17   -0.27   -1.35  Dias 2021           Yalyalieva G
 Yalyalieva E        Sco  16 54 53.3 -41 06 11  Op  OC      6.6   1663          8.15   -1.72   -3.75  arXiv:2004.13418v1  
 Lynga 14            Sco  16 55 03.4 -45 14 20  Op  OC      4.2   3247                 -0.34   -1.98  2020A&A...633A..99C 
-BH 202              Sco  16 55 07.0 -40 56 49  Op  OC      7.7   1815   0.59   8.32   -1.87   -3.80  Cantat-Gaudin 2020b Ruprecht 122, FoF 441, Theia 3570, Yalyalieva A
+Ruprecht 122        Sco  16 55 07.0 -40 56 49  Op  OC      7.7   1815   0.59   8.32   -1.87   -3.80  Cantat-Gaudin 2020b BH 202, FoF 441, Theia 3570, Yalyalieva A
 NGC 6242            Sco  16 55 30.7 -39 28 26  Op  OC     12.5   1325   0.38   7.69    1.15   -0.82  Cantat-Gaudin 2020b FoF 1621, Theia 2127
 UBC 671             Sco  16 55 58.1 -43 12 25  Op  OC      5.6   2695   0.78   8.30   -0.84   -2.42  Cantat-Gaudin 2020b 
 BH 205              Sco  16 56 12.7 -40 38 10  Op  OC     11.6   1757   0.41   7.00   -0.15   -1.08  Cantat-Gaudin 2020b UBC 323, FoF 2157, Yalyalieva B1, Yalyalieva B2
 La Serena 434       Sco  16 56 34.6 -40 14 24  IR  OC?     0.8                                       selected non-Gaia   
 ESO 332-13          Sco  16 56 40.8 -40 35 19  Op  OC     16.2   1792   0.56   6.82   -0.08   -1.12  Dias 2021           FoF 2157, Yalyalieva B3
-Trumpler 24         Sco  16 57 00.0 -40 40 00  Op  OB     60.0   1625   0.42   6.92   -0.20   -1.10  Alessi GEDR3        Collinder 316, Harvard 12, Sco OB2
+Trumpler 24         Sco  16 57 00.0 -40 40 00  Op  OB     60.0   1625   0.42   6.92   -0.20   -1.10  Alessi GEDR3        Harvard 12, Collinder 316, Sco OB2
 NGC 6249            Sco  16 57 46.8 -44 48 54  Op  OC      4.9   1269   0.47   7.35    1.73   -3.43  Cantat-Gaudin 2020b Theia 1675
 UBC 552             Sco  16 58 53.8 -42 03 36  Op  OC      9.6   2817   1.02   6.91   -0.16   -0.39  Cantat-Gaudin 2020b UFMG 57
 La Serena 444       Sco  16 59 06.8 -42 42 10  Op  IR      1.8                                       selected non-Gaia   IRAS 16555-4237
@@ -4560,7 +4602,7 @@ Alicante 8          Sct  18 34 51.0 -07 14 00  IR  RS      7.0   7440          7
 Aladin D            Sct  18 35 07.8 -08 05 20  Op  OC      8.0   2270                 -0.04   -1.30  Alessi GEDR3        
 BDO 1               Sct  18 36 17.0 -06 43 29  Op  EC      1.0   4230                 -0.27   -2.07  Alessi GEDR3        
 Quartet Cl          Sct  18 36 17.0 -07 05 02  IR  OC      1.5   6300          6.78                  selected non-Gaia   Ryu 858
-Alicante 6          Sct  18 36 19.5 -06 39 06  Op  EC      1.8   2760          6.29   -0.22   -2.15  Alessi GEDR3        Dolidze 31, G3CC 58, MWM 58, TC 1836-0639, Teutsch J1836-0639
+Alicante 6          Sct  18 36 19.5 -06 39 06  Op  EC      1.8   2760          6.29   -0.22   -2.15  Alessi GEDR3        Dolidze 31, G3CC 58, MWM 58, TC 1836-0639
 FSR 72              Sct  18 36 20.0 -06 46 46  Op  OC     14.8   2764   1.21   8.70   -0.22   -2.25  Hunt 2021           
 NGC 6664            Sct  18 36 30.0 -08 11 38  Op  OC     12.2   2137   0.71   7.19   -0.09   -2.56  Cantat-Gaudin 2020b Alessi 153, Collinder 385, FoF 1219, Iss 603, Theia 2336
 Dolidze 31          Sct  18 36 35.3 -06 43 19  Op  OB     14.2   2020          6.00   -0.94   -2.29  Alessi GEDR3        Alicante 6, TC 1836-0642
@@ -4572,6 +4614,7 @@ BDSB 122            Sct  18 37 58.0 -06 53 00  IR  RS      5.0   4000          7
 UBC 101             Sct  18 37 59.0 -07 08 06  Op  OC      8.4   2421   0.88   7.45   -0.32   -3.04  Cantat-Gaudin 2020b 
 GEDR3-13            Sct  18 38 12.0 -06 58 48  Op  OC     15.0   1883                 -1.05   -2.33  Alessi GEDR3        
 W42 Cl              Sct  18 38 15.0 -06 47 50  Op  EC      4.5   3900          6.00   -0.74   -2.45  Alessi GEDR3        
+W 42 Cl             Sct  18 38 15.0 -06 47 50  IR  RSG     4.5   4050          6.00                  non-Gaia GCs        BDB 13, MDF 6
 GEDR3-14            Sct  18 38 30.0 -07 00 00  Op  OC     15.0   1740                  0.49   -4.89  Alessi GEDR3        
 Bica 68             Sct  18 38 34.0 -06 06 02  Op  OC      2.0   3700                 -0.78   -2.52  Alessi GEDR3        
 FoF 449             Sct  18 38 54.4 -06 25 36  Op  OC     13.7   2550          9.41   -0.93   -1.28  Alessi GEDR3        Teutsch 271
@@ -4602,7 +4645,7 @@ Ryu 878             Sct  18 41 20.1 -04 47 32  Op  OC      1.1   2755           
 Ryu 876             Sct  18 41 34.4 -05 24 56  Op  OC      1.8   3100                 -0.83   -3.27  Alessi GEDR3        
 Dolidze 34          Sct  18 41 34.6 -04 13 11  Op  OC     10.4   2432   1.04   7.95   -0.85   -0.55  Hunt 2021           
 Aladin A            Sct  18 41 37.0 -06 28 00  Op  OC      4.4   3400                 -1.18   -3.51  Alessi GEDR3        
-UBC 106             Sct  18 41 54.0 -05 25 01  Op  OC     14.5   2506   0.60   8.20   -1.09   -1.32  Cantat-Gaudin 2020b Bigourdan II, FoF 1222, IC 4768 B, Theia 4850
+UBC 106             Sct  18 41 54.0 -05 25 01  Op  OC     14.5   2506   0.60   8.20   -1.09   -1.32  Cantat-Gaudin 2020b Bigourdan II, IC 4768 B, FoF 1222, Theia 4850
 NGC 6683            Sct  18 42 12.9 -06 14 42  Op  OC      5.3   3318   0.33   7.00   -0.32   -2.27  Hunt 2021           FoF 1221
 FoF 1663            Sct  18 42 13.9 -04 30 06  Op  OC     25.2   2890          9.22   -1.21   -3.61  Alessi GEDR3        
 PHOC 6              Sct  18 42 21.5 -07 13 56  Op  OC      7.3   2620                  0.88   -2.85  Hunt 2021           
@@ -4611,7 +4654,7 @@ UBC 102             Sct  18 42 27.1 -06 54 14  Op  OC     10.9   1949   0.36   8
 Teutsch 145         Sct  18 42 28.1 -05 14 56  Op  OC      2.3   3788   1.77   8.62   -1.64   -3.44  Cantat-Gaudin 2020b GDS J1842359-051557
 UBC 103             Sct  18 42 31.9 -06 35 31  Op  OC      7.9   3509   0.44   7.35   -0.40   -2.27  Cantat-Gaudin 2020b FoF 297, Theia 2835
 UBC 104             Sct  18 42 46.1 -06 15 25  Op  OC      7.2   3390   0.55   8.12    0.49   -0.81  Cantat-Gaudin 2020b Theia 3420
-Trumpler 35         Sct  18 42 57.8 -04 12 54  Op  OC      5.6   3135   1.17   7.86   -1.03   -2.22  Cantat-Gaudin 2020b Collinder 388
+Trumpler 35         Sct  18 42 57.8 -04 12 54  Op  OC      5.6   3135   1.17   7.86   -1.03   -2.22  Cantat-Gaudin 2020b 
 Theia 1905          Sct  18 43 00.0 -10 00 00  Op  OC     15.0   2008          7.59    0.51   -0.85  Alessi GEDR3        
 UPK 18              Sct  18 43 03.1 -15 19 30  Op  OC     19.8    781   0.39   8.45    3.11    0.98  Cantat-Gaudin 2020b Theia 479
 GEDR3-8             Sct  18 43 24.0 -04 27 00  Op  OC      6.0   2920                 -1.57   -4.01  Alessi GEDR3        
@@ -4667,7 +4710,7 @@ VVVX CL 81          Ser  18 14 21.0 -12 44 33  IR  EC      0.7   1300           
 UBC 342             Ser  18 15 39.4 -14 55 30  Op  OC     24.5   1653   0.56   7.11   -0.17   -1.04  Cantat-Gaudin 2020b ASCC 94, Theia 1703
 VVVX CL 86          Ser  18 16 09.6 -13 45 20  Op  OC      1.3   1718                                selected non-Gaia   
 Alessi J1816-1529   Ser  18 16 16.0 -15 28 35  Op  OC     30.0   1590                 -0.42   -0.90  Alessi GEDR3        
-Trumpler 32         Ser  18 17 10.6 -13 20 56  Op  OC      6.8   1730   0.71   8.80   -1.05    1.16  Cantat-Gaudin 2020b Collinder 372, FoF 447, Harvard 19, Theia 4347
+Trumpler 32         Ser  18 17 10.6 -13 20 56  Op  OC      6.8   1730   0.71   8.80   -1.05    1.16  Cantat-Gaudin 2020b Harvard 19, FoF 447, Theia 4347
 BDSB 9              Ser  18 17 53.0 -11 44 26  Op  EC      2.5   2020                 -0.41   -1.94  Alessi GEDR3        Gum 85
 UBC 344             Ser  18 17 54.0 -12 04 59  Op  OC     19.3   2146   0.94   6.54   -0.33   -2.17  Cantat-Gaudin 2020b FoF 448, Theia 1650
 Azat-Nikog 3        Ser  18 17 58.2 -12 07 30  IR  EC      0.7                                       selected non-Gaia   IRAS 18151-1208, VVVX CL 96, Bica 52
@@ -4707,6 +4750,7 @@ FSR 101             Ser  18 49 14.2 +02 46 01  Op  OC?     4.0   3680          8
 Czernik 38          Ser  18 49 48.2 +04 57 54  Op  OC      4.9   2611   1.33   8.27   -1.84   -5.00  Cantat-Gaudin 2020b FSR 109, FoF 2174, FoF 468
 Archinal 1          Ser  18 54 50.8 +05 33 12  Op  OC      4.9   1670          7.02   -0.17   -1.71  Alessi GEDR3        
 BDSB 130            Ser  18 56 32.0 +02 24 03  IR  OC      1.7  10380                                selected non-Gaia   
+Palomar 3           Sex  10 05 31.8 +00 04 19  Op  EGC     1.6  94800   0.04  10.00                  non-Gaia GCs        UGC 5439, Sex C
 Steine 30           Sge  19 12 06.0 +17 16 48  Op  OC:     0.9   6000                 -2.20   -4.55  Alessi GEDR3        DSH J1912+1716
 Berkeley 44         Sge  19 17 15.1 +19 33 00  Op  OC      6.0   3300   1.06   9.15    0.01   -2.83  Cantat-Gaudin 2020b FSR 138, FoF 474
 Palomar 10          Sge  19 18 02.2 +18 34 19  Op  GC     16.8   8850   1.67   9.80   -4.33   -7.17  arXiv:2102.09568v1  FSR 137
@@ -4731,14 +4775,14 @@ Teutsch 27          Sge  19 37 22.3 +18 42 00  Op  OC      1.1   4082   0.96   8
 ASCC 104            Sge  19 38 58.1 +18 39 54  Op  OC     48.0    902          7.71   -0.73   -5.56  Alessi GEDR3        Theia 745
 UBC 124             Sge  19 41 37.0 +19 02 10  Op  OC      9.4   2755   0.79   8.07   -1.89   -5.26  Cantat-Gaudin 2020b 
 UPK 60              Sge  19 42 09.2 +17 43 14  Op  YA    153.6    706          7.90    0.80   -6.77  Sim 2019            Theia 553
-UPK 63              Sge  19 44 59.4 +17 33 10  Op  OC     26.4    862          7.75   -0.82   -5.83  Sim 2019            
+Roslund 1           Sge  19 44 59.4 +17 33 10  Op  OC     26.4    862          7.75   -0.82   -5.83  Sim 2019            UPK 63
 Gulliver 55         Sge  19 51 19.9 +18 39 40  Op  OC     10.2   2710   0.28   9.34   -2.04   -2.53  Cantat-Gaudin 2020b Theia 7398
 Harvard 20          Sge  19 53 17.0 +18 20 42  Op  OC      9.5   2169   0.23   8.05   -1.73   -4.45  Cantat-Gaudin 2020b Collinder 408, FSR 144, Theia 3438, UBC 362
 M 71                Sge  19 53 46.6 +18 46 44  Op  GC     26.4   4049   0.25  10.05   -3.42   -2.65  arXiv:2102.09568v1  NGC 6838, FoF 46
 Roslund 3           Sge  19 58 46.8 +20 30 32  Op  OC      9.7   1709   0.34   7.88   -0.39   -5.11  Cantat-Gaudin 2020b FoF 2069, Theia 2301
 UPK 79              Sge  20 15 57.4 +21 26 49  Op  OC     44.4    933   0.12   8.24   -2.15   -5.43  Cantat-Gaudin 2020b Theia 666
 DB 58               Sgr  17 45 00.0 -28 51 35  Op  EC      0.9   2930   1.98   6.00    0.17   -0.39  Alessi GEDR3        Sh2-17
-Central cluster     Sgr  17 45 40.0 -29 00 28  IR  OC      0.7   8180                                selected non-Gaia   Sgr A*, IRS 16, BDS 276
+Central cluster     Sgr  17 45 40.0 -29 00 28  IR  OC      0.7   8180                                selected non-Gaia   Sgr A*, IRS 16, BDB 276
 Arches              Sgr  17 45 50.5 -28 49 21  IR  SSC     0.5   8230          6.40                  selected non-Gaia   NHS93 17, G0.121+0.017, BDB 1, LMR 0
 Minni 215           Sgr  17 45 55.8 -27 17 27  IR  OC      2.0                                       selected non-Gaia   
 LMR 279             Sgr  17 45 58.0 -29 01 05  IR  OC      3.5                                       selected non-Gaia   
@@ -4963,8 +5007,11 @@ Terzan 7            Sgr  19 17 43.9 -34 39 29  Op  GC      9.6  21739   0.07   9
 Arp 2               Sgr  19 28 44.2 -30 21 22  Op  GC      8.0  29600         10.10   -2.31   -1.49  Alessi GEDR3        
 M 55                Sgr  19 39 59.8 -30 57 54  Op  GC     40.8   4854   0.08  10.10   -3.43   -9.31  arXiv:2102.09568v1  NGC 6809, FoF 2050, FoF 9
 HLL 1               Sgr  19 40 11.8 -15 21 47  Op  EGC     0.4 494000          9.25                  selected non-Gaia   
+HLL11 C1            Sgr  19 40 11.8 -15 21 47  Op  EGC     0.3 496000   0.16   9.25                  non-Gaia GCs        N6822 EO-1
 Terzan 8            Sgr  19 41 44.4 -33 59 56  Op  GC     13.2  20833   0.12  10.10   -2.50   -1.58  arXiv:2102.09568v1  
+HLL11 C2            Sgr  19 43 04.4 -14 58 21  Op  EGC     0.2 496000   0.22   9.25                  non-Gaia GCs        N6822 EO-2
 HLL 2               Sgr  19 43 04.4 -14 58 22  Op  EGC     0.2 494000          9.25                  selected non-Gaia   
+HFV13 SC5           Sgr  19 43 42.3 -14 41 59  Op  EGC     0.2 496000   0.22  10.10                  non-Gaia GCs        
 HFV 5               Sgr  19 43 42.3 -14 42 00  Op  EGC     0.3 494000         10.10                  selected non-Gaia   
 Hubble I            Sgr  19 44 31.5 -14 41 58  Op  EC      0.3 494000                                selected non-Gaia   
 Hubble III          Sgr  19 44 34.2 -14 42 24  Op  EC      0.5 494000                                selected non-Gaia   
@@ -4975,10 +5022,14 @@ Hubble VII          Sgr  19 44 55.7 -14 48 56  Op  GC      0.1 494000         10
 Hubble VIII         Sgr  19 44 58.2 -14 43 14  Op  OC      0.1 494000          8.97                  selected non-Gaia   
 Hubble IX           Sgr  19 45 04.9 -14 49 29  Op  OC      0.1 494000                                selected non-Gaia   
 Hubble X            Sgr  19 45 05.1 -14 43 24  Op  EC      0.7 494000          6.91                  selected non-Gaia   
+HFV13 SC6           Sgr  19 45 37.0 -14 41 10  Op  GC      0.1 496000   0.19  10.10                  non-Gaia GCs        
 HFV 6               Sgr  19 45 37.0 -14 41 11  Op  GC      0.2 494000         10.10                  selected non-Gaia   
 HLL 3               Sgr  19 45 40.2 -14 49 25  Op  GC      0.1 494000         10.10                  selected non-Gaia   
+HLL11 C3            Sgr  19 45 40.2 -14 49 25  Op  GC      0.1 496000   0.19  10.10                  non-Gaia GCs        
 HFV 7               Sgr  19 46 00.9 -14 32 35  Op  GC      0.2 494000         10.10                  selected non-Gaia   
+HFV13 SC7           Sgr  19 46 00.9 -14 32 35  Op  GC      0.1 496000   0.21  10.10                  non-Gaia GCs        
 HLL 4               Sgr  19 47 30.5 -14 26 49  Op  EGC     0.3 494000         10.10                  selected non-Gaia   
+HLL11 C4            Sgr  19 47 30.5 -14 26 49  Op  EGC     0.3 496000   0.19  10.10                  non-Gaia GCs        N6822 EO-3
 Sgr II              Sgr  19 52 40.5 -22 04 05  Op  UFD     2.0  73100                 -1.18   -1.14  Alessi GEDR3        Laevens 5
 M 75                Sgr  20 06 04.8 -21 55 16  Op  GC     13.2  15152   0.16  10.05   -0.60   -2.81  arXiv:2102.09568v1  NGC 6864
 u Tau Asc           Tau  03 44 00.0 +05 27 36  Op  YA    360.0    182          7.76   21.70  -13.60  arXiv:2003.11725    UPK 378
@@ -5072,12 +5123,14 @@ UPK 616             TrA  16 21 05.7 -61 44 00  Op  MG    126.0    935          8
 OPD 14              TrA  16 53 41.6 -67 47 17  Op  OC    232.9    222          8.15  -13.86  -12.54  Alessi GEDR3        Theia 216, UPK 612
 UPK 612             TrA  16 53 41.6 -67 47 17  Op  OC    232.9    231   0.05   8.00  -13.32  -12.02  Cantat-Gaudin 2020b OPD 14, Theia 216
 Triangulum II       Tri  02 13 17.4 +36 10 42  Op  UFD     7.8  30000                                selected non-Gaia   Laevens 2
+Tri II              Tri  02 13 17.4 +36 10 42  Op  dSph    3.9  30000         10.11                  non-Gaia GCs        Laevens 2
 GEDR3-16            Tri  02 22 00.0 +30 00 00  Op  OC    150.0    811                  9.95   -3.40  Alessi GEDR3        
 Tucana IV           Tuc  00 02 55.2 -60 51 00  Op  UFD    18.2  48000         10.06    0.53   -1.71  Alessi GEDR3        DES J0002-6051
+Tuc IV              Tuc  00 02 55.2 -60 51 00  Op  dSph    9.1  48000         10.06                  non-Gaia GCs        DES J0002-6051
 Lindsay 1           Tuc  00 03 54.0 -73 28 19  Op  GC      4.6  53900          9.83    0.58   -1.51  Alessi GEDR3        ESO 28-8
 Bologna A           Tuc  00 21 31.0 -71 56 07  Op  OC      0.8  60700          9.48    0.31   -0.98  Alessi GEDR3        OGLE-SMC-CL-321
 NGC 104             Tuc  00 24 05.8 -72 04 52  Op  GC    114.0   4444   0.04  10.10    5.25   -2.55  arXiv:2102.09568v1  47 Tuc
-NGC 121             Tuc  00 26 47.0 -71 32 12  Op  GC      3.8  61400         10.08    0.42   -1.22  Alessi GEDR3        ESO 50-12, K 2, L 10
+NGC 121             Tuc  00 26 47.0 -71 32 12  Op  GC      3.8  61400         10.08    0.42   -1.22  Alessi GEDR3        ESO 50-12, Kron 2, L 10
 Beta Tuc            Tuc  00 27 37.4 -62 48 06  Op  YA    636.0     44          7.79   87.27  -50.90  Alessi GEDR3        
 Lindsay 32          Tuc  00 47 24.0 -68 55 10  Op  OC      1.3  61940                  0.65   -1.26  Alessi GEDR3        ESO 51-2
 Lindsay 38          Tuc  00 48 50.0 -69 52 11  Op  OC      1.8  61940                  0.67   -0.91  Alessi GEDR3        ESO 51-3
@@ -5086,13 +5139,17 @@ NGC 346             Tuc  00 59 05.1 -72 10 33  Op  SSC?    2.0  60600          7
 NGC 362             Tuc  01 03 14.2 -70 50 56  Op  GC     28.2   9091   0.05  10.10    6.69   -2.54  arXiv:2102.09568v1  ESO 51-13
 SOGLEIV 259         Tuc  01 06 45.0 -74 49 59  Op  OC      1.1  61940                  0.60   -1.25  Alessi GEDR3        OGLE-MBR-CL-258
 Tucana II           Tuc  22 51 51.9 -58 34 06  Op  UFD    19.6  63500         10.10    0.88   -1.22  Alessi GEDR3        DES J2251-5836
+Tuc II              Tuc  22 51 51.9 -58 34 06  Op  dSph    9.8  57000                                non-Gaia GCs        DES J2251-5836
 DS Tuc              Tuc  23 36 13.8 -68 59 50  Op  MG    309.0     44          7.31   78.13  -68.04  Alessi GEDR3        
 Tucana V            Tuc  23 37 24.0 -63 16 12  Op  UFD?    2.0  55000         10.04                  selected non-Gaia   DES J2337-6316
+Tuc V               Tuc  23 37 24.0 -63 16 12  Op  UFD?    2.0  55000         10.04                  non-Gaia GCs        DES J2337-6316
 AM-3                Tuc  23 48 59.0 -72 56 43  Op  OC      0.9  61940          9.72    0.46   -1.29  Alessi GEDR3        
 Tucana III          Tuc  23 56 36.0 -59 36 00  Op  UFD    12.0  25000         10.04    0.10   -1.49  Alessi GEDR3        DES J2356-5935
+Tuc III             Tuc  23 56 36.0 -59 36 00  Op  dSph    6.0  25000         10.04                  non-Gaia GCs        DES J2356-5935
 UMa II              UMa  08 51 29.6 +63 08 18  Op  UFD    16.0  33700                                selected non-Gaia   
-OPD 67 B            UMa  08 54 15.4 +64 35 02  Op  MG?   960.0    142                -45.15  -43.34  Alessi GEDR3        
+OPD 67              UMa  08 54 15.4 +64 35 02  Op  MG?   960.0    142                -45.15  -43.34  Alessi GEDR3        
 Willman 1           UMa  10 49 21.0 +51 03 00  Op  UFD     3.6  39800                                selected non-Gaia   SDSS J1049+5103
+Palomar 4           UMa  11 29 16.5 +28 58 22  Op  GC      1.3 101400   0.01  10.05                  non-Gaia GCs        
 Alessi 109          UMa  11 31 26.3 +63 52 48  Op  OC    254.9    246          8.50   11.72    1.87  Alessi GEDR3        
 UMa Cl              UMa  12 52 27.2 +55 14 23  Op  OC    894.7     25          8.48  111.95  -11.70  Alessi GEDR3        
 Group X             UMa  14 23 16.8 +55 12 00  Op  OC    347.5     99          8.60  -16.75   -3.38  arXiv:1902.07216v2  Latyshev 2, OPD 10
@@ -5420,6 +5477,7 @@ Yun-Figueira 1      Vel  10 52 15.0 -56 46 28  IR  EC      1.0   3704           
 UPK 562             Vel  11 03 26.7 -56 58 41  Op  OC     58.7    834   0.10   7.99  -11.69    4.88  Cantat-Gaudin 2020b Theia 417
 Koposov 1           Vir  11 59 18.4 +12 15 36  Op  UFD     1.2  34900          9.90   -1.50   -0.77  Alessi GEDR3        
 Virgo I             Vir  12 00 09.6 -00 40 48  Op  UFD     3.5  91000         10.11                  selected non-Gaia   HSC J1200-0040
+Vir I               Vir  12 00 09.6 -00 40 48  Op  dSph    1.8  91000         10.11                  non-Gaia GCs        HSC J1200-0040
 NGC 5634            Vir  14 29 37.2 -05 58 34  Op  GC     13.8  18868   0.05  10.10   -1.69   -1.48  arXiv:2102.09568v1  
 KMHK 1761           Vol  06 33 00.0 -72 26 01  Op  OC      0.9  49900                                selected non-Gaia   
 MWSC 5671           Vol  07 05 06.0 -73 22 48  Op  OC?    25.2   4530                  1.24    1.31  Alessi GEDR3        

@@ -28839,3 +28839,9 @@ vdBergh 92                    ;FoF 2082                      ;  168;   244;  115
 vdBergh 92                    ;Magakian 242                  ;     ;      ;     ;        ;
 vdBergh 92                    ;Theia 1654                    ;     ;      ;     ;        ;
 vdBergh 92                    ;Theia 1654                    ;  168;   404;   52;  30.952;  12.871
+Collinder 213                 ;UBC 492                       ;     ;      ;     ;        ;
+UBC 492                       ;Collinder 213                 ;     ;      ;     ;        ;
+ASCC 2                        ;UBC 183                       ;     ;      ;     ;        ;
+ASCC 2                        ;FoF 2296                      ;     ;      ;     ;        ;
+UBC 183                       ;ASCC 2                        ;     ;      ;     ;        ;
+FoF 2296                      ;ASCC 2                        ;     ;      ;     ;        ;

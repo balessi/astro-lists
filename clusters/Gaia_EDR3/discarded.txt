@@ -8,7 +8,6 @@ ASCC 122
 ASCC 14
 ASCC 15
 ASCC 17
-ASCC 2
 ASCC 24
 ASCC 25
 ASCC 26
@@ -28,7 +27,6 @@ ASCC 47
 ASCC 48
 ASCC 52
 ASCC 53
-ASCC 54
 ASCC 55
 ASCC 56
 ASCC 57
@@ -38,7 +36,6 @@ ASCC 72
 ASCC 74
 ASCC 76
 ASCC 78
-ASCC 8
 ASCC 81
 ASCC 82
 ASCC 83
@@ -209,7 +206,6 @@ Alessi-Teutsch 6
 Alessi-Teutsch 7
 Andrews-Lindsay 2
 Andrews-Lindsay 4
-Andrews-Lindsay 5
 Antalova 1
 Antalova 3
 Antalova 4
@@ -243,7 +239,6 @@ Basel 14
 Bica 4
 Bica 5
 Bica 6
-Biurakan 1
 C1331-622
 Cam OB3
 Carraro 1
@@ -252,7 +247,6 @@ Cir OB1
 Collinder 111
 Collinder 196
 Collinder 21
-Collinder 213
 Collinder 258
 Collinder 275
 Collinder 285
@@ -305,7 +299,6 @@ Dol-Dzim 6
 Dol-Dzim 8
 Dol-Dzim 9
 Dolidze 12
-Dolidze 13
 Dolidze 17
 Dolidze 19
 Dolidze 20
@@ -804,7 +797,6 @@ FSR 410
 FSR 418
 FSR 42
 FSR 422
-FSR 423
 FSR 425
 FSR 427
 FSR 428
@@ -1822,7 +1814,6 @@ FoF 260
 FoF 267
 FoF 277
 FoF 279
-FoF 282
 FoF 285
 FoF 298
 FoF 299
@@ -2230,7 +2221,6 @@ Loden 280
 Loden 306
 Loden 467
 Loden 480
-Loden 481
 Loden 565
 Loden 59
 Loden 615
@@ -2290,7 +2280,6 @@ MWSC 4409
 MWSC 4410
 MWSC 4429
 MWSC 4463
-MWSC 4475
 MWSC 4483
 MWSC 4484
 MWSC 4486
@@ -2473,7 +2462,6 @@ NGC 2189
 NGC 2202
 NGC 2219
 NGC 2220
-NGC 2234
 NGC 2240
 NGC 2248
 NGC 2250
@@ -2600,7 +2588,6 @@ Ruprecht 173
 Ruprecht 175
 Ruprecht 2
 Ruprecht 20
-Ruprecht 21
 Ruprecht 22
 Ruprecht 3
 Ruprecht 31
@@ -9837,29 +9824,14 @@ UBC 25
 UBC 28
 UBC 29
 UBC 30
-UBC 499
 UBC 610
 UBC 623
 UBC 624
 UBC 625
 UBC 627
 UBC 642
-UBC 644
 UBC 649
-UPK 130
-UPK 153
-UPK 174
-UPK 195
-UPK 203
-UPK 335
-UPK 408
 UPK 419
-UPK 532
-UPK 548
-UPK 558
-UPK 656
-UPK 657
-UPK 658
 UPK 659
 UPK 660
 UPK 661

@@ -4,17 +4,17 @@
 22 Ori
 25 Ori
 26 Cep
-27 CMa
 2MASS-GC 1
 2MASS-GC 2
 2MASS-GC 3
 30 Dor
 32 Ori
+4
 47 Tuc
-9-12 Gem Moving Cluster
+9-12 Gem MC
 AA Nor
 AB Cam
-AB Dor Assoc
+AB Dor
 ABP 1
 ADS 13292
 ADS 13626
@@ -45,9 +45,7 @@ ALS 17708
 ALS 1795
 ALS 18666
 ALS 18679
-ALS 19697
-ALS 19698
-ALS 19699
+ALS 19697/8/9
 ALS 19702
 ALS 4988
 ALS 6433
@@ -102,6 +100,7 @@ ASCC 130
 ASCC 16
 ASCC 18
 ASCC 19
+ASCC 2
 ASCC 20
 ASCC 21
 ASCC 21a
@@ -121,6 +120,7 @@ ASCC 49
 ASCC 5
 ASCC 50
 ASCC 51
+ASCC 54
 ASCC 58
 ASCC 59
 ASCC 6
@@ -139,6 +139,7 @@ ASCC 73
 ASCC 75
 ASCC 77
 ASCC 79
+ASCC 8
 ASCC 80
 ASCC 85
 ASCC 86
@@ -154,6 +155,7 @@ ASCC 95
 ASCC 96
 ASCC 97
 ASCC 99
+AVG 1
 AWG 1
 AWG 2
 AWG 3
@@ -164,6 +166,7 @@ AWG 7
 Abell 9
 Abt 1
 Achernar subgr
+Afsar-Bond 1
 Aladin 13
 Aladin 18
 Aladin 19
@@ -223,7 +226,6 @@ Alessi 221
 Alessi 231
 Alessi 24
 Alessi 25
-Alessi 26
 Alessi 27
 Alessi 28
 Alessi 29
@@ -231,6 +233,7 @@ Alessi 3
 Alessi 30
 Alessi 31
 Alessi 33
+Alessi 34
 Alessi 35
 Alessi 36
 Alessi 37
@@ -299,6 +302,7 @@ Alessi J1802-2922
 Alessi J1816-1529
 Alessi J1845-1104
 Alessi J1847-1813
+Alessi J1850-0553
 Alessi J1904+1541
 Alessi J1913+0622
 Alessi J1913+3619
@@ -332,6 +336,7 @@ Alicante 8
 Alicante 9
 Alnilam
 Alpha Per
+Alpha Sct North
 Alter 1
 Alves-Homeier 1
 Alves-Homeier 2
@@ -341,6 +346,7 @@ And I
 And T1
 Andrews-Lindsay 1
 Andrews-Lindsay 3
+Andrews-Lindsay 5
 Anon 0103+61
 Anon 0504+34
 Anon 1623-51
@@ -360,15 +366,14 @@ Arp 2
 Arp-Madore 1
 Arp-Madore 2
 Arp-Madore 4
-Ass-5
-Ass-8
-Ass-9
 Auner 1
 Autochthe
 AvdB 1
 Aveni-Hunter 1
 Az-Nk 14
 Az-Nk 2
+Az-Nk 5
+Az-Nk 7
 Azat-Nikog 3
 Azatyan-Nikog 4
 Azatyan-Nikog 9
@@ -513,8 +518,8 @@ BDB 226
 BDB 227
 BDB 228
 BDB 229
+BDB 229/30
 BDB 23
-BDB 230
 BDB 231
 BDB 232
 BDB 233
@@ -549,6 +554,7 @@ BDB 26
 BDB 260
 BDB 264
 BDB 266
+BDB 27
 BDB 271
 BDB 272
 BDB 273
@@ -575,8 +581,7 @@ BDB 47
 BDB 48
 BDB 49
 BDB 5
-BDB 51
-BDB 52
+BDB 51/2
 BDB 53
 BDB 57
 BDB 58
@@ -627,7 +632,6 @@ BDS 171
 BDS 173
 BDS 174
 BDS 176
-BDS 276
 BDSB 1
 BDSB 10
 BDSB 100
@@ -639,6 +643,7 @@ BDSB 109
 BDSB 11
 BDSB 112
 BDSB 113
+BDSB 114
 BDSB 115
 BDSB 116
 BDSB 118
@@ -647,6 +652,7 @@ BDSB 12
 BDSB 120
 BDSB 121
 BDSB 122
+BDSB 125
 BDSB 127
 BDSB 129
 BDSB 130
@@ -664,6 +670,7 @@ BDSB 151
 BDSB 152
 BDSB 156
 BDSB 158
+BDSB 159
 BDSB 16
 BDSB 160
 BDSB 161
@@ -679,6 +686,7 @@ BDSB 23
 BDSB 24
 BDSB 25
 BDSB 26
+BDSB 27
 BDSB 29
 BDSB 3
 BDSB 30
@@ -771,29 +779,18 @@ BH 110
 BH 111
 BH 118
 BH 121
-BH 128
 BH 131
 BH 132
-BH 135
 BH 139
 BH 140
-BH 142
 BH 144
 BH 146
 BH 150
 BH 151
 BH 164
-BH 165
 BH 166
-BH 167
-BH 168
-BH 172
-BH 173
-BH 175
 BH 176
-BH 181
 BH 182
-BH 183
 BH 185
 BH 188
 BH 189
@@ -802,7 +799,6 @@ BH 2
 BH 200
 BH 202
 BH 205
-BH 206
 BH 211
 BH 217
 BH 218
@@ -815,12 +811,10 @@ BH 231
 BH 245
 BH 261
 BH 37
-BH 38
-BH 39
 BH 4
 BH 47
-BH 48
 BH 49
+BH 52
 BH 54
 BH 55
 BH 56
@@ -872,7 +866,6 @@ BRC 79
 BRC5
 BRCC 1
 BRCC 2
-BRan 400
 BS 247
 BSD 101
 BSP 12
@@ -1010,7 +1003,7 @@ Bernes 120
 Bernes 150
 Bernes 50
 Beta Lyr
-Beta Pic Assoc
+Beta Pic
 Beta Tuc
 Bica 1
 Bica 102
@@ -1025,6 +1018,7 @@ Bica 139
 Bica 144
 Bica 148
 Bica 149
+Bica 161
 Bica 171
 Bica 175
 Bica 176
@@ -1127,8 +1121,7 @@ Bica 377
 Bica 378
 Bica 379
 Bica 382
-Bica 383
-Bica 384
+Bica 383/4
 Bica 385
 Bica 387
 Bica 388
@@ -1146,6 +1139,7 @@ Bica 407
 Bica 408
 Bica 413
 Bica 417
+Bica 42
 Bica 420
 Bica 422
 Bica 426
@@ -1160,8 +1154,7 @@ Bica 452
 Bica 453
 Bica 463
 Bica 465
-Bica 466
-Bica 467
+Bica 466/7
 Bica 468
 Bica 469
 Bica 47
@@ -1179,21 +1172,25 @@ Bica 570
 Bica 572
 Bica 58
 Bica 584
+Bica 59
 Bica 597
 Bica 62
 Bica 631
 Bica 637
 Bica 64
+Bica 645
 Bica 651
 Bica 652
 Bica 653
 Bica 656
+Bica 66
 Bica 68
 Bica 70
 Bica 76
 Bica 78
-Bigourdan I
+Bica 82
 Bigourdan II
+Biurakan 1
 Biurakan 10
 Biurakan 11
 Biurakan 12
@@ -1205,8 +1202,8 @@ Biurakan 5
 Biurakan 7
 Biurakan 8
 Biurakan 9
-Bk 59 East
-Bk 59 West
+Bk 59 E
+Bk 59 W
 Blanco 1
 Bliss 1
 Bochum 1
@@ -1230,8 +1227,6 @@ Bonatto 1
 Bonatto 2
 Boo II
 Boo IV
-Bootes II
-Bootes IV
 Braid neb
 Bran 117
 Bran 141B
@@ -1251,11 +1246,11 @@ Bran 33A
 Bran 341A
 Bran 341D
 Bran 351
-Bran 358 A
-Bran 358 B
+Bran 358 A/B
 Bran 362 B
 Bran 373
 Bran 382
+Bran 400
 Bran 47
 Bran 49
 Bran 51B
@@ -1287,8 +1282,7 @@ CBB 17
 CBB 20
 CBB 21
 CBB 3
-CBB 4
-CBB 6
+CBB 4/6
 CBJC 1
 CBJC 2
 CBJC 3B
@@ -1320,10 +1314,11 @@ CHS 3
 CHS 5
 CHS 6
 CHS 7
+CM Sct
 CMB 1
 CMF 2
+CMa OB1 A
 CMa OB1 B
-CMa OB1A
 CMa OB1B
 CMa OB2
 CMa R2
@@ -1369,6 +1364,7 @@ COIN-Gaia 6
 COIN-Gaia 7
 COIN-Gaia 8
 COIN-Gaia 9
+CPM 37
 CS Car
 CSS 1 A
 CSS 1 B
@@ -1377,6 +1373,7 @@ CSS 2
 CSS 3
 CSS 4 A
 CSS 4 B
+CSS 5
 CSS 8
 CT 10
 CT 4
@@ -1470,9 +1467,12 @@ Camargo 519
 Camargo 53
 Camargo 530
 Camargo 54
+Camargo 540
 Camargo 542
+Camargo 547
 Camargo 55
 Camargo 56
+Camargo 560
 Camargo 573
 Camargo 574
 Camargo 575
@@ -1534,7 +1534,6 @@ Camargo 875
 Camargo 876
 Camargo 884
 Camargo 885
-Camargo 890
 Camargo 891
 Camargo 893
 Camargo 896
@@ -1571,19 +1570,17 @@ Camargo 992
 Camargo 994
 Camargo 995
 Camargo 996
-Camargo 997
-Camargo 998
-Canes Venatici II
+Camargo 997/8
 Capricornus
 Car II
 Car III
+Car OB1 F
 Car OB1-2
 Car OB1A
 Car OB1B
 Car OB1C
 Car OB1D
 Car OB1E
-Car OB1F
 Car OB3
 Car-near
 Carina Assoc
@@ -1636,7 +1633,7 @@ Casado 9
 Caswell 337.548-0.304
 Caswell 337.949-0.476
 Caswell OH 305.36+0.15
-Ced 110 Cl
+Ced 110
 Ced 175
 Ced 188
 Ced 197
@@ -1654,7 +1651,6 @@ Cen OB4
 Cen OB5
 Cen R3
 Central cluster
-Cep 3
 Cep A
 Cep B
 Cep C
@@ -1676,12 +1672,10 @@ Cep T2
 Cesar 1
 Cet II
 Cet III
-Cetus II
-Cetus III
 Cezar 6
-Cha I North
+Cha I N
+Cha I S
 Cha I SW
-Cha I South
 Cha II
 Chereul 1
 Chereul 2
@@ -1701,45 +1695,31 @@ Collinder 104
 Collinder 106
 Collinder 107
 Collinder 110
-Collinder 113
 Collinder 115
-Collinder 120
 Collinder 121
 Collinder 132
-Collinder 133
 Collinder 135
 Collinder 140
-Collinder 154
 Collinder 173
 Collinder 185
 Collinder 187
-Collinder 188
-Collinder 190
-Collinder 195
 Collinder 197
-Collinder 198
 Collinder 205
-Collinder 22
+Collinder 213
 Collinder 220
 Collinder 223
 Collinder 228
 Collinder 232
 Collinder 236
 Collinder 249
-Collinder 260
+Collinder 258
 Collinder 261
-Collinder 265
 Collinder 268
 Collinder 269
 Collinder 271
 Collinder 272
 Collinder 277
-Collinder 28
-Collinder 287
-Collinder 288
-Collinder 289
 Collinder 292
-Collinder 296
 Collinder 299
 Collinder 302
 Collinder 307
@@ -1747,63 +1727,36 @@ Collinder 316
 Collinder 338
 Collinder 34
 Collinder 347
-Collinder 35
 Collinder 350
 Collinder 351
 Collinder 359
 Collinder 367
-Collinder 37
 Collinder 371
-Collinder 373
-Collinder 379
-Collinder 38
-Collinder 384
-Collinder 385
-Collinder 386
-Collinder 390
 Collinder 394
-Collinder 40
 Collinder 404
 Collinder 408
 Collinder 416
 Collinder 417
 Collinder 419
 Collinder 421
-Collinder 43
-Collinder 44
 Collinder 441
-Collinder 444
-Collinder 445
-Collinder 448
-Collinder 449
-Collinder 451
-Collinder 46
 Collinder 463
 Collinder 466
 Collinder 469
-Collinder 47
 Collinder 470
-Collinder 49
-Collinder 51
-Collinder 52
 Collinder 53
 Collinder 68
 Collinder 69
 Collinder 70
 Collinder 74
-Collinder 77
-Collinder 80
-Collinder 81
 Collinder 84
 Collinder 89
 Collinder 92
 Collinder 95
 Collinder 97
 Columba Assoc
-Columba Dwarf
 Com (I)
 Coma Berenices
-Coma Berenicis
 Coronet
 CrA
 CrA off-cloud
@@ -1849,7 +1802,6 @@ Czernik 32
 Czernik 37
 Czernik 38
 Czernik 39
-Czernik 4
 Czernik 40
 Czernik 41
 Czernik 42
@@ -1872,6 +1824,7 @@ DB 58
 DB 6
 DB 60
 DB 62
+DB 63
 DB 64
 DB 65
 DB 66
@@ -1907,6 +1860,7 @@ DB2001 25
 DB2001 29
 DB2001 4
 DBM 1
+DBO 2
 DBSB 1
 DBSB 10
 DBSB 100
@@ -2049,6 +2003,7 @@ DBSB 79
 DBSB 8
 DBSB 80
 DBSB 81
+DBSB 84
 DBSB 85
 DBSB 86
 DBSB 87
@@ -2117,6 +2072,7 @@ DR 15
 DR 15 FIR2
 DR 16
 DR 17
+DR 20
 DR 21
 DR 22
 DR 23
@@ -2137,17 +2093,13 @@ DSH J1207-6448
 DSH J1213-6242
 DSH J1441-5513
 DSH J1831-0359
-DSH J1837-1013
-DSH J1912+1716
-DSH J1933+1831
-DSH J1937+1841
 DSH J2226+5553
 DZS 1
 DZS 2
 Danks 1
 Danks 2
 Dauban V16
-Delta Cep Cl
+Delta Cep
 Delta Cir
 Delta Lyr
 Delta Ori
@@ -2161,8 +2113,8 @@ Dias 4A
 Dias 4B
 Dias 5
 Dias 6
-Digel Cloud 1A
-Digel Cloud 1B
+Digel Cloud 1 A
+Digel Cloud 1 B
 Digel Cloud 2-N
 Digel Cloud 2-S
 Digel Cloud 2-S B
@@ -2175,6 +2127,7 @@ Dobashi 5180
 Dolidze 1
 Dolidze 10
 Dolidze 11
+Dolidze 13
 Dolidze 16
 Dolidze 18 B
 Dolidze 2
@@ -2205,7 +2158,6 @@ Dolidze 6 B
 Dolidze 7
 Dolidze 8
 Douglas 2
-Dra II
 Draco II
 Du 64
 Duck neb
@@ -2229,7 +2181,6 @@ ESO 128-27
 ESO 129-17
 ESO 129-5
 ESO 129-6
-ESO 130-10
 ESO 130-13
 ESO 130-6
 ESO 130-8
@@ -2238,27 +2189,17 @@ ESO 132-12
 ESO 134-12
 ESO 134-8
 ESO 135-7
-ESO 136-14
 ESO 136-4
 ESO 137-15
 ESO 141-30
 ESO 155-11
 ESO 166-4
-ESO 175-8
-ESO 176-4
-ESO 176-9
 ESO 177-10
-ESO 177-6
-ESO 178-9
 ESO 179-2
 ESO 211-3
 ESO 211-8
 ESO 211-9
-ESO 22-5
 ESO 223-1
-ESO 223-4
-ESO 224-4
-ESO 224-7
 ESO 225-4
 ESO 225-6
 ESO 226-1
@@ -2270,7 +2211,6 @@ ESO 229-14
 ESO 261-3
 ESO 275-1
 ESO 277-15
-ESO 277-20
 ESO 28-8
 ESO 280-6
 ESO 29-50
@@ -2278,7 +2218,6 @@ ESO 311-21
 ESO 312-3
 ESO 312-4
 ESO 313-3
-ESO 329-18
 ESO 332-13
 ESO 332-22
 ESO 332-8
@@ -2287,21 +2226,17 @@ ESO 368-11
 ESO 368-14
 ESO 368-7
 ESO 369-3
-ESO 37-1
 ESO 370-17
 ESO 370-4
 ESO 370-9
 ESO 371 25
-ESO 371-1
 ESO 371-12
 ESO 371-25
-ESO 387-1
 ESO 392-11
 ESO 392-13
 ESO 393-15
 ESO 397-1
 ESO 4-15
-ESO 426-16
 ESO 428-10
 ESO 428-24
 ESO 428-26
@@ -2310,9 +2245,6 @@ ESO 429-5
 ESO 430-18
 ESO 430-29
 ESO 430-9
-ESO 431-20
-ESO 432-4
-ESO 432-9
 ESO 452-11
 ESO 455-11
 ESO 455-44
@@ -2324,9 +2256,7 @@ ESO 474-37
 ESO 490-50
 ESO 491-7
 ESO 492-13
-ESO 492-6
 ESO 492-8
-ESO 492-9
 ESO 493-15
 ESO 493-26
 ESO 493-28
@@ -2335,7 +2265,6 @@ ESO 493-30
 ESO 493-5
 ESO 494-9
 ESO 50-12
-ESO 51-13
 ESO 51-2
 ESO 51-3
 ESO 51-9
@@ -2344,7 +2273,6 @@ ESO 521-38
 ESO 54-16
 ESO 551-1
 ESO 554-22
-ESO 556-7
 ESO 558-10
 ESO 558-8
 ESO 559-10
@@ -2352,26 +2280,17 @@ ESO 559-13
 ESO 559-14
 ESO 559-15
 ESO 559-2
-ESO 559-5
 ESO 559-7
-ESO 559-8
-ESO 559-9
-ESO 582-2
 ESO 589-26
 ESO 600-11
 ESO 64-5
-ESO 64-6
-ESO 65-4
-ESO 69-4
 ESO 87-24
 ESO 92-18
 ESO 92-5
 ESO 93-8
 ESO 95-1
-ESO 95-10
 ESO 95-15
-ESO 95-RN 18
-ESO 96-1
+ESO 95-18
 ESO 96-10
 ESO 96-11
 ESO 96-8
@@ -2389,10 +2308,8 @@ Eps Hyi
 Epsilon Cha
 Epsilon Ori
 Eri (I)
-Eri Cl
 Eri II Cluster
 Eri III
-Eridanus III
 Escorial 10
 Escorial 11
 Escorial 13
@@ -2965,6 +2882,7 @@ FSR 416
 FSR 417
 FSR 419
 FSR 421
+FSR 423
 FSR 426
 FSR 430
 FSR 431
@@ -3108,7 +3026,6 @@ FSR 679
 FSR 683
 FSR 686
 FSR 687
-FSR 69
 FSR 694
 FSR 696
 FSR 699
@@ -3149,8 +3066,7 @@ FSR 771
 FSR 774
 FSR 777
 FSR 778
-FSR 780
-FSR 781
+FSR 780/1
 FSR 784
 FSR 785
 FSR 786
@@ -3192,7 +3108,6 @@ FSR 867
 FSR 869
 FSR 870
 FSR 872
-FSR 873
 FSR 874
 FSR 875
 FSR 877
@@ -3347,7 +3262,9 @@ FoF 1219
 FoF 1220
 FoF 1221
 FoF 1222
+FoF 1223
 FoF 1225
+FoF 1226
 FoF 1229
 FoF 1230
 FoF 1233
@@ -3533,14 +3450,13 @@ FoF 1645
 FoF 1647
 FoF 165
 FoF 1650
+FoF 1651
 FoF 1653
-FoF 1654
 FoF 166
 FoF 1660
 FoF 1661
 FoF 1663
 FoF 167
-FoF 1670
 FoF 1679
 FoF 168
 FoF 1683
@@ -3571,6 +3487,7 @@ FoF 1751
 FoF 1754
 FoF 1756
 FoF 1757
+FoF 176
 FoF 1760
 FoF 1761
 FoF 1762
@@ -3598,7 +3515,6 @@ FoF 1807
 FoF 1809
 FoF 181
 FoF 1810
-FoF 1814
 FoF 1816
 FoF 1817
 FoF 1819
@@ -3762,7 +3678,6 @@ FoF 211
 FoF 2110
 FoF 2113
 FoF 2114
-FoF 2115
 FoF 2116
 FoF 2117
 FoF 2118
@@ -3777,7 +3692,6 @@ FoF 2128
 FoF 2129
 FoF 213
 FoF 2130
-FoF 2131
 FoF 2132
 FoF 2133
 FoF 2134
@@ -3807,7 +3721,7 @@ FoF 2161
 FoF 2164
 FoF 2165
 FoF 2168
-FoF 2169
+FoF 2169 B
 FoF 217
 FoF 2172
 FoF 2174
@@ -4111,6 +4025,7 @@ FoF 278
 FoF 28
 FoF 280
 FoF 281
+FoF 282
 FoF 283
 FoF 284
 FoF 286
@@ -4247,7 +4162,6 @@ FoF 45
 FoF 451
 FoF 453
 FoF 454
-FoF 456
 FoF 458
 FoF 46
 FoF 468
@@ -4499,7 +4413,6 @@ FoF 89
 FoF 893
 FoF 894
 FoF 898
-FoF 899
 FoF 9
 FoF 90
 FoF 901
@@ -4510,8 +4423,6 @@ FoF 91
 FoF 911
 FoF 912
 FoF 913
-FoF 914
-FoF 916
 FoF 917
 FoF 918
 FoF 919
@@ -4572,6 +4483,7 @@ Froebrich 72
 Froebrich Cl 108
 Froebrich Cl 110
 Froebrich Cl 117
+Froebrich Cl 118
 Froebrich Cl 127
 Froebrich Cl 128
 Froebrich Cl 13
@@ -4618,29 +4530,51 @@ G0.121+0.017
 G053.819-0.059
 G10.2-0.3
 G10.6-0.4
+G108.47-2.81
+G11.10-0.11
+G111.25-0.76
+G12.02-0.03
 G12.8-0.2
 G13.19+0.05
 G13.88+0.28
+G16.58-0.05
 G173.58+2.45
+G19.00-0.02
+G19.36-0.03
 G19.6-0.2
 G190.049+00.538
 G192.65-0.08
 G192.75-0.00
 G192.75-0.08
+G211.59+1.05
+G22.35+0.06
 G22.7-0.4
+G229.57+0.15
+G23.43-0.18
 G23.7+0.2
+G23.70-0.19
+G236.81+1.98
 G24.0+0.2
+G25.70+0.04
+G28.14-0.00
+G28.39+0.08
 G286.38-0.26
 G287.4-0.6
+G30.78+0.20
+G30.97-0.14
 G305.2+0.2
 G305.5+0.4
 G305.6+0.0
+G31.24-0.11
+G31.41+0.30
 G314.2+0.4
 G316.8-0.1
 G318.05+0.08
+G32.04+0.05
 G326.5+0.9
 G327.3-0.5
 G328.3+0.4
+G33.64-0.22
 G330.9-0.4
 G331.1-0.5
 G331.3-0.3
@@ -4655,6 +4589,10 @@ G351.69+0.67
 G352.314-0.442
 G353.4-0.4
 G354.66+0.47
+G359.61-0.24
+G36.11+0.55
+G37.43+1.51
+G38.11-0.22
 G3CC 15
 G3CC 16
 G3CC 18
@@ -4662,27 +4600,40 @@ G3CC 21
 G3CC 27
 G3CC 4
 G3CC 47
+G3CC 49
 G3CC 5
 G3CC 50
 G3CC 51
+G3CC 52
+G3CC 56
 G3CC 57
 G3CC 58
+G3CC 61
 G3CC 62
+G3CC 63
+G3CC 64
 G3CC 69
 G3CC 70
 G3CC 72
 G3CC 73
 G3CC 75
 G3CC 9
+G40.42+0.70
+G40.62-0.13
+G42.03+0.19
+G45.80-0.35
 G48.9-0.3
 G49.0-0.3
+G49.41+0.32
 G5.91-0.43
 G7.47+0.05
+G73.65+0.19
 G8.14+0.23
 G80.35+0.72
 G82.0+2.3
 G82.6+0.4
 G84.0+0.8
+G9.21-0.20
 G9.61+0.19
 GAL 283.33-01.05
 GAL 287.39-00.63
@@ -4720,7 +4671,12 @@ GEDR3-32
 GEDR3-33
 GEDR3-34
 GEDR3-35
+GEDR3-36
+GEDR3-37
+GEDR3-38
+GEDR3-39
 GEDR3-4
+GEDR3-40
 GEDR3-5
 GEDR3-6
 GEDR3-7
@@ -4808,15 +4764,18 @@ GN 11.09.3
 GN 12.10.3
 GN 13.15.8.01
 GN 13.48.1
+GN 14.26.8
 GN 15.53.6
 GN 16.01.1
 GN 16.43.7
 GN 16.54.9
 GN 17.15.6.01
 GN 17.18.1.01
+GN 18.27.8.02
 GN 20.02.7
 GN 20.03.0
 GN 21.01.6
+GN 22.32.5
 GN 22.51.3
 GN 23.35.4
 GN 23.50.6.03
@@ -4824,7 +4783,7 @@ GQ Vul
 GRS 2
 GRS 3
 GSC 03729-01127
-GSC 1328-771 Grp
+GSC 1328-771
 GSC 156-1746
 GSC 4019-1562 Grp
 GSC 4285-576
@@ -4851,7 +4810,6 @@ Gem 4
 Gem OB1
 Gem OB1A
 Gingrich 1
-Graff 1
 Graham 1
 Gran 1
 Grasdalen 1
@@ -4859,8 +4817,6 @@ Great Her Cl
 Group X
 Gru I
 Gru II
-Grus I
-Grus II
 Gulf of Mexico
 Gulliver 1
 Gulliver 10
@@ -4933,6 +4889,7 @@ Gum 53
 Gum 64a
 Gum 64b
 Gum 64c
+Gum 82
 Gum 85
 Gy1-17
 Gy1-19
@@ -4948,7 +4905,6 @@ HD 108353
 HD 120132 Grp
 HD 132205
 HD 141569 MG
-HD 151740 Grp
 HD 156154 Assoc
 HD 176607
 HD 178329 Grp
@@ -4962,7 +4918,6 @@ HD 214919 Grp
 HD 226540 Grp
 HD 228911 Grp
 HD 233019 Grp
-HD 240044 Grp
 HD 308700
 HD 35234
 HD 38856 Grp
@@ -4978,9 +4933,6 @@ HD 7252
 HD 97950 Grp
 HD 98329
 HDG 1
-HFV 5
-HFV 6
-HFV 7
 HFV13 SC5
 HFV13 SC6
 HFV13 SC7
@@ -5007,10 +4959,6 @@ HIP 77903
 HIP 83071
 HK Ori
 HL Tau
-HLL 1
-HLL 2
-HLL 3
-HLL 4
 HLL11 C1
 HLL11 C2
 HLL11 C3
@@ -5192,7 +5140,10 @@ Hodapp 21
 Hodapp 23
 Hodapp 26
 Hodapp 27
+Hodapp 29
+Hodapp 3
 Hodapp 30
+Hodapp 31
 Hodapp 33
 Hodapp 34
 Hodapp 4
@@ -5220,8 +5171,6 @@ Hogg 22
 Hogg 4
 Hor I
 Hor II
-Horologium I
-Horologium II
 Hourglass
 Hubble I
 Hubble III
@@ -5237,10 +5186,7 @@ Hurt 2
 Hya I
 Hya II
 Hyades
-Hydra I
 Hydrus I
-Hyi I
-I Sct
 IC 1257
 IC 1276
 IC 1310
@@ -5263,7 +5209,6 @@ IC 1848
 IC 1848 A
 IC 1848 B
 IC 1871
-IC 1985
 IC 2118 Assoc
 IC 2120
 IC 2144
@@ -5282,9 +5227,7 @@ IC 2944
 IC 2948
 IC 2966
 IC 348
-IC 348 Core-1
 IC 348 Core-2
-IC 348a
 IC 361
 IC 426
 IC 4291
@@ -5296,7 +5239,6 @@ IC 466
 IC 4665
 IC 4725
 IC 4756
-IC 4768 A
 IC 4768 B
 IC 4955
 IC 4996
@@ -5304,8 +5246,6 @@ IC 5146
 ICA 72
 ICA 73
 IDK 5
-II Ser
-III Ser
 IKY14 1
 IKY14 2
 IPHAS J061317.5+151957
@@ -5333,6 +5273,7 @@ IRAS 02054+6011
 IRAS 02118+5938
 IRAS 02130+5509
 IRAS 02175+5845
+IRAS 02232+6138
 IRAS 02245+6115
 IRAS 02252+6120
 IRAS 02327+6019
@@ -5585,6 +5526,7 @@ IRAS 13481-6124
 IRAS 14039-6113
 IRAS 14183-6050
 IRAS 14212-6131
+IRAS 14268-5341
 IRAS 14366-6009
 IRAS 14498-5856
 IRAS 15015-5720
@@ -5647,6 +5589,7 @@ IRAS 18340-0738
 IRAS 18411-0338
 IRAS 18436-0239
 IRAS 18445-0222
+IRAS 18456-0129
 IRAS 18456-0223
 IRAS 18536+0749
 IRAS 18536+0753
@@ -5677,6 +5620,7 @@ IRAS 20178+4046
 IRAS 20188+3928
 IRAS 20205+3948
 IRAS 20216+4107
+IRAS 20231+344
 IRAS 20264+4042
 IRAS 20278+3521
 IRAS 20286+4105
@@ -5689,6 +5633,7 @@ IRAS 20406+4555
 IRAS 20444+4629
 IRAS 20446+4613
 IRAS 20582+7724
+IRAS 21007+495
 IRAS 21046+5110
 IRAS 21108+5220
 IRAS 21202+5157
@@ -5706,6 +5651,7 @@ IRAS 22147+5948
 IRAS 22151+5747
 IRAS 22157+6127
 IRAS 22172+5549
+IRAS 22198+6336
 IRAS 22272+6358A
 IRAS 22333+5744
 IRAS 22506+5944
@@ -5729,9 +5675,8 @@ IRAS 23448+6010 VLA 2
 IRAS 23545+6508
 IRDC G192.76+00.10
 IRDC G34.4+0.2
-IRDC G53.2 Cl
+IRDC G53.2
 IRS 16
-IV Sgr
 Ind I
 Iota Ori
 Iss 13
@@ -5756,7 +5701,6 @@ Ivanov 6
 Ivanov 7
 Ivanov 8
 Ivanov 9
-J1822.6-1443
 JaFu 1
 Juc-Sal 1
 Juchert 1
@@ -5781,7 +5725,6 @@ Juchert J0644-0925
 Juchert J1851-0028
 Juchert J1904+1124
 Juchert J1919+1453
-K 2
 K3-50B
 K3-50D
 KBD 1
@@ -5914,7 +5857,6 @@ King 8
 King 9
 Kirkpatrick 1
 Kj 1-1
-Kn-DeCAPS 25
 Kn-DeCAPS 30
 Kn-DeCAPS 62
 Kn-DeCAPS 63
@@ -5986,7 +5928,6 @@ Kronberger 146
 Kronberger 148
 Kronberger 150
 Kronberger 18
-Kronberger 2
 Kronberger 23
 Kronberger 25
 Kronberger 29
@@ -6011,7 +5952,6 @@ Kronberger 69
 Kronberger 73
 Kronberger 74
 Kronberger 79
-Kronberger 8
 Kronberger 80
 Kronberger 81
 Kronberger 82
@@ -6033,11 +5973,8 @@ Kronberger J1817-1849
 Kronberger J1817-1851
 Kronberger J2135+5338
 Kupco 8
-L 10
-L 111
 L1616-5
 LAL96 1
-LAL96 1 + LAL96 2
 LAL96 2
 LBN 1020
 LBN 144
@@ -6056,8 +5993,7 @@ LDN 1059
 LDN 1206
 LDN 1211
 LDN 1211 Core-1
-LDN 1217
-LDN 1219
+LDN 1217/19
 LDN 1228
 LDN 1251
 LDN 1251A
@@ -6102,13 +6038,13 @@ LFT group 2
 LFT group 20
 LFT group 21
 LFT group 22
-LFT group 3
-LFT group 4
+LFT group 3/4
 LFT group 5
 LFT group 6
 LFT group 7
 LFT group 8
 LFT group 9
+LK Halpha 233
 LLA 1
 LLA 10
 LLA 11
@@ -6175,7 +6111,6 @@ LS V +33 15
 LS VI +04 5
 LS VI +04 9
 LS VI -03 13
-LSS 2063 Assoc
 LW 1
 LW 180
 LW 481
@@ -6241,6 +6176,7 @@ La Serena 401
 La Serena 409
 La Serena 42
 La Serena 420
+La Serena 426
 La Serena 434
 La Serena 44
 La Serena 444
@@ -6324,6 +6260,8 @@ Lin-Chen 69
 Lin-Chen 71
 Lin-Chen 75
 Lindsay 1
+Lindsay 10
+Lindsay 111
 Lindsay 32
 Lindsay 38
 LkHA 123
@@ -6365,8 +6303,7 @@ Loden 372
 Loden 402
 Loden 422
 Loden 46
-Loden 465
-Loden 466
+Loden 465/6
 Loden 623
 Loden 624
 Loden 682
@@ -6388,7 +6325,6 @@ Lotkin-Popova 39
 Lotkin-Popova 40
 Lotkin-Popova 42
 Lotkin-Popova 47
-Lotkin-Popova 50A
 Lotkin-Popova 7
 Lotkin-Popova 8
 Lower Cen-Cru
@@ -6478,7 +6414,7 @@ MAF 1
 MAF 2
 MAF 3
 MAF 4
-MBM 12 Assoc
+MBM 12
 MCG 12
 MCG 16
 MCG 3
@@ -6527,11 +6463,8 @@ MHAR15 1
 MHL 1
 MHO 1068
 MHO 1087
-MHO 1090
-MHO 1091
-MHO 1092
-MHO 1093
-MHO 1094
+MHO 1090/1
+MHO 1092/3/4
 MLG 1
 MLG 10
 MLG 14
@@ -6561,9 +6494,9 @@ MWC 297
 MWC 340
 MWC 778
 MWM 58
+MWSC 4475
 MWSC 5671
 MacC H12
-MagLiteS J0664-595
 MagLiteS J0664-5953
 MagLiteS J0736-5800
 MagLiteS J0738-5754
@@ -6574,6 +6507,7 @@ Magakian 242
 Magakian 301
 Magakian 303
 Magakian 425
+Magakian 769
 Majaess 1
 Majaess 10
 Majaess 101
@@ -6724,38 +6658,13 @@ Melnik-Efremov 6
 Melotte 101
 Melotte 105
 Melotte 111
-Melotte 128
-Melotte 130
-Melotte 131
-Melotte 139
-Melotte 15
-Melotte 18
 Melotte 186
 Melotte 20
-Melotte 206
-Melotte 21
-Melotte 210
-Melotte 215
-Melotte 219
 Melotte 22
-Melotte 23
-Melotte 238
-Melotte 239
-Melotte 240
-Melotte 241
 Melotte 25
-Melotte 40
-Melotte 50
-Melotte 55
-Melotte 63
 Melotte 66
-Melotte 67
-Melotte 69
 Melotte 71
 Melotte 72
-Melotte 87
-Melotte 89
-Melotte 90
 Mercer 1
 Mercer 10
 Mercer 13
@@ -6849,10 +6758,8 @@ N6822 EO-1
 N6822 EO-2
 N6822 EO-3
 NEST 1
-NEST 10
+NEST 10/12/14
 NEST 11
-NEST 12
-NEST 14
 NEST 16
 NEST 18
 NEST 2
@@ -6936,7 +6843,7 @@ NGC 2024
 NGC 206
 NGC 2064
 NGC 2068
-NGC 2070 Cl
+NGC 2070
 NGC 2099
 NGC 2112
 NGC 2126
@@ -6961,6 +6868,7 @@ NGC 2210
 NGC 2215
 NGC 2225
 NGC 2232
+NGC 2234
 NGC 2236
 NGC 2237
 NGC 2239
@@ -7006,7 +6914,6 @@ NGC 2335
 NGC 2338
 NGC 2343
 NGC 2345
-NGC 2349
 NGC 2353
 NGC 2354
 NGC 2355
@@ -7035,8 +6942,8 @@ NGC 2438
 NGC 2439
 NGC 2447
 NGC 2448
-NGC 2451A
-NGC 2451B
+NGC 2451 A
+NGC 2451 B
 NGC 2452
 NGC 2453
 NGC 2455
@@ -7078,7 +6985,7 @@ NGC 2682
 NGC 2808
 NGC 281-East
 NGC 281-West
-NGC 2818
+NGC 2818 A
 NGC 2849
 NGC 2866
 NGC 288
@@ -7288,7 +7195,6 @@ NGC 6595
 NGC 6596
 NGC 6603
 NGC 6604
-NGC 6605
 NGC 6611
 NGC 6613
 NGC 6618
@@ -7307,7 +7213,6 @@ NGC 6652
 NGC 6656
 NGC 6664
 NGC 6681
-NGC 6682
 NGC 6683
 NGC 6694
 NGC 6704
@@ -7342,6 +7247,7 @@ NGC 6830
 NGC 6834
 NGC 6838
 NGC 6846
+NGC 6847
 NGC 6857
 NGC 6864
 NGC 6866
@@ -7357,6 +7263,7 @@ NGC 6939
 NGC 6940
 NGC 6981
 NGC 6991
+NGC 6996
 NGC 6997
 NGC 7006
 NGC 7023
@@ -7455,6 +7362,7 @@ OGLE-MBR-CL-258
 OGLE-MBR-CL-88
 OGLE-SMC-CL-321
 OH 231.84+4.22
+OH 43.8-0.1
 OHSC 37
 OMC 2
 OMC 3
@@ -7502,14 +7410,18 @@ OPD 45
 OPD 46
 OPD 47
 OPD 48
+OPD 49
 OPD 5
 OPD 51 A
 OPD 51 B
 OPD 52
 OPD 53
 OPD 54
+OPD 55
+OPD 56
 OPD 57
 OPD 58
+OPD 59
 OPD 6
 OPD 60
 OPD 67
@@ -7542,8 +7454,7 @@ Omicron Vel
 Omicron-1 CMa
 Onsala 1
 Onsala 164
-Onsala 171
-Onsala 172
+Onsala 171/2
 Onsala 178
 Onsala 3
 Onsala 41
@@ -7627,7 +7538,6 @@ PK 197-02.2
 PK 288+00.2
 PK 298-00.1
 PK 6+2.5
-PL 5
 PL97 1
 PL97 2
 PL97 3
@@ -7715,7 +7625,6 @@ Pazmino's Cluster
 Pease 1
 Peg III
 Pegasus 2
-Pegasus III
 Pelican Cl
 Per II
 Per III
@@ -7732,13 +7641,10 @@ Pfleiderer 1
 Pfleiderer 2
 Pfleiderer 3
 Pfleiderer 4
-Phe II
 Phoenix II
 Piatti 1
 Pic I
 Pic II
-Pictor I
-Pictor II
 Pismis 1
 Pismis 11
 Pismis 12
@@ -7827,15 +7733,17 @@ Pup OB3
 Pup R1
 Pup a
 Puppis Moving Group
-Pyx Cl
+Pyx
 QC 1
 QC 2
 QC 3
 QC 4
 QY Cen
 QZ Nor
+QZM 1
+QZM 2
 QZM 3
-Quartet Cl
+Quartet
 Quintuplet
 R 136a
 R Cru
@@ -7848,7 +7756,7 @@ RAFGL 4190
 RAFGL 4902S
 RAFGL 5090
 RAFGL 5125
-RAFGL 5475 Assoc
+RAFGL 5475
 RAFGL 550
 RAFGL 7009S
 RAL 1
@@ -7857,6 +7765,7 @@ RCW 108-IR
 RCW 110
 RCW 116
 RCW 120
+RCW 162
 RCW 36
 RCW 38 IRS2
 RCW 40
@@ -7878,6 +7787,7 @@ RK 45
 RK 99
 RLGC 1
 RLGC 2
+RM 13
 RM 30
 RM 40
 RMC-1
@@ -7930,9 +7840,7 @@ Renou 23
 Renou 62
 Ret II
 Ret III
-Reticulum
-Reticulum II
-Reticulum III
+Reticulum (I)
 Rho Oph
 Rho Oph Core E South
 Rho Oph Dark Cloud Cl
@@ -8019,6 +7927,7 @@ Ruprecht 174
 Ruprecht 176
 Ruprecht 18
 Ruprecht 19
+Ruprecht 21
 Ruprecht 23
 Ruprecht 24
 Ruprecht 25
@@ -8087,6 +7996,7 @@ Russeil 159
 Russeil 214
 Russeil 216
 Russeil 217
+Russeil 27
 Russeil 32
 Russeil 333
 Russeil 430
@@ -8099,6 +8009,7 @@ Ryu 135
 Ryu 168
 Ryu 17
 Ryu 203
+Ryu 221
 Ryu 225
 Ryu 241
 Ryu 265
@@ -8126,12 +8037,16 @@ Ryu 59
 Ryu 600
 Ryu 622
 Ryu 655
+Ryu 656
 Ryu 657
 Ryu 675
+Ryu 678
 Ryu 692
 Ryu 693
 Ryu 711
+Ryu 716
 Ryu 742
+Ryu 783
 Ryu 784
 Ryu 786
 Ryu 795
@@ -8145,8 +8060,10 @@ Ryu 874
 Ryu 876
 Ryu 878
 Ryu 879
+Ryu 894
 Ryu 912
 Ryu 915
+Ryu 919
 Ryu 923
 S 1
 S Mon
@@ -8371,12 +8288,14 @@ SUH 131
 SUH 134
 SUH 136
 SUH 137
+SUH 138
 SUH 156
 SUH 157
 SUH 161
 SUH 162
 SUH 164
 SUH 165
+SUH 18
 SUH 20
 SUH 21
 SUH 23
@@ -8389,11 +8308,14 @@ SUH 49
 SUH 50
 SUH 57
 SUH 61
+SUH 62
 SUH 64
+SUH 68
 SUH 71
 SUH 79
 SUH 87
 SUH 90
+SUH 92
 SV Cru
 SV Per
 SV Vul
@@ -8407,6 +8329,7 @@ Saloranta J0535+1544
 Saloranta J0618+1454
 Saloranta J0625+1551
 Saloranta J0633+2217
+Saloranta J1841-0526
 Saloranta J2245+5723
 Saloranta J2315+6410
 Salque 1
@@ -8450,14 +8373,12 @@ Sct OB1
 Sct OB3
 Ser 40/3
 Ser Core A
-Ser II
 Ser Main
-Ser Northeast
+Ser NE
 Ser OB1 A
 Ser OB1A
 Ser OB2
 Ser far-South
-Ser-Sct II
 Serpens
 Serpens Core C
 Serpens Core D
@@ -8475,6 +8396,7 @@ Sgr III
 Sgr OB1A
 Sgr OB1B
 Sgr OB1C
+Sgr OB3
 Sgr OB4
 Sgr OB6
 Sgr OB7
@@ -8523,9 +8445,8 @@ Sh2-252A
 Sh2-252C
 Sh2-252E
 Sh2-254
-Sh2-255
+Sh2-255/7
 Sh2-256
-Sh2-257
 Sh2-258
 Sh2-259
 Sh2-266
@@ -8547,6 +8468,7 @@ Sh2-294
 Sh2-299
 Sh2-305
 Sh2-4
+Sh2-48
 Sh2-61
 Sh2-62
 Sh2-87E
@@ -8587,6 +8509,8 @@ Soares-Bica 1
 Soares-Bica 2
 Soares-Bica 3
 Spitzer J1804-2203
+Spitzer J1848-0110
+Spitzer J1850-0001
 Spitzer J1901+0454
 SpitzerCar A
 SpitzerCar G
@@ -8640,7 +8564,6 @@ Strottner 1
 T Cru
 T Tau
 TC 0021+6303
-TC 0022+6431
 TC 0047+6643
 TC 0053+4934
 TC 0110+6139
@@ -8697,8 +8620,7 @@ TC 2013+3639
 TC 2018+4000
 TC 2019+4046
 TC 2020+3919
-TC 2020+3950 a
-TC 2020+3950 b
+TC 2020+3950
 TC 2031+5102
 TC 2046+4346
 TC 2151+5642
@@ -8706,8 +8628,8 @@ TC 2156+5532
 TC 2156+5801
 TC 2217+5359
 TC 2245+5722
-TC 2348+6215
 TC 2353+6240
+TEB 1
 TKMLM 1
 TMC-1
 TMC-2
@@ -8724,7 +8646,6 @@ TPN 7
 TPN 8
 TPN 9
 TRB 1
-TRSG 4
 TV CMa
 TW Nor
 TY Cru
@@ -9935,7 +9856,6 @@ Theia 7
 Theia 702
 Theia 703
 Theia 711
-Theia 7160
 Theia 7197
 Theia 720
 Theia 727
@@ -10082,7 +10002,6 @@ Trapezium
 Trapezium FG
 Treasure Chest
 Tri II
-Triangulum II
 Trifid
 Trifid B
 Trumpler 1
@@ -10112,6 +10031,7 @@ Trumpler 30
 Trumpler 32
 Trumpler 33
 Trumpler 34
+Trumpler 34 B
 Trumpler 35
 Trumpler 36
 Trumpler 37
@@ -10124,10 +10044,6 @@ Tuc II
 Tuc III
 Tuc IV
 Tuc V
-Tucana II
-Tucana III
-Tucana IV
-Tucana V
 Turner 10
 Turner 12
 Turner 13
@@ -10157,7 +10073,6 @@ UBC 10A
 UBC 10B
 UBC 11
 UBC 110
-UBC 111
 UBC 112
 UBC 113
 UBC 114
@@ -10576,6 +10491,7 @@ UBC 495
 UBC 496
 UBC 497
 UBC 498
+UBC 499
 UBC 5
 UBC 50
 UBC 500
@@ -10660,7 +10576,6 @@ UBC 570
 UBC 571
 UBC 572
 UBC 573
-UBC 574
 UBC 575
 UBC 576
 UBC 577
@@ -10692,7 +10607,6 @@ UBC 6
 UBC 60
 UBC 600
 UBC 601
-UBC 602
 UBC 603
 UBC 604
 UBC 605
@@ -10732,6 +10646,7 @@ UBC 64
 UBC 640
 UBC 641
 UBC 643
+UBC 644
 UBC 645
 UBC 646
 UBC 647
@@ -10743,6 +10658,8 @@ UBC 652
 UBC 653
 UBC 654
 UBC 655
+UBC 656
+UBC 657
 UBC 658
 UBC 659
 UBC 66
@@ -10800,6 +10717,7 @@ UCEC 16
 UCEC 17
 UCEC 3
 UCEC 4
+UCEC 5
 UCEC 8
 UCEC 9
 UCL-1
@@ -10949,6 +10867,7 @@ UPK 127
 UPK 128
 UPK 129
 UPK 13
+UPK 130
 UPK 131
 UPK 132
 UPK 133
@@ -10973,6 +10892,7 @@ UPK 15
 UPK 150
 UPK 151
 UPK 152
+UPK 153
 UPK 154
 UPK 155
 UPK 156
@@ -10995,6 +10915,7 @@ UPK 170
 UPK 171
 UPK 172
 UPK 173
+UPK 174
 UPK 175
 UPK 176
 UPK 177
@@ -11017,6 +10938,7 @@ UPK 191
 UPK 192
 UPK 193
 UPK 194
+UPK 195
 UPK 196
 UPK 197
 UPK 198
@@ -11026,6 +10948,7 @@ UPK 20
 UPK 200
 UPK 201
 UPK 202
+UPK 203
 UPK 204
 UPK 205
 UPK 206
@@ -11171,6 +11094,7 @@ UPK 331
 UPK 332
 UPK 333
 UPK 334
+UPK 335
 UPK 336
 UPK 337
 UPK 338
@@ -11251,6 +11175,7 @@ UPK 404
 UPK 405
 UPK 406
 UPK 407
+UPK 408
 UPK 409
 UPK 41
 UPK 410
@@ -11387,6 +11312,7 @@ UPK 529
 UPK 53
 UPK 530
 UPK 531
+UPK 532
 UPK 533
 UPK 534
 UPK 535
@@ -11403,6 +11329,7 @@ UPK 544
 UPK 545
 UPK 546
 UPK 547
+UPK 548
 UPK 549
 UPK 55
 UPK 550
@@ -11413,6 +11340,7 @@ UPK 554
 UPK 555
 UPK 556
 UPK 557
+UPK 558
 UPK 559
 UPK 56
 UPK 560
@@ -11521,6 +11449,8 @@ UPK 652
 UPK 653
 UPK 654
 UPK 655
+UPK 656
+UPK 658
 UPK 66
 UPK 67
 UPK 68
@@ -11610,8 +11540,8 @@ VB73 58
 VBe 3
 VC10 Grp D
 VGO 1
-VRMF 1
-VRMF 2
+VOG 1
+VRMF 1/2
 VV Ser
 VVV-CL 1
 VVV-CL 101
@@ -11768,6 +11698,7 @@ VVVX CL 97
 VVVX-GC-140900-653712
 VY Mon
 VY Per
+Valparaiso 1
 Vastagh 9
 VdBH 13b
 VdBH 85a
@@ -11801,28 +11732,26 @@ Vela Sheet
 VelaMRC-IRS26
 VelaMRD-IRS16
 Vir I
-Virgo I
 Volans-Carina
 Vul OB4
 Vul R1
 Vul R2
 W 31
 W 33
-W 42 Cl
-W 48 Cl
 W2249
-W3 Cluster
+W3
 W3 E
 W3 H
 W3 J
 W3 Main
-W3(OH) cluster-A
-W3(OH) cluster-B
-W3(OH) cluster-C
+W3(OH) A
+W3(OH) B
+W3(OH) C
 W3-IRS5
-W40 Cl
-W42 Cl
-W43 Cl
+W40
+W42
+W43
+W48
 W49 Main
 W49A-East
 W49A-SouthWest
@@ -11833,6 +11762,7 @@ W51B
 W75 N
 W75 S
 W75N
+WB 89-437
 WB89 223
 WB89 713
 WB89 739
@@ -11856,16 +11786,11 @@ WKR 23
 WPW 1
 WR 28
 WR 46-17
-WR 48-10
 WR 48-2
-WR 48-8
-WR 48-9
+WR 48-8/9/10
 WR 70-12
-WR 75-25
-WR 75-26
-WR 75-27
-WR 75-28
-WR 75-29
+WR 75-25/26
+WR 75-27/28/29
 WR 75-9
 WR 76-7
 WR 76-8
@@ -11890,8 +11815,8 @@ We 1-5
 Weinberger 22
 Weinberger 3
 Westerlund 1
-Westerlund 2 Main
-Westerlund 2 North
+Westerlund 2
+Westerlund 2 N
 Westerlund 3
 Whiting 1
 Wilks Cl
@@ -11959,12 +11884,11 @@ Zannin 4
 Zannin J0520-05
 Zari 1
 Zeta CrB
-Zeta Gem Cl
+Zeta Gem
 Zeta Ori
 Zeta Scl
 [ABB2014] G171.046+01.906
 [ABB2014] G183.370+01.316
-[BNM96] 229.570+0.150
 [CB88] 54
 [CH87] 332.541-0.111
 [CH87] 334.529+0.825
@@ -11988,9 +11912,9 @@ Zeta Scl
 a Car
 deWit 2
 delta Lyr
-e Tau Asc
+e Tau
 h Per
-u Tau Asc
+u Tau
 van Genderen 1
 van Wulfen 33
 van Wulfen 6

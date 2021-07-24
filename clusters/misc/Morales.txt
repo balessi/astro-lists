@@ -1,0 +1,697 @@
+Name                     Cns  RAJ2000    DeJ2000   Dm"  DKpc  Age_Myr Typ Type_flg           Associated HII reg               Complex of Cls     
+
+BDSB 124                 Aql  18 43 16.0 -03 35 42   72  7.21         EC2 p-emb.bub-cen      [L89b] 28.801+00.174                                
+Alicante 7               Aql  18 44 29.5 -03 30 02  660  7.18   20.00 OC2 few                                                                    
+Berkeley 79              Aql  18 45 12.0 -01 13 00  360  2.30   65.00 OC2 exp                                                                    
+RSGC 3                   Aql  18 45 20.9 -03 23 54  233  7.18   20.00 OC2 exp                                                                    
+FSR 87                   Aql  18 46 00.0 -03 37 15  281               OC2 exp                                                                    
+BDSB 125                 Aql  18 46 04.0 -02 39 19   29  6.47         EC1 emb.pah            [WC89] 029.96-0.02 (UC)          W43                
+BDSB 10                  Aql  18 46 21.0 -03 47 42   94 10.83         OC0 surr.bub-cen       [L89b] 28.983-00.603                                
+Mercer 11                Aql  18 46 41.0 -02 44 07   60               OC2 exp                                                                    
+FSR 98                   Aql  18 47 31.0 +00 36 51  108               OC2 exp                                                                    
+W43 IR Cl                Aql  18 47 36.0 -01 56 33   72  6.47         EC1 emb.bub-cen        [L89b] 30.776-00.029             W43                
+Mercer 12                Aql  18 47 48.0 -01 56 30   96  6.47         OC0 surr                                                W43                
+G3CC 60                  Aql  18 48 02.1 -01 33 26   50 11.42         EC1 emb                HRDS G031.159+0.048                                 
+FSR 89                   Aql  18 48 39.0 -03 30 34   73  2.20 1000.00 OC2 exp                                                                    
+GLIMPSE-GC 1             Aql  18 48 50.1 -01 29 47   29  6.30  450.00 OC2 exp                                                                    
+FSR 90                   Aql  18 50 20.0 -03 34 42  158               OC2 exp                                                                    
+Teutsch 146              Aql  18 51 33.5 +00 11 10   96  3.80  400.00 OC2 exp*                                                                   
+BDSB 126                 Aql  18 52 51.0 +00 55 28   66  6.83         EC1 emb.pah            [L89b] 33.914+00.111                                
+G3CC 61                  Aql  18 53 18.4 +01 24 47   91  1.56         EC1 emb                G34.4+0.23 (UC)                  KC-25              
+BDSB 127                 Aql  18 53 20.0 +01 14 39   74  1.56         EC2 p-emb.bub-cen      G34.3+0.2                        KC-25              
+BDSB 128                 Aql  18 53 22.0 +01 13 58   42  1.56         EC2 p-emb.bub-cen      G34.3+0.2                        KC-25              
+Mol 75 Cl                Aql  18 53 38.1 +01 50 27   72  1.56         EC1 emb                                                 KC-25              
+Mercer 13                Aql  18 53 53.0 +00 37 39   60  3.00   65.00 OC2 exp                                                                    
+Berkeley 80              Aql  18 54 22.0 -01 13 00  240  1.43  398.00 OC2 exp                                                                    
+Mercer 14                Aql  18 58 06.3 +01 36 45   74  2.21         EC2 p-emb.bub-cen                                       KC-26              
+BDSB 129                 Aql  18 58 12.8 +01 40 36   85  2.21         EC1 emb                                                 KC-26              
+Mol 82 Cl                Aql  18 59 03.2 +03 53 17   18  6.55         EC2 p-emb                                                                  
+Mol 84 Cl                Aql  18 59 14.3 +07 04 52   54  1.93         EC1 emb.pah            Mol 84 (UC)                                         
+[MVM2011] G37.51-0.46    Aql  19 01 27.0 +03 52 00   60  6.10         OC2 exp                                                                    
+Mercer 15                Aql  19 03 40.7 +05 10 20   95 10.25         EC2 p-emb.pah                                                              
+Mercer 16                Aql  19 04 20.0 +05 06 33   36               OC2 exp.bub-cen                                                            
+Alessi 56                Aql  19 06 52.5 +09 34 58   90  3.90         OC2 exp                                                                    
+G3CC 62                  Aql  19 07 00.0 +05 23 05   53  3.63         EC1 emb                                                                    
+SGR 1900+14              Aql  19 07 14.0 +09 19 21   12 13.53   14.00 OC2 exp                                                                    
+Juchert 3                Aql  19 07 33.0 +06 17 10  180  0.83  891.00 OC2 exp                                                                    
+BDSB 11                  Aql  19 08 43.0 +05 36 02   84  3.01         EC2 p-emb.pah                                                              
+Mercer 17                Aql  19 09 19.0 +08 11 45   36               OC2 exp                                                                    
+Mercer 18                Aql  19 09 50.0 +08 19 30  132  5.10         EC2 p-emb.bub-cen      [L89b] 42.431-00.264                                
+BDSB 132                 Aql  19 10 11.0 +09 07 03   57 11.40         EC2 p-emb.pah          [DJW84] W49 CC                   W49A               
+[AH2003] 3,4             Aql  19 10 11.4 +09 05 21   48 11.40         EC1 emb.pah            [DJW84] W49 S,Q                  W49A               
+W49A Welch Ring          Aql  19 10 14.0 +09 06 19   36 11.40         EC1 emb                W49A Welch Ring (UC)             W49A               
+[AH2003] 1               Aql  19 10 17.5 +09 06 21   84 11.40         EC2 p-emb.bub-cen      W49A extended                    W49A               
+[AH2003] 2               Aql  19 10 21.9 +09 05 04   42 11.40         EC1 emb.pah            W49A South                       W49A               
+Teutsch 148              Aql  19 10 26.6 +10 18 34   72               OC2 exp                                                                    
+BDSB 131                 Aql  19 10 31.0 +07 52 57   89  4.30    2.30 EC2 p-emb.bub-cen      [L89b] 42.108-00.623                                
+BDSB 133                 Aql  19 10 33.0 +09 07 37   66 11.40         EC2 p-emb              [WWB83] G043.23-0.05             W49A               
+G3CC 63                  Aql  19 11 38.7 +08 46 40   52  7.68         EC1 emb.pah                                                                
+FSR 123                  Aql  19 11 42.2 +12 03 02   73  4.50  501.00 OC2 exp                                                                    
+Mol 99 Cl                Aql  19 11 51.4 +09 49 35   60  5.92         EC1 emb                                                                    
+Mercer 20                Aql  19 12 24.2 +09 57 27   84  4.50    7.00 OC2 exp                                                                    
+IRAS 19110+1045 Cl       Aql  19 13 20.6 +10 50 47   90  4.40         EC1 emb.pah            IRAS 19110+1045                  GRSMC G045.14+00.14
+BDSB 134                 Aql  19 13 27.0 +10 54 27   72  4.40         EC2 p-emb.pah          IRAS 19111+1048                  GRSMC G045.14+00.14
+BDSB 135                 Aql  19 13 28.0 +10 53 35   42  4.40         EC1 emb.pah            IRAS 19111+1048                  GRSMC G045.14+00.14
+BDSB 136                 Aql  19 14 09.0 +11 12 32   68  6.66         EC2 p-emb.pah          [L89b] 45.475+00.130             KC-27              
+[BDB2003] G045.45+00.06  Aql  19 14 21.0 +11 09 11   12  6.66         EC1 emb.pah            [L89b] 45.451+00.060             KC-27              
+G3CC 64                  Aql  19 14 26.8 +09 22 44   63  4.40         EC1 emb.pah            [L89b] 43.890-00.790                                
+Berkeley 43              Aql  19 15 36.0 +11 13 00  300  1.03  299.00 OC2 exp                                                                    
+BDSB 137                 Aql  19 16 19.0 +11 19 08   90  6.66         EC2 p-emb.bub-cen      [L89b] 45.824-00.290             KC-27              
+G3CC 65                  Aql  19 18 04.1 +13 24 41   68  5.52         EC2 p-emb.pah                                                              
+Berkeley 45              Aql  19 19 12.0 +15 43 00  120  2.35  355.00 OC2 exp                                                                    
+Mercer 21                Aql  19 20 30.0 +13 55 24  216  5.03         EC2 p-emb.pah          [L89b] 48.596+00.042                                
+Alessi 57                Aql  19 20 53.8 +15 40 36  150  3.90         OC2 exp                                                                    
+FSR 126                  Aql  19 21 09.0 +13 46 30  374               OC2 exp                                                                    
+G3CC 66                  Aql  19 21 47.7 +15 14 20   55 10.17         EC2 p-emb                                                                  
+BDSB 138                 Aql  19 22 15.0 +14 03 32  105  5.43         EC2 p-emb.bub-cen      [L89b] 48.930-00.286             W51                
+BDSB 139                 Aql  19 22 26.0 +14 06 54  126  5.43    3.30 EC1 emb.bub-cen        [L89b] 48.997-00.295             W51                
+BDSB 140                 Aql  19 22 30.0 +14 11 03  126  5.43         EC2 p-emb              [L89b] 49.060-00.260             W51                
+Juchert 1                Aql  19 22 32.0 +12 40 00  192  2.62 1259.00 OC2 exp                                                                    
+BDSB 141                 Aql  19 22 53.0 +14 09 22   84  5.43         EC2 p-emb.pah          [L89b] 49.076-00.377             W51                
+[NKD2004] G49.2-0.3      Aql  19 23 02.0 +14 16 37   90  5.43         EC2 p-emb.bub-cen      [L89b] 49.204-00.345             W51                
+BDSB 142                 Aql  19 23 04.0 +14 28 05   60  5.43         EC2 p-emb.bub-cen      [M94] 49.4-0.3 a                 W51                
+G3CC 67                  Aql  19 23 11.3 +15 13 10  107  5.28         EC1 emb                                                                    
+BDSB 143                 Aql  19 23 14.0 +14 27 33   81  5.43         EC2 p-emb.pah          [L89b] 49.384-00.298             W51                
+BDSB 144                 Aql  19 23 19.0 +14 29 23   68  5.43         EC2 p-emb.pah          [M94] 49.4-0.3 c                 W51                
+BDSB 145                 Aql  19 23 29.0 +14 31 43   78  5.43         EC2 p-emb.pah          [M94] 49.5-0.4 a                 W51                
+BDSB 147                 Aql  19 23 33.0 +14 29 47   36  5.43         EC2 p-emb.pah          [M94] 49.5-0.4 b                 W51                
+BDSB 146                 Aql  19 23 35.0 +14 32 02   54  5.43         EC2 p-emb.bub-cen      [M94] 49.5-0.4 b1                W51                
+BDSB 152                 Aql  19 23 40.0 +14 31 13   42  5.43         EC1 emb                [M94] 49.5-0.4 d (UC)            W51                
+BDSB 148                 Aql  19 23 41.0 +14 29 15   36  5.43         EC2 p-emb.pah          [M94] 49.5-0.4 c1                W51                
+BDSB 149                 Aql  19 23 43.0 +14 29 55   61  5.43         EC2 p-emb.pah          [M94] 49.5-0.4 e                 W51                
+BDSB 151                 Aql  19 23 43.0 +14 30 34   42  5.43         EC2 p-emb.pah          [M94] 49.5-0.4 e                 W51                
+BDSB 153                 Aql  19 23 48.0 +14 33 15   60  5.43         EC2 p-emb.pah          [M94] 49.5 -0.4 f                W51                
+BDSB 154                 Aql  19 23 51.0 +14 32 57   60  5.43         EC2 p-emb.pah          [M94] 49.5-0.4 g                 W51                
+BDSB 155                 Aql  19 23 55.0 +14 35 40   66  5.43         OC1 exp.pah            [M94] 49.5-0.4 h                 W51                
+Kronberger 13            Aql  19 25 14.9 +13 56 44   90  1.38  400.00 OC2 exp                                                                    
+BDSB 157                 Aql  19 26 02.0 +16 20 10  119  5.14         EC2 p-emb.pah          [L89b] 51.362-00.001                                
+Teutsch 26               Aql  19 26 06.1 +13 45 48  162               OC2 exp                                                                    
+FSR 129                  Aql  19 26 56.0 +13 58 56  374               OC2 exp                                                                    
+King 26                  Aql  19 29 01.0 +14 52 02  264  2.60  440.00 OC2 exp                                                                    
+FSR 133                  Aql  19 29 47.7 +15 33 44  278  1.90  600.00 OC2 exp                                                                    
+FSR 131                  Aql  19 30 42.2 +15 25 59   83  5.50  631.00 OC2 exp                                                                    
+VVV-CL 77                Ara  16 34 48.0 -47 32 49   30  7.57         EC2 p-emb.pah                                                              
+VVV-CL 78                Ara  16 35 09.0 -48 46 24   82 11.57         EC2 p-emb.pah          [WBH98] 16313-4840 (UC)                             
+Ruprecht 120             Ara  16 35 10.0 -48 17 00  180  1.98  100.00 OC2 exp                                                                    
+VVV-CL 79                Ara  16 35 22.0 -47 28 33   30               OC2 exp                                                                    
+Patchick 93              Ara  16 36 05.0 -46 42 18   90               OC0 surr                                                                   
+DBSB 168                 Ara  16 36 45.0 -47 31 26   46 10.23         EC2 p-emb.pah          [CH87] 337.147-0.181                                
+G3CC 34                  Ara  16 37 48.5 -47 38 53   49  3.15         EC1 emb                                                 KC-17              
+Lynga 11                 Ara  16 38 09.0 -46 19 00  240  2.30  630.00 OC2 exp                                                                    
+DBSB 171                 Ara  16 38 11.0 -47 04 08   35 11.53         EC2 p-emb              [KC97c] G337.6-00.1                                 
+DBSB 169                 Ara  16 38 50.0 -47 17 34   66  6.16         OC0 surr               [CH87] 337.548-0.304                                
+VVV-CL 80                Ara  16 38 56.0 -47 27 01   50  3.15         EC2 p-emb.pah          [MCG2002] G337.4-0.4             KC-17              
+IRAS 16353-4636 Cl       Ara  16 39 03.2 -46 42 29   12  7.63         EC1 emb.pah            IRAS 16353-4636                                     
+VVV-CL 81                Ara  16 39 43.0 -47 06 57   20               OC2 exp                                                                    
+DBSB 103                 Ara  16 40 00.0 -48 46 58   38  1.19         OC2 exp                                                                    
+RCW 108 IR Cl            Ara  16 40 01.0 -48 52 03   54  1.30    1.00 EC2 p-emb.pah          RCW 108                                             
+Mercer 81                Ara  16 40 24.0 -46 23 38   72 12.80    3.70 OC1 exp                                                                    
+VVV-CL 82                Ara  16 40 39.0 -48 16 07   68  3.02         EC2 p-emb.pah                                                              
+G3CC 36                  Ara  16 41 15.7 -45 48 23   97  2.08         EC1 emb.pah            [WBH98] 16376-4542 (UC)                             
+Ruprecht 121             Ara  16 41 42.0 -46 09 00  480               OC2 few                                                                    
+G3CC 35                  Ara  16 42 43.2 -46 43 36   65  3.03         EC1 emb                                                                    
+DBSB 105                 Ara  16 43 16.0 -46 05 59   62  3.45         EC2 p-emb.pah          [KC97c] G338.9-00.1                                 
+NGC 6200                 Ara  16 44 07.0 -47 27 48  840  2.05    8.47 OC2 exp                                                                    
+Hogg 20                  Ara  16 44 30.0 -47 38 00  240               OC2 exp                                                                    
+G3CC 37                  Ara  16 45 08.6 -46 22 50   80  3.01         EC1 emb                                                                    
+VVV-CL 85                Ara  16 45 26.0 -47 13 02   80               OC2 exp                                                                    
+Hogg 21                  Ara  16 45 37.0 -47 44 00  240               OC2 exp.pah                                                                
+NGC 6204                 Ara  16 46 09.0 -47 01 00  300  1.20   80.00 OC2 few                                                                    
+BH 197                   Ara  16 46 30.0 -45 51 36  240               OC2 exp                                                                    
+Hogg 22                  Ara  16 46 37.0 -47 05 00  180  1.22    6.03 OC2 exp                                                                    
+Westerlund 1             Ara  16 47 04.4 -45 50 46  180  4.00    4.00 OC0 few                                                                    
+Teutsch 109              Cen  12 57 50.4 -63 15 56  132               OC2 exp                                                                    
+G3CC 8                   Cen  13 00 22.2 -63 32 30  107 12.10         EC1 emb.pah                                                                
+G3CC 9                   Cen  13 00 40.3 -62 23 17   82               OC2 exp                                                                    
+VVV-CL 19                Cen  13 07 06.0 -61 25 03  100  2.11         EC2 p-emb.pah                                                              
+VVV-CL 20                Cen  13 07 36.0 -61 19 28   48               OC2 exp                                                                    
+Mercer 35                Cen  13 08 09.0 -62 43 46   36               OC2 exp                                                                    
+G3CC 10                  Cen  13 08 12.3 -62 10 23   41  3.80         EC1 emb                                                 G305               
+DBSB 82                  Cen  13 08 36.0 -62 14 58  102  3.80         EC2 p-emb.bub-cen-trig PMN J1308-6215                   G305               
+DBSB 131                 Cen  13 11 39.3 -62 33 12   69  3.80    2.00 OC0 surr.bub-cen       [CH87] 305.254+0.204             G305               
+VVV-CL 21                Cen  13 11 51.0 -62 36 52   58  3.80         EC2 p-emb.pah          [DWS84] G305.27+0.17             G305               
+DBSB 130                 Cen  13 11 54.0 -62 47 02   96  3.80    2.00 EC2 p-emb.bub-cen      [DWS84] G305.27-0.01             G305               
+DBSB 132                 Cen  13 12 18.0 -62 42 16   39  3.80         EC1 emb.pah            [DWS84] G305.32+0.07             G305               
+Danks 1                  Cen  13 12 26.9 -62 41 59   66  3.80    2.00 OC0 surr                                                G305               
+VVV-CL 22                Cen  13 12 36.0 -62 37 16  106  3.80         EC1 emb.pah            [CH87] 305.363+0.179             G305               
+Danks 2                  Cen  13 12 54.1 -62 40 40   93  3.80    4.00 OC1 exp                                                 G305               
+Mercer 36                Cen  13 13 04.0 -63 00 21   96               EC1 emb.bub-cen                                                            
+VVV-CL 23                Cen  13 13 13.0 -62 33 26   54  3.80         OC1 exp.pah                                             G305               
+DBSB 133                 Cen  13 13 58.0 -62 24 22  129  3.80         EC2 p-emb.bub-cen-trig [CH87] 305.537+0.338             G305               
+NGC 5045                 Cen  13 14 10.0 -63 23 24 2712  1.50   12.90 OC2 few                                                                    
+DBSB 134                 Cen  13 14 22.0 -62 44 40   96  3.80         EC2 p-emb.bub-cen-trig [CH87] 305.551-0.005             G305               
+Mercer 37                Cen  13 16 52.0 -62 47 22  144  3.80         EC2 p-emb.pah          [CH87] 305.807-0.063             G305               
+DBSB 85                  Cen  13 18 31.0 -62 39 47  102  1.98         OC0 surr.bub-cen                                                           
+VVV-CL 24                Cen  13 18 45.0 -62 44 39   54               EC2 p-emb.pah                                                              
+DBSB 86                  Cen  13 19 05.0 -62 34 16  122  2.71         EC2 p-emb.pah                                                              
+Stock 16                 Cen  13 19 29.0 -62 38 00  180  1.81    7.94 OC2 exp                                                                    
+FSR 1645                 Cen  13 21 10.0 -61 56 46  641               OC2 exp                                                                    
+Teutsch 79               Cen  13 23 39.0 -63 40 24  264  1.25  600.00 OC2 exp                                                                    
+Loden 807                Cen  13 24 40.0 -62 29 00 1200  0.93  200.00 OC2 few                                                                    
+Teutsch 110              Cen  13 26 35.7 -64 06 12  108               OC2 exp                                                                    
+G3CC 11                  Cen  13 26 58.8 -62 03 25   71               EC1 emb                                                                    
+Basel 18                 Cen  13 27 44.0 -62 18 46  360  2.23   38.90 OC2 few                                                                    
+Hogg 16                  Cen  13 29 18.0 -61 12 00  360  1.59   11.10 OC2 exp                                                                    
+Collinder 272            Cen  13 30 26.0 -61 19 00  600  2.05   16.90 OC2 exp                                                                    
+VVV-CL 25                Cen  13 31 22.0 -63 28 27   34               EC2 p-emb.pah                                                              
+VVV-CL 26                Cen  13 31 26.0 -63 27 52   36               EC2 p-emb.pah                                                              
+Trumpler 21              Cen  13 32 14.0 -62 48 00  300  1.26   49.70 OC2 exp*                                                                   
+VVV-CL 27                Cen  13 32 24.0 -62 43 39   26               OC2 exp                                                                    
+FSR 1653                 Cen  13 33 50.0 -63 01 51   43               OC2 exp                                                                    
+C1331-622                Cen  13 34 12.0 -62 25 02  420  1.09   63.10 OC2 exp                                                                    
+ESO 132-14               Cen  13 36 30.0 -62 12 49  180  1.10  800.00 OC2 exp                                                                    
+Pismis 18                Cen  13 36 55.0 -62 05 36  240  2.24  891.00 OC2 exp                                                                    
+BH 151                   Cen  13 40 12.0 -61 43 48   76  6.10    2.30 OC1 exp.bub-cen-trig   [CH87] 308.647+0.579             KC-02              
+VVV-CL 28                Cen  13 40 23.0 -61 44 00   24  6.10         OC1 exp.bub-cen        [CH87] 308.647+0.579             KC-02              
+VVV-CL 29                Cen  13 41 54.0 -62 07 38   54  6.10         EC1 emb.pah                                             KC-02              
+SAI 118                  Cen  13 43 03.8 -63 09 53  480  1.14 5623.00 OC2 exp                                                                    
+Dias 4                   Cen  13 43 25.0 -63 00 48  384  2.15 1260.00 OC2 exp                                                                    
+Mercer 38                Cen  13 44 15.9 -62 04 05  100  6.10         OC1 exp.bub-cen-trig   [CH87] 309.057+0.186             KC-02              
+NGC 5269                 Cen  13 44 44.0 -62 54 54  180  1.41  160.00 OC2 exp                                                                    
+Loden 991                Cen  13 45 24.0 -62 01 00  300               OC2 exp                                                                    
+VVV-CL 30                Cen  13 45 28.0 -62 14 33   40  9.32         EC2 p-emb.pah          RMS G309.1760-00.0277 (UC)                          
+NGC 5281                 Cen  13 46 35.0 -62 55 00  420  1.11   14.00 OC2 exp                                                                    
+ASCC 75                  Cen  13 47 10.0 -62 25 12 1224  3.00    4.47 OC0 few*               [KMO2009] G309.24-0.18           Gum 48d            
+Mercer 39                Cen  13 47 19.0 -62 47 27  108               OC2 exp                                                                    
+VVV-CL 31                Cen  13 47 20.0 -62 18 44   90  3.00         EC2 p-emb.pah                                           Gum 48d            
+FSR 1666                 Cen  13 48 35.0 -61 26 00  216               OC2 exp                                                                    
+G3CC 12                  Cen  13 48 38.1 -62 46 11   48  3.00         EC1 emb                                                 Gum 48d            
+G3CC 13                  Cen  13 49 51.6 -62 51 42   38  3.00         EC1 emb.bub-edge       [CH87] 309.548-0.737 (bub)       Gum 48d            
+Mercer 40                Cen  13 50 36.0 -61 40 12  108  5.28         EC1 emb.pah            [CH87] 309.905+0.373             KC-03              
+VVV-CL 32                Cen  13 50 41.0 -61 35 13  108  5.28         EC1 emb                [WBH98] 13471-6120 (UC)          KC-03              
+G3CC 15                  Cen  13 51 15.8 -61 32 30   88  3.15         EC2 p-emb.pah                                                              
+G3CC 14                  Cen  13 51 25.6 -61 44 51   40  5.28         EC1 emb                                                 KC-03              
+Platais 12               Cen  13 51 44.0 -63 27 12 7200  0.44  170.00 OC2 exp*                                                                   
+NGC 5316                 Cen  13 53 57.0 -61 52 06  840  1.05  166.00 OC2 exp                                                                    
+FSR 1668                 Cen  13 54 49.0 -61 34 12  101               OC2 exp                                                                    
+FSR 1669                 Cen  13 56 25.0 -61 45 50   86               OC2 exp                                                                    
+Loden 1101               Cen  13 58 18.0 -61 47 00  600               OC2 few                                                                    
+SAI 120                  Cen  13 58 42.0 -61 40 08  120  2.55  562.00 OC2 exp                                                                    
+Mercer 41                Cen  13 59 28.0 -61 22 00   36  5.40         OC1 exp.bub-cen        [CH87] 310.994+0.389                                
+Lynga 1                  Cen  14 00 02.0 -62 09 00  180  1.90  113.00 OC2 exp                                                                    
+Mercer 43                Cen  14 00 28.0 -60 59 15  108  5.42         OC0 few                [CH87] 311.197+0.752                                
+Mercer 42                Cen  14 00 37.0 -61 06 59  168               OC2 exp                                                                    
+VVV-CL 33                Cen  14 03 27.0 -61 16 13   54  5.45         OC0 surr.bub-cen       [CH87] 311.489+0.368             KC-04              
+Mercer 44                Cen  14 03 36.0 -61 18 29   96  5.45         EC2 p-emb.bub-cen      [CH87] 311.489+0.368             KC-04              
+VVV-CL 34                Cen  14 04 08.0 -61 19 55   68  7.11         EC2 p-emb.pah                                           KC-05              
+Mercer 45                Cen  14 05 34.0 -62 05 24   96  3.91         OC0 surr               [CH87] 311.497-0.483                                
+VVV-CL 35                Cen  14 06 27.0 -61 29 35   56               EC2 p-emb.pah                                                              
+Mercer 47                Cen  14 07 35.0 -61 19 42  108  7.11         EC2 p-emb.pah          [CH87] 311.922+0.229             KC-05              
+Mercer 46                Cen  14 07 36.0 -61 27 12  108  7.11         EC2 p-emb.pah          [CH87] 311.894+0.100             KC-05              
+Mercer 48                Cen  14 07 53.0 -61 17 51   36               OC2 exp                                                                    
+DBSB 135                 Cen  14 08 42.0 -61 10 38   46  7.11         EC1 emb.pah            [CH87] 312.112+0.314             KC-05              
+VVV-CL 36                Cen  14 09 03.0 -61 16 00   81               OC2 exp                                                                    
+VVV-CL 37                Cen  14 09 07.0 -61 24 43   86  7.11         EC2 p-emb.bub-cen                                       KC-05              
+ASCC 77                  Cen  14 10 48.0 -62 19 48 2304  2.20    9.77 OC0 few*                                                                   
+VVV-CL 38                Cen  14 12 44.0 -61 47 06   40  9.40         EC1 emb.pah            RMS G312.3834-00.4154 (UC)                          
+VVV-CL 39                Cen  14 15 32.0 -61 41 47  120  2.00   75.00 OC2 exp                                                                    
+Mercer 49                Cen  14 17 31.0 -61 36 57   24               OC2 exp.bub-cen        [CH87] 312.953-0.449                                
+Loden 1256               Cen  14 18 12.0 -61 26 00  600  1.40  257.00 OC1 exp                                                                    
+VVV-CL 14                Cen  14 19 09.0 -60 30 46   60               OC2 exp                                                                    
+Mercer 50                Cen  14 19 39.5 -61 25 19   84  1.82    1.20 EC2 p-emb.bub-cen      [TUW2004] SFO 74                                    
+Mercer 51                Cen  14 20 42.0 -60 16 04   72  5.70         EC2 p-emb.bub-cen      [MCG2002] G313.8+0.7                                
+Lynga 2                  Cen  14 24 35.0 -61 19 50  780  0.90   90.00 OC2 exp                                                                    
+G3CC 16                  Cen  14 24 58.6 -61 44 56   80  3.95         EC1 emb.pah                                                                
+DBSB 136                 Cen  14 25 00.0 -60 22 30   72  5.74         EC2 p-emb.pah          [CH87] 314.228+0.437             KC-06              
+Mercer 52                Cen  14 25 03.0 -60 27 35   72  5.74         OC0 surr.bub-cen                                        KC-06              
+G3CC 17                  Cen  14 25 15.4 -60 35 22   86  5.74         EC2 p-emb                                               KC-06              
+G3CC 18                  Cen  14 26 06.6 -60 40 43   87  3.80         EC1 emb                                                                    
+NGC 5606                 Cen  14 27 47.0 -59 37 54  180  1.80   11.90 OC2 exp                                                                    
+FSR 1680                 Cen  14 28 33.0 -60 01 09   43               OC2 exp                                                                    
+FSR 1681                 Cen  14 28 40.0 -59 45 33   36               OC2 exp                                                                    
+NGC 5617                 Cen  14 29 44.0 -60 42 42  600  2.00   80.00 OC2 few                                                                    
+Pismis 19                Cen  14 30 39.4 -60 53 00  194  2.40 1122.00 OC2 exp                                                                    
+Trumpler 22              Cen  14 31 02.0 -61 10 00  600  1.52   89.10 OC2 exp                                                                    
+Loden 1339               Cen  14 33 29.0 -62 01 00  240               OC2 exp                                                                    
+Hogg 17                  Cen  14 33 58.0 -61 22 00  240  1.31  107.00 OC2 exp                                                                    
+Ruprecht 111             Cen  14 35 54.0 -59 58 00  420  1.12 1413.00 OC2 exp                                                                    
+Mercer 53                Cen  14 40 11.9 -60 22 46  254  4.02  891.00 OC2 exp                                                                    
+DBSB 137                 Cir  14 42 02.0 -60 30 22   34  4.92         EC2 p-emb.pah          [CH87] 316.156-0.492                                
+VVV-CL 40                Cir  14 44 22.0 -59 11 47   64               OC2 exp                                                                    
+ESO 134-12               Cir  14 44 46.0 -59 09 54  240               OC2 exp                                                                    
+DBSB 89                  Cir  14 45 03.0 -59 49 32  119  9.38         EC2 p-emb.pah          [VGO2007] 14416-5937 B           IRAS 14416-5937    
+Mercer 54                Cir  14 45 10.0 -59 50 24   84  9.38         OC0 surr.bub-cen                                        IRAS 14416-5937    
+DBSB 90                  Cir  14 45 19.0 -59 49 45   67  9.38         EC2 p-emb.pah          [VGO2007] 14416-5937 A           IRAS 14416-5937    
+DBSB 91                  Cir  14 45 26.0 -59 49 15   53  9.38         EC1 emb.pah            [VGO2007] 14416-5937 A           IRAS 14416-5937    
+Mercer 55                Cir  14 45 34.0 -59 46 50   12               OC2 exp                                                                    
+VVV-CL 41                Cir  14 46 26.0 -59 23 17  108  0.90   27.50 OC2 exp                                                                    
+FSR 1689                 Cir  14 46 50.0 -59 29 15  252               OC2 exp                                                                    
+Mercer 56                Cir  14 49 19.0 -59 25 54   60               OC2 exp                                                                    
+G3CC 19                  Cir  14 51 19.3 -59 50 46   45  2.93         EC1 emb                                                                    
+Teutsch 80               Cir  14 53 25.6 -60 28 57  204  2.50  126.00 OC2 exp                                                                    
+G3CC 21                  Cir  14 53 42.2 -59 08 49   88  3.40         EC1 emb                RMS G318.0498+00.0856 (UC)                          
+G3CC 20                  Cir  14 53 45.6 -59 31 34   74  2.35         EC1 emb                                                                    
+G3CC 23                  Cir  14 59 31.0 -57 49 18   65  2.84         EC2 p-emb                                                                  
+G3CC 22                  Cir  14 59 33.5 -59 00 59  105  2.48         EC1 emb.pah                                                                
+SAI 122                  Cir  15 00 03.9 -58 48 13  480  1.67  178.00 OC2 exp                                                                    
+FSR 1696                 Cir  15 01 07.0 -57 39 43  720               OC2 exp                                                                    
+VVV-CL 43                Cir  15 02 56.0 -58 35 55  108 11.50         EC2 p-emb.pah          RMS G319.3618+00.0133 (UC)       KC-07              
+Mercer 57                Cir  15 03 00.0 -59 01 23   96 11.44         OC1 exp.bub-cen        [CH87] 319.157-0.423                                
+Mercer 58                Cir  15 03 19.0 -58 36 09  132 11.50         EC1 emb.pah            [CH87] 319.380-0.025             KC-07              
+DBSB 92                  Cir  15 03 33.0 -57 40 04   36  1.23         EC2 p-emb.pah          [CH87] 319.874+0.770             KC-08              
+VVV-CL 44                Cir  15 03 40.0 -58 35 07   80 11.50         EC2 p-emb.pah          RMS G319.4519-00.0217 (UC)       KC-07              
+VVV-CL 45                Cir  15 03 47.0 -58 40 11  108               OC2 exp                                                                    
+RCW 87 IR Cl             Cir  15 05 19.1 -57 31 28  127  1.23         EC2 p-emb.bub-cen-trig [CH87] 320.153+0.780             KC-08              
+DBSB 138                 Cir  15 05 23.0 -57 26 37   51  1.23         EC2 p-emb.pah                                           KC-08              
+Mercer 59                Cir  15 07 13.0 -57 47 52  120  2.03         EC2 p-emb.pah          [CH87] 320.236+0.417                                
+DBSB 140                 Cir  15 09 58.0 -58 17 35   95 12.14         EC2 p-emb.pah          PMN J1510-5817                   MC-01              
+DBSB 139                 Cir  15 10 06.0 -58 25 58   86  7.70         EC2 p-emb.pah          [CH87] 320.252-0.332                                
+VVV-CL 46                Cir  15 10 08.0 -58 17 06   40 12.14         EC2 p-emb.pah          PMN J1510-5817                   MC-01              
+Loden 2045               Cir  15 10 24.0 -58 47 00 1200               OC2 few                                                                    
+VVV-CL 67                Cir  15 10 36.0 -57 54 42   60               OC2 exp                                                                    
+VVV-CL 47                Cir  15 11 52.0 -59 30 30   42  7.90   60.00 OC2 exp                                                                    
+VVV-CL 48                Cir  15 14 01.0 -59 15 13   54  3.48         EC2 p-emb.pah                                                              
+VVV-CL 49                Cir  15 14 30.0 -58 11 49   60               EC2 p-emb                                                                  
+Pismis 20                Cir  15 15 23.0 -59 04 00  240  2.02    7.31 OC2 exp                                                                    
+Mercer 60                Cir  15 16 36.0 -58 10 07   72  8.98         OC0 surr.bub-cen-trig  [CH87] 321.105-0.549                                
+DBSB 93                  Cir  15 18 37.0 -56 38 44   72  3.75         EC2 p-emb.pah          [CH87] 322.153+0.613                                
+G3CC 24                  Cir  15 19 43.2 -57 18 04   33  2.07         EC1 emb                                                 MC-02              
+G3CC 25                  Cir  15 19 44.6 -57 16 35   37  2.07         EC2 p-emb                                               MC-02              
+VVV-CL 51                Cir  15 20 39.0 -56 51 37  100               OC2 exp                                                                    
+VVV-CL 50                Cir  15 21 06.0 -57 57 32   30               EC2 p-emb.pah                                                              
+VVV-CL 52                Cir  15 21 44.0 -56 52 40   72               EC2 p-emb.pah          [CH87] 322.407+0.221                                
+VVV-CL 53                Cir  15 27 45.0 -55 48 38  156               OC0 few.pah                                                                
+FSR 1701                 Cir  15 28 28.0 -57 01 12   50               OC2 exp                                                                    
+DBSB 141                 Cir  15 28 32.0 -56 22 29   96  8.78         EC2 p-emb.pah                                                              
+BH 131                   Cru  12 26 13.7 -63 24 50  300  6.25 1259.00 OC2 exp                                                                    
+Mercer 32                Cru  12 26 52.0 -62 49 27   36               OC2 exp                                                                    
+BH 132                   Cru  12 27 00.0 -64 04 00  240        150.00 OC2 exp                                                                    
+VVV-CL 13                Cru  12 28 37.0 -62 58 25   54  4.16         EC2 p-emb.pah                                                              
+FSR 1616                 Cru  12 29 26.0 -63 25 58  101               OC2 exp                                                                    
+Mercer 33                Cru  12 30 05.0 -62 56 50   96  9.41         EC1 emb.pah            [CH87] 300.479-0.192                                
+Ruprecht 105             Cru  12 34 14.0 -61 34 00  720  0.95 1023.00 OC2 exp*                                                                   
+G3CC 5                   Cru  12 34 16.2 -61 55 04   76  4.24         EC1 emb                                                 KC-01              
+DBSB 77                  Cru  12 34 52.0 -61 39 15  138  4.24         EC2 p-emb.pah          [CH87] 300.956+1.161             KC-01              
+VVV-CL 15                Cru  12 34 52.0 -61 40 16   40  4.24         EC2 p-emb.pah                                           KC-01              
+VVV-CL 16                Cru  12 35 00.0 -61 41 40   80  4.24         OC0 surr.bub-cen                                        KC-01              
+VVV-CL 17                Cru  12 35 35.2 -63 02 34   57  4.26         EC1 emb.bub-edge       [WBH98] 12326-6245 (UC)                             
+DBSB 78                  Cru  12 36 03.0 -61 51 00   72  4.24         EC2 p-emb.bub-cen-trig [CH87] 301.109+0.969             KC-01              
+FSR 1622                 Cru  12 37 57.0 -63 16 16  281               OC2 exp                                                                    
+G3CC 6                   Cru  12 40 02.6 -63 05 01   67               EC1 emb.bub-edge                                                           
+NGC 4609                 Cru  12 42 18.0 -62 59 42  780  1.32   50.10 OC2 exp                                                                    
+G3CC 7                   Cru  12 42 53.7 -62 32 32   65               OC2 exp                                                                    
+Hogg 15                  Cru  12 43 37.0 -63 06 00  420  3.20   20.00 OC1 exp                                                                    
+VVV-CL 18                Cru  12 44 40.0 -62 47 46   60               EC2 p-emb.pah                                                              
+Mercer 34                Cru  12 47 03.0 -62 58 21  156               EC2 p-emb.pah          [MCG2002] G302.4-0.1                                
+FSR 1630                 Cru  12 48 42.0 -62 09 14  346               OC2 exp                                                                    
+DBSB 79                  Cru  12 48 48.0 -63 44 35   66               OC2 exp                                                                    
+DBSB 80                  Cru  12 50 23.0 -61 34 55   78  4.46         OC0 surr.bub-cen       [CH87] 302.804+1.306                                
+VVV-CL 54                Nor  15 31 36.0 -56 10 20  108  9.56         EC2 p-emb.bub-cen      RMS G323.9158+00.0336                               
+DBSB 142                 Nor  15 32 13.0 -55 52 06   72  6.67         EC1 emb.pah            [CH87] 324.147+0.231             KC-09              
+DBSB 143                 Nor  15 32 53.0 -55 56 21   46  6.67    1.00 EC1 emb.pah            [CH87] 324.192+0.109             KC-09              
+Lynga 4                  Nor  15 33 19.0 -55 14 11  360  1.10 1300.00 OC2 exp                                                                    
+Lynga 5                  Nor  15 41 54.0 -56 39 00  600  1.95   50.00 OC2 exp                                                                    
+FSR 1703                 Nor  15 41 55.0 -54 59 48  151               OC2 exp                                                                    
+DBSB 94                  Nor  15 42 18.0 -53 58 28   66  2.67         EC1 emb.bub-cen        [CH87] 326.441+0.914             KC-10              
+G3CC 26                  Nor  15 43 18.0 -54 07 23   81  2.67         EC1 emb                                                 KC-10              
+VVV-CL 55                Nor  15 43 36.1 -53 57 48   47  2.67         EC1 emb                                                 KC-10              
+DBSB 96                  Nor  15 44 45.0 -54 06 41  178  2.67    1.75 EC2 p-emb.pah          [CH87] 326.645+0.589             KC-10              
+IRAS 15411-5352 Cl       Nor  15 44 59.7 -54 02 05   27  2.67    1.75 EC1 emb.pah            Wray 16-185                      KC-10              
+Mercer 62                Nor  15 45 05.0 -54 08 14  216  2.67         EC2 p-emb.bub-cen                                       KC-10              
+DBSB 97                  Nor  15 45 09.0 -54 10 30   66  2.67         EC2 p-emb                                               KC-10              
+Mercer 61                Nor  15 45 59.0 -55 10 28   84               EC2 p-emb.pah          [CH87] 326.141-0.328                                
+G3CC 27                  Nor  15 46 20.3 -54 10 35   54  1.40         EC1 emb                                                                    
+Mercer 63                Nor  15 49 50.0 -54 38 42   96  3.05         EC2 p-emb                                                                  
+ASCC 83                  Nor  15 50 13.0 -52 48 00 1512  0.60  251.00 OC2 few                                                                    
+Teutsch 81               Nor  15 52 27.6 -55 36 58  108               OC2 exp                                                                    
+VVV-CL 56                Nor  15 52 38.0 -54 34 38   54  3.23         OC0 surr.pah                                            KC-11              
+G3CC 28                  Nor  15 52 42.6 -53 09 48   31  6.33         EC1 emb                RMS G328.1642+00.5867 (UC)       KC-12              
+DBSB 146                 Nor  15 53 04.0 -54 35 03  122  3.23         EC1 emb.pah            [CH87] 327.313-0.536             KC-11              
+DBSB 149                 Nor  15 54 07.0 -53 11 32   80  6.33    1.00 EC1 emb.pah            [CH87] 328.310+0.448             KC-12              
+DBSB 147                 Nor  15 54 37.0 -54 08 47   48  4.92         EC2 p-emb.pah          [CH87] 327.759-0.351                                
+DBSB 148                 Nor  15 54 42.0 -53 47 46   70 10.93         EC2 p-emb.pah          [CH87] 327.985-0.086                                
+Mercer 68                Nor  15 54 46.1 -52 31 47   53  1.80 1000.00 OC2 exp                                                                    
+Mercer 64                Nor  15 55 37.0 -54 38 38   24  2.61         OC1 exp                RCW 98                                              
+G3CC 30                  Nor  15 55 48.4 -52 43 00   82  2.80         EC1 emb                [CH87] 328.812+0.637                                
+Mercer 66                Nor  15 57 27.0 -53 57 44  120  2.97         EC2 p-emb.bub-cen                                       KC-13              
+FSR 1709                 Nor  15 57 34.0 -54 21 47  662               OC2 few                                                                    
+Mercer 65                Nor  15 57 50.0 -54 02 09  144  2.97         EC2 p-emb.pah                                           KC-13              
+G3CC 29                  Nor  15 57 58.9 -53 58 02   58  2.97         EC1 emb                                                 KC-13              
+Mercer 67                Nor  15 58 33.0 -53 58 21  120  2.97         OC0 surr.bub-cen       [CH87] 328.283-0.586             KC-13              
+DBSB 150                 Nor  15 58 46.0 -53 16 27   93               OC0 surr               [CH87] 328.806-0.083                                
+DBSB 98                  Nor  15 59 38.0 -53 45 25   99  2.97         EC1 emb.pah            [CH87] 328.593-0.518             KC-13              
+G3CC 32                  Nor  16 00 09.4 -51 36 52   56  3.32         EC1 emb                                                                    
+Mercer 70                Nor  16 00 27.0 -52 10 49   48               OC2 exp                                                                    
+[CMG2010] G329.337+0.147 Nor  16 00 33.1 -52 44 46   84  7.08    1.00 EC1 emb                [CH87] 329.353+0.144             KC-14              
+Trumpler 23              Nor  16 00 49.0 -53 32 10  300  1.90  900.00 OC2 exp                                                                    
+DBSB 152                 Nor  16 00 55.0 -51 36 16   48               OC2 exp                                                                    
+DBSB 151                 Nor  16 00 56.0 -52 36 17   36  7.08         EC1 emb.pah            [CH87] 329.489+0.207             KC-14              
+Moffat 1                 Nor  16 01 30.0 -54 07 00  420  2.10   10.00 OC2 exp                                                                    
+G3CC 31                  Nor  16 01 47.0 -53 11 40   73  3.31         EC1 emb                                                                    
+VVV-CL 57                Nor  16 02 11.0 -53 22 37   28               EC1 emb.pah                                                                
+VVV-CL 58                Nor  16 02 19.0 -52 55 28   56  9.21         EC1 emb.pah            RMS G329.4213-00.1619                               
+Lynga 6                  Nor  16 04 52.0 -51 56 00  300  1.79   35.00 OC2 few                                                                    
+Mercer 69                Nor  16 04 53.0 -53 00 30  108  2.33         OC0 surr.bub-cen                                                           
+VVV-CL 59                Nor  16 05 52.0 -50 47 49   90  5.05   25.00 EC2 p-emb.pah                                           MC-03              
+DBSB 159                 Nor  16 06 25.0 -50 43 14   78  5.05         EC1 emb.bub-cen        [CH87] 331.354+1.072             MC-03              
+NGC 6031                 Nor  16 07 35.0 -54 00 54  180  1.82  117.00 OC2 exp                                                                    
+DBSB 153                 Nor  16 07 38.0 -52 31 11   36  9.07         EC1 emb.pah            [CH87] 330.305-0.385                                
+SAI 123                  Nor  16 08 17.4 -50 32 06  420  1.86 1585.00 OC2 exp                                                                    
+DBSB 154                 Nor  16 09 30.0 -52 15 44   53  4.30         EC2 p-emb.bub-cen-trig [CH87] 330.677-0.396             KC-15              
+DBSB 155                 Nor  16 10 15.0 -52 08 31   48  4.30         OC0 surr                                                KC-15              
+DBSB 158                 Nor  16 11 05.0 -51 31 03  126  5.55         EC2 p-emb.pah          [CH87] 331.353-0.013             KC-16              
+VVV-CL 60                Nor  16 11 23.0 -51 42 49   96  5.55         EC2 p-emb.bub-cen      [CH87] 331.259-0.186             KC-16              
+VVV-CL 61                Nor  16 11 28.0 -52 01 33   44  4.30         EC2 p-emb.bub-cen                                       KC-15              
+Mercer 73                Nor  16 12 01.0 -51 22 06   36               OC2 exp                                                                    
+VVV-CL 62                Nor  16 12 08.0 -51 58 08   78  4.30         EC2 p-emb.bub-cen                                       KC-15              
+DBSB 145                 Nor  16 12 09.0 -51 26 24   74  5.55         EC2 p-emb.bub-cen-trig [CH87] 331.517-0.069             KC-16              
+DBSB 144                 Nor  16 12 09.0 -51 27 38   66  5.55         EC2 p-emb.bub-cen      [CH87] 331.517-0.069             KC-16              
+DBSB 156                 Nor  16 12 15.0 -52 02 47  161  4.30         EC1 emb.pah            [CH87] 331.110-0.506             KC-15              
+DBSB 157                 Nor  16 12 20.0 -51 46 14  106  4.30         EC2 p-emb.bub-cen      [CH87] 331.314-0.336             KC-15              
+Mercer 71                Nor  16 12 25.0 -51 51 43   72  4.30         OC0 surr                                                KC-15              
+Mercer 72                Nor  16 12 30.0 -51 46 59   72  4.30         EC2 p-emb.bub-cen                                       KC-15              
+VVV-CL 63                Nor  16 12 42.0 -51 45 03   42  4.30         EC1 emb.pah                                             KC-15              
+Ruprecht 115             Nor  16 12 52.0 -52 24 00  300  2.00  398.00 OC2 exp                                                                    
+DBSB 99                  Nor  16 13 04.0 -50 23 33   83  3.01         EC2 p-emb.pah                                                              
+Pismis 22                Nor  16 14 08.8 -51 52 07  195  1.00   40.00 OC2 exp                                                                    
+Mercer 75                Nor  16 14 22.0 -50 36 13   48               OC2 exp                                                                    
+Ruprecht 176             Nor  16 14 48.0 -51 20 00  180               OC2 exp                                                                    
+DBSB 102                 Nor  16 15 01.0 -49 50 41   78  3.15         EC2 p-emb.bub-cen-trig                                                     
+VVV-CL 64                Nor  16 15 18.0 -50 56 48   56  3.49         EC2 p-emb.pah                                           G333               
+Mercer 74                Nor  16 16 45.0 -51 17 04   60  3.49         EC2 p-emb.pah          [CH87] 332.148-0.446             G333               
+DBSB 160                 Nor  16 16 56.0 -50 47 26   54  3.49    2.75 EC2 p-emb.bub-cen      [CH87] 332.541-0.111             G333               
+DBSB 161                 Nor  16 17 05.0 -50 47 19  113  3.49    2.75 EC2 p-emb.bub-cen-trig [CH87] 332.541-0.111             G333               
+Mercer 77                Nor  16 17 27.0 -50 30 39   60  6.08         OC0 surr                                                                   
+VVV-CL 65                Nor  16 17 31.0 -50 32 30   64  6.08         EC1 emb.pah            RMS G332.7656-00.0080 (UC)                          
+VVV-CL 66                Nor  16 17 59.0 -51 15 10   98  3.49         EC2 p-emb.bub-cen                                       G333               
+DBSB 163                 Nor  16 18 37.0 -50 18 58   48  3.49         EC2 p-emb.pah          [GS70] 333.0+00.0                G333               
+DBSB 164                 Nor  16 19 23.0 -50 09 27   66  3.49         EC2 p-emb.pah          IRAS 16156-5002                  G333               
+Mercer 76                Nor  16 19 43.0 -51 03 37  120  3.49         EC2 p-emb.bub-cen      [CH87] 332.662-0.607             G333               
+Lynga 8                  Nor  16 20 04.0 -50 13 59  180  1.05 2000.00 OC2 few                                                                    
+DBSB 100                 Nor  16 20 26.0 -50 54 27   65  3.49         OC0 surr                                                G333               
+DBSB 162                 Nor  16 20 35.0 -50 41 23   90  3.49         EC2 p-emb.bub-cen-trig [KC97c] G333.0-00.4              G333               
+Lynga 9                  Nor  16 20 41.0 -48 31 44  360  1.70  700.00 OC2 exp                                                                    
+[FBD2005] G333.1-0.4     Nor  16 21 01.5 -50 35 26  127  3.49         EC1 emb.pah            [CH87] 333.114-0.441             G333               
+Mercer 78                Nor  16 21 08.0 -50 39 57   84  3.49         EC2 p-emb                                               G333               
+DBSB 166                 Nor  16 21 27.0 -50 00 43  104  3.49         OC1 exp                [WMG70] 333.6-00.1               G333               
+VVV-CL 68                Nor  16 21 28.0 -50 26 24   20  3.49         EC2 p-emb.pah          [CH87] 333.292-0.371             G333               
+DBSB 165                 Nor  16 21 31.0 -50 25 04   82  3.49    2.75 EC1 emb.pah            [CH87] 333.292-0.371             G333               
+VVV-CL 69                Nor  16 21 34.0 -50 27 29  120  3.49         EC2 p-emb.pah          [CH87] 333.292-0.371             G333               
+Mercer 79                Nor  16 21 42.0 -48 43 40   84  9.89         OC1 exp.bub-cen        [CH87] 334.529+0.825                                
+VVV-CL 70                Nor  16 21 48.0 -51 44 11   52  2.00  600.00 OC2 exp                                                                    
+[BDB2003] G333.60-00.21  Nor  16 22 10.0 -50 05 49   90  3.49         EC1 emb.pah            [CH87] 333.610-0.208             G333               
+VVV-CL 71                Nor  16 22 16.0 -50 04 30   50  3.49         EC2 p-emb.pah                                           G333               
+DBSB 167                 Nor  16 23 24.0 -49 32 28  147 10.21         OC0 surr               [CH87] 334.173+0.068                                
+VVV-CL 72                Nor  16 23 49.0 -50 14 20  116  3.49         OC0 surr               [WMG70] 333.7-00.5               G333               
+Pismis 23                Nor  16 23 58.0 -48 53 33   60  2.60  300.00 OC2 exp*                                                                   
+ESO 226-6                Nor  16 24 14.0 -51 09 06  240               OC2 exp                                                                    
+NGC 6134                 Nor  16 27 46.0 -49 09 06  360  0.91  929.00 OC2 few                                                                    
+Hogg 19                  Nor  16 28 57.0 -49 06 00  240  2.60 2500.00 OC2 exp                                                                    
+G3CC 33                  Nor  16 29 23.5 -49 12 25   63  2.86         EC1 emb                                                                    
+Patchick 94              Nor  16 29 35.7 -47 18 38   78               OC2 exp                                                                    
+FSR 1727                 Nor  16 29 52.0 -49 45 08  130               OC2 exp                                                                    
+VVV-CL 73                Nor  16 30 24.0 -48 13 06   40               OC2 exp                                                                    
+FSR 1725                 Nor  16 30 27.0 -50 07 46   79               OC2 exp                                                                    
+Teutsch 82               Nor  16 30 58.1 -48 23 57  132               EC2 p-emb                                                                  
+VVV-CL 74                Nor  16 32 06.0 -47 49 32   66               OC2 exp                                                                    
+VVV-CL 75                Nor  16 33 30.0 -48 03 35   54  9.98         EC1 emb.pah            [CH87] 336.375-0.131                                
+VVV-CL 76                Nor  16 33 48.0 -47 38 49   40               EC2 p-emb                                                                  
+Mercer 80                Nor  16 34 12.0 -47 36 16   48               OC0 surr                                                                   
+NGC 6167                 Nor  16 34 34.0 -49 46 18  420  1.11   77.10 OC2 exp                                                                    
+DB 52                    Oph  17 42 28.1 -29 56 23   48  8.23         OC0 surr.pah           [GWC93] 30                       Galactic Center    
+DB 18                    Oph  17 42 48.4 -28 06 28   74               OC2 exp                                                                    
+NGC 6178                 Sco  16 35 47.0 -45 38 36  300  1.01   17.70 OC2 exp                                                                    
+DBSB 173                 Sco  16 40 17.3 -45 39 48   97  4.40         OC0 surr.bub-cen-trig  [CH87] 338.943+0.604                                
+Teutsch 83               Sco  16 40 35.3 -45 27 52  138               OC0 surr                                                                   
+G3CC 38                  Sco  16 45 59.1 -45 38 44   53  2.83         EC1 emb                [CH87] 339.578-0.124                                
+ASCC 85                  Sco  16 47 31.0 -45 27 36 1584  1.20   26.30 OC2 exp*                                                                   
+DBSB 174                 Sco  16 48 12.4 -45 21 39   81  4.05         EC2 p-emb.pah          [CH87] 340.047-0.253                                
+VVV-CL 86                Sco  16 48 15.0 -45 26 06   70               OC2 exp                                                                    
+VVV-CL 87                Sco  16 48 50.0 -45 09 32  120  3.67         EC2 p-emb.pah          [KC97c] G340.3-00.2                                 
+Lynga 13                 Sco  16 48 53.0 -43 26 00  540               OC2 exp                                                                    
+NGC 6216                 Sco  16 49 24.0 -44 43 42  240  4.30   35.00 OC2 few                                                                    
+BH 200                   Sco  16 49 56.0 -44 11 00  300  1.48   22.40 OC2 exp                                                                    
+FSR 1744                 Sco  16 51 35.8 -42 25 47  180  3.13  708.00 OC2 exp                                                                    
+VVV-CL 88                Sco  16 52 34.0 -44 36 07   24  3.59         EC2 p-emb.pah                                           KC-19              
+DBSB 175                 Sco  16 52 36.0 -43 23 28   89  5.01         EC2 p-emb.bub-cen      [CH87] 342.085+0.423                                
+Mercer 82                Sco  16 52 56.0 -44 26 03   36  3.59         OC0 surr.bub-cen-trig  [CH87] 341.264-0.317             KC-19              
+Mercer 83                Sco  16 53 28.0 -43 23 42   48               OC2 exp                                                                    
+VVV-CL 89                Sco  16 53 47.0 -43 16 03   68  7.04         OC1 exp                [CH87] 342.300+0.314                                
+VVV-CL 90                Sco  16 54 03.1 -45 18 50   51  2.49         EC1 emb                                                 KC-18              
+NGC 6231                 Sco  16 54 10.0 -41 49 30  840  1.65    3.00 OC2 exp                                                                    
+DBSB 106                 Sco  16 54 17.0 -45 17 31   60  2.49         EC2 p-emb.pah          [CH87] 340.777-1.008             KC-18              
+VVV-CL 91                Sco  16 54 39.0 -45 14 09  160  2.49         OC0 surr.bub-cen                                        KC-18              
+VVV-CL 92                Sco  16 54 56.0 -43 21 46   54               EC1 emb.pah                                                                
+Lynga 14                 Sco  16 55 04.0 -45 14 00  180  0.88    5.15 OC2 exp                                                                    
+VVV-CL 93                Sco  16 56 02.6 -43 04 48   66 12.12         EC1 emb.pah            [GMB2007b] J165602.7-430448 (UC)                    
+Trumpler 24              Sco  16 57 00.0 -40 40 00 3600  1.14    8.30 OC0 few*               [CH87] 345.031+1.540                                
+NGC 6249                 Sco  16 57 41.0 -44 48 42  300  0.98   24.30 OC2 exp                                                                    
+DBSB 114                 Sco  16 59 10.0 -40 12 05  115  1.61    2.50 EC2 p-emb.pah          [CH87] 345.308+1.471             G345.5+1.0         
+DBSB 176                 Sco  16 59 23.7 -42 34 38   87  2.73         OC0 surr.bub-cen-trig  [CH87] 343.490-0.033                                
+DBSB 117                 Sco  16 59 39.0 -40 11 22  114  1.61         EC2 p-emb.pah          [CH87] 345.404+1.406             G345.5+1.0         
+DBSB 113                 Sco  17 00 35.0 -40 33 44  119  1.61    2.75 EC2 p-emb.pah          RCW 116B                         G345.5+1.0         
+NGC 6268                 Sco  17 02 10.0 -39 43 42  360  1.05  224.00 OC2 exp                                                                    
+DBSB 178                 Sco  17 02 10.0 -41 46 48  121  5.04         EC1 emb.pah            [CH87] 344.439+0.048                                
+BH 211                   Sco  17 02 11.0 -41 06 00  240  1.38 1585.00 OC2 exp                                                                    
+G3CC 39                  Sco  17 04 06.6 -42 18 57   51  2.39         EC2 p-emb                                               KC-20              
+DBSB 177                 Sco  17 04 13.0 -42 20 02   48  2.39         EC1 emb.pah            [CH87] 344.226-0.588             KC-20              
+Mercer 89                Sco  17 04 20.0 -40 44 47  120  1.61         EC2 p-emb.pah          [GBM2006] 17008-4040 (UC)        G345.5+1.0         
+Teutsch 84               Sco  17 04 20.1 -42 04 24  240  2.20 1000.00 OC2 exp                                                                    
+Mercer 85                Sco  17 04 22.0 -42 15 07   24               OC2 exp                                                                    
+Mercer 88                Sco  17 04 31.0 -40 46 31  108  1.61         EC2 p-emb.pah          [GBM2006] 17009-4042 (UC)        G345.5+1.0         
+Mercer 84                Sco  17 04 38.0 -42 18 13   24               OC2 exp                                                                    
+Mercer 86                Sco  17 04 40.0 -41 42 21   72               OC2 exp                                                                    
+G3CC 40                  Sco  17 05 09.7 -41 29 26   75  2.87         EC1 emb                [GBM2006] 17016-4124 (UC)                           
+Mercer 90                Sco  17 05 53.0 -40 41 09   84 10.33         OC2 exp.pah            HRDS G345.722+0.153                                 
+Mercer 87                Sco  17 05 55.0 -41 08 47   96               OC2 exp                                                                    
+ESO 332-22               Sco  17 07 29.0 -40 48 48  420               OC2 few                                                                    
+VVV-CL 94                Sco  17 07 54.0 -40 31 39   40 10.15         EC1 emb.pah            HRDS G346.077-0.056                                 
+DBSB 116                 Sco  17 09 34.0 -41 35 58  116  2.23         EC1 emb.pah            [CH87] 345.425-0.940                                
+VVV-CL 95                Sco  17 10 55.0 -39 41 49   60  3.00  200.00 OC2 exp                                                                    
+DBSB 179                 Sco  17 11 31.7 -39 10 36  128  6.30    3.50 OC0 surr.bub-cen-trig  [CH87] 347.600+0.211             KC-21              
+VVV-CL 96                Sco  17 11 41.0 -41 19 03   34  2.34         EC2 p-emb.bub-cen                                       MC-04              
+VVV-CL 97                Sco  17 11 46.0 -41 18 13   40  2.34         EC2 p-emb.bub-cen                                       MC-04              
+G3CC 42                  Sco  17 12 08.1 -38 30 54   38  1.33         EC1 emb.bub-edge       [CH87] 348.225+0.459 (bub)       RCW 120            
+FSR 1755                 Sco  17 12 20.0 -38 27 44  382  1.33         OC0 surr.bub-cen-trig  [CH87] 348.225+0.459             RCW 120            
+Mercer 91                Sco  17 12 26.0 -38 31 27  132  1.33         EC2 p-emb.pah          [CH87] 348.225+0.459 (bub)       RCW 120            
+VVV-CL 98                Sco  17 13 06.0 -38 59 45   40 12.50         EC2 p-emb.pah          [CH87] 347.893+0.044                                
+Teutsch 85               Sco  17 13 14.0 -39 42 23  240  1.26  600.00 OC2 exp                                                                    
+VVV-CL 99                Sco  17 14 26.0 -38 09 51   60  0.70   35.00 OC2 exp                                                                    
+G3CC 41                  Sco  17 14 27.3 -39 12 35   62  6.30         EC1 emb.pah                                             KC-21              
+Moffat 2                 Sco  17 14 28.0 -39 46 00  120  2.20         OC2 exp                                                                    
+Teutsch 86               Sco  17 15 45.0 -38 43 32   78               OC2 exp                                                                    
+NGC 6318                 Sco  17 16 11.0 -39 25 30  240  2.10  158.00 OC2 exp                                                                    
+DBSB 121                 Sco  17 17 01.0 -36 22 10  114  1.74    1.50 EC2 p-emb.bub-cen      GM 1-24                          NGC 6334/6357      
+DBSB 122                 Sco  17 17 02.0 -36 20 58   66  1.74         EC1 emb.pah            GM 1-24                          NGC 6334/6357      
+DBSB 123                 Sco  17 17 15.0 -36 20 18  174  1.74    2.50 OC0 surr                                                NGC 6334/6357      
+Bochum 13                Sco  17 17 24.0 -35 33 00  840  1.08    6.65 OC2 exp                                                                    
+DBSB 118                 Sco  17 18 24.0 -39 19 05   96  1.94    4.20 EC2 p-emb.bub-cen      [CH87] 348.231-0.982             KC-22              
+BH 222                   Sco  17 18 46.7 -38 17 06  127  6.00   60.00 OC2 exp                                                                    
+Havlen-Moffat 1          Sco  17 18 54.0 -38 49 00  300  3.35    3.00 OC2 exp                                                                    
+BDSB 99                  Sco  17 18 59.0 -35 41 48   89  1.74         OC0 surr.bub-cen       HRDS G351.265+1.019              NGC 6334/6357      
+G3CC 45                  Sco  17 19 04.7 -36 07 16   90  1.74         EC2 p-emb                                               NGC 6334/6357      
+G3CC 43                  Sco  17 19 11.6 -39 00 08   52  1.94         EC1 emb                                                 KC-22              
+VVV-CL 100               Sco  17 19 15.0 -39 04 34   40  1.94    7.50 EC1 emb.pah            HRDS G348.533-0.972              KC-22              
+G3CC 44                  Sco  17 19 26.7 -37 10 48  167  5.91         EC1 emb.pah            IRAS 17160-3707                                     
+NGC 6334 V               Sco  17 19 57.0 -35 57 31  177  1.74         EC2 p-emb.pah          [WBH98] 17165-3554 (UC)          NGC 6334/6357      
+BDSB 98                  Sco  17 20 03.0 -35 55 58   48  1.74         EC2 p-emb.pah                                           NGC 6334/6357      
+BDSB 97                  Sco  17 20 03.0 -35 58 18   72  1.74         OC0 surr.pah                                            NGC 6334/6357      
+DBSB 119                 Sco  17 20 06.0 -38 57 25  188  1.94         EC1 emb.pah            [CH87] 348.715-1.031             KC-22              
+NGC 6334 IV              Sco  17 20 17.0 -35 54 55  120  1.74         EC2 p-emb.pah          NGC 6334A (UC)                   NGC 6334/6357      
+NGC 6334 III             Sco  17 20 32.0 -35 51 29   80  1.74         EC2 p-emb.pah          NGC 6334C                        NGC 6334/6357      
+BH 223                   Sco  17 20 41.0 -35 53 00  360  1.74         EC2 p-emb                                               NGC 6334/6357      
+NGC 6334 II              Sco  17 20 45.0 -35 49 23  108  1.74         EC2 p-emb.bub-cen-trig NGC 6334D                        NGC 6334/6357      
+NGC 6334E IR Cl          Sco  17 20 51.0 -35 46 08   24  1.74         EC2 p-emb.pah          NGC 6334E                        NGC 6334/6357      
+NGC 6334 I               Sco  17 20 53.0 -35 46 57  107  1.74         EC1 emb.pah            NGC 6334F (UC)                   NGC 6334/6357      
+DBSB 120                 Sco  17 21 13.0 -37 45 29   90  3.46         EC2 p-emb.pah          [KC97c] G349.8-00.6              MC-05              
+Mercer 92                Sco  17 21 22.0 -37 47 19  132  3.46         OC0 few.bub-cen        [KC97c] G349.8-00.6              MC-05              
+G3CC 47                  Sco  17 23 15.6 -34 48 53   84  1.74         EC1 emb.pah                                             NGC 6334/6357      
+DB 96                    Sco  17 23 23.0 -35 53 44   21               EC1 emb.pah            [CH87] 351.617+0.171                                
+Ruprecht 123             Sco  17 23 26.0 -37 54 00  720  0.71         OC2 exp                                                                    
+Pismis 24                Sco  17 24 43.0 -34 12 23  120  1.74    1.74 OC0 surr.bub-cen       [CH87] 353.206+0.905             NGC 6334/6357      
+BDSB 164                 Sco  17 25 32.0 -36 21 58   48  3.51         EC2 p-emb.bub-cen      [CH87] 351.467-0.462                                
+AH03 J1725-34.4          Sco  17 25 32.5 -34 24 12  124  1.74         EC2 p-emb.bub-cen      [CH87] 353.136+0.660             NGC 6334/6357      
+G3CC 46                  Sco  17 26 43.1 -36 09 18   93  1.96         EC1 emb                [WBH98] 17233-3606 (UC)                             
+ESO 392-13               Sco  17 26 52.0 -34 41 12  600               OC2 exp                                                                    
+DB 97                    Sco  17 28 19.0 -35 04 15   18  5.93         EC1 emb.pah            [CH87] 352.866-0.199                                
+BDSB 166                 Sco  17 29 02.0 -36 33 53   99  2.21         EC2 p-emb.pah          [CH87] 351.694-1.165             KC-23              
+BDSB 165                 Sco  17 29 17.0 -36 40 03  100  2.21         EC1 emb.pah            [CH87] 351.641-1.256             KC-23              
+Antalova 2               Sco  17 29 42.0 -32 29 00  180  3.50 1259.00 OC2 exp                                                                    
+DB 99                    Sco  17 30 24.0 -33 11 10   50  4.21         EC2 p-emb.bub-cen-trig [CH87] 354.664+0.470                                
+DB 98                    Sco  17 30 28.0 -34 41 30   96  3.25         EC1 emb.pah            [CH87] 353.430-0.368                                
+Antalova 3               Sco  17 30 34.0 -32 12 30 1260               OC2 exp                                                                    
+Collinder 333            Sco  17 31 31.0 -34 01 00  420  0.86  794.00 OC2 exp                                                                    
+BH 231                   Sco  17 31 56.0 -31 54 36  120               OC2 exp                                                                    
+Antalova 4               Sco  17 32 39.0 -32 57 24  210               OC2 few                                                                    
+BDSB 102                 Sco  17 32 52.0 -32 34 33   92               OC2 exp                                                                    
+NGC 6383                 Sco  17 34 48.0 -32 34 00 1200  1.30    2.50 OC2 few                                                                    
+Ruprecht 126             Sco  17 35 01.0 -34 16 00  300               OC2 exp                                                                    
+DB 50                    Sco  17 36 09.9 -32 24 05  130               OC2 exp                                                                    
+Trumpler 27              Sco  17 36 20.0 -33 31 00  360  1.21   11.60 OC2 exp                                                                    
+Trumpler 28              Sco  17 37 00.0 -32 29 00  300  1.34   19.50 OC2 exp                                                                    
+BDSB 167                 Sco  17 37 18.0 -32 10 48   39               EC2 p-emb              [CH87] 356.307-0.210                                
+NGC 6404                 Sco  17 39 37.0 -33 14 48  300  2.42  500.00 OC2 exp                                                                    
+NGC 6405                 Sco  17 40 20.0 -32 15 12 1200  0.47   71.00 OC2 exp                                                                    
+G3CC 48                  Sco  17 43 37.5 -30 33 51   57  5.35         EC1 emb                [WBH98] 17403-3032 (UC)                             
+Ruprecht 130             Sco  17 47 32.0 -30 06 00  180  2.10   50.00 OC2 exp                                                                    
+Kharchenko 2             Sct  18 22 17.0 -14 35 24  168  1.99  100.00 OC2 exp*                                                                   
+Kronberger 25            Sct  18 22 40.0 -14 43 41   48  1.22   50.00 OC2 exp*                                                                   
+Kharchenko 3             Sct  18 22 47.0 -14 38 00  480  2.13  100.00 OC2 few                                                                    
+NGC 6625                 Sct  18 22 50.0 -11 57 42  924  1.34  500.00 OC2 exp                                                                    
+FSR 55                   Sct  18 24 42.0 -13 23 40  122               OC2 exp                                                                    
+BDSB 8                   Sct  18 25 01.0 -13 15 47  108  4.30         EC2 p-emb.bub-cen      [L89b] 18.143-00.289                                
+Ruprecht 170             Sct  18 25 12.0 -10 00 00  480               OC2 exp                                                                    
+Dolidze 28               Sct  18 25 29.0 -14 39 21  696               OC2 few                                                                    
+Mercer 6                 Sct  18 25 38.0 -12 28 38   36               OC2 exp                                                                    
+Mercer 7                 Sct  18 25 44.0 -12 26 18   72  4.09         OC0 surr.bub-cen       [L89b] 18.954-00.019                                
+Bica 3                   Sct  18 26 04.0 -13 03 32  210  1.64   26.00 OC2 exp                                                                    
+NGC 6631                 Sct  18 27 11.0 -12 01 48  360  2.60  400.00 OC2 exp*                                                                   
+Mercer 8                 Sct  18 28 49.0 -10 55 55   60               OC2 exp                                                                    
+FSR 59                   Sct  18 29 04.0 -11 58 31  324               OC2 exp                                                                    
+FSR 60                   Sct  18 30 05.0 -11 29 07   79               OC2 exp                                                                    
+Dias 6                   Sct  18 30 30.0 -12 18 59  360  2.19  515.00 OC2 exp                                                                    
+Ruprecht 141             Sct  18 31 18.0 -12 19 00  960  1.80   30.00 OC2 exp                                                                    
+Ruprecht 142             Sct  18 32 11.0 -12 13 47  396  1.74  400.00 OC2 exp                                                                    
+Ruprecht 143             Sct  18 32 36.0 -12 08 00  300               OC2 exp                                                                    
+NGC 6649                 Sct  18 33 27.0 -10 24 12  300  1.37   36.80 OC2 exp                                                                    
+Ruprecht 144             Sct  18 33 34.0 -11 25 00  720  1.60  450.00 OC2 exp                                                                    
+BDSB 119                 Sct  18 33 54.0 -08 07 32   50  7.03         EC2 p-emb.bub-cen      [WC89] 023.71+0.17                                  
+Mercer 9                 Sct  18 34 08.7 -09 14 05   50  4.20   21.00 OC1 exp                                                                    
+BDSB 121                 Sct  18 34 10.0 -07 18 01   66  6.43         EC1 emb.bub-cen        [L89b] 24.467+00.489                                
+BDSB 118                 Sct  18 34 20.0 -08 21 27   72  5.69         EC2 p-emb              [L89b] 23.538-00.041                                
+BDSB 120                 Sct  18 34 25.0 -07 54 50   33  3.25         EC1 emb.pah            [WC89] 023.96+0.15                                  
+BDSB 117                 Sct  18 34 27.0 -09 15 44   66  4.62         EC2 p-emb.pah          [L89b] 22.760-00.485                                
+Mercer 10                Sct  18 34 47.0 -08 47 17   96               OC2 exp                                                                    
+Alicante 8               Sct  18 34 51.0 -07 14 00  420  7.44   18.00 OC0 few*                                                                   
+FSR 72                   Sct  18 35 12.0 -07 10 53  497               OC2 exp                                                                    
+Quartet                  Sct  18 36 17.0 -07 05 02   90  6.30    6.00 OC2 exp                                                                    
+G3CC 58                  Sct  18 36 20.5 -06 38 57   39  2.92         OC1 exp.bub-cen        [L89b] 25.294+00.307                                
+NGC 6664                 Sct  18 36 37.0 -07 48 48  720  1.16   14.50 OC2 few                                                                    
+RSGC 1                   Sct  18 37 57.5 -06 52 54  160  7.44   12.00 OC2 exp                                                                    
+W42 IR Cl                Sct  18 38 15.0 -06 47 50   54  4.05         EC1 emb.pah            [L89b] 25.382-00.177                                
+G3CC 59                  Sct  18 38 40.0 -05 35 06   49  4.75         EC1 emb                IRAS 18360-0537                                     
+RSGC 2                   Sct  18 39 19.9 -06 01 43  261  7.39   15.50 OC0 surr                                                                   
+Trumpler 34              Sct  18 39 48.0 -08 25 00  300  1.20  200.00 OC2 exp                                                                    
+Dolidze 32               Sct  18 41 05.0 -04 04 51  588               OC2 exp                                                                    
+Dolidze 33               Sct  18 41 18.0 -04 21 37  540               OC2 few                                                                    
+Dolidze 34               Sct  18 41 54.0 -04 16 37  240               OC2 exp                                                                    
+NGC 6683                 Sct  18 42 13.0 -06 12 42  180  1.20   10.00 OC2 exp                                                                    
+Teutsch 145              Sct  18 42 28.9 -05 15 12  114  2.70  225.00 OC2 exp                                                                    
+Trumpler 35              Sct  18 42 54.0 -04 08 00  300  1.21   72.80 OC2 exp*                                                                   
+BDSB 123                 Sct  18 44 15.0 -04 17 55   33  3.18         EC1 emb.pah            [WBH98] 18416-0420 (UC)                             
+Andrews-Lindsay 5        Sct  18 44 19.0 -04 55 48  138               OC2 exp                                                                    
+ASCC 94                  Ser  18 15 36.0 -14 59 24 1800  0.85  603.00 OC2 exp                                                                    
+Trumpler 32              Ser  18 17 30.0 -13 21 00  300  1.72  300.00 OC1 exp                                                                    
+NGC 6611                 Ser  18 18 44.0 -13 47 50  303  1.80    2.50 OC0 few*               M16                              M16                
+G3CC 57                  Ser  18 19 08.4 -13 36 29   61  1.80         EC1 emb                                                 M16                
+Kronberger 2             Ser  18 21 19.0 -14 17 24  150  3.07  100.00 OC2 exp                                                                    
+BDSB 130                 Ser  18 56 32.0 +02 24 03  111 10.08         OC0 surr.bub-cen       IRAS 18540+0220                                     
+Mol 103 Cl               Sge  19 23 36.2 +17 28 58   72  3.98         EC1 emb.bub-cen        HRDS G052.098+1.042                                 
+FSR 134                  Sge  19 24 30.4 +16 53 32   64  3.20  794.00 OC2 exp                                                                    
+Mercer 22                Sge  19 25 00.0 +17 27 38  120 10.01         EC2 p-emb.bub-cen      [L89b] 52.233+00.736                                
+Berkeley 47              Sge  19 28 36.0 +17 22 06  180  1.07  473.00 OC2 exp                                                                    
+G3CC 69                  Sge  19 29 18.0 +17 56 41  119  1.71         EC1 emb                                                 KC-28              
+G3CC 70                  Sge  19 29 32.3 +18 00 57   76  1.71         EC2 p-emb                                               KC-28              
+Teutsch 42               Sge  19 30 13.1 +18 32 12   60  6.66    3.00 OC1 exp                                                                    
+BDSB 12                  Sge  19 30 22.7 +18 20 44   66  1.71         EC2 p-emb                                               KC-28              
+BDSB 156                 Sge  19 31 43.0 +18 41 57  108  7.00         EC2 p-emb.pah          [L89b] 54.092-00.066                                
+G3CC 68                  Sge  19 31 54.7 +16 56 44   44  5.00         EC1 emb                                                                    
+Kronberger 79            Sge  19 33 55.0 +18 31 12  126  2.70  224.00 OC2 exp                                                                    
+Teutsch 27               Sge  19 37 23.0 +18 41 55  216  2.48  600.00 OC2 exp                                                                    
+DB 55                    Sgr  17 44 24.4 -29 12 13   31               OC2 exp                                                                    
+DB 100                   Sgr  17 44 53.0 -29 40 48  111               EC2 p-emb.bub-cen      [WAM82] 359.277-0.264                               
+Nuclear Star Cl          Sgr  17 45 40.0 -29 00 28   42  8.23         EC1 emb                Sgr A West                       Galactic Center    
+DB 35                    Sgr  17 45 48.6 -26 15 03   42               OC2 exp                                                                    
+Arches                   Sgr  17 45 50.0 -28 49 22   23  8.23    2.50 EC2 p-emb                                               Galactic Center    
+DB 17                    Sgr  17 45 57.7 -27 53 16   35               OC2 exp                                                                    
+Quintuplet               Sgr  17 46 15.0 -28 49 35   30  8.23    4.00 OC0 surr                                                Galactic Center    
+BH 245                   Sgr  17 46 16.0 -29 42 00   60  1.10   15.00 OC2 exp                                                                    
+Collinder 347            Sgr  17 46 18.0 -29 20 00  600  1.51   12.00 OC2 exp*                                                                   
+DB 1                     Sgr  17 46 51.2 -29 03 47   39               OC2 exp                                                                    
+DB 5                     Sgr  17 47 07.0 -28 46 04   24               EC2 p-emb.bub-cen      LBN 000.33-00.20                 MC-06              
+DB 6                     Sgr  17 47 09.6 -28 46 26   40               EC2 p-emb.bub-cen      LBN 000.33-00.20                 MC-06              
+G3CC 49                  Sgr  17 47 23.7 -28 22 59  140  8.10         EC2 p-emb              Sgr B2 (UC)                                         
+DB 26                    Sgr  17 48 41.5 -28 01 42   37  5.90    1.00 EC1 emb.pah            Sgr D                                               
+Collinder 351            Sgr  17 49 00.0 -28 44 09  504  1.31  160.00 OC2 few                                                                    
+Ruprecht 131             Sgr  17 49 16.0 -29 15 00  420  0.60 1479.00 OC2 exp                                                                    
+DB 12                    Sgr  17 50 16.4 -28 51 42   50               OC0 surr               [KC97c] G000.6-00.9              MC-07              
+DB 10                    Sgr  17 50 17.6 -28 53 40   36               EC2 p-emb.pah          [KC97c] G000.6-00.9              MC-07              
+DB 11                    Sgr  17 50 24.1 -28 53 06   60               EC2 p-emb.bub-cen      [KC97c] G000.6-00.9              MC-07              
+DB 42                    Sgr  17 50 43.1 -26 17 29   49               OC2 exp                                                                    
+DB 31                    Sgr  17 50 49.5 -27 47 07   47               OC2 exp                                                                    
+Ruprecht 133             Sgr  17 52 29.0 -28 40 00  300               OC2 exp                                                                    
+Ruprecht 168             Sgr  17 52 46.0 -28 26 00  240  0.82 2000.00 OC2 exp                                                                    
+Czernik 37               Sgr  17 53 17.0 -27 22 10  300  1.70  600.00 OC2 exp                                                                    
+DB 28                    Sgr  17 53 28.7 -28 20 52   82               OC2 exp                                                                    
+G3CC 50                  Sgr  17 53 34.5 -25 19 57   56  3.54         EC2 p-emb.pah                                                              
+DB 27                    Sgr  17 54 11.6 -28 41 53   76               OC2 exp                                                                    
+BDSB 104                 Sgr  17 54 25.0 -25 51 36   60               OC0 surr               [L89b] 3.655-00.111                                 
+FSR 22                   Sgr  17 56 28.0 -23 11 34  281               OC2 exp                                                                    
+G3CC 51                  Sgr  17 57 33.9 -23 58 05   65  1.91         EC1 emb.pah            [SCK2004] G005.63+0.23 (UC)                         
+DB 49                    Sgr  17 58 34.0 -26 06 55   48  2.50         EC1 emb                                                                    
+Ruprecht 136             Sgr  17 59 18.0 -24 42 00  180               OC2 exp                                                                    
+Ruprecht 169             Sgr  17 59 22.0 -24 46 01  312  1.39 1000.00 OC2 exp                                                                    
+Ruprecht 138             Sgr  17 59 56.0 -24 40 57  360  0.93 2000.00 OC2 few                                                                    
+Ruprecht 137             Sgr  18 00 16.0 -25 13 39  336  1.45  800.00 OC2 exp                                                                    
+BDSB 107                 Sgr  18 00 42.0 -24 04 23   59  1.28         EC2 p-emb.bub-cen      [L89b] 5.899-00.427              MC-08              
+BDSB 108                 Sgr  18 00 43.0 -24 04 55   27  1.28         EC2 p-emb.pah          [L89b] 5.899-00.427              MC-08              
+Ruprecht 139             Sgr  18 01 03.0 -23 32 00  720  0.55 1122.00 OC2 few                                                                    
+BDSB 106                 Sgr  18 01 35.0 -24 50 06   90               OC2 exp                                                                    
+G3CC 52                  Sgr  18 01 57.6 -23 12 26   50  2.70         EC1 emb                                                 Trifid Nebula      
+Bochum 14                Sgr  18 02 00.0 -23 41 00  120  0.97    9.91 OC2 exp                                                                    
+BDSB 109                 Sgr  18 02 01.0 -23 57 40   96 12.14         OC0 surr.bub-cen-trig  [L89b] 6.148-00.635                                 
+BDSB 110                 Sgr  18 02 05.0 -21 48 12   62               OC2 exp                                                                    
+BDSB 111                 Sgr  18 02 06.0 -21 46 21   88               OC2 exp                                                                    
+ESO 589-26               Sgr  18 02 14.0 -21 54 54  150               OC2 exp                                                                    
+NGC 6514                 Sgr  18 02 42.0 -22 58 18 1680  2.70         OC0 few*               M20                              Trifid Nebula      
+Teutsch 72               Sgr  18 02 50.2 -22 49 00  180  2.70         OC1 exp.bub-cen                                         Trifid Nebula      
+Teutsch 14 A             Sgr  18 03 31.3 -22 07 32  132  1.72  100.00 OC2 exp                                                 MC-09              
+Teutsch 14 B             Sgr  18 03 32.1 -22 08 17   30  1.72         OC2 exp                                                 MC-09              
+Hourglass Nebula Cl      Sgr  18 03 41.0 -24 22 40  105  1.30    1.50 EC1 emb.pah            [WC89] 005.97-1.17A (UC)         Lagoon Nebula      
+NGC 6531                 Sgr  18 04 13.0 -22 29 24  840  1.21   11.70 OC2 exp                                                                    
+FSR 35                   Sgr  18 04 16.0 -20 11 27  115               OC2 exp                                                                    
+NGC 6530                 Sgr  18 04 31.0 -24 21 30  840  1.30    1.50 OC0 few*.pah           M8                               Lagoon Nebula      
+G3CC 54                  Sgr  18 05 31.3 -20 53 21   42               EC1 emb                                                                    
+BDSB 3                   Sgr  18 06 15.0 -21 37 27   63  4.45         EC2 p-emb.bub-cen      [L89b] 8.666-00.351                                 
+FSR 31                   Sgr  18 06 28.4 -21 23 00  244  1.60 1100.00 OC2 exp*                                                                   
+G3CC 53                  Sgr  18 06 59.3 -21 54 55  126  1.51         EC2 p-emb                                                                  
+FSR 39                   Sgr  18 07 05.3 -19 55 01   59  3.50 1000.00 OC2 exp                                                                    
+NGC 6546                 Sgr  18 07 22.0 -23 17 48  840  0.94   70.60 OC2 exp                                                                    
+ASCC 93                  Sgr  18 08 13.0 -22 15 36 1944  2.50   16.60 OC0 few*                                                                   
+vdBergh 113              Sgr  18 08 36.0 -21 25 00  840  3.47   31.60 OC2 few                                                                    
+SGR 1806-20              Sgr  18 08 39.0 -20 24 39   42  8.86    4.00 OC2 exp                                                                    
+BDSB 112                 Sgr  18 08 56.0 -20 05 30   74  2.77         EC2 p-emb.bub-cen-trig G10.3-0.1                        W31                
+NGC 6554                 Sgr  18 08 59.0 -18 26 06 1200               OC2 few                                                                    
+BDSB 113                 Sgr  18 09 00.0 -20 04 57   75  2.77         EC2 p-emb.bub-cen-trig G10.3-0.1                        W31                
+[BDB2003] G010.16-00.36  Sgr  18 09 27.0 -20 19 30   69  2.77    0.60 EC2 p-emb.bub-cen      G10.2-0.3                        W31                
+[BDB2003] G010.62-00.38  Sgr  18 10 28.6 -19 55 50   53  2.77         EC1 emb.pah            [L89b] 10.617-00.384             W31                
+NGC 6561                 Sgr  18 10 30.0 -16 43 30  900  3.40    8.32 OC2 exp                                                                    
+BDSB 7                   Sgr  18 10 55.0 -17 41 25  108               OC2 exp                                                                    
+[MFD2008] Cluster        Sgr  18 13 24.0 -17 53 31  210  3.79    4.25 OC2 few                                                 W33                
+Mercer 1                 Sgr  18 13 55.0 -17 56 55   96  3.79         OC1 exp.bub-cen        W33 c                            W33                
+BDSB 115                 Sgr  18 14 05.0 -17 28 40  108  4.53         EC2 p-emb.bub-cen-trig [L89b] 13.186+00.045                                
+[MDF2011] cl2            Sgr  18 14 08.0 -18 00 15   60  3.79         EC2 p-emb.pah          W33 f                            W33                
+[BDB2003] G012.80-00.19  Sgr  18 14 13.0 -17 55 55   48  3.79         EC1 emb.pah            W33 g                            W33                
+FSR 46                   Sgr  18 14 20.0 -17 19 19  380               OC2 few                                                                    
+[MDF2011] cl1            Sgr  18 14 22.0 -17 56 10  108  3.79         EC2 p-emb.bub-cen      W33 h                            W33                
+BDSB 116                 Sgr  18 14 36.0 -16 45 17   59  4.44         EC2 p-emb.pah          [L89b] 13.875+00.282                                
+BDSB 114                 Sgr  18 14 40.0 -17 52 07   59  3.79         EC1 emb                W33A (UC)                        W33                
+Markarian 38             Sgr  18 15 17.0 -19 00 00  120  1.47    7.62 OC2 exp                                                                    
+Mercer 2                 Sgr  18 16 20.0 -16 50 51   84  3.67         EC2 p-emb.bub-cen-trig [L89b] 13.998-00.128                                
+Collinder 469            Sgr  18 16 34.0 -18 18 42  180  1.48   63.00 OC2 exp                                                                    
+BDSB 6                   Sgr  18 16 51.0 -18 41 52   48  4.15         EC2 p-emb.pah          RMS G012.4317-01.1112 (UC)                          
+Turner 4                 Sgr  18 17 08.0 -18 42 00  210  2.33   10.00 OC2 exp                                                                    
+Turner 2                 Sgr  18 17 11.0 -18 49 27  456  1.19  100.00 OC2 exp                                                                    
+Mol 45 Cl                Sgr  18 17 24.1 -17 22 12   48 11.61         EC1 emb                                                                    
+NGC 6596                 Sgr  18 17 33.0 -16 39 00  600  1.10  398.00 OC2 exp*                                                                   
+Turner 3                 Sgr  18 17 34.0 -18 51 50  120  1.79   29.00 OC2 exp                                                                    
+G3CC 55                  Sgr  18 18 12.4 -16 57 18   57  1.12         EC1 emb                                                 KC-24              
+NGC 6603                 Sgr  18 18 26.0 -18 24 24  360  3.60  200.00 OC2 exp                                                                    
+G3CC 56                  Sgr  18 18 55.2 -16 47 15  124  1.12         EC2 p-emb.pah          G14.33-00.64                     KC-24              
+Mol 50 Cl                Sgr  18 19 07.6 -16 11 21   48  4.91         EC1 emb.pah            Mol 50 (UC)                                         
+NGC 6613                 Sgr  18 19 58.0 -17 06 06  300  1.30   16.70 OC2 exp                                                                    
+NGC 6618                 Sgr  18 20 30.0 -16 10 55   98  1.99    1.00 EC2 p-emb.bub-cen      M17                              M17                
+Mercer 4                 Sgr  18 20 32.0 -16 02 59   84  1.99         EC2 p-emb              [L89b] 15.181-00.625             M17                
+NGC 6802                 Vul  19 30 35.0 +20 15 42  300  1.79  955.00 OC2 exp                                                                    
+FSR 142                  Vul  19 35 39.0 +20 07 44  274               OC2 exp                                                                    
+Mercer 24                Vul  19 36 29.8 +20 33 00   82  4.57    2.00 EC2 p-emb.bub-cen      HRDS G056.252-0.160                                 
+FSR 148                  Vul  19 37 28.0 +21 18 52   65               OC2 exp                                                                    
+G3CC 71                  Vul  19 38 16.7 +21 08 02   58  4.49         EC1 emb.pah                                                                
+G3CC 72                  Vul  19 38 58.4 +22 46 32   73  4.30         EC1 emb.pah                                                                
+Mol 109 Cl               Vul  19 39 35.0 +24 00 05   94  2.16         EC2 p-emb.pah          Mol 109 (UC)                     Vul OB1            
+Mol 110 Cl               Vul  19 40 58.5 +24 04 36   48  2.16         EC1 emb.pah            Mol 110 (UC)                     Vul OB1            
+Collinder 404            Vul  19 42 28.0 +23 05 16   48  2.16         EC2 p-emb.pah                                           Vul OB1            
+Czernik 40               Vul  19 42 36.0 +21 09 14  864  3.05  794.00 OC2 exp                                                                    
+NGC 6823                 Vul  19 43 09.5 +23 18 00  215  2.16    4.00 OC1 exp                Sh 2-86                          Vul OB1            
+G3CC 73                  Vul  19 43 09.9 +23 44 14  120  2.16         EC1 emb.pah            IRAS 19410+2336 (UC)             Vul OB1            
+FSR 154                  Vul  19 48 00.8 +23 20 53  180  2.79 1122.00 OC2 exp                                                                    

@@ -28,9 +28,9 @@ Luhman 16 B                        R  CJ  ~ 16      J  >60     d   >0.09        
 WISE J0855-0714                    C  WJ  ~  6      J                                          Sub-brown dwarf or rogue planetary-mass object, mass range 3-10 MJ, Teff 225-260 K
 Wolf 359          c                C  HS  >  3.8    E    2.687 d    0.018    0.15              
 Wolf 359          b                C  CJ  > 44      E    8.04  y    1.84     0.04          
-Lalande 21185     b                C  HS  >  3.53   E   12.9   d    0.07892  0.38          
-Lalande 21185                      R  C             E  214.59  d             0.52              False positive (Rosenthal, 2021)
-Lalande 21185     c                C  CN  > 24.7    E    8.46  y    3.1      0.14
+Lalande 21185     b                C  HS  >  2.64   E   12.94  d    0.0788   0.052         
+Lalande 21185     d                D  CT  >  4.1    E  215.62  d    0.51     0.15              Possible (Hurt,2021), False positive (Rosenthal, 2021)
+Lalande 21185     c                C  CN  > 14.2    E    7.68  y    2.84     0.15
 Lalande 21185                      R  CJ     0.9    J    5.8   y    2.4      0                 Dismissed: claimed by Gatewood (1996), but not confirmed by RV
 Lalande 21185                      R  CJ    10      J    8.0   y    3.0      0.3               Dismissed: claimed by Lippincott (1960), but not confirmed by RV
 Lalande 21185                      R                    29     y                               False positive (Rosenthal, 2021) - probably long-term activity

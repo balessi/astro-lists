@@ -1,0 +1,103 @@
+DSH name(s)                              Published name      
+Aladin 18                                UBC 522             
+Aladin 9                                 Gulliver 58         
+Alessi 102                               UBC 54              
+Alessi 116                               UBC 131
+Alessi 118                               Gulliver 47         
+Alessi 135                               COIN-Gaia 21        
+Alessi 144                               UPK 418             
+Alessi 145                               UBC 13              
+Alessi 152                               UBC 350             
+Alessi 161                               UBC 3               
+Alessi 170                               UBC 215             
+Alessi 172                               UBC 482             
+Alessi 182                               Melnik-Efremov 2    
+Alessi 190                               UBC 5               
+Alessi 191                               UBC 577             
+Alessi 194                               UPK 563             
+Alessi 36                                UBC 7               
+Alessi 63                                HeXuHao 66          
+Alessi 71                                Mamajek 4           
+Alessi 76                                UBC 114
+Alessi 83                                UPK 168
+Alessi 94                                UBC 2               
+Alessi 96                                RSG 1               
+Alessi 98                                UPK 21
+Alessi J0114+6054, TC 0114+6054          UPK 250             
+Alessi J0213+6351                        UBC 416             
+Alessi J0620+2929                        UPK 381             
+Alessi J0709-0707, Santa 54              UPK 441             
+Alessi J0812-3507, Slotegraaf 17         Gulliver 36         
+Alessi J1302-5956                        UPK 583             
+Alessi J1802-2922                        UFMG 95             
+Alessi J1845-1104                        UBC 100             
+Alessi J1847-1813                        UPK 13              
+Alessi J1904+1541                        UPK 55              
+Alessi J1956+2627                        UBC 129             
+Alessi-Teutsch 1                         COIN-Gaia 2         
+Alessi-Teutsch 4                         RSG 3               
+Cartes du Ciel 2                         UPK 576             
+Cartes du Ciel 3                         UPK 33              
+Cartes du Ciel 4                         UPK 26              
+Crisp J2256+6105                         Gulliver 19         
+Crisp J2302+5703                         UBC 176             
+Eklund 1                                 UBC 374             
+Ferrero 29                               UBC 290             
+Ferrero 38                               UBC 190             
+Ferrero 53                               UBC 88
+Foldvari 105                             UPK 389             
+GEDR3-10                                 UBC 102             
+GEDR3-11                                 UBC 105             
+GEDR3-12                                 UBC 107             
+GEDR3-6                                  UBC 108             
+Gaia-TGAS 1                              UPK 578             
+HD 120132 Grp                            HeXuHao 34          
+Kernya 92                                Gulliver 59         
+Kronberger 118                           Gulliver 1          
+Kronberger 124                           UBC 269             
+Kronberger 133                           UBC 273             
+Kronberger 150                           PHOC 19             
+Kronberger 88                            Gaia 2              
+Kronberger J1817-1849                    Turner 2            
+Kronberger J1817-1851                    Turner 3            
+Pa-DeCAPS 4                              RLGC 1              
+Patchick 47                              Toepler 1           
+Patchick 57                              UBC 284             
+Prestgard 2, Santa 192                   UBC 355             
+Prestgard L                              Gulliver 3          
+Prestgard O                              UFMG 58             
+Red Necked Emu, TC 2013+3639, Vastagh 9  LP 2178             
+Renou 23                                 UBC 8               
+Renou 62                                 LP 658              
+Saloranta 10                             COIN-Gaia 17        
+Saloranta J0535+1544, TYC 1297-1190 Grp  COIN-Gaia 26        
+Saloranta J1841-0526                     UBC 106             
+Santa 41                                 UPK 256             
+Santa 87                                 UBC 199             
+Schoenball 1                             Gulliver 16         
+Slotegraaf 25                            OSC 155.12-59.68    
+Steine 11                                Dias 1              
+Steine 12, TC 0047+6643, Santa 10        COIN-Gaia 1         
+Streicher 52                             COIN-Gaia 27        
+Streicher 54                             COIN-Gaia 28        
+TC 0652-0539                             UPK 438             
+TC 0708-2524                             Gulliver 21         
+TC 0808-2944                             LP 1457             
+TC 1042-5954                             LP 1049             
+TC 1341-6152                             UBC 529             
+TC 1645-4426                             UBC 320             
+TC 1751-2702                             UPK 1               
+TC 1754-2525                             UBC 93              
+TC 2010+3552                             Gulliver 17         
+TC 2018+4000                             UBC 375             
+TC 2245+5722, Saloranta J2245+5723       UBC 174             
+Teutsch 108                              Gulliver 46         
+Teutsch 179, Teutsch 195                 UBC 9               
+Teutsch 182                              RSG 7               
+Teutsch 182, Teutsch 198                 UBC 6               
+Teutsch 187                              UBC 216             
+Teutsch 189                              HeXuHao 3           
+Teutsch 194                              V1062 Sco           
+Teutsch 204                              UBC 218             
+Teutsch 263                              LP 1640             
+Teutsch 60                               LP 930              

@@ -5,7 +5,6 @@ ASCC 119
 ASCC 120
 ASCC 121
 ASCC 122
-ASCC 14
 ASCC 15
 ASCC 17
 ASCC 24
@@ -210,13 +209,10 @@ Antalova 1
 Antalova 3
 Antalova 4
 B 217
-B 30
-B 35
 BDSB 102
 BDSB 105
 BDSB 106
 BDSB 111
-BDSB 114
 BDSB 117
 BDSB 124
 BDSB 125
@@ -242,7 +238,6 @@ Bica 6
 C1331-622
 Cam OB3
 Carraro 1
-Chamaleon I
 Cir OB1
 Collinder 111
 Collinder 196
@@ -251,7 +246,6 @@ Collinder 258
 Collinder 275
 Collinder 285
 Collinder 33
-Collinder 333
 Collinder 428
 Collinder 465
 Collinder 468
@@ -2185,12 +2179,9 @@ IRAS 17301-2917
 Johansson 1
 Koposov 62
 Koposov 77
-Kronberger 28
 Kronberger 3
-Kronberger 39
 Kronberger 5
 Kronberger 72
-Kumar 21
 L 1641S
 Latham 1
 Loden 1
@@ -2594,7 +2585,6 @@ Ruprecht 31
 Ruprecht 38
 Ruprecht 46
 Ruprecht 5
-Ruprecht 53
 Ruprecht 56
 Ruprecht 62
 Ruprecht 69
@@ -2612,24 +2602,13 @@ Ruprecht 95
 Ruprecht 99
 SAI 1
 SAI 137
-SAI 141
-SAI 143
 SAI 30
 SAI 36
-SAI 41
-SAI 46
 SAI 48
 SAI 49
 SAI 6
-Saurer 5
-Sh2 235
-Sh2 235B
-Sh2 252C
-Sh2 287C
-Sh2 88B
 Stock 11
 Terzan-Ju 20
-Teutsch 53
 Theia 100
 Theia 1002
 Theia 1005
@@ -9850,3 +9829,5 @@ Waterloo 2
 Waterloo 6
 deWit 1
 deWit 4
+FSR 732
+Dolidze 34

@@ -67,7 +67,7 @@ BH 176            ESO 224-8                  GC      -4.1     18.9    0.90    5.
 E 3               ESO 37-1, C0921-770        GC      -4.1      8.1    2.1     5.0    0.70
 PAndAS-45                                    GC      -4.1    783      0.12    8.9    0.95
 Terzan 11         Terzan 12, ESO 522-1       GC      -4.1      4.8    0.75    1.0    0.02
-Coma Ber.                                    dSph    -4.14    43.3    5.5    75.6    1.84
+Coma Ber.                                    dSph    -4.14    43.3    5.5    75.6    1.88
 BH 261            AL 3, ESO 456-78           GC      -4.2      6.5    0.55    1.0    0.02
 Fornax clump 2                               Overd   -4.2    139      1.6    65      1.81  not a half-light radius
 PAndAS-3                                     EGC     -4.2    783      0.23   27.4    1.44
@@ -88,6 +88,7 @@ Pegasus III                                  dSph    -4.60   205      1.3    77.
 UMa II                                       dSph    -4.63    33.7   16     156.8    2.20
 PAndAS-24                                    EGC     -4.68   783             16.9    1.23
 Palomar 14                                   EGC     -4.69    71.3    2.3    47.7    1.68
+Eri IV                                       dSph    -4.7     76.7    3.3    75      1.88
 AM 1                                         GC      -4.73   123.2    0.41   14.7    1.17
 NGC 6535                                     GC      -4.75     6.5    0.85    1.6    0.20
 Fornax 6                                     GC      -4.8    147      0.28   11.3    1.05

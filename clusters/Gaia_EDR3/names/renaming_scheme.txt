@@ -1,0 +1,174 @@
+Hello,
+
+Following Eric's advice, I changed the names of many clusters
+DSH folks discovered. As far as I know, Teutsch sequence ended
+in 331 and Kronberger in 151, so I started naming the new ones
+from these numbers. Please correct me if I'm wrong.
+
+Here's the list
+
+Old name              New name  
+--------------------------------
+AWG 1                 Alessi 196
+AWG 2                 Alessi 240
+AWG 5                 Alessi 241
+AWG 6                 Alessi 242
+Aladin 10             Alessi 318
+Aladin 12             Alessi 319
+Aladin 15             Alessi 320
+Aladin 19             Alessi 243
+Aladin 20             Alessi 244
+Aladin 3              Alessi 245
+Aladin 5              Alessi 246
+Aladin 6              Alessi 247
+Aladin 7              Alessi 321
+Aladin A              Alessi 248
+Aladin D              Alessi 249
+Aladin E              Alessi 250
+Aladin X              Alessi 322
+Alessi 80 A           Alessi 251
+Alessi 80 B           Alessi 252
+Alessi J0618+1454     Alessi 253
+Alessi J0622+2114     Alessi 254
+Alessi J1121-6059     Alessi 255
+Alessi J1127-6134     Alessi 256
+Alessi J1145-6158     Alessi 323
+Alessi J1249-6131     Alessi 257
+Alessi J1616-5136     Alessi 258
+Alessi J1816-1529     Alessi 259
+Alessi J1913+0622     Alessi 260
+Alessi J1915+0548     Alessi 261
+Alessi J1933+1147     Alessi 262
+Alessi J2247+5742     Alessi 263
+Cartes du Ciel 1      Alessi 264
+Cha I SW              Alessi 265
+Eps Cap               Alessi 266
+Eta PsA               Alessi 267
+FG Aql                Alessi 311
+Ferrero J0833-44      Ferrero 54
+GEDR3-1               Alessi 268
+GEDR3-13              Alessi 269
+GEDR3-14              Alessi 270
+GEDR3-15              Alessi 271
+GEDR3-16              Alessi 272
+GEDR3-17              Alessi 273
+GEDR3-18              Alessi 274
+GEDR3-19              Alessi 275
+GEDR3-2               Alessi 276
+GEDR3-20              Alessi 277
+GEDR3-22              Alessi 278
+GEDR3-23              Alessi 279
+GEDR3-24              Alessi 280
+GEDR3-25              Alessi 281
+GEDR3-26              Alessi 282
+GEDR3-27              Alessi 283
+GEDR3-28              Alessi 284
+GEDR3-29              Alessi 285
+GEDR3-3               Alessi 286
+GEDR3-30              Alessi 287
+GEDR3-31              Alessi 288
+GEDR3-32              Alessi 289
+GEDR3-33              Alessi 290
+GEDR3-34              Alessi 291
+GEDR3-35              Alessi 292
+GEDR3-36              Alessi 293
+GEDR3-37              Alessi 294
+GEDR3-38              Alessi 295
+GEDR3-39              Alessi 296
+GEDR3-4               Alessi 297
+GEDR3-40              Alessi 298
+GEDR3-5               Alessi 299
+GEDR3-7               Alessi 327
+GEDR3-8               Alessi 300
+GEDR3-9               Alessi 301
+GSC 1328-771 Grp      Teutsch 338
+GSC 4282-378 Grp      Teutsch 372
+HD 148482 Grp         Teutsch 373
+HD 178329 Grp         Teutsch 358
+HD 184060 Grp         Teutsch 360
+HD 209178 Grp         Teutsch 366
+HD 210641 Grp         Teutsch 367
+HD 214919 Grp         Teutsch 369
+HD 226540 Grp         Teutsch 361
+HD 240080 Grp         Teutsch 374
+HD 38823 Grp          Teutsch 375
+HD 38856 Grp          Teutsch 336
+HD 41830 Grp          Teutsch 337
+HD 43837 Grp          Teutsch 376
+HD 48663 Grp          Teutsch 339
+HD 54881 Grp          Teutsch 341
+HD 55709 Grp          Teutsch 377
+Juchert J0430+5402    Juchert 24
+Juchert J0603+3102    Juchert 25
+Juchert J1851-0028    Juchert 26
+Juchert J1904+1124    Juchert 27
+Kronberger J0259+64   Kronberger 152
+Kronberger J0604+09   Kronberger 153
+PanSTARRS J0421+5124  Alessi 312
+PanSTARRS J1845-0235  Alessi 324
+Prestgard B           Prestgard 84
+Prestgard G           Prestgard 85
+Prestgard I           Prestgard 86
+Prestgard J           Prestgard 87
+Prestgard K           Prestgard 88
+Prestgard M           Prestgard 89
+Prestgard Q           Prestgard 90
+QY Cen                Alessi 302
+Spitzer J1804-2203    Alessi 313
+Spitzer J1848-0110    Alessi 314
+Spitzer J1850-0001    Alessi 315
+Spitzer J1901+0454    Alessi 316
+TC 0021+6303          Teutsch 332
+TC 0110+6139          Teutsch 333
+TC 0227+7239          Teutsch 191
+TC 0244+5641          Teutsch 334
+TC 0352+5227          Teutsch 194
+TC 0408+5306          Teutsch 335
+TC 0555+2703          Teutsch 378
+TC 0643+0116          Teutsch 379
+TC 0649+0444          Teutsch 340
+TC 0718-1342          Teutsch 380
+TC 0718-1642          Teutsch 342
+TC 0739-3341          Teutsch 343
+TC 0741-2351          Teutsch 344
+TC 0835-4441          Teutsch 345
+TC 0838-4539          Teutsch 346
+TC 0843-4511          Teutsch 347
+TC 0849-4700          Teutsch 222
+TC 0906-5321          Teutsch 348
+TC 0924-5313          Teutsch 349
+TC 1021-5802          Teutsch 350
+TC 1037-6034          Teutsch 351
+TC 1209-6120          Teutsch 352
+TC 1453-7658          Teutsch 353
+TC 1500-5459          Teutsch 354
+TC 1651-4134          Teutsch 355
+TC 1818-1858          Teutsch 262
+TC 1839-0459          Teutsch 356
+TC 1901-1006          Teutsch 357
+TC 1919+1448          Teutsch 381
+TC 1926+1714          Teutsch 359
+TC 1957+2945          Teutsch 362
+TC 2010+3615          Teutsch 363
+TC 2019+4046          Teutsch 364
+TC 2020+3950          Teutsch 365
+TC 2046+4346          Teutsch 311
+TC 2151+5642          Teutsch 324
+TC 2156+5532          Teutsch 325
+TC 2217+5359          Teutsch 368
+TC 2353+6240          Teutsch 370
+Teutsch 133 B         Teutsch 371
+U Car A               Alessi 303
+U Car B               Alessi 304
+Urq G17.04-0.91       Alessi 317
+Urq G19.82-0.33       Alessi 305
+VVV J1242-6307        Alessi 325
+WG 3                  Alessi 306
+WG 4                  Alessi 307
+WG 5                  Alessi 308
+WISE J0718-2205       Alessi 326
+WISE J1104-6145       Alessi 309
+Zannin J0520-05       Zannin 22
+Zeta CrB              Alessi 310
+van Wulfen 33         van Wulfen 34
+ 

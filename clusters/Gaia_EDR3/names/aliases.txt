@@ -19937,6 +19937,9 @@ Ruprecht 51                   ;ESO 430-13                    ;     ;      ;     
 Ruprecht 51                   ;Theia 3354                    ;   10;    58;    2;  20.000;   3.448
 Ruprecht 52                   ;ESO 430-17                    ;     ;      ;     ;        ;
 Ruprecht 53                   ;ESO 494-32                    ;     ;      ;     ;        ;
+Ruprecht 53                   ;Theia 484                     ;     ;      ;     ;        ;
+Theia 484                     ;Ruprecht 53                   ;     ;      ;     ;        ;
+Ruprecht 53                   ;Theia 484                     ;     ;      ;     ;        ;
 Ruprecht 54                   ;BH 20                         ;     ;      ;     ;        ;
 Ruprecht 54                   ;ESO 430-23                    ;     ;      ;     ;        ;
 Ruprecht 54                   ;FoF 386                       ;     ;      ;     ;        ;

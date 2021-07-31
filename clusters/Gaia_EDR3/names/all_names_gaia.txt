@@ -877,8 +877,8 @@ Barnard 30
 Barnard 59
 Basel 1
 Basel 10
-Basel 11A
-Basel 11B
+Basel 11 A
+Basel 11 B
 Basel 13
 Basel 15
 Basel 17
@@ -905,7 +905,7 @@ Berkeley 11
 Berkeley 12
 Berkeley 13
 Berkeley 14
-Berkeley 14A
+Berkeley 14 A
 Berkeley 15
 Berkeley 16
 Berkeley 17
@@ -1660,8 +1660,8 @@ Cep II
 Cep OB2A
 Cep OB2B
 Cep OB3
-Cep OB3 B East
-Cep OB3 B West
+Cep OB3B East
+Cep OB3B West
 Cep OB4
 Cep OB5
 Cep OB6
@@ -2113,8 +2113,8 @@ Dias 4A
 Dias 4B
 Dias 5
 Dias 6
-Digel Cloud 1 A
-Digel Cloud 1 B
+Digel Cloud 1A
+Digel Cloud 1B
 Digel Cloud 2-N
 Digel Cloud 2-S
 Digel Cloud 2-S B
@@ -2211,6 +2211,7 @@ ESO 229-14
 ESO 261-3
 ESO 275-1
 ESO 277-15
+ESO 278-2
 ESO 28-8
 ESO 280-6
 ESO 29-50
@@ -4947,7 +4948,7 @@ HIP 21258
 HIP 21484
 HIP 21974
 HIP 22931
-HIP 27345 Assoc
+HIP 27345
 HIP 28944
 HIP 33175
 HIP 37742
@@ -9055,6 +9056,7 @@ Theia 1876
 Theia 1884
 Theia 189
 Theia 1890
+Theia 1891
 Theia 1899
 Theia 19
 Theia 190
@@ -9138,6 +9140,7 @@ Theia 2095
 Theia 2098
 Theia 21
 Theia 2100
+Theia 2108
 Theia 2110
 Theia 2115
 Theia 2119
@@ -9236,6 +9239,7 @@ Theia 2454
 Theia 2455
 Theia 2456
 Theia 2458
+Theia 2460
 Theia 2461
 Theia 2468
 Theia 2471
@@ -9562,6 +9566,7 @@ Theia 3799
 Theia 38
 Theia 380
 Theia 3810
+Theia 3815
 Theia 383
 Theia 3842
 Theia 3854
@@ -9602,6 +9607,7 @@ Theia 4070
 Theia 4081
 Theia 409
 Theia 41
+Theia 4101
 Theia 4103
 Theia 4106
 Theia 4108
@@ -10059,6 +10065,8 @@ U Car A
 U Car B
 U Sgr
 UBC 1
+UBC 10 A
+UBC 10 B
 UBC 100
 UBC 101
 UBC 102
@@ -10069,8 +10077,6 @@ UBC 106
 UBC 107
 UBC 108
 UBC 109
-UBC 10A
-UBC 10B
 UBC 11
 UBC 110
 UBC 112
@@ -10134,6 +10140,8 @@ UBC 166
 UBC 167
 UBC 168
 UBC 169
+UBC 17 A
+UBC 17 B
 UBC 170
 UBC 171
 UBC 172
@@ -10144,8 +10152,6 @@ UBC 176
 UBC 177
 UBC 178
 UBC 179
-UBC 17A
-UBC 17B
 UBC 180
 UBC 181
 UBC 182

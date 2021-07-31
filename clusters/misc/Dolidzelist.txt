@@ -1,0 +1,423 @@
+------------------------------------------------------------------------------------------------------
+ Revised Dolidze-Cluster-List (MK, AUG 2006)
+------------------------------------------------------------------------------------------------------
+
+tentative types:
+AST .. asterism
+DUB .. dubious cluster candidate
+OC? .. possible cluster
+OC  .. likely cluster
+ASS .. association
+PAS .. part of association
+
+list-column:
+D .. included in DAML 2.6
+Drem .. included in DAML 2.6_removed
+-  .. not included in DAML
+
+Name             RA 2000     DEC 2000   Type   diam   list  notes
+----------------------------------------------------------------------------------------------------
+Dolidze 52       18 23.9     -16 39 00          6.0  x 3.0   The only one I could not identify (MK)
+Dolidze 34?      18 41 54    -04 16 37  DUB     4.0   -
+Dolidze 53       19 46 23    +24 39 05  ASS?   12.8   -
+Dolidze 49       06 47 04    -00 00 25  OC?     2.2   -
+Dolidze 34?      18 42 01    -04 33 05  DUB     1.8   - 
+Dolidze 50       16 05 40    -20 30 25  AST    12.0   - 
+Dolidze 54       21 01 06    +41 21 50  AST     9.6   -      
+Dolidze 18?      05 23 21    +33 30 29 (OC )   14.3   -      part of cluster NGC 1893 ?
+Dolidze 55       21 09 46    +40 35 20  AST     4.7   -   
+Dolidze 12?      00 36 29    +60 20 45  AST?   20.2   -   
+Dolidze 20?      05 27 49    +33 47 36  DUB    10.5   -      
+Dolidze 20?      05 30 05    +33 26 44  AST    12.9   -      
+Dolidze 56       22 04 11    +59 51 47  AST     7.2   -   
+Dolidze 51       18 10 24    -17 44 29  AST     7.1   -      
+Dolidze 44       20 29 41    +41 42 17  AST    14.9   D
+Dolidze 19       05 23 37    +08 11 21  AST    21.7   D
+Dolidze 21       05 27 03    +06 54 18  AST    12.7   D
+Dolidze 23?      06 42 55    +00 02 46  DUB?   12.7   D
+Dolidze 15       05 06 35    +34 51 24  DUB    16.5   D
+Dolidze 26       07 30 00    +11 57 59  AST    21.0   D
+Dolidze 38       20 06 13    +41 11 13  AST    12.3   D
+Dolidze 9        20 25 31    +41 54 38  AST     5.6   D
+Dolidze 32       18 41 05    -04 04 51  OC      9.8   D
+Dolidze 10       20 25 19    +40 06 26  AST    18.8   D
+Dolidze 28       18 25 29    -14 39 21  OC?    11.6   D
+Dolidze 5?       20 20 10    +39 19 50  DUB     7.5   D
+Dolidze 2        20 10 54    +41 11 33  AST    10.4   D
+Dolidze 1?       20 09 38    +36 30 21  OC?     7.9   D
+Dolidze 16       05 14 44    +32 41 19  OC?    19.8   D
+Dolidze 35       19 25 16    +11 39 50  AST     9.5   D
+Dolidze 1?       20 08 04    +36 39 41  OC?     6.8   D
+Dolidze 36       20 02 33    +42 04 09  AST    12.5   D
+Dolidze 24       06 44 41    +01 41 05  OC     18.8   D 
+Dolidze 33       18 41 18    -04 21 37  DUB?    8.9   D 
+Dolidze 25       06 45 16    +00 13 23  OC?    26.0   D 
+Dolidze 14       04 06 43    +27 32 34  DUB?   18.0   D 
+Dolidze 6        20 20 32    +41 21 24  DUB?    7.8   D 
+Dolidze 11       20 26 27    +41 24 59  AST     8.0   D 
+Dolidze 8        20 24 23    +42 16 52  OC      7.3   D 
+Dolidze 3        20 15 29    +36 51 47  OC     14.9   D 
+Dolidze 39       20 16 01    +37 53 15  OC?    15.5   D 
+Dolidze 4        20 17 56    +36 42 19  DUB     8.7   D 
+Dolidze 42       20 19 30    +38 09 04  OC?    10.0   D 
+Dolidze 41       20 18 54    +37 46 23  AST    10.8   D      asterism, superimposed on cluster Berkeley 85 !
+Dolidze 40       20 17 56    +37 55 59  OC?    16.6   D      cluster Feibelman 1 is included in northern part
+Dolidze 45       21 10 46    +37 34 28  OC?    16.2   D      
+Dolidze 5?       20 20 15    +39 22 10  DUB     7.3   D      
+Dolidze 18?      05 24 02    +33 23 14  DUB?    9.5   D    
+Dolidze 37       20 02 51    +37 42 44  AST     9.3   D      
+Dolidze 13       00 49 42    +64 07 35  DUB    16.0   D     
+Dolidze 47       20 41 55    +36 34 37  OC?    11.0   D      
+Dolidze 27       16 36 28    -08 56 58  AST    28.1   D   
+Dolidze 23?      06 42 44    -00 18 33  DUB    11.4   D      
+Dolidze 22       06 23 21    +04 35 57  DUB    19.4   D      
+Dolidze 31       18 36 35    -06 43 19  OC?    14.2   Drem
+Dolidze 12?      00 40 31    +60 53 26  AST    15.2   Drem   
+Dolidze 30       18 33 26    -05 57 53  DUB?   13.9   Drem
+Dolidze 29       18 32 05    -06 23 59  AST    14.0   Drem
+Dolidze 43       20 20 47    +39 48 02  PAS    21.9   Drem
+Dolidze 17       05 22 16    +07 06 20  AST    13.2   Drem
+Dolidze 46       23 22 21    +56 22 19  AST?   11.7   Drem
+----------------------------------------------------------------------------------------------------
+
+
+Thanks to Dave Riddle's recent input on some Simeis nebulosities, I was
+able to finish my Dolidze cluster project which kept me busy for several
+months. Results see below !
+
+Matthias
+
+
+
+*********************************************************************
+
+In the following table, precise data on position and size of every
+stellar aggregate Madona Dolidze (MD) has discovered (or, to be more
+precise: may have discovered) are given. Whenever possible, I used the
+original data from the discovery papers to identify the clustering; this
+was necessary as the notes provided by MD for individual are much more
+extensive (though still sparse) than those in later catalogues of open
+clusters, as e.g. [5]. Many, many thanks in that respect to D. Lorenz
+from the University Vienna who finally located these obscure
+publications!
+
+In some cases, an unambiguous identification of the object was not
+possible, either due to poor positional data or, because the aggregate
+at the position did not match the description of MD. These cases are
+commented in detail in the notes section following the table. This
+section deals also with objects that have been incorrectly identified in
+the past due to positional errors, typos in the original papers, etc..
+
+Anyway, here's the list. If anybody is interested in further details on
+objects and the data given in the table below, please send me a note.
+
+
+
+
+ID RA 2000.0  DE 2000.0 size notes (**: see
+text below)
+
+Dolidze 1 20 08 03.5 +36 39 41 6.8' **
+20 09 38.3 +36 30 21 7.9' **
+Dolidze 2 20 10 53.5 +41 11 33 10.4' **
+Dolidze 3 20 15 28.8 +36 51 47 14.9'
+Dolidze 4 20 17 56.4 +36 42 19 8.7'
+Dolidze 5 20 20 15.0 +39 22 10 7.3' **
+20 20 09.9 +39 19 50 7.5' **
+Dolidze 6 20 20 32.2 +41 21 24 7.8'
+Dolidze 7 =
+Berkeley 87 
+Dolidze 8 20 24 23.0 +42 16 52 7.3'
+Dolidze 9 20 25 30.8 +41 54 38 5.6' asterism
+Dolidze 10 20 25 19.2 +40 06 26 18.8' **
+Dolidze 11 20 26 26.5 +41 24 59 8.0'
+Dolidze 12 00 40 30.5 +60 53 26 15.2' **
+00 36 29.4 +60 20 45 20.2' **
+Dolidze 13 00 49 42.4 +64 07 35 16.0'
+Dolidze 14 04 06 42.9 +27 32 34 18.0'
+Dolidze 15 05 06 34.6 +34 51 24 16.5' **
+Dolidze 16 05 14 43.8 +32 41 19 19.8'
+Dolidze 17 05 22 15.7 +07 06 20 13.2' asterism
+Dolidze 18 05 23 20.9 +33 30 29 14.3' **
+05 24 01.9 +33 23 14 9.5'
+Dolidze 19 05 23 36.8 +08 11 21 21.7' asterism
+Dolidze 20 05 27 49.2 +33 47 36 10.5' **
+05 30 05.0 +33 26 44 12.9' **
+Dolidze 21 05 27 02.7 +06 54 18 12.7' asterism
+Dolidze 22 06 23 20.7 +04 35 57 19.4'
+Dolidze 23 06 42 54.5 +00 02 46 12.7' **
+06 42 43.7 -00 18 33 11.4' **
+Dolidze 24 06 44 41.1 +01 41 05 18.8'
+Dolidze 25 06 45 15.5 +00 13 23 26.0'
+Dolidze 26 07 30 00.3 +11 57 59 21.0' asterism
+Dolidze 27 16 36 28.4 -08 56 58 28.1' asterism
+Dolidze 28 18 25 28.7 -14 39 21 11.6'
+Dolidze 29 18 32 04.7 -06 23 59 14.0' **
+Dolidze 30 18 33 25.6 -05 57 53 13.9' **
+Dolidze 31 18 36 35.3 -06 43 19 14.2' **
+Dolidze 32 18 41 05.4 -04 04 51 9.8' **
+Dolidze 33 18 41 18.0 -04 21 37 8.9' **
+Dolidze 34 18 42 01.4 -04 33 05 1.8' **
+18 41 54.0 -04 16 37 4.0' **
+Dolidze 35 19 25 15.7 +11 39 50 9.5' asterism
+Dolidze 36 20 02 33.2 +42 04 09 12.5' asterism
+Dolidze 37 20 02 51.1 +37 42 44 9.3' asterism
+Dolidze 38 20 06 12.5 +41 11 13 12.3' asterism; dense
+knot of stars at 20 06 05.5 +41 06 57 could be physical grouping
+Dolidze 39 20 16 01.3 +37 53 15 15.5'
+Dolidze 40 20 17 55.9 +37 55 59 16.6'
+Dolidze 41 20 18 54.1 +37 46 23 10.8' asterism
+Dolidze 42 20 19 29.7 +38 09 04 10.0'
+Dolidze 43 20 20 47.0 +39 48 02 21.9'
+Dolidze 44 20 29 41.2 +41 42 17 14.9' asterism
+Dolidze 45 21 10 45.6 +37 34 28 16.2' **
+Dolidze 46 23 22 20.7 +56 22 19 11.7' **
+Dolidze 47 20 41 55.4 +36 34 37 11.0' 
+
+
+******************************************************************
+
+Extended notes:
+
+
+
+Dolidze 1:
+correctly identifying this group is very difficult: the given
+coordinates are significantly off and there are no further informations
+given ( except from the size of 6' ). In fact, there are two groups in
+the vicinity of the given position that match the description of MD:
+The first candidate is at 20 08 03.5 +36 39 41 and appears as an
+inconspicuous grouping around HD 227835 and HD 191379 ( diam. ~7' ).
+Although sparse, several stars of the group have similar proper motion,
+so the possibility remains that it is real cluster.
+A better match, however, is the group situated at 20 09 38.3 +36 30 21;
+although already 1.5m away from the original position, it is much better
+defined than the prior one and contains some luminous early-type stars
+(ALS 10882, 10883(*) and 10884) that may have attracted MD (although she
+didn't note it as an O-type cluster in her paper). Again, several stars
+of the group have similar proper motion vectors so it may be a real one.
+
+* ... A note on ALS 10883: SIMBAD gives a spectral type of M2 for this
+star. This cannot be true, as both the B-V and the 2MASS J-Ks colour
+indices of this star suggest a much earlier spectral type (B-V = 0.33,
+J-Ks = 0.141).
+
+Dolidze 2:
+Likely the asterism of bright B and A type stars that surrounds IC 1311.
+The error in coordinates might have originated from the fact that the
+position of IC 1311 (which may have acted as reference) is significantly
+off in older catalogues (it is still in the DAML).
+
+Dolidze 5:
+Slight uncertainty concerning its identification; at the position given
+by MD, there is a group of 8 brighter stars and a fainter group that is
+partly superimposed on the southern edge. Both match the diameter of 7'
+given by MD very well. Which one she meant remains a mystery.
+
+Dolidze 10:
+Dolidze made probably an error of 1m in RA here when she determined the
+position of this specimen. The group itself is involved in the western
+part of the IC 1318 complex and - according to proper motion data -
+probably an asterism.
+
+Dolidze 12:
+In the discovery paper, this object is noted as a 18' diameter
+clustering that contains an emission-line star. Indeed, there is a
+clustering at this position that contains the emission line stars ALS
+6291 and ALS 6297. However, the clustering itself (apparently an
+asterism) is - even for her standards - a very inconspicuous one, so it
+is unsure that this is the clustering she meant.
+As a possible alternative, it might be that MD made a mix-up regarding
+the identity of the included emission-line objects. Indeed, there is a
+conspicuous group around HD 3283 which contains the emission star CDS
+58; this star, however, is not listed in any of her publications. so
+this interpretation is highly speculative.
+
+Dolidze 15:
+Nothing at the original position, but [3] notes the membership of the
+emission line star MWC 746 which is 2m E. Indeed, at this position one
+finds a loose grouping which is probably the one MD had in mind. 
+
+Dolidze 18:
+This is another interesting case which deserves further attention.
+Dolidze notes here that the cluster is associated with IC 410 and
+contains one emission star. Indeed, about 5' N of the given position, a
+loose clustering is apparent that is involved in the outlying parts of
+the nebulosity. This group, however, does not contain an emission star.
+The possibility exists that Dolidze actually referred to the conspicuous
+clustering immediately NE of NGC 1893: This 14' measuring group (at 05
+23 20.9 +33 30 29) contains the emission star GGA 333, which is listed
+in [3] as 05+020. Obviously, she must have observed that group.
+
+Dolidze 20:
+Very likely the clustering around HD 35681 that is about 1m W of the
+updated position of Dolidze. However, there remains the small
+possibility that Dolidze referred to the grouping at 05 30 05.0 +33 26
+44 (12.9') that contains several nebulosities and the emission star GGA
+341 (which has not been described by her, though). 
+
+Dolidze 23:
+The identification of this object is slightly unsure, as MD does not
+provide any further information on this object. Almost on-spot at her
+position, there is a clustering that matches the diameter of Dolidze
+(12') well and is likely the object discovered by her. However, there
+are several other, equally outstanding groupings in the field; one of
+them - 20' S of the original position - is listed in the table.
+
+Dolidze 29 - 34:
+Apparently, MD had difficulties to determine the coordinates of the
+objects she discovered in the northern part of the Scutum Star Cloud.
+Every position is significantly off, what explains the difficulties of
+former authors with identifying the correct star groups.
+
+The easiest one to identify is the cluster Dolidze 30. Nothing at the
+updated MD position, but the star HD 171149 about 0.5 minutes E is
+involved in a rather conspicuous, scattered grouping of stars which is
+likely the object MD observed.
+
+The updated position of Dolidze 30 helps with identifying nearby Dolidze
+29: Again nothing at her position, but shifting the RA again 0.5 minutes
+towards E and using a declination that is 10' farther north (likely, a
+typo appeared in her position), one gets to the right star group. This
+grouping contains the carbon star Case 171, which was already known at
+the time of her observations and might have attracted her interest. The
+aggregate itself is rather loose and probably just a chance alignment of
+stars.
+
+Dolidze 31: At her position, nothing is visible; however she notes an
+association with the nebulosity Sh2-52 = Simeis 198, which is 2m in RA
+towards E. This nebulosity indeed contains a conspicuous clustering,
+with several stars are of spectral type B involved. A physical
+association of group and nebula is therefore likely. 
+
+Dolidze 32: Again, nothing visible at the position given by MD. However,
+the Alter-Ruprecht catalogue states that the group contains a possible
+Cepheid. Together with MD's quote that the cluster holds 2 emission line
+stars, this points towards a conspicuous and likely real clustering 0.7m
+east which contains the Cepheid RR Sct and two emission stars. 
+
+As in the case of Do 29 and Do 30, the corrected position of Dolidze 32
+helps with finding a possible candidate for Dolidze 33: adding 0.7m of
+RA to MD's original position of that object, one finds a group -
+possibly a dust hole - which contains the ALS stars 9849 and 9853 and
+the M4 star RAFGL 2227. There is a little uncertainty with this
+identification as MD notes the presence of 2 emission-line stars which
+are not apparent in this grouping; however, the WR star V462 Sct that
+lies just 7.5' SW shows some emission lines in his spectrum (it had been
+classified as a PN previously) and may have contributed to her count.
+
+Dolidze 34:
+This object remains mysterious. The updated + corrected position of
+Dolidze points almost exactly towards an asterism of 4 stars; this
+identification seems to have been done already by Alter/Ruprecht [5],
+who listed Dolidze 34 at a position that is already shifted towards E in
+respect to the original one. Anyway, it is very doubtful that Dolidze
+had this grouping in mind because she lists it as containing 3(!)
+emission stars - which this clustering just does not contain. 
+A possible explanation could be that MD simply made a typo in her
+positional data (her papers are notorious for containing numerous of
+them). Indeed, if one reverses the last two numbers of her declination
+('42' --> '24') and updates this position, one gets almost on-spot to a
+grouping that is 0.6m E and 6' N of Dolidze 33; its diameter (4') also
+corresponds exactly to that quoted by her. However, this clustering does
+not contain any listed emission line stars so this identification is
+also doubtful.
+Another possibility could be that she observed Trumpler 35 but, for any
+reason, did not identify it as such; this scenario is purely
+speculative, however.
+
+Dolidze 45:
+Another interesting case. The updated original position (21 19.0 +37 37)
+points into nowhere; even if a 10m error in RA is assumed (21 09.0
+instead of 21 19.0), there's nothing to find. What helps is MD's note
+that the cluster is involved in the nebulosity Simeis 258 = LBN 321
+(**), a large arc of nebulosity that is roughly centered at 21 12 +38.
+Additionally, Alter/Ruprecht note in [5] the presence of a possible
+Cepheid. All this points towards a conspicuous grouping at 21 10 45.6
++37 34 28 which is situated on a brighter patch of the Simeis nebulosity
+and, contains the suspected variable star NSV 13580.
+(**) Actually, she identified it with Simeis 158 but D. Riddle pointed
+out to me that must be an error as S 158 is a nebulosity in Monoceros!
+
+Dolidze 46:
+The next Dolidze mystery. As so often, absolutely nothing can be found
+near the original position that would resemble a clustering according to
+her description (12' diameter, 1 emission-line star involved). 
+Given the large numbers of typos in her paper, however, it may simply be
+that the position in [2] is simply not the one MD intended to quote.
+Indeed, if one reverses numbers for minutes in RA and assume an
+additional error in DE of -40', one gets exactly towards the
+emission-line star MWC 1081 = V813 Cas, which is involved in a scattered
+but rather distinct clustering. Anyway, this is not more than an
+intelligent guess, so it may be (as in several cases before) that I'm
+completely wrong with my assumption...
+
+
+************************************************************************
+
+
+Apart from the 47 known Dolidze clusters, I could locate in one of her
+publications [3] 11 other clusterings that seem to have been overlooked
+by any author who made a compilation of open clusters in the past (I
+wonder how many more such objects are hidden in obscure Russian
+circulars and Journals!). These objects were easier to identify as MD
+provided the x-y coordinates of the objects on the discovery plates
+(plus the coordinates of the plate centre!) which made it much easier to
+filter out any errors.
+
+
+Dolidze 47b = Basel 10
+
+Dolidze 48 = NGC 1798
+
+Dolidze 49 06 47 03.6 -00 00 25 2.2'
+a small clustering in Monoceros. May - or may not - be a real one.
+
+Dolidze 50 16 05 39.5 -20 30 25    12.0'
+a loose asterism in Scorpius. Nothing special
+
+Dolidze 51 18 10 24.2 -17 44 29 7.1'
+elongated grouping in Sagittarius. probably not a real cluster.
+
+Dolidze 52 18 23.9    -16 39       6'x3' [3]
+The only one I could not identify. Absolutely nothing to see at the
+position given in [3]
+
+Dolidze 53 19 46 23.4 +24 39 05    12.8'
+an interesting object; apparently a large association that contains
+several reflection nebulosities. Also involved: a tight group at 19 46
+20 +24 36 36 that contains the IR cluster [BDB2003] 158 and may likely
+be a physical grouping
+
+Dolidze 54 21 01 06.4 +41 21 50 9.6'
+probable asterism with an emission line star included
+
+Dolidze 55 21 09 46.4 +40 35 20 4.7'
+The position given by MD cannot be correct, as this would put the object
+outside of the discovery plate. Obviously, there is a typo here in the
+RA; if this is corrected, one finds easily an asterism that matches her
+description.
+
+Dolidze 56 22 04 10.5 +59 51 47 7.2'
+asterism of 5 bright stars with an S star included. Nothing special
+
+Dolidze 57 = NGC 7510
+
+
+Bibliography:
+[1] ... Dolidze, M. V., On the star cluster near gamma Cyg, Astron.
+Tsirk. 223, 11D (1961)
+[2] ... Dolidze, M. V., Some Data of the Nebulae and Star Clusters,
+Astron. Tsirk. 224, 18 (1961)
+[3] ... Dolidze, M. V., The Lists of S, C, MS Stars and Emission Objects
+Revealed in Red Light Observations, AbaOB 47, 3D (1975)
+[4] ... Dolidze, M.V., Ponomareva G.A., New emission stars in Cas. Sov.
+Astron., 9, 157 (1965)
+[5] ... Alter, G. et al., Catalogue of star clusters and associations,
+Budapest, Akademiai Kiado, 2nd ed. (1970)
+[6] ... Lynga, G., Catalogue of Open Cluster Data, Lund, Sweden: Lund
+Observatory (1987)
+
+
+
+

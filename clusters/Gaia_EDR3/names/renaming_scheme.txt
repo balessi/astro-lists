@@ -37,6 +37,7 @@ Alessi J1249-6131     Alessi 257
 Alessi J1616-5136     Alessi 258
 Alessi J1816-1529     Alessi 259
 Alessi J1913+0622     Alessi 260
+Alessi J1913+0624     Alessi 328
 Alessi J1915+0548     Alessi 261
 Alessi J1933+1147     Alessi 262
 Alessi J2247+5742     Alessi 263
@@ -56,6 +57,7 @@ GEDR3-18              Alessi 274
 GEDR3-19              Alessi 275
 GEDR3-2               Alessi 276
 GEDR3-20              Alessi 277
+GEDR3-21              Alessi 329
 GEDR3-22              Alessi 278
 GEDR3-23              Alessi 279
 GEDR3-24              Alessi 280

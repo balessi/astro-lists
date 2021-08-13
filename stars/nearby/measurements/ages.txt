@@ -229,3 +229,11 @@ Kapteyn's star     11      1.0     Jofré11     (age of stars in the inner halo)
 Kapteyn's star     10              Baraffe97
 Kapteyn's star      8.0    7.5     Anglada-Escude14
 Kapteyn's star      1.70           Gaspar13
+
+Lacaille 8760       4.78           Gaspar13
+Lacaille 8760       5.0            Richey-Yowell19
+Lacaille 8760       2.56           Vican12
+Lacaille 8760       1.50           Vican12
+Lacaille 8760      <0.40           Takeda07
+
+SCR J1845-6357      1.8-3.1        Kasper07

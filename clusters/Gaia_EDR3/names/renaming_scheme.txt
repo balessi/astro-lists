@@ -1,14 +1,11 @@
-Hello,
-
 Following Eric's advice, I changed the names of many clusters
 DSH folks discovered. As far as I know, Teutsch sequence ended
 in 331 and Kronberger in 151, so I started naming the new ones
 from these numbers. Please correct me if I'm wrong.
-
-Here's the list
+Here's the list:
 
 Old name              New name  
---------------------------------
+----------------------------------
 AWG 1                 Alessi 196
 AWG 2                 Alessi 240
 AWG 5                 Alessi 241
@@ -160,6 +157,7 @@ TC 2156+5532          Teutsch 325
 TC 2217+5359          Teutsch 368
 TC 2353+6240          Teutsch 370
 Teutsch 133 B         Teutsch 371
+Theia 281 B           Alessi 330
 U Car A               Alessi 303
 U Car B               Alessi 304
 Urq G17.04-0.91       Alessi 317

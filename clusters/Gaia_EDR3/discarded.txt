@@ -41,21 +41,6 @@ ASCC 83
 ASCC 84
 ASCC 91
 ASCC 98
-Aladin 1
-Aladin 10
-Aladin 11
-Aladin 12
-Aladin 14
-Aladin 15
-Aladin 16
-Aladin 17
-Aladin 4
-Aladin 7
-Aladin 8
-Aladin B
-Aladin C
-Aladin G
-Aladin H
 Alessi 100
 Alessi 101
 Alessi 103
@@ -185,7 +170,6 @@ Alessi 68
 Alessi 69
 Alessi 73
 Alessi 75
-Alessi 80
 Alessi 81
 Alessi 85
 Alessi 88
@@ -264,15 +248,7 @@ DB 30
 DB 33
 DB 44
 DB 45
-DB2001 15
-DB2001 16
-DB2001 17
-DB2001 18
-DB2001 20
-DB2001 22
-DB2001 41
-DB2001 42
-DB2001 7
+DB 100
 DBSB 103
 DBSB 120
 DBSB 153
@@ -281,15 +257,17 @@ DBSB 174
 DBSB 175
 DBSB 177
 DBSB 83
-Dias 4
 Dias 7
 Dias 8
 Dol-Dzim 10
 Dol-Dzim 11
+Dol-Dzim 1
 Dol-Dzim 2
 Dol-Dzim 3
 Dol-Dzim 4
+Dol-Dzim 5
 Dol-Dzim 6
+Dol-Dzim 7
 Dol-Dzim 8
 Dol-Dzim 9
 Dolidze 12
@@ -1004,7 +982,6 @@ FSR 992
 FSR 998
 FSR 999
 G76.2-0.3
-G80.35+0.72
 Harvard 9
 Hogg 14
 Hogg 2
@@ -1015,7 +992,6 @@ Hogg 7
 Hogg 8
 Hogg 9
 IC 1023
-IRAS 02232+6138
 IRAS 06562-0337
 IRAS 17301-2917
 Johansson 1
@@ -1024,7 +1000,6 @@ Koposov 77
 Kronberger 3
 Kronberger 5
 Kronberger 72
-L 1641S
 LP 1000
 LP 1001
 LP 1002
@@ -2527,7 +2502,6 @@ NGC 6904
 NGC 6938
 NGC 6950
 NGC 6989
-NGC 6991A
 NGC 7036
 NGC 7037
 NGC 7050
@@ -3427,7 +3401,6 @@ Theia 1941
 Theia 1942
 Theia 1943
 Theia 1944
-Theia 1945
 Theia 1946
 Theia 1947
 Theia 1949
@@ -4263,7 +4236,6 @@ Theia 2977
 Theia 2979
 Theia 2980
 Theia 2981
-Theia 2982
 Theia 2983
 Theia 2984
 Theia 2985
@@ -5458,7 +5430,6 @@ Theia 4274
 Theia 4275
 Theia 4276
 Theia 4277
-Theia 4278
 Theia 4279
 Theia 428
 Theia 4280
@@ -6556,7 +6527,6 @@ Theia 5377
 Theia 5378
 Theia 5379
 Theia 538
-Theia 5380
 Theia 5381
 Theia 5382
 Theia 5383
@@ -9778,10 +9748,8 @@ Turner 11
 Turner 6
 Turner 7
 Turner 8
-UBC 10
 UBC 15
 UBC 16
-UBC 17
 UBC 18
 UBC 20
 UBC 22

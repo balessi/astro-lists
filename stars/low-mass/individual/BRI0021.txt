@@ -11,12 +11,13 @@ Par
   80.71   0.95   Weinberger16
   86.6    4.0    Tinney95
   79.9653 0.2212 Gaia DR2
+  80.344  0.188  GCNS21
 
   82.5    3.4    Tinney93     Do not use (poss superseded by Tinney95)
   84.6    2.2    Reid94       Do not use (refer to Tinney94 in prep -> poss superseded by Tinney95)
   82.5    3.4    vanAltena95  Do not use (= Tinney93)
 
-  80.02   0.21   Weighted Average
+  80.34   0.19   ADOPTED
 
 B
   21.2         Monet03

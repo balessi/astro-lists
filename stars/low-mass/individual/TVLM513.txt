@@ -22,9 +22,10 @@ Shows hints of an unseen companion with undetermined mass
    92.92   0.23   Forbrich13
    93.27   0.18   Gawronski17
    93.450  0.195  Gaia DR2
+   93.166  0.136  GCNS21
    93.368  0.039  Curiel20
    
-   93.367  0.037  Weighted average
+   93.368  0.039  ADOPTED
 
   M 8 e            1994ApJ...436..262M
   M 8.5 V          2001ApJ...548..908L

@@ -31,9 +31,9 @@ Parallaxes (mas)
    82.4    ±0.8     van Grootel17
    79.59   ±0.78    Boss17         no planet > ~4.6 M Jup orbits with a 1 y per, and no planet > ~1.6 M Jup orbits with a 5 y per
    80.4512 ±0.1211  Gaia-DR2
+   80.212  ±0.072   GCNS 2021
 
-   80.4670 ±0.1173  Weighted avg
-   81.00   ±1.41    Median
+   80.212  ±0.072   ADOPTED     
 
 Distances [not derived from parallax] (pc)
     8.6            Bouy03         116.28   DO NOT USE - too deviant
@@ -51,13 +51,17 @@ V (mag)
    17.02  ±0.2    Muirhead18    DO NOT USE (Superblink estimate)
    18.75  ±0.012  Winters15
    18.798 ±0.082  Costa06
+   18.80          AAVSO21       DO NOT USE Amplitude=0.007
 
    18.774 ±0.024  median
 
 Photometry - anoter bands (mag)
+   23.31   ± 0.80   SDSS           u
    19.88            Winters15      B
+   19.624  ± 0.016  SDSS           g
    19.35   ± 0.02   PS             g 
    18.9982 ± 0.0476 Gaia-DR2       BP
+   17.996  ± 0.007  SDSS           r
    17.87   ± 0.01   PS             r 
    17.32            Winters15      F
    16.67            Reid07         R
@@ -68,6 +72,7 @@ Photometry - anoter bands (mag)
    15.6451 ± 0.0014 Gaia-DR2       G
    15.13   ± 0.01   PS             i 
    15.10            Bouy03         I
+   15.092  ± 0.004  SDSS           i
    14.10            Winters15      I
    14.0967 ± 0.0086 Gaia-DR2       RP
    14.024  ± 0.115  Costa06        I
@@ -76,6 +81,7 @@ Photometry - anoter bands (mag)
    13.966  ± 0.002  Liebert06      Ic
    13.73   ± 0.01   PS             z 
    13.58            Winters15      N
+   13.434  ± 0.004  SDSS           z
    12.97   ± 0.01   PS             y 
    12.0    ± 0.1    Bouy03         F1042M
    11.354  ± 0.022  2MASS          J
@@ -92,17 +98,19 @@ Spectral Type
    M 7.5          Cruz03
    M 7.5          Reid07
    M 7.5          Gizis00
+   M 7.5e         Sebastian21
    M 8            Cruz07
    M 8            Faherty09      opt
    M 8            Gillon16
    M 8            Reiners10
-   M 8.2          Wikipedia      DO NOT USE - phot ST est
+   M 8.2          Wikipedia      
   ~L 4            Bouy03         DO NOT USE - too deviant [STs estimated using the ST versus I-J rel in Dahn+ 2002]
 
    M 7.75 ± 0.25  median
 
 Mass (MSun)
-  0.0898 ± 0.0023  Ducrot20
+  0.09             Sebastian21
+  0.0898 ± 0.0023  Mann19
   0.0890 ± 0.0070  Delrez17
   0.0889 ± 0.0068  van Grootel18
   0.0859 ± 0.0076  Gonzales19     (90 ± 8 MJup)
@@ -112,12 +120,14 @@ Mass (MSun)
   0.0802 ± 0.0073  Gillon16
   0.080            Wakeford18
 
-  0.0841 ± 0.0040  median
+  0.0850 ± 0.0040  median
 
 Radius (RSun)
   0.1234 ± 0.0033  Ducrot20
   0.1210 ± 0.0030  Delrez17
+  0.12   ± 0.01    Sebastian21
   0.1182 ± 0.0029  van Grootel18
+  0.1192 ± 0.0013  Agol21
   0.119  ± 0.0051  Mullan18
   0.117  ± 0.0036  Gillon16
   0.117            Wakeford18
@@ -126,11 +136,14 @@ Radius (RSun)
   0.114  ± 0.004   Muirhead18
   0.102  ± 0.005/3 Huber17
   
-  0.1170 ± 0.0020  median
+  0.1176 ± 0.0018  median          Rsun= 695700 km
 
 Teff (K)
   2915 ± 91       Muirhead18
+  2629 ± 105      Sebastian21
   2628 ± 42       Gonzales19
+  2566 ± 26       Agol21
+  2560            Ulmer-Moll19
   2559 ± 50       Gillon16
   2557 ± 64       Filippazzo15
   2550            Gautier07
@@ -138,13 +151,15 @@ Teff (K)
   2519 ± 51       Mullan18
   2516 ± 41       van Grootel18
   2511 ± 37       Delrez17
+  2500            Martinez-Rodriguez19
+  2490            Reiners20
   2479            Gautier07
   2400            Rajpurohit18
   2400            Wakeford18
   2321 ± 125/89   Huber17
   2310 ± 230      Gonzales19
 
-  2516 ± 41       median
+  2519 ± 62       median
 
 Abundance ([Fe/H])
  +0.04  ± 0.08     Gillon16
@@ -179,8 +194,9 @@ PMRA (mas.yr^-1)
  +905     ± 22    Deacon05
  +760     ± 42    Cutri13        AllWISE
  +930.879 ± 0.247 Gaia-DR2
+ +930.788 ± 0.087 GCNS21
 
- +922.37  ± 7.38  median
+ +930.788 ± 0.087 ADOPTED
 
 PMDe (mas.yr^-1)
  -95      ± 7     Caballero07    DO NOT USE - too deviant
@@ -197,8 +213,9 @@ PMDe (mas.yr^-1)
  -516     ± 12    Deacon05
  -636     ± 41    Cutri13        AllWISE
  -479.403 ± 0.174 Gaia-DR2
+ -479.038 ± 0.070 GCNS21
 
- -469.45  ± 7.06  median
+ -479.038 ± 0.070 ADOPTED
 
 RV (km.s^-1)
   -52.80 ± 0.16/13 Reiners09
@@ -211,6 +228,7 @@ RV (km.s^-1)
 Vrot (km.s^-1)
    8    ± 5       Tanner12        Vsini
    6.0  ± 2.0     Reiners10       Vsini
+  <2.0            Reiners18       Vsini 
    3.30 ± 0.14    Luger17         in days, not km.s^-1
    3.295± 0.003   Vida17          in days, not km.s^-1
    1.40           Gillon16        in days, not km.s^-1
@@ -238,19 +256,27 @@ Grav (xEa)     0.812 ±0.102/0.104 0.966 ±0.087/0.092 0.483 ±0.048/0.052 0.930 ±0
 ESI {sample}:  0.56 {no}          0.73 {no}          0.90 {opt}         0.85 {cons}         0.68 {cons}         0.58 {cons}         0.45 {no}
 Hab class:     non-habitable      non-habitable      mesoplanet         psychroplanet       psychroplanet       hypopsychroplanet   non-habitable
 
-Name          Per     SMA      Ecc   Irr    EqT      Dia   Mass   Dens   Grav    ESI HZ samp  Hab class         Notes
-             days   1E6km            xEa      K       Km    xEa  g.cm^-3  xEa
-TRAP-1 b     1.51    1.73   0.0062   3.88   392    14300   1.02   4.00   0.81   0.56 {no}     non-habitable     would be hypertermoplanet if one stick with the definition
-TRAP-1 c     2.42    2.37   0.0065   2.07   335    13970   1.16   4.87   0.97   0.73 {no}     non-habitable     would be termoplanet if one stick with the definition
-TRAP-1 d     4.05    3.33   0.0084   1.04   282    10000   0.30   3.40   0.48   0.90 {opt}    mesoplanet
-TRAP-1 e     6.10    4.38   0.0051   0.60   246    11610   0.77   5.65   0.93   0.85 {cons}   psychroplanet
-TRAP-1 f     9.21    5.76   0.0101   0.35   215    13340   0.93   4.50   0.85   0.68 {cons}   psychroplanet
-TRAP-1 g    12.35    7.01   0.0021   0.24   195    14640   1.15   4.19   0.87   0.58 {cons}   hypopsychroplanet
-TRAP-1 h    18.77    9.27   0.0057   0.14   169     9860   0.33   3.96   0.56   0.45 {no}     non-habitable     cold, below the snow line)
+Name          Per     SMA      Ecc   Irr    EqT     Dia   Mass   Dens   Grav    ESI HZ samp  Hab class         Notes
+             days   1E6km            xEa      K      Km    xEa  g.cm^-3  xEa
+TRAP-1 b     1.5108  1.726  0.0062   4.15   398*  14238   1.374  5.42   1.10   0.56 {no}     non-habitable     would be hypertermoplanet if one stick with the definition
+TRAP-1 c     2.4219  2.364  0.0065   2.21   340   13990   1.308  5.45   1.09   0.73 {no}     non-habitable     would be termoplanet if one stick with the definition
+TRAP-1 d     4.0492  3.331  0.0084   1.12   286   10052   0.388  4.35   0.62   0.90 {opt}    mesoplanet
+TRAP-1 e     6.1010  4.376  0.0051   0.646  250   11736   0.692  4.89   0.82   0.85 {cons}   psychroplanet
+TRAP-1 f     9.2075  5.758  0.0101   0.373  218   13328   1.039  5.01   0.85   0.68 {cons}   psychroplanet
+TRAP-1 g    12.3524  7.006  0.0021   0.252  197   14408   1.321  5.04   1.04   0.58 {cons}   hypopsychroplanet
+TRAP-1 h    18.7729  9.259  0.0057   0.144  172    9634   0.326  4.15   0.57   0.45 {no}     non-habitable     cold (below the snow line)
+TRAP-1 i    27.53   11.74            0.090  148**                                   {no}     non-habitable     Predicted from Titius-Bode relation (Kipping 2018, Lara 2020)
 
-Venus      224.70  108.21   0.0067   1.91   227    12104   0.82   5.24   0.90   0.44 {no}     non-habitable     here ESI would be 0.97 if not because it's runaway greenhouse...
-Earth      365.26  149.60   0.0167   1.00   254    12756   1.00   5.51   1.00   1.00 {cons}   mesoplanet        \... so ESI takes into account the real temperature for SS planets,
-Mars       686.97  227.94   0.0934   0.43   210     6779   0.11   3.93   0.38   0.70 {cons}   psychroplanet     \... while it takes Equivalent Temperature for TRAPPIST-1 ones
+Venus      224.70  108.21   0.0067   1.91   227   12104   0.82   5.24   0.90   0.44 {no}     non-habitable     here ESI would be 0.97 if not because it's runaway greenhouse...
+Earth      365.26  149.60   0.0167   1.00   254   12756   1.00   5.51   1.00   1.00 {cons}   mesoplanet        \... so ESI takes into account the real temperature for SS planets,
+Mars       686.97  227.94   0.0934   0.43   210    6779   0.11   3.93   0.38   0.70 {cons}   psychroplanet     \... while it takes Equivalent Temperature for TRAPPIST-1 ones
+
+*  can be as high as >= 1400 K (atm), 750-1500 K (sfc)
+** EqT calculated from Teq = Teff_st * sqrt( (R/2a) * (1-Ab)^0.25) assuming Ab = 0
+
+One study using the CAPSCam astrometric camera concluded that the TRAPPIST-1 system has no planets with a mass at least 4.6 MJ with year-long orbits
+and no planets with a mass at least 1.6 MJ with five-year orbits. The authors of the study noted, however, that their findings left areas of the TRAPPIST-1 system,
+most notably the zone in which planets would have intermediate-period orbits, unanalyzed.
 
 Name       SpT     LC  Teff   Rad    Mass    Age   Fe/H    BC     MV     MB    Lum              Dens  Grav  B-V    Rot
                           K   xSun   xSun    GYr           mag    mag    mag   xSun           g.cm^-1  dex  mag  km.s^-1
@@ -263,10 +289,10 @@ Nearest stars (constraints: proj dist < 10 ly = < 3.066 pc => r < 849' @ TRAP-1 
 
 Name             Gl/GJ   Rad'    ICRS Coord. (J2000)          Par     err     Vmag    ST    LC
 
-TRAPPIST-1                0.0    23 06 29.368 -05 02 29.031   80.46   0.12 *  18.77   M 8   V            * = par avg of vals
+TRAPPIST-1                0.0    23 06 29.368 -05 02 29.031   80.212  0.072   18.77   M 8   V            
 HD 216133         875   270.8    22 50 19.424 -07 05 24.380   68.957  0.054    9.85   M 0.5 V
 Wolf 1039         899   517.9    23 34 03.334 +00 10 45.876   71.374  0.050   11.16   M 2.5 V
-2MASS J2224-0158        651.6    22 24 43.855 -01 58 53.265   86.78   0.50 *  23.82   L 4   V
+2MASS J2224-0158        651.6    22 24 43.855 -01 58 53.265   86.15   0.41    23.82   L 4   V
 LHS 523          4281   749.9    22 28 54.348 -13 25 19.458   91.895  0.095   17.14   M 6.5 V
 Wolf 1561 A       852   766.4    22 17 18.969 -08 48 12.263   89.605  0.074*  13.41   M 4   V
 Wolf 1561 B             766.5    22 17 18.697 -08 48 19.305   89.605  0.074*  14.43   M 5   V

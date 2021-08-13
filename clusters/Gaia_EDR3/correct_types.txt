@@ -1,0 +1,53 @@
+T A S K S
+- - - - -
+
+Diam and coords are not homogeneous
+PMs are not homogeneous
+
+Add associated errors
+Add number of members
+Add mag of brightest member (and/or mag range)
+Add metallicity
+
+Separate aliases from associated Objs
+
+Check for more associated objects
+like WR, OB, bright stars, etc
+
+Correct types column
+(see age section)
+
+Complete distance column
+check Vizier
+adopt distance of member star
+adop distance of companion obj
+
+Complete E(B-V) column
+one suggestion: check for stars in Gontcharov
+another: use reddening maps
+another: pick E(B-V) from members stars
+
+Complete Age column                
+using types if necessary. For example, median of ECs is 6.70 +- 0.82
+but there are ECs with ages > 2sigma - either the type or age is incorrect
+other source: pick ages for members stars
+
+--------------------------------------------------
+
+Median ages before correction
+
+EC     6.70 +- 0.82
+OB     7.00 +- 0.36
+YA     7.08 +- 0.71 (roughly like EC and OB, but without high-mass stars)
+RSG    7.20 +- 0.30
+OC     8.2  +- 2.2
+GC    10.10 +- 0.17
+UFD   10.08 +- 0.09 
+MG    too few, adopt same of OCs after type correction
+
+directives
+
+If we have a star of a known ST that is in MS, use as upper limit the age from Mamajek's table and as a lower limit:
+a) the typical age of ECS plus 1 sigma if the cluster is not an EC
+b) log-T = 5.9 if it's an EC
+If the star is wolf-rayet then use 6.25 +- 0.25 (mean of upper ages of stars with ZAMS masses betw 20 and 60+ MS)

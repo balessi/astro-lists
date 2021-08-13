@@ -9,8 +9,9 @@ par
   46.20   10.05   Tin96
   41.0     4.0    YPC95
   40.1790  0.2291 Gaia DR2
+  40.187   0.182  GCNS21
 
-  40.194   0.228  weighted average
+  40.19    0.18   ADOPTED
 
 ST
   M 7.5   Liebert82      do not use

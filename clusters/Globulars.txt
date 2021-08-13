@@ -4,6 +4,15 @@ It also contains all objects thought to be GCs, but that were dimissed as such
 
 Cluster's Name      Alias                    Cns  Coordinates (J2000.0)   Gx      Wave Type    Diam'  Dst_pc Vmag  E(B-V) Log_t  Comments
 
+MIR 117.2-16.6  PAndAS str progen               00 19 48.0 +45 55 09  And  dSph remnant         17.0   3.0     12.5  32.0  0.073  168     *              
+Boo I                                           14 00 06.0 +14 30 00  Boo  dSph                 61.8   2.1     12.8  28.7  0.017   12.6      0.39  -2.55 
+Boo III                                         13 57 07.4 +26 46 30  Boo  dSph remnant         48.3   2.7     12.6  30.6  0.021   30.0      0.5   -2.1  
+Cen I           DELVE J1238-4054                12 38 20.4 -40 54 07  Cen  dSph                116.3   1.6     15.2  27.9  0.124    2.3      0.4   -1.8  
+Her (I)                                         16 31 02.0 +12 47 30  Her  dSph p              135.9   5.1     14.0  29.1  0.063    8.6      0.68  -2.41 
+Leo IV                                          11 32 57.4 -00 32 00  Leo  dSph                157.6   2.3     15.1  29.8  0.026    4.6      0.49  -2.54 
+Leo V                                           11 31 09.6 +02 13 12  Leo  dSph                186.4   8.0     16.0  29.2  0.027    2.6      0.5   -2.0  
+
+
 2MASS-GC 1          Hurt 1, FSR 40           Sgr  18 08 21.8 -19 49 46.9  MW      IR   GC        3.3    3370        6.80  10.10  
 2MASS-GC 2          Hurt 2                   Sgr  18 09 31.2 -20 47 24.0  MW      IR   GC       12.6    5500        2.00  10.00  
 30 Dor              SL 633, NGC 2070 Cl      Dor  05 38 42.0 -69 06 02.0  LMC     Op   SSC       3.5   52500               6.48  
@@ -36,9 +45,9 @@ Com (I)                                      Com  12 26 59.0 +23 54 15.0  MW    
 Crt (I)             Laevens 1, LDu 11        Crt  11 36 16.2 -10 52 39.0  HiE     Op   EGC       2.6  147300               9.845 Also PSO J174.06-10.87, Faint interm-age outer halo GC and not a dwarf gx (2016MNRAS.460.3384V), most distant MW GC
 DELVE 1             DELVE J1630-0058         Oph  16 30 54.0 -00 58 19.2  MW      Op   GC        2.0   19000        0.11  10.10
 DELVE 2             DELVE J0155-6815         Hyi  01 55 05.3 -68 15 10.8  LMC     Op   GC        1.0   71000              10.12  arXiv:2009.08550v1   
-DES 1               DES J0034-4902           Phe  00 33 59.7 -49 02 20.0  MW      Op   EGC       0.8   87100        0.01  10.00  UFD with MV -3.1 and Rh 9.9 pc
-DES 2               DES J0111-1341           Cet  01 11 10.3 -13 41 05.4  Sgr     Op   EGC?      0.6   23800              10.00  UFD with MV +0.3 and Rh 4.6 pc, assoc w the Sgr stream (2017MNRAS.468...97L)
-DES 3                                        Ind  21 40 13.3 -52 32 31.0  MW      Op   OC/GC     2.0   76200               9.99  UFD with MV -1.9 and Rh 6.9 pc
+DES 1               DES J0034-4902           Phe  00 33 59.7 -49 02 20.0  MW      Op   GC        0.8   87100        0.01  10.00  UFD with MV -3.1 and Rh 9.9 pc
+DES 2               DES J0111-1341           Cet  01 11 10.3 -13 41 05.4  Sgr     Op   GC        0.6   23800              10.00  UFD with MV +0.3 and Rh 4.6 pc, assoc w the Sgr stream (2017MNRAS.468...97L)
+DES 3                                        Ind  21 40 13.3 -52 32 31.0  MW      Op   GC        2.0   76200               9.99  UFD with MV -1.9 and Rh 6.9 pc
 DES 4                                        Dor  05 28 22.8 -61 43 25.3  MW      Op   GC        1.7   31300                     
 DES 5                                        Dor  05 10 00.8 -62 34 49.7  LMC     Op   GC        0.4   24800                     
 DES J0225+0304                               Cet  02 25 42.4 +03 04 10.0  Sgr     Op   UFD/EGC   5.4   24000        0.03  10.07  UFD with MV -1.1 and Rh 18.6 pc, assoc w the Sgr stream (2017MNRAS.468...97L)
@@ -54,9 +63,10 @@ ESO 456-38          Djorgovski 2             Sgr  18 01 49.0 -27 49 01.2  MW    
 ESO 559-2                                    CMa  07 18 05.4 -18 35 44.0  MW      Op   GC?       1.6    7700                     Alessi: very compact, but probably an OC
 ESO 92-18                                    Car  10 14 55.2 -64 36 40.0  MW      Op   GC        3.0   10600        0.31  10.00  Alessi: very rich and compact
 ESO 93-8                                     Car  11 19 41.0 -65 13 01.0  MW      Op   GC        4.6   13890               9.80
-Eri Cl              Eri (I), ESO 551-1       Eri  04 24 44.7 -21 11 24.0  HiE     Op   GC        1.0   84700        0.02  10.079               
+Eri (I)             ESO 551-1                Eri  04 24 44.7 -21 11 24.0  HiE     Op   GC        1.0   84700        0.02  10.079               
 Eri II Cl                                    Eri  03 44 22.2 -43 31 59.2  Eri2    Op   GC/NC     0.5  366000 19.4   0.01   9.40  Age is approximate
 Eri III             DES J0222-5217           Eri  02 22 45.5 -52 17 01.0  LMC?    Op   EGC       1.4   77600        0.02  10.08  UFD with MV -2.7, Easily visible in PanSTARRS
+Eri IV              DELVE J0505-0931         Eri  05 05 45.1 -09 30 54.0  MW?     Op   UFD       6.6   76700        0.11  10.10  
 FSR 1716            VVV-GC 5                 Nor  16 10 40.8 -53 45 00.0  MW      Op   GC?      19.2    7430              10.00  Age is lower limit: arXiv:1703.02033v1
 FSR 1735            2MASS-GC 3, SHU 71       Ara  16 52 12.0 -47 03 18.0  Kol     Op   GC        7.2    9080        2.08   9.90  
 FSR 1758                                     Sco  17 31 37.2 -39 50 24.0  Seq     Op   EGC      12.0   11090        0.77   9.20  Age is probably wrong

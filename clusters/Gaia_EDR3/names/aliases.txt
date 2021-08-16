@@ -50,6 +50,7 @@ A1053-6435                    ;Skiff J1053-6435              ;     ;      ;     
 AA Nor                        ;Collinder 292                 ;     ;      ;     ;        ;
 AB Dor                        ;Theia 301                     ;     ;      ;     ;        ;
 AB12 1                        ;LDN 1641W                     ;     ;      ;     ;        ;
+ABP 1                         ;UPK 144                       ;     ;      ;     ;        ;
 ADS 13292                     ;FSR 194                       ;     ;      ;     ;        ;
 ADS 13292                     ;Teutsch 8                     ;     ;      ;     ;        ;
 ADS 13626                     ;IC 4996                       ;     ;      ;     ;        ;
@@ -227,6 +228,8 @@ ASCC 19                       ;FoF 2372                      ;  149;   223;  107
 ASCC 19                       ;UBC 17A                       ;  149;   180;   37;  24.832;  20.556
 ASCC 19                       ;UPK 411                       ;     ;      ;     ;        ;
 ASCC 19                       ;Xi Ori                        ;     ;      ;     ;        ;
+ASCC 2                        ;FoF 2296                      ;     ;      ;     ;        ;
+ASCC 2                        ;UBC 183                       ;     ;      ;     ;        ;
 ASCC 21                       ;25Ori-4                       ;   90;    15;    2;   2.222;  13.333
 ASCC 21                       ;FoF 2369                      ;     ;      ;     ;        ;
 ASCC 21                       ;FoF 2369                      ;   90;   289;   75;  83.333;  25.952
@@ -487,7 +490,9 @@ Alessi 20                     ;FoF 2409                      ;     ;      ;     
 Alessi 20                     ;FoF 2409                      ;  119;   148;  109;  91.597;  73.649
 Alessi 20                     ;Theia 34                      ;     ;      ;     ;        ;
 Alessi 20                     ;Theia 34                      ;  119;   327;  118;  99.160;  36.086
+Alessi 204                    ;CMa 8                         ;     ;      ;     ;        ;
 Alessi 204                    ;CMa OB1B                      ;     ;      ;     ;        ;
+Alessi 21                     ;CMa 0                         ;     ;      ;     ;        ;
 Alessi 21                     ;Escorial 16                   ;     ;      ;     ;        ;
 Alessi 21                     ;Escorial 16                   ;  320;     8;    5;   1.562;  62.500
 Alessi 21                     ;FoF 2410                      ;     ;      ;     ;        ;
@@ -515,6 +520,7 @@ Alessi 26                     ;RSG 3                         ;     ;      ;     
 Alessi 27                     ;ASCC 118                      ;     ;      ;     ;        ;
 Alessi 27                     ;Alessi-Teutsch 5              ;     ;      ;     ;        ;
 Alessi 28                     ;UPK 67                        ;     ;      ;     ;        ;
+Alessi 281                    ;CMa 23                        ;     ;      ;     ;        ;
 Alessi 29                     ;Loktin-Popova 15              ;     ;      ;     ;        ;
 Alessi 29                     ;NGC 1662                      ;     ;      ;     ;        ;
 Alessi 29                     ;in NGC 1662                   ;     ;      ;     ;        ;
@@ -2653,8 +2659,24 @@ CK                            ;SSM 7                         ;     ;      ;     
 CMB 1                         ;SBB 7                         ;     ;      ;     ;        ;
 CMF 1                         ;Majaess 79                    ;     ;      ;     ;        ;
 CMF 2                         ;Majaess 81                    ;     ;      ;     ;        ;
+CMa 0                         ;Alessi 21                     ;     ;      ;     ;        ;
+CMa 1                         ;HeXuHao 54                    ;     ;      ;     ;        ;
+CMa 13                        ;LP 2302                       ;     ;      ;     ;        ;
+CMa 15                        ;NGC 2353                      ;     ;      ;     ;        ;
+CMa 17                        ;NGC 2323                      ;     ;      ;     ;        ;
+CMa 18                        ;NGC 2343                      ;     ;      ;     ;        ;
+CMa 19                        ;NGC 2335                      ;     ;      ;     ;        ;
+CMa 2                         ;HeXuHao 32                    ;     ;      ;     ;        ;
+CMa 23                        ;Alessi 281                    ;     ;      ;     ;        ;
+CMa 3                         ;Gulliver 13                   ;     ;      ;     ;        ;
+CMa 6                         ;VdB 92                        ;     ;      ;     ;        ;
+CMa 7                         ;LP 2216                       ;     ;      ;     ;        ;
+CMa 8                         ;Alessi 204                    ;     ;      ;     ;        ;
+CMa 8                         ;CMa OB1B                      ;     ;      ;     ;        ;
+CMa 9                         ;NGC 2318                      ;     ;      ;     ;        ;
 CMa OB1                       ;WKR 49                        ;     ;      ;     ;        ;
 CMa OB1B                      ;Alessi 204                    ;     ;      ;     ;        ;
+CMa OB1B                      ;CMa 8                         ;     ;      ;     ;        ;
 CMa OB1B                      ;Theia 1654                    ;   11;   404;    2;  18.182;   0.495
 CMa R2                        ;FSR 1277                      ;     ;      ;     ;        ;
 CMa R2                        ;vdBergh 83                    ;     ;      ;     ;        ;
@@ -3003,6 +3025,7 @@ Cartes du Ciel 1 A            ;FoF 2384                      ;     ;      ;     
 Cartes du Ciel 2              ;UPK 576                       ;     ;      ;     ;        ;
 Cartes du Ciel 3              ;UPK 33                        ;     ;      ;     ;        ;
 Cartes du Ciel 4              ;UPK 26                        ;     ;      ;     ;        ;
+Cas 5                         ;Stock 17                      ;     ;      ;     ;        ;
 Cas 6                         ;IC 1805                       ;     ;      ;     ;        ;
 Cas I                         ;Cas T1                        ;     ;      ;     ;        ;
 Cas II                        ;BDSB 44                       ;     ;      ;     ;        ;
@@ -3025,6 +3048,7 @@ Casado 13                     ;Prestgard 13                  ;     ;      ;     
 Casado 15                     ;FoF 546                       ;     ;      ;     ;        ;
 Casado 16                     ;FoF 1316                      ;     ;      ;     ;        ;
 Casado 17                     ;Theia 2330                    ;     ;      ;     ;        ;
+Casado 38                     ;Theia 2516                    ;     ;      ;     ;        ;
 Casado 6                      ;FoF 204                       ;     ;      ;     ;        ;
 Ced 110                       ;Alessi 221                    ;     ;      ;     ;        ;
 Ced 110                       ;Bica 466                      ;     ;      ;     ;        ;
@@ -3324,6 +3348,7 @@ Collinder 210                 ;NGC 2925                      ;     ;      ;     
 Collinder 211                 ;NGC 2972                      ;     ;      ;     ;        ;
 Collinder 212                 ;NGC 3033                      ;     ;      ;     ;        ;
 Collinder 213                 ;ESO 213-4                     ;     ;      ;     ;        ;
+Collinder 213                 ;UBC 492                       ;     ;      ;     ;        ;
 Collinder 214                 ;NGC 3105                      ;     ;      ;     ;        ;
 Collinder 215                 ;NGC 3114                      ;     ;      ;     ;        ;
 Collinder 216                 ;Trumpler 11                   ;     ;      ;     ;        ;
@@ -8724,6 +8749,7 @@ FoF 2294                      ;UBC 27                        ;     ;      ;     
 FoF 2294                      ;UBC 27                        ;   60;    65;   35;  58.333;  53.846
 FoF 2295                      ;Teutsch 197                   ;     ;      ;     ;        ;
 FoF 2295                      ;Theia 3701                    ;  176;   292;  131;  74.432;  44.863
+FoF 2296                      ;ASCC 2                        ;     ;      ;     ;        ;
 FoF 2296                      ;Theia 2440                    ;   50;   614;   33;  66.000;   5.375
 FoF 2296                      ;UBC 183                       ;     ;      ;     ;        ;
 FoF 2296                      ;UBC 183                       ;   50;    28;   23;  46.000;  82.143
@@ -11587,6 +11613,7 @@ Gulliver 12                   ;FoF 2152                      ;     ;      ;     
 Gulliver 12                   ;FoF 2152                      ;   43;    68;   29;  67.442;  42.647
 Gulliver 12                   ;NGC 4103                      ;   43;   313;   25;  58.140;   7.987
 Gulliver 12                   ;Theia 2497                    ;     ;      ;     ;        ;
+Gulliver 13                   ;CMa 3                         ;     ;      ;     ;        ;
 Gulliver 15                   ;FoF 1634                      ;     ;      ;     ;        ;
 Gulliver 15                   ;FoF 1634                      ;  150;    80;   63;  42.000;  78.750
 Gulliver 16                   ;FoF 176                       ;   43;  7160;   16;  37.209;   0.223
@@ -12131,7 +12158,9 @@ Haffner 23                    ;Theia 3588                    ;     ;      ;     
 Haffner 23                    ;Theia 3588                    ;   49;   285;   48;  97.959;  16.842
 Haffner 24                    ;ESO 559-14                    ;     ;      ;     ;        ;
 Haffner 24                    ;FoF 935                       ;   97;    90;   36;  37.113;  40.000
+Haffner 24                    ;LP 935                        ;     ;      ;     ;        ;
 Haffner 24                    ;NGC 2396                      ;     ;      ;     ;        ;
+Haffner 24                    ;van Wulfen 34                 ;     ;      ;     ;        ;
 Haffner 25                    ;ESO 493-15                    ;     ;      ;     ;        ;
 Haffner 26                    ;ESO 430-29                    ;     ;      ;     ;        ;
 Haffner 26                    ;FoF 1438                      ;     ;      ;     ;        ;
@@ -12280,6 +12309,7 @@ HeXuHao 24                    ;Theia 3229                    ;     ;      ;     
 HeXuHao 28                    ;Theia 2420                    ;     ;      ;     ;        ;
 HeXuHao 29                    ;UPK 1                         ;     ;      ;     ;        ;
 HeXuHao 3                     ;Teutsch 189                   ;     ;      ;     ;        ;
+HeXuHao 32                    ;CMa 2                         ;     ;      ;     ;        ;
 HeXuHao 32                    ;Theia 2471                    ;     ;      ;     ;        ;
 HeXuHao 34                    ;HD 120132 Grp                 ;     ;      ;     ;        ;
 HeXuHao 34                    ;Theia 2090                    ;     ;      ;     ;        ;
@@ -12291,6 +12321,7 @@ HeXuHao 43                    ;Theia 3524                    ;     ;      ;     
 HeXuHao 46                    ;Theia 5345                    ;     ;      ;     ;        ;
 HeXuHao 5                     ;UPK 455                       ;     ;      ;     ;        ;
 HeXuHao 50                    ;PHOC 26                       ;     ;      ;     ;        ;
+HeXuHao 54                    ;CMa 1                         ;     ;      ;     ;        ;
 HeXuHao 54                    ;PHOC 4                        ;     ;      ;     ;        ;
 HeXuHao 57                    ;PHOC 20                       ;     ;      ;     ;        ;
 HeXuHao 58                    ;Loktin-Popova 50A             ;     ;      ;     ;        ;
@@ -14182,6 +14213,10 @@ LMR 81                        ;Russeil 82                    ;     ;      ;     
 LMR 83                        ;Russeil 83                    ;     ;      ;     ;        ;
 LMR 84                        ;Russeil 84                    ;     ;      ;     ;        ;
 LMR 88                        ;Russeil 85                    ;     ;      ;     ;        ;
+LP 1787                       ;Teutsch 17                    ;     ;      ;     ;        ;
+LP 2216                       ;CMa 7                         ;     ;      ;     ;        ;
+LP 2302                       ;CMa 13                        ;     ;      ;     ;        ;
+LP 935                        ;Haffner 24                    ;     ;      ;     ;        ;
 LSS 2063                      ;DBSB 57                       ;     ;      ;     ;        ;
 LSS 2063                      ;Majaess 133                   ;     ;      ;     ;        ;
 LW 1                          ;NGC 1466                      ;     ;      ;     ;        ;
@@ -16257,10 +16292,12 @@ NGC 2316                      ;BDB 241                       ;     ;      ;     
 NGC 2316                      ;FSR 1154                      ;     ;      ;     ;        ;
 NGC 2316                      ;Hodapp 17                     ;     ;      ;     ;        ;
 NGC 2316                      ;LDN 1654                      ;     ;      ;     ;        ;
+NGC 2318                      ;CMa 9                         ;     ;      ;     ;        ;
 NGC 2318                      ;FoF 2057                      ;     ;      ;     ;        ;
 NGC 2318                      ;FoF 2057                      ;  128;    88;   69;  53.906;  78.409
 NGC 2318                      ;Theia 3278                    ;     ;      ;     ;        ;
 NGC 2318                      ;Theia 3278                    ;  128;   250;  108;  84.375;  43.200
+NGC 2323                      ;CMa 17                        ;     ;      ;     ;        ;
 NGC 2323                      ;FoF 2079                      ;     ;      ;     ;        ;
 NGC 2323                      ;FoF 2079                      ; 1026;   753;  702;  68.421;  93.227
 NGC 2323                      ;M 50                          ;     ;      ;     ;        ;
@@ -16277,6 +16314,7 @@ NGC 2324                      ;Theia 3592                    ;     ;      ;     
 NGC 2324                      ;Theia 3592                    ;  242;    88;   33;  13.636;  37.500
 NGC 2327                      ;Soares-Bica 1                 ;     ;      ;     ;        ;
 NGC 2331                      ;Collinder 126                 ;     ;      ;     ;        ;
+NGC 2335                      ;CMa 19                        ;     ;      ;     ;        ;
 NGC 2335                      ;Collinder 127                 ;     ;      ;     ;        ;
 NGC 2335                      ;FoF 2080                      ;     ;      ;     ;        ;
 NGC 2335                      ;FoF 2080                      ;  192;   124;  106;  55.208;  85.484
@@ -16284,6 +16322,7 @@ NGC 2335                      ;Melotte 60                    ;     ;      ;     
 NGC 2335                      ;Theia 1977                    ;     ;      ;     ;        ;
 NGC 2335                      ;Theia 1977                    ;  192;   157;  102;  53.125;  64.968
 NGC 2338                      ;Theia 2657                    ;   20;   349;   15;  75.000;   4.298
+NGC 2343                      ;CMa 18                        ;     ;      ;     ;        ;
 NGC 2343                      ;Collinder 128                 ;     ;      ;     ;        ;
 NGC 2343                      ;FoF 2081                      ;     ;      ;     ;        ;
 NGC 2343                      ;FoF 2081                      ;  234;   199;  173;  73.932;  86.935
@@ -16298,6 +16337,7 @@ NGC 2345                      ;Theia 2051                    ;     ;      ;     
 NGC 2345                      ;Theia 2051                    ;  418;   437;  250;  59.809;  57.208
 NGC 2348                      ;ESO 88-1                      ;     ;      ;     ;        ;
 NGC 2352                      ;ESO 492-5                     ;     ;      ;     ;        ;
+NGC 2353                      ;CMa 15                        ;     ;      ;     ;        ;
 NGC 2353                      ;Collinder 130                 ;     ;      ;     ;        ;
 NGC 2353                      ;Escorial 16                   ;     ;      ;     ;        ;
 NGC 2353                      ;FSR 1189                      ;     ;      ;     ;        ;
@@ -19938,8 +19978,6 @@ Ruprecht 51                   ;Theia 3354                    ;   10;    58;    2
 Ruprecht 52                   ;ESO 430-17                    ;     ;      ;     ;        ;
 Ruprecht 53                   ;ESO 494-32                    ;     ;      ;     ;        ;
 Ruprecht 53                   ;Theia 484                     ;     ;      ;     ;        ;
-Theia 484                     ;Ruprecht 53                   ;     ;      ;     ;        ;
-Ruprecht 53                   ;Theia 484                     ;     ;      ;     ;        ;
 Ruprecht 54                   ;BH 20                         ;     ;      ;     ;        ;
 Ruprecht 54                   ;ESO 430-23                    ;     ;      ;     ;        ;
 Ruprecht 54                   ;FoF 386                       ;     ;      ;     ;        ;
@@ -21218,6 +21256,7 @@ Stock 15                      ;FoF 1993                      ;     ;      ;     
 Stock 16                      ;ESO 132-5                     ;     ;      ;     ;        ;
 Stock 16                      ;FoF 1604                      ;     ;      ;     ;        ;
 Stock 16                      ;FoF 1604                      ;   23;    71;    3;  13.043;   4.225
+Stock 17                      ;Cas 5                         ;     ;      ;     ;        ;
 Stock 17                      ;FoF 1313                      ;  200;   204;   54;  27.000;  26.471
 Stock 17                      ;FoF 1317                      ;     ;      ;     ;        ;
 Stock 17                      ;FoF 1835                      ;  200;    76;   29;  14.500;  38.158
@@ -21898,6 +21937,7 @@ Teutsch 164                   ;TC 0548+0930                  ;     ;      ;     
 Teutsch 165                   ;Koposov 43                    ;     ;      ;     ;        ;
 Teutsch 166                   ;FSR 811                       ;     ;      ;     ;        ;
 Teutsch 167                   ;TC 0550+4142                  ;     ;      ;     ;        ;
+Teutsch 17                    ;LP 1787                       ;     ;      ;     ;        ;
 Teutsch 17                    ;TC 2130+5249                  ;     ;      ;     ;        ;
 Teutsch 170                   ;Camargo 933                   ;     ;      ;     ;        ;
 Teutsch 175                   ;Lanning 231                   ;     ;      ;     ;        ;
@@ -23365,6 +23405,7 @@ Theia 2510                    ;PHOC 20                       ;   74;    48;   34
 Theia 2513                    ;FoF 2071                      ;   61;    72;   24;  39.344;  33.333
 Theia 2513                    ;King 20                       ;     ;      ;     ;        ;
 Theia 2513                    ;King 20                       ;   61;   144;   31;  50.820;  21.528
+Theia 2516                    ;Casado 38                     ;     ;      ;     ;        ;
 Theia 2517                    ;UFMG 85                       ;     ;      ;     ;        ;
 Theia 2521                    ;ASCC 29                       ;     ;      ;     ;        ;
 Theia 2521                    ;ASCC 29                       ;  106;    69;   41;  38.679;  59.420
@@ -24606,6 +24647,7 @@ Theia 4811                    ;FoF 251                       ;   60;   222;   26
 Theia 4811                    ;UBC 284                       ;     ;      ;     ;        ;
 Theia 4811                    ;UBC 284                       ;   60;   170;   25;  41.667;  14.706
 Theia 483                     ;Theia 1406                    ;     ;      ;     ;        ;
+Theia 484                     ;Ruprecht 53                   ;     ;      ;     ;        ;
 Theia 4848                    ;UBC 475                       ;  182;    19;    7;   3.846;  36.842
 Theia 485                     ;contains UPK 57               ;     ;      ;     ;        ;
 Theia 4850                    ;FoF 1222                      ;  631;   393;  151;  23.930;  38.422
@@ -26087,6 +26129,7 @@ UBC 180                       ;Theia 3174                    ;   93;   107;   42
 UBC 181                       ;Theia 4310                    ;     ;      ;     ;        ;
 UBC 181                       ;Theia 4310                    ;   31;    83;   28;  90.323;  33.735
 UBC 182                       ;Theia 2936                    ;   24;   463;   14;  58.333;   3.024
+UBC 183                       ;ASCC 2                        ;     ;      ;     ;        ;
 UBC 183                       ;FoF 2296                      ;     ;      ;     ;        ;
 UBC 183                       ;FoF 2296                      ;   28;    50;   23;  82.143;  46.000
 UBC 183                       ;Theia 2440                    ;   28;   614;   28; 100.000;   4.560
@@ -26784,6 +26827,7 @@ UBC 491                       ;FoF 217                       ;     ;      ;     
 UBC 491                       ;FoF 217                       ;   87;   246;   12;  13.793;   4.878
 UBC 491                       ;FoF 218                       ;     ;      ;     ;        ;
 UBC 491                       ;FoF 218                       ;   87;    64;    9;  10.345;  14.062
+UBC 492                       ;Collinder 213                 ;     ;      ;     ;        ;
 UBC 494                       ;FoF 709                       ;     ;      ;     ;        ;
 UBC 494                       ;FoF 709                       ;   45;    60;   20;  44.444;  33.333
 UBC 495                       ;FoF 708                       ;     ;      ;     ;        ;
@@ -27316,6 +27360,7 @@ UPK 140                       ;Theia 199                     ;     ;      ;     
 UPK 141                       ;FoF 2343                      ;     ;      ;     ;        ;
 UPK 141                       ;Gulliver 48                   ;     ;      ;     ;        ;
 UPK 143                       ;Theia 158                     ;  110;   384;   87;  79.091;  22.656
+UPK 144                       ;ABP 1                         ;     ;      ;     ;        ;
 UPK 145                       ;FoF 2419                      ;     ;      ;     ;        ;
 UPK 145                       ;NGC 7058                      ;     ;      ;     ;        ;
 UPK 148                       ;FoF 2282                      ;     ;      ;     ;        ;
@@ -28492,6 +28537,7 @@ Vastagh 10                    ;French 1                      ;     ;      ;     
 Vastagh 11                    ;Saillon 1                     ;     ;      ;     ;        ;
 Vastagh 23                    ;Pothier 4                     ;     ;      ;     ;        ;
 Vastagh 9                     ;FoF 2178                      ;     ;      ;     ;        ;
+VdB 92                        ;CMa 6                         ;     ;      ;     ;        ;
 Vel I                         ;Vel OB1                       ;     ;      ;     ;        ;
 Vel OB1                       ;Vel I                         ;     ;      ;     ;        ;
 Vel OB1A                      ;FoF 58                        ;   11;   482;    4;  36.364;   0.830
@@ -28801,6 +28847,7 @@ u Tau                         ;UPK 378                       ;     ;      ;     
 van Wulfen 21                 ;The Pentagon                  ;     ;      ;     ;        ;
 van Wulfen 30                 ;Dol-Dzim 10 W                 ;     ;      ;     ;        ;
 van Wulfen 33                 ;FoF 935                       ;     ;      ;     ;        ;
+van Wulfen 34                 ;Haffner 24                    ;     ;      ;     ;        ;
 van Wulfen 6                  ;FoF 289                       ;     ;      ;     ;        ;
 vdB 13                        ;Bica 244                      ;     ;      ;     ;        ;
 vdB 85                        ;NGC 2282                      ;     ;      ;     ;        ;
@@ -28842,9 +28889,3 @@ vdBergh 92                    ;FoF 2082                      ;  168;   244;  115
 vdBergh 92                    ;Magakian 242                  ;     ;      ;     ;        ;
 vdBergh 92                    ;Theia 1654                    ;     ;      ;     ;        ;
 vdBergh 92                    ;Theia 1654                    ;  168;   404;   52;  30.952;  12.871
-Collinder 213                 ;UBC 492                       ;     ;      ;     ;        ;
-UBC 492                       ;Collinder 213                 ;     ;      ;     ;        ;
-ASCC 2                        ;UBC 183                       ;     ;      ;     ;        ;
-ASCC 2                        ;FoF 2296                      ;     ;      ;     ;        ;
-UBC 183                       ;ASCC 2                        ;     ;      ;     ;        ;
-FoF 2296                      ;ASCC 2                        ;     ;      ;     ;        ;

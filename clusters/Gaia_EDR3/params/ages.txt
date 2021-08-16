@@ -3,8 +3,6 @@ Problems:
    some clusters have equal values for 2017AstBu..72..257L and 2016DAML
    some clusters are known by more than one name in this file
 
-Lynga 11                 ; 2016DAML            ; 0.70 ;  8.80 
-Lynga 11                 ; Kharchenko+ 2013    ; 1.353;  6.000
 2MASS-GC 1               ; BDCC                ; 6.80 ; 10.10
 2MASS-GC 2               ; Kharchenko+ 2013    ; 1.999; 10.000
 AB Dor                   ; BDCC                ;      ;  7.70
@@ -404,6 +402,7 @@ Alessi 21                ; 2020A&A...640A...1C ; 0.091;  7.82
 Alessi 21                ; Dias 2021           ; 0.119;  7.944
 Alessi 21                ; Kharchenko+ 2013    ; 0.073;  7.700
 Alessi 21                ; Tarricq 2021        ;      ;  7.84
+Alessi 21                ; arXiv:2108.06234v1  ; 0.10 ;  7.93
 Alessi 22                ; 2020Alessi          ; 0.16 ;  8.90
 Alessi 24                ; 2016DAML            ; 0.10 ;  7.03
 Alessi 24                ; 2017AstBu..72..257L ; 0.100;  7.030
@@ -1494,6 +1493,9 @@ CBJC 7                   ; Kharchenko+ 2013    ; 2.290;  7.915
 CBJC 8                   ; Kharchenko+ 2013    ; 1.041;  8.200
 CCCP-Cl 11               ; BDCC                ;      ;  6.56
 CCCP-Cl 13               ; BDCC                ;      ;  6.40
+CMa 23                   ; arXiv:2108.06234v1  ; 0.39 ;  8.12
+CMa 5                    ; arXiv:2108.06234v1  ; 0.36 ;  7.23
+CMa 8                    ; arXiv:2108.06234v1  ; 0.32 ;  7.26
 CMa R2                   ; BDCC                ; 0.35 ;
 COIN-Gaia 1              ; 2020A&A...640A...1C ; 0.353;  8.26
 COIN-Gaia 1              ; Dias 2021           ; 0.523;  8.378
@@ -3368,6 +3370,7 @@ Gulliver 12              ; Dias 2021           ; 0.301;  7.960
 Gulliver 13              ; 2020A&A...640A...1C ; 0.244;  9.00
 Gulliver 13              ; Dias 2021           ; 0.541;  8.774
 Gulliver 13              ; Tarricq 2021        ;      ;  9.03
+Gulliver 13              ; arXiv:2108.06234v1  ; 0.38 ;  8.73
 Gulliver 14              ; 2020A&A...640A...1C ; 0.509;  8.78
 Gulliver 14              ; Dias 2021           ; 0.646;  8.535
 Gulliver 14              ; Tarricq 2021        ;      ;  8.82
@@ -3694,6 +3697,7 @@ HeXuHao 3                ; arXiv:2010.14870v1  ;      ;  8.36
 HeXuHao 30               ; arXiv:2010.14870v1  ;      ;  8.50
 HeXuHao 31               ; arXiv:2010.14870v1  ;      ;  8.14
 HeXuHao 32               ; arXiv:2010.14870v1  ;      ;  8.54
+HeXuHao 32               ; arXiv:2108.06234v1  ; 0.40 ;  8.14
 HeXuHao 33               ; arXiv:2010.14870v1  ;      ;  7.64
 HeXuHao 34               ; arXiv:2010.14870v1  ;      ;  7.98
 HeXuHao 35               ; arXiv:2010.14870v1  ;      ;  8.44
@@ -3718,6 +3722,7 @@ HeXuHao 51               ; arXiv:2010.14870v1  ;      ;  8.10
 HeXuHao 52               ; arXiv:2010.14870v1  ;      ;  7.92
 HeXuHao 53               ; arXiv:2010.14870v1  ;      ;  7.54
 HeXuHao 54               ; arXiv:2010.14870v1  ;      ;  8.42
+HeXuHao 54               ; arXiv:2108.06234v1  ; 0.14 ;  8.24
 HeXuHao 55               ; arXiv:2010.14870v1  ;      ;  7.78
 HeXuHao 56               ; arXiv:2010.14870v1  ;      ;  7.90
 HeXuHao 57               ; arXiv:2010.14870v1  ;      ;  8.48
@@ -4359,6 +4364,8 @@ LFT group 6              ; arXiv:2103.10154v1  ;      ;  6.70
 LFT group 7              ; arXiv:2103.10154v1  ;      ;  6.60
 LFT group 8              ; arXiv:2103.10154v1  ;      ;  6.60
 LFT group 9              ; arXiv:2103.10154v1  ;      ;  6.88
+LP 2216                  ; arXiv:2108.06234v1  ; 0.24 ;  7.12
+LP 2302                  ; arXiv:2108.06234v1  ; 0.12 ;  8.32
 LP 2357                  ; Liu+ 2019           ;      ;  9.061
 La Plata 1               ; BDCC                ; 0.27 ;  7.95
 La Serena 284            ; BDCC                ;      ;  6.00
@@ -4437,6 +4444,8 @@ Lynga 1                  ; 2020A&A...640A...1C ; 0.294;  8.22
 Lynga 1                  ; Dias 2021           ; 0.516;  8.063
 Lynga 1                  ; Kharchenko+ 2013    ; 0.500;  8.390
 Lynga 1                  ; Tarricq 2021        ;      ;  8.25
+Lynga 11                 ; 2016DAML            ; 0.70 ;  8.80 
+Lynga 11                 ; Kharchenko+ 2013    ; 1.353;  6.000
 Lynga 14                 ; 2016DAML            ; 1.428;  6.712
 Lynga 14                 ; 2017AstBu..72..257L ; 1.305;  7.057
 Lynga 14                 ; Kharchenko+ 2013    ; 1.197;  7.750
@@ -5155,6 +5164,7 @@ NGC 2318                 ; 2020A&A...640A...1C ; 0.278;  8.64
 NGC 2318                 ; Dias 2021           ; 0.308;  8.726
 NGC 2318                 ; Kharchenko+ 2013    ; 0.437;  8.750
 NGC 2318                 ; Tarricq 2021        ;      ;  8.65
+NGC 2318                 ; arXiv:2108.06234v1  ; 0.35 ;  8.52
 NGC 2323                 ; 2016DAML            ; 0.20 ;  8.0
 NGC 2323                 ; 2017AstBu..72..257L ; 0.215;  8.103
 NGC 2323                 ; 2019 Bossini        ; 0.153;  7.975
@@ -5162,6 +5172,7 @@ NGC 2323                 ; 2020A&A...640A...1C ; 0.144;  8.12
 NGC 2323                 ; Dias 2021           ; 0.219;  8.628
 NGC 2323                 ; Kharchenko+ 2013    ; 0.229;  8.255
 NGC 2323                 ; Tarricq 2021        ;      ;  8.16
+NGC 2323                 ; arXiv:2108.06234v1  ; 0.28 ;  8.21
 NGC 2324                 ; 2016DAML            ; 0.25 ;  8.65
 NGC 2324                 ; 2017AstBu..72..257L ; 0.123;  8.642
 NGC 2324                 ; 2020A&A...640A...1C ; 0.125;  8.73
@@ -5173,6 +5184,7 @@ NGC 2335                 ; 2017AstBu..72..257L ; 0.395;  8.232
 NGC 2335                 ; 2020A&A...640A...1C ; 0.259;  8.51
 NGC 2335                 ; Dias 2021           ; 0.477;  7.812
 NGC 2335                 ; Kharchenko+ 2013    ; 0.416;  8.200
+NGC 2335                 ; arXiv:2108.06234v1  ; 0.40 ;  7.62
 NGC 2338                 ; 2016DAML            ; 0.48 ;  8.74
 NGC 2338                 ; 2017AstBu..72..257L ; 0.326;  8.850
 NGC 2338                 ; Kharchenko+ 2013    ; 0.312;  8.620
@@ -5183,6 +5195,7 @@ NGC 2343                 ; 2020A&A...640A...1C ; 0.159;  7.94
 NGC 2343                 ; Dias 2021           ; 0.240;  8.174
 NGC 2343                 ; Kharchenko+ 2013    ; 0.121;  8.135
 NGC 2343                 ; Tarricq 2021        ;      ;  7.96
+NGC 2343                 ; arXiv:2108.06234v1  ; 0.19 ;  8.26
 NGC 2345                 ; 2016DAML            ; 0.616;  7.853
 NGC 2345                 ; 2017AstBu..72..257L ; 0.603;  7.904
 NGC 2345                 ; 2020A&A...640A...1C ; 0.325;  8.32
@@ -5196,6 +5209,7 @@ NGC 2353                 ; 2020A&A...640A...1C ; 0.088;  8.01
 NGC 2353                 ; Dias 2021           ; 0.168;  8.127
 NGC 2353                 ; Kharchenko+ 2013    ; 0.125;  7.200
 NGC 2353                 ; Tarricq 2021        ;      ;  8.03
+NGC 2353                 ; arXiv:2108.06234v1  ; 0.15 ;  8.06
 NGC 2354                 ; 2016DAML            ; 0.18 ;  9.18
 NGC 2354                 ; 2017AstBu..72..257L ; 0.286;  8.174
 NGC 2354                 ; 2020A&A...640A...1C ; 0.109;  9.15
@@ -12210,6 +12224,7 @@ VVV-CL 99                ; BDCC                ;      ;  7.54
 VVVX CL 204              ; arXiv:2009.14372v1  ;      ;  9.875
 VVVX CL 207              ; arXiv:2009.14372v1  ;      ;  8.699
 VVVX CL 208              ; arXiv:2009.14372v1  ;      ;  8.301
+VdB 92                   ; arXiv:2108.06234v1  ; 0.38 ;  7.00
 Vel OB4                  ; BDCC                ; 1.00 ;
 Vel R2                   ; BDCC                ; 0.61 ;
 Vel R3                   ; BDCC                ; 0.73 ;
@@ -12301,3 +12316,4 @@ vdBergh 92               ; 2020A&A...640A...1C ; 0.397;  6.89
 vdBergh 92               ; Dias 2021           ; 0.317;  6.749
 vdBergh 92               ; Kharchenko+ 2013    ; 0.375;  7.360
 vdBergh 92               ; Tarricq 2021        ;      ;  6.91
+NGC 5120                 ; Rizzo+ 2013         ; 0.72 ;  7.75

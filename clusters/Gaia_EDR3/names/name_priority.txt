@@ -1,19 +1,19 @@
 Designation    | Sequence  | Published | First Author   | Bibcode             | Title
 -------------- | --------- | --------- | -------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------
-Bica           | 1-6       | 2002/07   | Dias           | 2002A&A...389..871D | New catalogue of optically visible open clusters and candidates
-OSC            | all       | 2015/11   | Glushkova      | 2015BaltA..24..360G | A search for new open clusters hosting cepheids
+OSC            |           | 2015/11   | Glushkova      | 2015BaltA..24..360G | A search for new open clusters hosting cepheids
 RSG            | 1-9       | 2016/10   | Röser          | 2016A&A...595A..22R | Nine new open clusters within 500 pc from the Sun
 OPD            | 0-4554    | 2017/06   | Oh             | 2017AJ....153..257O | Comoving Stars in Gaia DR1: An Abundance of Very Wide Separation Comoving Pairs
 Loktin-Popova  | 1-55A     | 2017/07   | Loktin         | 2017AstBu..72..257L | Updated version of the 'homogeneous catalog of open cluster parameters'
 Gaia           | 1-2       | 2017/09   | Koposov        | 2017MNRAS.470.2702K | Gaia 1 and 2. A pair of new Galactic star clusters
-<APOGEE 6D>    |           | 2018/09   |                |                     |
+<APOGEE 6D>    |           | 2018/09   | Kounkel        | 2018AJ....156...84K | The APOGEE-2 Survey of the Orion Star Forming Complex II: Six-dimensional structure
 Gulliver       | 1-60      | 2018/10   | Cantat-Gaudin  | 2018A&A...618A..93C | A Gaia DR2 view of the Open Cluster population in the Milky Way
 UBC            | 1-32      | 2018/10   | Castro-Ginard  | 2018A&A...618A..59C | A new method for unveiling open clusters in Gaia. New nearby open clusters confirmed by DR2
 BBJ            | 1-6       | 2018/11   | Beccari        | 2018MNRAS.481L..11B | A sextet of clusters in the Vela OB2 region revealed by Gaia
 NEST           | 1-20      | 2018/11   | Joncour        | 2018A&A...620A..27J | Multiplicity and clustering in Taurus star forming region. II. From ultra-wide pairs to dense NESTs
-<damiani>      |           | 2018/12   |                |                     |
 Bica           | 7-649     | 2019/01   | Bica           | 2019AJ....157...12B | A Multi-band Catalog of 10978 Star Clusters, Associations, and Candidates in the Milky Way
 Vel Ring       | A-K       | 2019/01   | Cantat-Gaudin  | 2019A&A...621A.115C | A ring in a shell: the large-scale 6D structure of the Vela OB2 complex
+UCL            | 1-6       | 2019/03   | Damiani        | 2019A&A...623A.112  | The stellar population of Sco OB2 revealed by Gaia DR2 data
+LCC            | 1         | 2019/03   | Damiani        | 2019A&A...623A.112  | The stellar population of Sco OB2 revealed by Gaia DR2 data
 UFMG           | 1-3       | 2019/03   | Ferreira       | 2019MNRAS.483.5508F | Three new Galactic star clusters discovered in the field of the open cluster NGC 5999 with Gaia DR2
 Gaia           | 3-7       | 2019/04   | Torrealba      | 2019MNRAS.484.2181T | Nine tiny star clusters in Gaia DR1, PS1, and DES
 COIN-Gaia      | 1-41      | 2019/04   | Cantat-Gaudin  | 2019A&A...624A.126C | Gaia DR2 unravels incompleteness of nearby cluster population: new open clusters in the direction of Perseus
@@ -24,39 +24,32 @@ HMAC           | 1-21      | 2019/10   | Galli          | 2019A&A...630A.137G | 
 UPK            | 1-655     | 2019/10   | Sim            | 2019JKAS...52..145S | 207 New Open Star Clusters within 1 kpc from Gaia Data Release 2
 FoF (LP)       | 0-2442    | 2019/12   | Liu            | 2019ApJS..245...32L | A Catalog of Newly Identified Star Clusters in Gaia DR2
 BBJ            | 1b,2b,3b  | 2020/01   | Beccari        | 2020MNRAS.491.2205B | Uncovering a 260 pc wide, 35-Myr-old filamentary relic of star formation    
-CrA            | on,off    | 2020/01   |                |                     |
+CrA on/off-cld |           | 2020/0s   | Galli          | 2020A&A...634A..98G | Corona-Australis DANCe. I. Revisiting the census of stars with Gaia-DR2 data
 Clusterix      | 1         | 2020/03   | Balaguer-Núñez | 2020MNRAS.492.5811B | Clusterix 2.0: a virtual observatory tool to estimate cluster membership probability
 UBC            | 91-672    | 2020/03   | Castro-Ginard  | 2020A&A...635A..45C | Hunting for open clusters in Gaia DR2: 582 new open clusters in the Galactic disc
 OC             | 1-16      | 2020/03   | Hao            | 2020PASP..132c4502H | Sixteen Open Clusters Discovered with Sample-based Clustering Search of Gaia DR2
 Theia          | 1641-8313 | 2020/04   | Kounkel        | arXiv:2004.07261    | Untangling the Galaxy. II. Structure within 3 kpc
 Yalyalieva     | A-G       | 2020/05   | Yalyalieva     | 2020MNRAS.495.1349Y | A new look at Sco OB1 association with Gaia DR2
-Taurus         | A-F       | 2020/05   |                |                     |
+Taurus         | A-F       | 2020/05   | Roccatagliata  | arXiv:2005.01331    | A 3D view of the Taurus star-forming region by Gaia and Herschel: multiple populations related to the filamentary molecular cloud
 UFMG           | 4-62      | 2020/06   | Ferreira       | 2020MNRAS.496.2021F | Discovery and astrophysical properties of Galactic open clusters in dense stellar fields using Gaia DR2
-KHC Grp        | A-F       | 2020/06   |                |                     |
+KHC Grp        | A-F       | 2020/06   | Kuhn           | arXiv:2006.08622    | The Formation of a Stellar Association in the NGC 7000/IC 5070 Complex: Results from Kinematic Analysis of Stars and Gas
 QC             | 1-4       | 2020/08   | Qin            | arXiv:2008.07164    | Discovery of Four New Clusters in the Cygnus Cloud
 Casado         | 2-21      | 2020/09   | Casado         | arXiv:2009.04751    | New Open Clusters Found by Manual Mining of Data in Gaia DR2
 VVVX CL        | 121-204   | 2020/10   | Borissova      | 2020MNRAS.tmp.2846B | Small scale star formation as revealed by VVVX galactic cluster candidates
-HeXuHao        | 1-74      | 2020/10   | He             | arXiv:2010.14870    | 
+HeXuHao        | 1-74      | 2020/10   | He             | arXiv:2010.14870    | A catalogue of 74 new open clusters found in Gaia Data-Release 2
 UFMG           | 63-96     | 2021/01   | Ferreira       | arXiv:2006.05611    | New star clusters discovered towards the Galactic bulge direction using Gaia DR2
 PHOC           | 1-41      | 2021/02   | Hunt           | 2021A&A...646A.104H | Improving the open cluster census. I.
-PST            | 1-5       | 2021/02   |                |                     |
-LFT group      | 1-22      | 2021/03   |                |                     |
+PST            | 1-5       | 2021/02   | Pavlidou       | arXiv:2102.08263    | The substructure of the Perseus star forming region: A survey with Gaia DR2
+LFT group      | 1-22      | 2021/03   | Liu            | arXiv:2103.10154    | The old moving groups in the field of Taurus
 Valparaiso     | 1         | 2021/04   | Negueruela     | arXiv:2104.08778    | A massive open cluster hiding in full sight
+Casado         | 24-61     | 2021/07   | Casado         | arXiv:2107.12036    | The list of possible double and multiple open clusters between galactic longitudes 240 and 270 degrees
+XDOCC          | 1-11      | 2021/08   | Jaehnig        | arXiv:2108.02783    | Membership lists for 431 open clusters in Gaia DR2 using extreme deconvolution gaussian mixture models
+CMa            | 0-23      | 2021/08   | Santos-Silva   | arXiv:2108.06234    | Canis Major OB1 stellar groups contents revealed by Gaia
+Alessi         | 63-330    |           | Alessi         | unpublished         | several candidates found in many surveys and checked visually with Gaia
 
-unpublished (own discoveries)
+Notes:
 
-2MASS          | Jhhmm..   | 2019
-AWG            | 1-7       | 2019
-Aladin         | 1-20      | 2019
-Aladin         | A-H       | 2019
-Cartes du Ciel | 1-4       | 2019
-GEDR3-         | 1-20+     | 2021
-Gaia-TGAS      | 1         | 2018
-PanSTARRS      | Jhhmm..   | 2019
-Skyview        | Jhhmm..   | 2019
-Spitzer        | Jhhmm..   | 2019
-Urq            | Gddd..    | 2019
-VVV            | Jhhmm..   | 2019
-WG             | 1-5       | 2019
-WISE           | Jhhmm..   | 2019
-<other>        | -         |e.g. Cha I SW, Eta PsA
+1) Alessi 95 and 98 are already published. Some between 63-330 are published too but with other designations
+2) The ref arXiv:2107.12036 do no lists all Casado betwen 24 and 61
+3) For the ref 2019ApJS..245...32L, the designations LP and FoF are used. Seems like the community will stick with LP
+4) UCL 4-6 were not originally listed in ref 2019A&A...623A.112, but added by me based on the articles graphics showing Sco OB2 overdensities

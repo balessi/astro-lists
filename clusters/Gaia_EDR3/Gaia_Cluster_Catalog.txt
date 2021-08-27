@@ -574,8 +574,8 @@ LP 2216             CMa  07 06 24.0 -12 47 24  Op  OC     36.0   1149   0.24   7
 Alessi 283          CMa  07 06 24.0 -25 18 00  Op  OC     27.0    763                 -3.56    3.41  Alessi GEDR3        GEDR3-27
 Ruprecht 10         CMa  07 06 30.2 -20 07 30  Op  OC      5.6   2299   0.33   8.80   -0.85    0.56  Cantat-Gaudin 2020b ESO 558-10
 UBC 225             CMa  07 06 32.4 -23 32 02  Op  OC      8.6   3086   0.16   8.83   -2.47    4.41  Cantat-Gaudin 2020b 
-Berkeley 76         CMa  07 06 41.3 -11 44 06  Op  OC      6.2   4587   0.62   9.02   -0.58    1.40  Cantat-Gaudin 2020b 
 CMa 23              CMa  07 06 38.4 -12 21 00  Op  OC     60.0   1374   0.39   8.12   -0.96   -0.28  arXiv:2108.06234v1  Alessi 281, GEDR3-25
+Berkeley 76         CMa  07 06 41.3 -11 44 06  Op  OC      6.2   4587   0.62   9.02   -0.58    1.40  Cantat-Gaudin 2020b 
 SUH 136             CMa  07 07 00.0 -13 40 54  IR  EC      1.8   8720                                selected non-Gaia   
 FSR 1190            CMa  07 07 03.0 -11 20 06  Op  EC      1.8   1261                 -4.08    1.08  Alessi GEDR3        
 FSR 1209            CMa  07 07 08.4 -13 49 37  Op  OC      4.0   5263   0.44   9.12   -0.93    0.69  Cantat-Gaudin 2020b Kernya 36
@@ -3428,11 +3428,13 @@ Theia 70            Oph  17 08 58.4 -17 19 03  Op  OC    208.3    213   0.14   7
 NGC 6293            Oph  17 10 10.3 -26 34 55  Op  GC     18.6   8197   0.36  10.10    0.87   -4.33  Vasiliev2021        FSR 1783
 MWSC 4317           Oph  17 10 28.2 +01 15 00  Op  OC?    15.0   2750   0.33   9.43   -0.63   -2.41  Alessi GEDR3        
 Majaess 178         Oph  17 11 26.7 -27 25 34  Op  EC     23.0    159                 -0.28  -19.24  Alessi GDR2         BHB 1, LDN 1746, Barnard 59
+Gran 2              Oph  17 11 33.6 -24 50 56  Op  GC      2.1  16600   0.76  10.08    0.19   -2.57  arXiv:2108.11922v1
 NGC 6304            Oph  17 14 32.2 -29 27 43  Op  GC     15.6   6098   0.54  10.05   -4.07   -1.09  Vasiliev2021        FSR 1777
 NGC 6316            Oph  17 16 37.2 -28 08 24  Op  GC     14.4   9174   0.54  10.00   -4.97   -4.59  Vasiliev2021        
 NGC 6325            Oph  17 17 59.3 -23 45 58  Op  GC     12.0   6329   0.91  10.10   -8.29   -9.00  Vasiliev2021        FSR 6
 Theia 67            Oph  17 19 01.3 -25 03 30  Op  OC    246.0    152   0.14   7.34   -4.41  -21.22  Alessi GEDR3        Theta Oph
 M 9                 Oph  17 19 11.3 -18 30 58  Op  GC     23.4   7634   0.39  10.10   -2.18   -3.22  Vasiliev2021        NGC 6333, LP 637
+Gran C1             Oph  17 20 36.2 -29 40 23  Op  GC?                                -2.90   -6.11  arXiv:2108.11922v1
 NGC 6342            Oph  17 21 10.1 -19 35 13  Op  GC     24.6   7353   0.46  10.00   -2.90   -7.12  Vasiliev2021        FSR 15
 NGC 6356            Oph  17 23 35.0 -17 48 47  Op  GC     20.4  10870   0.27  10.00   -3.75   -3.39  Vasiliev2021        FSR 24, LP 638
 NGC 6355            Oph  17 23 58.6 -26 21 11  Op  GC     10.8   6897   0.77  10.10   -4.74   -0.57  Vasiliev2021        FSR 1788
@@ -4418,7 +4420,7 @@ Mercer 84           Sco  17 04 39.0 -42 18 14  IR  OC      0.4                  
 Mercer 86           Sco  17 04 41.0 -41 42 22  IR  OC      1.2                                       selected non-Gaia   
 NGC 6281            Sco  17 04 43.0 -37 56 53  Op  OC     31.1    534   0.15   8.50   -1.86   -4.02  Cantat-Gaudin 2020b LP 2332, Theia 325, UPK 643
 UBC 557             Sco  17 04 43.4 -38 58 59  Op  OC     13.6   1587   0.49   8.01    1.46   -0.40  Cantat-Gaudin 2020b 
-Patchick 125        Sco  17 05 00.7 -35 29 41  Op  GC      2.0   8800   0.96  10.15   -3.91    0.64  Garro 2021 priv     
+Patchick 125        Sco  17 05 00.7 -35 29 41  Op  GC      2.0   8800   0.96  10.15   -3.91    0.64  Garro 2021 priv     Gran 3
 La Serena 460       Sco  17 05 01.1 -40 08 14  IR  OC      2.0                                       selected non-Gaia   
 La Serena 464       Sco  17 06 07.0 -40 12 12  IR  OC      0.8                                       selected non-Gaia   
 UBC 555             Sco  17 06 19.7 -41 34 55  Op  OC      4.1   1799   0.79   8.72   -0.68   -0.51  Cantat-Gaudin 2020b Theia 1662
@@ -4858,6 +4860,7 @@ Terzan 5            Sgr  17 48 04.8 -24 46 44  Op  GC      8.4  12987   2.28   9
 Casado 7            Sgr  17 48 08.6 -28 59 25  Op  OC      5.0   1724                  0.50   -1.50  Casado 2020         
 UFMG 64             Sgr  17 48 13.2 -22 11 10  Op  OC     27.2   1590   0.65   8.15    2.23   -0.33  Ferreira 2021       
 NGC 6440            Sgr  17 48 52.8 -20 21 36  Op  GC     18.0   6944   1.07  10.05   -1.18   -4.00  Vasiliev2021        
+Gran 5              Sgr  17 48 54.7 -24 10 12  Op  GC      1.9   4470   1.31  10.08   -5.32   -9.20  arXiv:2108.11922v1
 ESO 455-44          Sgr  17 49 06.0 -28 45 20  Op  OC      5.5   2300                  0.34   -0.87  Alessi GEDR3        
 UBC 571             Sgr  17 49 23.0 -29 34 26  Op  OC      4.6   2994   0.90   7.93   -1.07   -2.88  Cantat-Gaudin 2020b 
 Ryu 542             Sgr  17 49 29.6 -28 51 25  IR  EC      2.0                                       selected non-Gaia   
@@ -4897,7 +4900,7 @@ UFMG 93             Sgr  17 57 51.4 -29 09 18  Op  OC     13.3   2985   0.65   9
 LP 1625             Sgr  17 57 57.9 -23 17 03  Op  OC      9.6   3205   1.25   8.45   -0.13   -1.58  Dias 2021           
 DB 49               Sgr  17 58 34.0 -26 06 50  IR  EC      2.0   2500                                selected non-Gaia   LDN 133, Gy1-19
 UBC 94              Sgr  17 58 34.3 -24 38 46  Op  OC     12.2   1339   0.41   8.45   -1.65   -4.45  Cantat-Gaudin 2020b LP 2245, Theia 2302
-ESO 456-29          Sgr  17 58 36.7 -32 01 12  Op  GC      4.0  13889         10.00   -8.16   -8.04  Vasiliev2021        Gran 1
+ESO 456-29          Sgr  17 58 36.7 -32 01 12  Op  GC      4.0  13889   1.09  10.00   -8.16   -8.04  Vasiliev2021        Gran 1
 UFMG 74             Sgr  17 58 56.6 -20 35 17  Op  OC     11.7   3460   1.35   8.75   -0.43   -1.78  Ferreira 2021       
 Ruprecht 136        Sgr  17 59 17.8 -24 42 36  Op  OC     13.8   2480          8.40   -0.01   -1.18  Alessi GEDR3        
 UBC 92              Sgr  17 59 31.9 -26 39 18  Op  OC      7.1   2703   0.71   8.48    2.12    0.41  Cantat-Gaudin 2020b LP 1206, Theia 1984
@@ -5047,6 +5050,7 @@ M 69                Sgr  18 31 23.0 -32 20 53  Op  GC     21.6   8929   0.18   9
 M 25                Sgr  18 31 44.9 -19 06 50  Op  OC     31.3    661   0.47   7.98   -1.69   -6.12  Cantat-Gaudin 2020b IC 4725, LP 2292, Theia 650, U Sgr
 NGC 6642            Sgr  18 31 54.0 -23 28 30  Op  GC     13.8   8197   0.41  10.10   -0.17   -3.89  Vasiliev2021        FSR 36
 Ruprecht 171        Sgr  18 32 02.9 -16 03 43  Op  OC     13.6   1613   0.23   9.49    7.68    1.09  Cantat-Gaudin 2020b LP 154, Theia 5903
+Gran 4              Sgr  18 32 27.1 -23 06 50  Op  GC      2.3  22490   0.48  10.08    0.46   -3.49  arXiv:2108.11922v1
 NGC 6645            Sgr  18 32 37.9 -16 55 05  Op  OC     14.5   1842   0.36   8.61    1.34   -0.63  Cantat-Gaudin 2020b LP 68, Theia 3610
 NGC 6652            Sgr  18 35 45.6 -32 59 28  Op  GC     19.2   8696   0.09  10.05   -5.49   -4.27  Vasiliev2021        FSR 7
 M 22                Sgr  18 36 24.0 -23 54 18  Op  GC     42.6   3289   0.34  10.10    9.85   -5.62  Vasiliev2021        NGC 6656, GJJC 1, LP 2207, LP 2280, LP 2398, LP 24, LP 25

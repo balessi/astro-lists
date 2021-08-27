@@ -1,0 +1,204 @@
+Published Pulsar Parallaxes (Shami Chatterjee)
+
+J0030+0451                           3.3   +0.9   -0.9      Lommen et al. (2006)           Timing
+J0034-0721          B0031-07         0.93  +0.08  -0.07     Chatterjee et al. (2009)       VLBI (VLBA)
+J0040+5716          B0037+56         0.102 +0.051 -0.025    Deller et al. (2019)           VLBI (VLBA)
+J0045-7319                           0.040 +0.060 -0.060    Jennings et al. (2018)         Optical (Gaia DR2)
+J0055+5117          B0052+51         0.35  +0.06  -0.06     Deller et al. (2019)           VLBI (VLBA)
+J0102+6537          B0059+65         0.40  +0.04  -0.04     Deller et al. (2019)           VLBI (VLBA)
+J0108+6608          B0105+65         0.47  +0.04  -0.03     Deller et al. (2019)           VLBI (VLBA)
+J0108-1431                           4.2   +1.4   -1.4      Deller et al. (2009)           VLBI (LBA)
+J0139+5814          B0136+57         0.37  +0.04  -0.04     Chatterjee et al. (2009)       VLBI (VLBA)
+J0147+5922          B0144+59         0.49  +0.04  -0.09     Deller et al. (2019)           VLBI (VLBA)
+J0151-0635          B0148-06         0.22  +0.10  -0.08     Deller et al. (2019)           VLBI (VLBA)
+J0152-1637          B0149-16         0.44  +0.21  -0.18     Deller et al. (2019)           VLBI (VLBA)
+J0157+6212          B0154+61         0.554 +0.039 -0.024    Deller et al. (2019)           VLBI (VLBA)
+J0218+4232                           0.16  +0.09  -0.09     Du et al. (2014)               VLBI (EVN)
+J0323+3944          B0320+39         1.05  +0.04  -0.04     Deller et al. (2019)           VLBI (VLBA)
+J0332+5434          B0329+54         0.91  +0.11  -0.11     Brisken et al. (2002)          VLBI (VLBA)
+J0332+5434          B0329+54         0.595 +0.020 -0.025    Deller et al. (2019)           VLBI (VLBA)
+J0332+5434          B0329+54         1.3   +1.7   -1.7      Salter et al. (1979)           VLBI (ad hoc)
+J0335+4555          B0331+45         0.409 +0.022 -0.027    Deller et al. (2019)           VLBI (VLBA)
+J0337+1715                           0.73  +0.24  -0.24     Jennings et al. (2018)         Optical (Gaia DR2)
+J0357+5236          B0353+52         0.305 +0.029 -0.077    Deller et al. (2019)           VLBI (VLBA)
+J0358+5413          B0355+54         0.91  +0.16  -0.16     Chatterjee et al. (2004)       VLBI (VLBA)
+J0406+6138          B0402+61         0.22  +0.05  -0.06     Deller et al. (2019)           VLBI (VLBA)
+J0437-4715                           5.6   +0.8   -0.8      Sandhu et al. (1997)           Timing
+J0437-4715                           6.396 +0.054 -0.054    Deller et al. (2008)           VLBI (LBA)
+J0437-4715                           6.65  +0.51  -0.51     Verbiest et al. (2008)         Timing
+J0437-4715                           6.3   +0.1   -0.1      Hotan et al. (2006)            Timing
+J0437-4715                           7.1   +0.14  -0.14     van Straten et al. (2001)      Timing
+J0437-4715                           8.33  +0.67  -0.67     Jennings et al. (2018)         Optical (Gaia DR2)
+J0452-1759          B0450-18         0.65  +1.4   -0.6      Chatterjee et al. (2009)       VLBI (VLBA)
+J0454+5543          B0450+55         0.84  +0.04  -0.05     Chatterjee et al. (2009)       VLBI (VLBA)
+J0538+2817                           0.72  +0.12  -0.09     Chatterjee et al. (2009)       VLBI (VLBA)
+J0538+2817                           0.68  +0.15  -0.15     Ng et al. (2007)               VLBI (VLBA)
+J0601-0527          B0559-05         0.48  +0.04  -0.04     Deller et al. (2019)           VLBI (VLBA)
+J0613-0200                           0.8   +0.35  -0.35     Verbiest et al. (2009)         Timing
+J0613-0200                           2.1   +0.6   -0.6      Hotan et al. (2006)            Timing
+J0614+2229          B0611+22         0.282 +0.022 -0.031    Deller et al. (2019)           VLBI (VLBA)
+J0629+2415          B0626+24         0.33  +0.04  -0.05     Deller et al. (2019)           VLBI (VLBA)
+J0630-2834          B0628-28         3.0   +0.4   -0.4      Deller et al. (2009)           VLBI (LBA)
+J0633+1746          Geminga          4.0   +1.3   -1.3      Faherty et al. (2007)          Optical (HST ACS)
+J0633+1746          Geminga          6.4   +1.8   -1.8      Caraveo et al. (1996)          Optical (HST WFPC2)
+J0636+5129                           4.9   +0.6   -0.6      Stovall et al. (2014)          Timing
+J0645+5158                           1.4   +0.4   -0.4      Stovall et al. (2014)          Timing
+J0659+1414          B0656+14         3.47  +0.36  -0.36     Brisken et al. (2003)          VLBI (VLBA)
+J0720-3125                           2.77  +0.89  -0.89     Kaplan et al. (2007)           Optical (HST)
+J0729-1836          B0727-18         0.49  +0.10  -0.08     Deller et al. (2019)           VLBI (VLBA)
+J0737-3039A/B                        0.87  +0.14  -0.14     Deller et al. (2009)           VLBI (LBA)
+J0737-3039A/B                        3.0   +2.0   -2.0      Kramer et al. (2006)           Timing
+J0751+1807                           0.66  +0.15  -0.15     Guillemot et al. (2016)        Timing
+J0751+1807                           1.6   +0.8   -0.8      Nice et al. (2005)             Timing
+J0814+7429          B0809+74         1.8   +7.1   -7.1      Salter et al. (1979)           VLBI (ad hoc)
+J0814+7429          B0809+74         2.31  +0.04  -0.04     Brisken et al. (2002)          VLBI (VLBA)
+J0820-1350          B0818-13         0.51  +0.03  -0.04     Chatterjee et al. (2009)       VLBI (VLBA)
+J0823+0159          B0820+02         0.38  +0.13  -0.07     Deller et al. (2019)           VLBI (VLBA)
+J0826+2637          B0823+26         2.010 +0.013 -0.009    Deller et al. (2019)           VLBI (VLBA)
+J0826+2637          B0823+26         2.8   +0.6   -0.6      Gwinn et al. (1986)            VLBI (ad hoc)
+J0835-4510          B0833-45         3.4   +0.7   -0.7      Caraveo et al. (2001)          Optical (HST)
+J0835-4510          B0833-45         3.5   +0.2   -0.2      Dodson et al. (2003)           VLBI (LBA)
+J0837+0610          B0834+06         1.63  +0.15  -0.15     Liu et al. (2016)              VLBI (VLBA)
+J0922+0638          B0919+06         0.31  +0.14  -0.14     Fomalont et al. (1999)         VLBI (VLBA)
+J0922+0638          B0919+06         0.83  +0.13  -0.13     Chatterjee et al. (2001)       VLBI (VLBA)
+J0953+0755          B0950+08         3.82  +0.07  -0.07     Brisken et al. (2002)          VLBI (VLBA)
+J0953+0755          B0950+08         3.6   +0.3   -0.3      Brisken et al. (2000)          VLBI (VLBA)
+J0953+0755          B0950+08         7.9   +0.8   -0.8      Gwinn et al. (1986)            VLBI (ad hoc)
+J0953+0755          B0950+08         8.3   +8.8   -8.8      Salter et al. (1979)           VLBI (ad hoc)
+J1012+5307                           1.21  +0.03  -0.08     Ding et al. (2020)             VLBI (VLBA)
+J1012+5307                           1.33  +0.41  -0.41     Jennings et al. (2018)         Optical (Gaia DR2)
+J1012+5307                           1.22  +0.26  -0.26     Lazaridis et al. (2009)        Timing
+J1017-7156                           3.9   +1.2   -1.2      Ng et al. (2014)               Timing
+J1022+1001                           1.387 +0.041 -0.028    Deller et al. (2019)           VLBI (VLBA)
+J1022+1001                           1.8   +0.3   -0.3      Verbiest et al. (2009)         Timing
+J1022+1001                           2.5   +0.4   -0.4      Hotan et al. (2006)            Timing
+J1022+1001                           3.3   +0.8   -0.8      Hotan et al. (2004)            Timing
+J1023+0038                           0.731 +0.022 -0.022    Deller et al. (2012)           VLBI (LBA)
+J1023+0038                           0.73  +0.14  -0.14     Jennings et al. (2018)         Optical (Gaia DR2)
+J1024-0719                           0.53  +0.42  -0.42     Jennings et al. (2018)         Optical (Gaia DR2)
+J1024-0719                           0.89  +0.14  -0.14     Guillemot et al. (2016)        Timing
+J1024-0719                           1.9   +0.8   -0.8      Hotan et al. (2006)            Timing
+J1045-4509                           3.3   +1.9   -1.9      Verbiest et al. (2009)         Timing
+J1048+2339                           0.96  +0.80  -0.80     Jennings et al. (2018)         Optical (Gaia DR2)
+J1136+1551          B1133+16         2.8   +0.16  -0.16     Brisken et al. (2002)          VLBI (VLBA)
+J1136+1551          B1133+16         2.687 +0.018 -0.016    Deller et al. (2019)           VLBI (VLBA)
+J1227-4853                           0.62  +0.16  -0.16     Jennings et al. (2018)         Optical (Gaia DR2)
+J1239+2453          B1237+25        -6.2   +5.2   -5.2      Salter et al. (1979)           VLBI (ad hoc)
+J1239+2453          B1237+25         1.16  +0.08  -0.08     Brisken et al. (2002)          VLBI (VLBA)
+J1257-1027          B1254-10         0.14  +0.06  -0.09     Deller et al. (2019)           VLBI (VLBA)
+J1300+1240          B1257+12         1.3   +0.4   -0.4      Wolszczan et al. (2000)        Timing
+J1302-6350          B1259-63         0.418 +0.030 -0.030    Jennings et al. (2018)         Optical (Gaia DR2)
+J1302-6350          B1259-63         0.38  +0.05  -0.05     Miller-Jones et al. (2018)     VLBI (Australian LBA)
+J1321+8323          B1322+83         0.97  +0.04  -0.14     Deller et al. (2019)           VLBI (VLBA)
+J1417-4402                           0.221 +0.071 -0.071    Jennings et al. (2018)         Optical (Gaia DR2)
+J1431-4715                           0.64  +0.16  -0.16     Jennings et al. (2018)         Optical (Gaia DR2)
+J1455-3330                           0.99  +0.22  -0.22     Guillemot et al. (2016)        Timing
+J1456-6843          B1451-68         2.2   +0.3   -0.3      Bailes et al. (1990)           VLBI
+J1509+5531          B1508+55         0.415 +0.037 -0.037    Chatterjee et al. (2005)       VLBI (VLBA)
+J1509+5531          B1508+55         0.47  +0.03  -0.03     Chatterjee et al. (2009)       VLBI (VLBA)
+J1532+2745          B1530+27         0.62  +0.03  -0.10     Deller et al. (2019)           VLBI (VLBA)
+J1537+1155          B1534+12         0.96  +0.01  -0.01     Fonseca et al. (2014)          Pbdot, GR, Gal potn
+J1537+1155          B1534+12         0.98  +0.05  -0.05     Stairs et al. (2002)           Timing
+J1537+1155          B1534+12         0.913 +0.02  -0.14     Stairs et al. (1998)           Timing
+J1543+0929          B1541+09         0.13  +0.02  -0.02     Chatterjee et al. (2009)       VLBI (VLBA)
+J1543-0620          B1540-06         0.322 +0.028 -0.045    Deller et al. (2019)           VLBI (VLBA)
+J1559-4438          B1556-44         0.384 +0.081 -0.081    Deller et al. (2009)           VLBI (LBA)
+J1600-3053                           0.2   +0.15  -0.15     Verbiest et al. (2009)         Timing
+J1607-0032          B1604-00         0.910 +0.029 -0.046    Deller et al. (2019)           VLBI (VLBA)
+J1614-2230                           1.30  +0.09  -0.09     Guillemot et al. (2016)        Timing
+J1614-2230                           1.54  +0.10  -0.10     Lassus (2013) in Fermi 2PC     Timing
+J1623-0908          B1620-09         0.59  +0.10  -0.10     Deller et al. (2019)           VLBI (VLBA)
+J1628-3205                           1.20  +0.56  -0.56     Jennings et al. (2018)         Optical (Gaia DR2)
+J1643-1224                           2.2   +0.4   -0.4      Verbiest et al. (2009)         Timing
+J1645-0317          B1642-03         0.252 +0.028 -0.019    Deller et al. (2019)           VLBI (VLBA)
+J1650-1654                          -0.089 +0.031 -0.015    Deller et al. (2019)           VLBI (VLBA)
+J1703-1846          B1700-18         0.35  +0.05  -0.05     Deller et al. (2019)           VLBI (VLBA)
+J1713+0747                           0.94  +0.05  -0.05     Verbiest et al. (2009)         Timing
+J1713+0747                           0.95  +0.06  -0.05     Chatterjee et al. (2009)       VLBI (VLBA)
+J1713+0747                           0.89  +0.08  -0.08     Splaver et al. (2005)          Timing
+J1713+0747                           0.9   +0.3   -0.3      Camilo et al. (1994)           Timing
+J1713+0747                           1.1   +0.05  -0.05     Hotan et al. (2006)            Timing
+J1723-2837                           1.077 +0.054 -0.054    Jennings et al. (2018)         Optical (Gaia DR2)
+J1730-2304                           1.19  +0.27  -0.27     Guillemot et al. (2016)        Timing
+J1735-0724          B1732-07         0.15  +0.04  -0.04     Deller et al. (2019)           VLBI (VLBA)
+J1738+0333                           0.68  +0.05  -0.05     Freire et al. (2012)           Timing
+J1741-0840          B1738-08         0.28  +0.05  -0.06     Deller et al. (2019)           VLBI (VLBA)
+J1744-1134                           2.4   +0.1   -0.1      Verbiest et al. (2009)         Timing
+J1744-1134                           2.8   +0.3   -0.3      Toscano et al. (1999)          Timing
+J1744-1134                           2.1   +0.2   -0.2      Hotan et al. (2006)            Timing
+J1754+5201          B1753+52         0.160 +0.029 -0.022    Deller et al. (2019)           VLBI (VLBA)
+J1810+1744                           1.05  +0.69  -0.69     Jennings et al. (2018)         Optical (Gaia DR2)
+XTE J1810-197       Magnetar         0.40  +0.05  -0.05     Ding et al. (2020)             VLBI (VLBA)
+J1816+4510                           0.22  +0.15  -0.15     Jennings et al. (2018)         Optical (Gaia DR2)
+J1820-0427          B1818-04         0.35  +0.05  -0.06     Deller et al. (2019)           VLBI (VLBA)
+J1833-0338          B1831-03         0.41  +0.05  -0.07     Deller et al. (2019)           VLBI (VLBA)
+J1840+5640          B1839+56         0.657 +0.065 -0.008    Deller et al. (2019)           VLBI (VLBA)
+J1853+1303                           1.0   +0.6   -0.6      Gonzalez et al. (2011)         Timing
+J1856-3754                          16.5   +2.3   -2.3      Walter (2001)                  Optical (HST)
+J1856-3754                           6.2   +0.6   -0.6      van Kerkwijk & Kaplan (2007)   Optical (HST)
+J1856-3754                           7.0   +2.0   -2.0      Kaplan et al. (2002)           Optical (HST)
+J1856-3754                           8.5   +0.9   -0.9      Walter & Lattimer (2002)       Optical (HST)
+J1857+0943          B1855+09         1.1   +0.3   -0.3      Kaspi et al. (1994)            Timing
+J1857+0943          B1855+09         1.2   +0.5   -0.5      Ryba &amp; Taylor (1991)       Timing
+J1857+0943          B1855+09         1.1   +0.2   -0.2      Verbiest et al. (2009)         Timing
+J1900-2600          B1857-26         0.5   +0.6   -0.6      Fomalont et al. (1999)         VLBI (VLBA)
+J1901-0906                           0.51  +0.07  -0.04     Deller et al. (2019)           VLBI (VLBA)
+J1909-3744                           0.79  +0.02  -0.02     Verbiest et al. (2009)         Timing
+J1909-3744                           0.88  +0.03  -0.03     Jacoby et al. (2005)           Timing
+J1909-3744                           0.88  +0.02  -0.02     Hotan et al. (2006)            Timing
+J1912+2104          B1910+20         0.024 +0.171 -0.022    Deller et al. (2019)           VLBI (VLBA)
+J1913+1400          B1911+13         0.185 +0.027 -0.023    Deller et al. (2019)           VLBI (VLBA)
+J1915+1606          B1913+16         0.24  +0.06  -0.08     Deller et al. (2018)           VLBI (VLBA)
+J1917+1353          B1915+13         0.142 +0.068 -0.007    Deller et al. (2019)           VLBI (VLBA)
+J1919+0021          B1917+00         0.16  +0.05  -0.04     Deller et al. (2019)           VLBI (VLBA)
+J1932+1059          B1929+10         2.77  +0.07  -0.07     Chatterjee et al. (2004)       VLBI (VLBA)
+J1932+1059          B1929+10         3.02  +0.09  -0.09     Brisken et al. (2002)          VLBI (VLBA)
+J1932+1059          B1929+10         5.0   +1.5   -1.5      Camilo (1995)                  Timing
+J1935+1616          B1933+16         0.22  +0.08  -0.12     Chatterjee et al. (2009)       VLBI (VLBA)
+J1937+2544          B1935+25         0.318 +0.031 -0.029    Deller et al. (2019)           VLBI (VLBA)
+J1939+2134          B1937+21         0.12  +0.08  -0.08     Kaspi et al. (1994)            Timing
+J1939+2134          B1937+21         0.13  +0.065 -0.065    Verbiest et al. (2009)         Timing
+J1957+2516                           0.69  +0.86  -0.86     Jennings et al. (2018)         Optical (Gaia DR2)
+J2006-0807          B2003-08         0.424 +0.010 -0.101    Deller et al. (2019)           VLBI (VLBA)
+J2010-1323                           0.48  +0.17  -0.12     Deller et al. (2019)           VLBI (VLBA)
+J2017+0603                           1.2   +0.5   -0.5      Guillemot et al. (2016)        Timing
+J2018+2839          B2016+28         0.9   +3.6   -3.6      Salter et al. (1979)           VLBI
+J2018+2839          B2016+28         1.03  +0.1   -0.1      Brisken et al. (2002)          VLBI (VLBA)
+J2022+2854          B2020+28        -1.3   +4.6   -4.6      Salter et al. (1979)           VLBI
+J2022+2854          B2020+28         0.37  +0.12  -0.12     Brisken et al. (2002)          VLBI (VLBA)
+J2022+5154          B2021+51         0.95  +0.37  -0.37     Campbell et al. (1996)         VLBI
+J2022+5154          B2021+51         0.5   +0.07  -0.07     Brisken et al. (2002)          VLBI (VLBA)
+J2022+5154          B2021+51         1.8   +4.9   -4.9      Salter et al. (1979)           VLBI
+J2032+4127                           0.693 +0.033 -0.033    Jennings et al. (2018)         Optical (Gaia DR2)
+J2046+1540          B2044+15         0.31  +0.08  -0.08     Deller et al. (2019)           VLBI (VLBA)
+J2046-0421          B2043-04         0.167 +0.026 -0.042    Deller et al. (2019)           VLBI (VLBA)
+J2048-1616          B2045-16         1.71  +0.91  -0.91     Deller et al. (2009)           VLBI (LBA)
+J2048-1616          B2045-16         1.05  +0.03  -0.02     Chatterjee et al. (2009)       VLBI (VLBA)
+J2055+3630          B2053+36         0.17  +0.03  -0.03     Chatterjee et al. (2009)       VLBI (VLBA)
+J2113+2754          B2110+27         0.704 +0.023 -0.022    Deller et al. (2019)           VLBI (VLBA)
+J2113+4644          B2111+46         0.45  +0.08  -0.07     Deller et al. (2019)           VLBI (VLBA)
+J2124-3358                           3.1   +0.55  -0.55     Verbiest et al. (2009)         Timing
+J2124-3358                           4.0   +2.0   -2.0      Hotan et al. (2006)            Timing
+J2129-0429                           0.424 +0.088 -0.088    Jennings et al. (2018)         Optical (Gaia DR2)
+J2129-5721                           1.9   +0.9   -0.9      Verbiest et al. (2009)         Timing
+J2144-3933                           6.05  +0.56  -0.56     Deller et al. (2009)           VLBI (LBA)
+J2145-0750                           1.603 +0.063 -0.009    Deller et al. (2019)           VLBI (VLBA)
+J2145-0750                           1.6   +0.25  -0.25     Verbiest et al. (2009)         Timing
+J2145-0750                           2.0   +0.6   -0.6      Löhmer et al. (2004)           Timing
+J2149+6329          B2148+63         0.36  +0.07  -0.06     Deller et al. (2019)           VLBI (VLBA)
+J2150+5247          B2148+52         0.03  +0.16  -0.08     Deller et al. (2019)           VLBI (VLBA)
+J2157+4017          B2154+40         0.28  +0.06  -0.06     Chatterjee et al. (2009)       VLBI (VLBA)
+J2212+2933          B2210+29         0.27  +0.05  -0.12     Deller et al. (2019)           VLBI (VLBA)
+J2214+3000                           1.7   +0.9   -0.9      Guillemot et al. (2016)        Timing
+J2215+5135                           0.28  +0.36  -0.36     Jennings et al. (2018)         Optical (Gaia DR2)
+J2222-0137                           3.742 +0.013 -0.016    Deller et al. (2013)           VLBI (VLBA)
+J2225+6535          B2224+65         1.20  +0.17  -0.20     Deller et al. (2019)           VLBI (VLBA)
+J2248-0101                           0.26  +0.05  -0.07     Deller et al. (2019)           VLBI (VLBA)
+J2305+3100          B2303+30         0.223 +0.033 -0.028    Deller et al. (2019)           VLBI (VLBA)
+J2313+4253          B2310+42         0.93  +0.06  -0.07     Chatterjee et al. (2009)       VLBI (VLBA)
+J2317+1439                           0.60  +1.53  -0.24     Deller et al. (2019)           VLBI (VLBA)
+J2317+2149          B2315+21         0.51  +0.06  -0.05     Deller et al. (2019)           VLBI (VLBA)
+J2325+6316          B2323+63        -0.01  +0.05  -0.04     Deller et al. (2019)           VLBI (VLBA)
+J2339-0533                           0.75  +0.25  -0.25     Jennings et al. (2018)         Optical (Gaia DR2)
+J2346-0609                           0.275 +0.021 -0.036    Deller et al. (2019)           VLBI (VLBA)
+J2354+6155          B2351+61         0.41  +0.03  -0.04     Deller et al. (2019)           VLBI (VLBA)

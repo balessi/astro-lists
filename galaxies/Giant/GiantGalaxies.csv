@@ -4,24 +4,26 @@ NOTES
 1 QSO's or any kind of active galaxy without a discernible/measured diameter are excluded
 2 Constraints: d <= 2.5 GPc AND (MB < -20 OR Diam > 40 Kpc) AND must have a discernible body
 3 Objets that are individually not bright and/or large enough to be included here, but are bright/large if you consider the summed contribution of close
-  companions are excluded, (e.g. few compact clusters listed as one entry in the ESO catalog, which lists mainly galaxies), but intrinsically bright/large
-  objects that are part of multiple systems (that probably canibalized many smaller galaxies) are included
+  companions are excluded, (e.g. few compact clusters listed as one entry in the ESO catalog), but intrinsically bright/large objects that are part of
+  multiple systems (that probably canibalized many smaller galaxies) are included
 4 Caveats: Is cannot be considered complete given that there are probably many giant/luminous BGC (Brightest Galaxy in Clusters) and a few nonstellar
   QSO's that are not included here
 5 Sometimes objects listed here are larger and brighter than listed values due, e.g. to the presence of faint extended halos, to non-homogeinity as to
   what surface brightness level those values were measured, etc
 
+Check: 2019ApJS..243...14O - The Ogle et al. Galaxy Catalog (OGC) (Ogle+, 2019)
+
 Galaxy                   ;Alias           ;Diam'  ;Mag   ;Band;Type                       ;RV Km/s ;Dist MPc;Diam KPc;MB    ;Cluster/Group      ;Notes
 
-PKS 0400-181             ;                ;  0.56 ;16.56 ;B   ;E                          ;102229  ;1400.4  ; 228.1  ;-24.2 ;                   ;
+PKS 0400-181             ;                ;  0.56 ;16.56 ;B   ;S                          ;102229  ;1400.4  ; 228.1  ;-24.2 ;                   ;
 IRAS F03071-0838         ;                ;  0.71 ;15.96 ;g   ;Sc                         ; 80567  ;1103.7  ; 227.9  ;-24.3 ;                   ;
-ESO 257-5                ;                ;  1.0  ;16.2  ;B   ;Sa                         ; 46407  ; 635.7  ; 184.9  ;-22.8 ;                   ;
-2MFGC 8638               ;                ;  0.9  ;17.5  ;g   ;S sp                       ; 45690  ; 630.6  ; 177.1  ;-23.9g;                   ;the most massive super spiral known to date, with a dark matter halo weighing at least 40 trillion Suns
+ESO 257-5                ;                ;  1.0  ;16.2  ;B   ;Sa                         ; 46407  ; 635.7  ; 184.9  ;-22.8 ;                   ;Aladin: ~0.7'
+2MFGC 8638               ;                ;  0.9  ;17.5  ;g   ;Sc sp Liner                ; 45690  ; 630.6  ; 177.1  ;-23.9g;[SPD2011] 42696    ;the most massive super spiral known to date, with a dark matter halo weighing at least 40 trillion Suns
 ESO 295-28               ;                ;  1.02 ;16.95 ;B   ;Sc sp                      ; 41279  ; 565.5  ; 167.8  ;-21.8 ;                   ;
 ESO 248-6                ;                ;  2.2  ;14.8  ;B   ;SO?                        ; 22816  ; 258    ; 165.1  ;-22.3 ;Abell 3112         ;
-2MFGC 12344              ;                ;  0.9  ;14.6  ;z   ;S sp                       ; 42694  ; 629.7  ; 164.9  ;-24.6z;                   ;
+2MFGC 12344              ;                ;  0.9  ;14.6  ;z   ;S sp Liner                 ; 42694  ; 629.7  ; 164.9  ;-24.6z;                   ;
 PGC 67298                ;                ;  2.4  ;15.48 ;B   ;cD5 pec:                   ; 16119  ; 220.8  ; 154.1  ;-21.2 ;                   ;
-2MASX J16394598+4609058  ;                ;  0.52 ;18.3  ;g   ;giant edge-on Spiral       ; 74151  ;1015.8  ; 153.7  ;-21.7 ;                   ;
+2MASX J16394598+4609058  ;OGC 139         ;  0.52 ;18.3  ;g   ;S sp                       ; 74151  ;1015.8  ; 153.7  ;-21.7 ;                   ;
 ESO 473-5                ;                ;  2.0  ;14.6  ;B   ;Sc                         ; 19338  ; 262.3  ; 152.6  ;-22.5 ;Abell 14           ;
 4C 53.16                 ;                ;  1.9  ;14.55 ;B   ;cD, BrClG                  ; 19069  ; 261.2  ; 144.4  ;-22.5 ;ZwCl 0712.9+5334   ;
 UGC 2195                 ;                ;  1.1  ;15.4  ;B   ;Sd                         ; 32168  ; 436.7  ; 139.7  ;-22.8 ;                   ;
@@ -35,9 +37,9 @@ CGCG 92-7                ;                ;  0.63 ;15.7  ;p   ;                 
 4C 32.26                 ;                ;  1.6  ;15.5  ;g   ;E                          ; 20416  ; 281.3  ; 130.9  ;-21.7 ;                   ;
 2MASX J00203715+2839334  ;                ;  1.35 ;16.1  ;?   ;cD                         ; 28333  ; 333.0  ; 130.8  ;-21.5 ;Abell 21           ;
 3C 348                   ;Hercules A      ;  0.7  ;18.1  ;B   ;WLRG, NLRG, ELEG           ; 46468  ; 642.5  ; 130.8  ;-20.9 ;                   ;
-IC 1101                  ;                ;  1.4  ;14.73 ;B   ;cD, SO-:                   ; 23368  ; 320.1  ; 130.4  ;-22.8 ;                   ;
+IC 1101                  ;                ;  1.4  ;14.73 ;B   ;cD, SO-:                   ; 23368  ; 320.1  ; 130.4  ;-22.8 ;                   ;Actually much larger than the listed diam implies (600 Kpc). Aladin: ~2.1'
 IC 983                   ;Arp 117         ;  6.0  ;12.5  ;B   ;SB(r)bc                    ;  5443  ;  74.6  ; 130.2  ;-21.9 ;                   ;
-Malin 1                  ;                ;  1.3  ;17.8  ;B   ;S, GLSBG                   ; 24750  ; 339.0  ; 128.2  ;-19.9 ;                   ;
+Malin 1                  ;                ;  1.3  ;17.8  ;B   ;S, GLSBG                   ; 24750  ; 339.0  ; 128.2  ;-19.9 ;                   ;Can be as large as 230 Kpc
 OGC 1304                 ;                ;  0.6  ;15.7  ;i   ;S pec                      ; 49332  ; 728.8  ; 128.0  ;-23.8i;                   ;
 3C 357                   ;                ;  0.64 ;17.5  ;g   ;E                          ; 49810  ; 686.6  ; 127.8  ;-21.7 ;                   ;
 NGC 4104                 ;                ;  3.5  ;13.06 ;B   ;SO, BrClG                  ;  8453  ; 115.8  ; 117.9  ;-22.3 ;                   ;
@@ -100,18 +102,20 @@ NGC 1600                 ;                ;  2.7  ;11.93 ;B   ;cD, E3           
 M 49                     ;                ; 10.4  ; 9.4  ;B   ;E2/SO, Sy2, LINER          ;   981  ;  15.8  ;  47.8  ;-21.6 ;Virgo cluster      ;
 M 31                     ;                ;204    ; 4.3  ;B   ;SA(s)b, LINER              ;  -296  ;   0.8  ;  47.5  ;-21.5 ;Local group        ;
 NGC 1232                 ;                ;  7.4  ;10.93 ;B   ;SAB(rs)c, HII              ;  1603  ;  22.0  ;  47.4  ;-20.8 ;                   ;
-UGC 12591                ;                ;  1.7  ;13.9  ;B   ;SO/a, LINER                ;  6949  ;  95.2  ;  47.1  ;-21.0 ;                   ;The Fastest Rotating Galaxy Known: Very massive
+UGC 12591                ;                ;  1.7  ;13.9  ;B   ;SO/a, LINER                ;  6949  ;  95.2  ;  47.1  ;-21.0 ;                   ;The Fastest Rotating Galaxy Known: Very massive. Diam = 72 Kpc from Aladin
 NGC 7589                 ;                ;  1.3  ;15.0  ;B   ;SAB(rs)a:, GLSBG, Sy1      ;  8938  ; 122.4  ;  46.3  ;-20.4 ;                   ;
 Milky Way                ;                ;       ;-4.6  ;B   ;SAB(s)bc                   ;        ;   0.008;  43.0  ;-20.8 ;Local group        ;
 UGC 6614                 ;                ;  1.7  ;14.37 ;B   ;(R)SA(r)a?, GLSBG          ;  6352  ;  87.0  ;  43.0  ;-20.3 ;                   ;
 NGC 5128                 ;Centarus A      ; 37.5  ; 7.6  ;B   ;SO p, Sy2, BL Lac          ;   556  ;   3.7  ;  41.9  ;-20.7 ;Cen A group        ;Arp 153, has a large faint halo larger than the diam listed here
 MUSYC HDFS1-1903         ;ISOHDFS 27      ;  0.06 ;22.0  ;B   ;Sbc                        ;174090  ;2384.1  ;  40.0  ;-20.6 ;                   ;4x more massive than MW
 M 87                     ;Virgo A         ;  8.3  ; 9.6  ;B   ;cD 0-1 pec, NLRG, Sy       ;  1284  ;  16.5  ;  39.8  ;-21.5 ;Virgo cluster      ;
-UGC 1382                 ;                ; >1.4  ;14.4  ;B   ;E?, E+arms, Spiral?        ;  5771  ;  86.8  ;  35.3  ;-20.3 ;                   ;Actually larger than the listed diam
+UGC 1382                 ;                ; >1.4  ;14.4  ;B   ;E?, E+arms, Spiral?        ;  5771  ;  86.8  ;  35.3  ;-20.3 ;                   ;Actually much larger than the listed diam implies (220 Kpc)
 M 77                     ;Arp 37          ;  9.0  ; 9.6  ;B   ;(R)SA(rs)b, Sy1, Sy2       ;  1137  ;  12.6  ;  33.0  ;-20.9 ;                   ;
 M 104                    ;                ;  9.9  ; 9.0  ;B   ;SA(s)a, LINER, Sy1.9       ;  1090  ;  11.3  ;  32.5  ;-21.8 ;M 104 group        ;
 IC 1127                  ;Arp 220         ;  1.5  ;13.94 ;B   ;S?, LINER, HII, Sy2, ULIRG ;  5434  ;  74.4  ;  32.5  ;-20.4 ;                   ;
-NGC 262                  ;Mrk 348         ;  1.6  ;13.9  ;B   ;SA(s)0/a:, Sy2             ;  4507  ;  61.7  ;  28.7  ;-20.1 ;                   ;Actually larger than the listed diam
+NGC 262                  ;Mrk 348         ;  1.6  ;13.9  ;B   ;SA(s)0/a:, Sy2             ;  4507  ;  61.7  ;  28.7  ;-20.1 ;                   ;Actually larger than the listed diam implies (>= 300 Kpc if located at 88 Mpc)
+Abell 2261 BCG           ;Leda 1981854    ;  0.26 ;13.89 ;g   ;cD                         ; 59609  ;        ;        ;      ;Abell 2261         ;Second largest core of any Gx known (firts is IC 1101)
+UGC 7069                 ;                ;  0.77 ;15.7  ;B   ;Sb, ring                   ; 15173  ;        ; 115    ;      ;                   ;Largest ring galaxy (Ghosh & Mapelli, 2008). Aladin: ~1.5
 
 
 TODO:

@@ -1,0 +1,118 @@
+PWNe1 - Pulsar Wind Nebulae (Pulsar is present)
+PWNe2 - Pulsar Wind Nebulae (Pulsar is not seen)
+NvSh  - Nova shell
+
+J0205+6449        PWNe1     G130.7+3.1      3C 58, SN 1181
+J0437-4715        PWNe1     G253.4-42.0
+J0534+2200        PWNe1     G184.6-5.8      Crab, SN 1054
+J0537-6910        PWNe1     G279.6-31.7     N 157B, 30 Dor B
+J0540-6919        PWNe1     G279.7-31.5     N158A, B0540-6938.2
+J0633+1746        PWNe1     G195.1+4.3      Geminga
+J0835-4510        PWNe1     G263.9-3.3      Vela X
+J0908-4913        PWNe1     G270.3-1.0      B0906-49
+J1016-5857        PWNe1     G284.3-1.8      3EG J1013-5915
+J1048-5832        PWNe1     G287.4+0.58     B1046-58, puppy
+J1119-6127        PWNe1     G292.2-0.5      
+J1124-5916        PWNe1     G292.0+1.8      MSH 11-54
+J1341-6220        PWNe1     G308.8-0.1
+J1420-6048        PWNe1     G313.6+0.3      Kookaburra
+J1513-5908        PWNe1     G320.4-1.2      B1509-58, MSH 15-52, Dragon
+J1646-4346        PWNe1     G341.2+0.9      B1643-43
+J1709-4429        PWNe1     G343.1-2.3      B1706-44
+J1747-2958        PWNe1     G359.23-0.82    Mouse
+J1801-2451        PWNe1     G5.27-0.9       G5.4-1.2?, Duck, B1757-24
+J1811-1925        PWNe1     G11.2-0.3       SN 386, Turtle
+J1826-1334        PWNe1     G18.0-0.7       B1823-13, Turkey
+J1833-1034        PWNe1     G21.5-0.9
+J1846-0258        PWNe1     G29.7-0.3       Kes 75
+J1856+0113        PWNe1     G34.7-0.4       W44, 3C 392
+J1932+1059        PWNe1     G47.4-3.9       B1929+10
+J1930+1852        PWNe1     G54.1+0.3
+J1952+3252        PWNe1     G69.0+2.7       CTB 80
+J1959+2048        PWNe1     G59.2-4.7       B1957+20, Black Widow
+J2021+3651        PWNe1     G75.2+0.1       GeV J2020+3658, Cisne
+J2124-3358        PWNe1     G10.9-45.4
+J2229+6114        PWNe1     G106.6+3.13     EG J2227+6122
+J2225+6535        PWNe1     G108.6+6.8      B2224+65, Guitar
+                  PWNe2     G0.13-0.11      
+                  PWNe2     G0.9+0.1        
+                  PWNe2     G7.4-2.0        GeV J1809-2327, Tazzie
+                  PWNe2     G16.7+0.1       
+                  PWNe2     G18.5-0.4       GeV J1825-1310, Eel
+                  PWNe2     G20.0-0.2       
+                  PWNe2     G24.7+0.6       
+                  PWNe2     G27.8+0.6       
+                  PWNe2     G39.2-0.3       3C 396
+                  PWNe2     G63.7+1.1       
+                  PWNe2     G74.9+1.2       CTB 87
+                  PWNe2     G119.5+10.2     CTA 1
+                  PWNe2     G189.1+3.0      IC 443?
+                  PWNe2     G279.8-35.8     B0453-685
+                  PWNe2     G291.0-0.1      MSH 11-62
+                  PWNe2     G293.8+0.6      
+                  PWNe2     G313.3+0.1      Rabbit
+                  PWNe2     G318.9+0.4      
+                  PWNe2     G322.5-0.1      
+                  PWNe2     G326.3-1.8      MSH 15-56
+                  PWNe2     G327.1-1.1      
+                  PWNe2     G328.4+0.2      MSH 15-57
+                  PWNe2     G358.6-17.2     RX J1856.5-3754
+                  PWNe2     G359.89-0.08    
+AT Cnc            NvSh
+BT Mon            NvSh
+BZ Cam            NvSh
+CK Vul            NvSh
+CP Cru            NvSh
+CP Pup            NvSh
+CP Lac            NvSh
+CRTS J0545+0221   NvSh      Te 11
+CT Ser            NvSh
+DK Lac            NvSh
+DN Gem            NvSh
+DO Aql            NvSh
+DQ Her            NvSh
+FH Ser            NvSh
+GK Per            NvSh
+HR Del            NvSh
+HY Lup            NvSh
+IGR J17014-4306   NvSh
+IPHASX J2102+4710 NvSh 
+LV Vul            NvSh
+NQ Vul            NvSh
+PW Vul            NvSh
+QU Vul            NvSh
+QV Vul            NvSh
+RR Pic            NvSh
+RS Oph            NvSh
+RW UMi            NvSh
+T Aur             NvSh
+T CrB             NvSh
+T Pyx             NvSh
+V1229 Aql         NvSh
+V1280 Sco         NvSh
+V1315 Aql         NvSh
+V1363 Cyg         NvSh
+V1500 Cyg         NvSh
+V1819 Cyg         NvSh
+V1974 Cyg         NvSh
+V2275 Cyg         NvSh
+V341 Ara          NvSh
+V351 Pup          NvSh
+V382 Vel          NvSh
+V3888 Sgr         NvSh
+V4362 Sgr         NvSh
+V445 Pup          NvSh
+V446 Her          NvSh
+V458 Vul          NvSh
+V476 Cyg          NvSh
+V500 Aql          NvSh
+V533 Her          NvSh
+V603 Aql          NvSh
+V605 Aql          NvSh
+V723 Cas          NvSh
+V838 Mon          NvSh
+V842 Cen          NvSh
+V959 Mon          NvSh
+XX Tau            NvSh
+Z Cam             NvSh
+              

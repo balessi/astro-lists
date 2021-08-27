@@ -24,7 +24,7 @@ All data are Eric Mamajek's values, except:
 6. Removed "V" from SpT column, given that all SpTs shown here are Main Sequence
 7. Added types O2.5, O3.5, O4.5, O9.2, O9.7, B3.5, B4.5, B5.5, B6.5, B7.5, B8.5, L0.5, L1.5, L2.5, L3.5, L4.5, L5.5, L6.5, L7.5, L8.5, L9.5, T0.5, T1.5, T2.5, T3.5, T6.5
    Data derived by interpolation. Note that not all these types were observed or defined
-   I'm certain about O2.5 (2014A&A...570A..38B), O3.5 (2002AJ....123.2754W), O9.2, O9.7 (arXiv:1807.03821v1) L and T, but not the remaining ones (O4.5, B)
+   I'm certain about O2.5 (2014A&A...570A..38B), O3.5 (2002AJ....123.2754W), O9.2, O9.7 (arXiv:1807.03821v1) L and T, but not the remaining ones (O4.5, Bn.n)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #SpT Teff  logT   logL  Mbol  BCv   Mv    B-V    Bt-Vt  G-V    Bp-Rp  G-Rp   M_G   b-y    U-B    V-Rc   V-Ic   V-Ks   J-H    H-Ks   Ks-W1  W1-W2  W1-W3  W1-W4  M_J   M_Ks  i-z  z-Y  R_Rsun Msun   LogAge #SpT 

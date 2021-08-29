@@ -6489,6 +6489,10 @@ NGC 6735                 ; Dias 2021           ; 0.757;  8.466
 NGC 6735                 ; Kharchenko+ 2013    ; 0.854;  8.290
 NGC 6735                 ; Tarricq 2021        ;      ;  8.42
 NGC 6749                 ; Kharchenko+ 2013    ; 1.499; 10.000
+NGC 6749                 ; Aparicio+ 1991      ; 0.742;  9.328   
+FSR 129                  ; Kharchenko+ 2013    ; 1.31 ;  8.480
+NGC 6749                 ; Lata+ 2002          ; 0.74 ;  9.03    
+NGC 6749                 ; Aparicio+ 1990      ; 0.64 ;  9.79    
 NGC 6752                 ; Baumgart 2021       ; 0.04 ; 10.0969
 NGC 6752                 ; Kharchenko+ 2013    ; 0.042; 10.100
 NGC 6755                 ; 2016DAML            ; 0.826;  7.719

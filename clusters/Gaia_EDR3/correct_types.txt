@@ -36,18 +36,19 @@ other source: pick ages for members stars
 
 Median ages before correction
 
-EC     6.70 +- 0.82
-OB     7.00 +- 0.36
-YA     7.08 +- 0.71 (roughly like EC and OB, but without high-mass stars)
-RSG    7.20 +- 0.30
-OC     8.2  +- 2.2
-GC    10.10 +- 0.17
-UFD   10.08 +- 0.09 
-MG    too few, adopt same of OCs after type correction
+EC     6.74 +- 0.50
+YA     7.03 +- 0.65
+OB     7.10 +- 0.40
+RSG    7.20 +- 0.10
+OC     8.24 +- 0.49
+MG     8.30 +- 0.24                                   
+GC    10.08 +- 0.02
+UFD   10.08 +- 0.02 
 
 directives
 
 If we have a star of a known ST that is in MS, use as upper limit the age from Mamajek's table and as a lower limit:
-a) the typical age of ECS plus 1 sigma if the cluster is not an EC
-b) log-T = 5.9 if it's an EC
-If the star is wolf-rayet then use 6.25 +- 0.25 (mean of upper ages of stars with ZAMS masses betw 20 and 60+ MS)
+    a) the typical age of ECs plus 1 sigma if the cluster is not an EC
+    b) log-T = 5.7 if it's an EC
+If t1
+he star is wolf-rayet then use 6.25 +- 0.25 (mean of upper ages of stars with ZAMS masses betw 20 and 60+ MS)

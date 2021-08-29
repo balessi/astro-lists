@@ -12,7 +12,7 @@ Her (I)                                      Her  16 31 02.0 +12 47 30    MW    
 Leo IV                                       Leo  11 32 57.4 -00 32 00    MW      Op   dSph      4.6  157600                     
 Leo V                                        Leo  11 31 09.6 +02 13 12    MW      Op   dSph      2.6  186400                     
 Gran 2                                       Oph  17 11 33.6 -24 50 56    Hel     Op   GC        2.1   16600        0.76  10.08  
-Gran 4                                       Sgr  18 32 27.1 -23 06 50            Op   GC        2.3   22490        0.48  10.08  
+Gran 4                                       Sgr  18 32 27.1 -23 06 50    MW      Op   GC        2.3   22490        0.48  10.08  
 Gran 5                                       Sgr  17 48 54.7 -24 10 12    GSE     Op   GC        1.9    4470        1.31  10.08  
 2MASS-GC 1          Hurt 1, FSR 40           Sgr  18 08 21.8 -19 49 46.9  MW      IR   GC        3.3    3370        6.80  10.10  
 2MASS-GC 2          Hurt 2                   Sgr  18 09 31.2 -20 47 24.0  MW      IR   GC       12.6    5500        2.00  10.00  
@@ -260,7 +260,7 @@ Palomar 4                                    UMa  11 29 16.5 +28 58 22.4  HiE   
 Palomar 5           UGC 9792                 Ser  15 16 05.0 +00 06 43.2  Hel     Op   EGC      16.8   21940        0.03  10.079 GC in process of disruption. Progenitor of a large and proeminent stream
 Palomar 6           ESO 520-21               Oph  17 43 42.2 -26 13 01.2  Kol     Op   GC+PN    12.0    7050        1.46  10.05  Contains PN JaFu 1
 Palomar 8           ESO 591-12, FSR 48       Sgr  18 41 29.8 -19 49 48.0  MW      Op   GC       20.4   11320        0.32   9.90  
-Patchick 122                                 Vel  09 42 30.7 -52 25 41.0  MW      Op   GC        1.6    5600               9.90
+Patchick 122        VVVX CL 207              Vel  09 42 30.7 -52 25 41.0  MW      Op   GC        1.6    5600               9.90
 Patchick 123        Pa-DeCAPS 5              Cru  12 10 19.6 -63 52 47.0  MW      Op   GC?       1.8    5200                     
 Patchick 125        Gran 3                   Sco  17 05 00.7 -35 29 41.0  MW      Op   GC        2.0    8800        0.96  10.15  
 Patchick 126        Pa-DeCAPS 6              Ara  17 05 38.6 -47 20 32.0  MW      Op   GC        0.9    8600               9.90  
@@ -280,8 +280,8 @@ Ret III             DES J0345-6026           Ret  03 45 26.4 -60 27 00.0  LMC   
 Reticulum           Ser 40/3, KMHK 10        Ret  04 36 00.1 -58 51 03.5  LMC     Op   GC        4.7   49900              10.10  Also ESO 118-31, Adopted LMC dist recommended by de Grijs and Bono (2017)
 Riddle 15                                    Aql  19 11 08.9 +14 49 59.0  MW      Op   GC        1.3   11000        1.67  10.11  Alessi: GC? very dense and rich!
 Ruprecht 106        ESO 218-10               Cen  12 38 40.1 -51 09 00.0  GSE/Hel Op   GC        9.0   20710        0.21  10.061 
-SDSS J0814+5105                              Lyn  08 13 42.0 +51 05 27  dSph?                13.8   1.5     14.9                 6.2                    Alessi EDR3: seems to be real
-SDSS J0821+5608                              Lyn  08 21 15.0 +56 08 16  dSph?                13.8   1.5     14.1                 4.7                    Alessi EDR3: seems to be real
+SDSS J0814+5105                              Lyn  08 13 42.0 +51 05 27    MW      Op   dSph?     6.2   13800                     Alessi EDR3: seems to be real
+SDSS J0821+5608                              Lyn  08 21 15.0 +56 08 16    MW      Op   dSph?     4.7   13800                     Alessi EDR3: seems to be real
 SEGUE 1                                      Leo  10 07 03.2 +16 04 25.0  MW      Op   dSph      4.4   23000              10.08
 SEGUE 2                                      Ari  02 19 16.0 +20 10 31.0  MW      Op   UFD/GC    6.8   35000              10.08  
 SEGUE 3                                      Peg  21 21 31.0 +19 07 03.0  MW      Op   GC/OC     1.0   17000              10.08  UFD with MV -0.1, Spatially close to Messier 2, Balbinot 1 and Kim 1
@@ -322,7 +322,6 @@ Willman 1           SDSS J1049+5103          UMa  10 49 24.0 +51 03 00.0  MW    
 -----------------------------------
 Very doubtful / Discarded
 
-Gran C1                                      Oph  17 20 36.2 -29 40 23    MW      Op   GC?                                       
 Alessi 52           FSR 1606, VVV-CL 101     Cru  12 13 02.0 -42 42 24.0  MW      Op   OC        1.4    4600               9.15  Archinal/Hynes 2003, also Alessi J12130-6242
 Arp-Madore 2        ESO 368-7                Pup  07 46 48.0 -33 51 00.0  MW      Op   OC        3.1   25640               9.34  Webbink 1985, Djorgovsky/Meylan 1993; Open Cluster
 Bica 1                                       Oph  17 24 53.8 -24 19 21.0  MW      Op   PN?       1.0                             Bica 1994, AA 285, 868
@@ -347,20 +346,21 @@ ESO 393-12                                   Sco  17 38 40.0 -35 39 04.0  MW    
 ESO 456-9                                    Sco  17 53 52.0 -32 28 55.0  MW      Op   OC?       6.0    7475        1.19  10.05  Alessi: does not look like a GC
 FNY 1               RSG 2SW, Ryu 871         Sct  18 39 06.0 -06 04 28.0  MW      IR   RSG       4.0    3400                     In shell, pair with Stephenson 2
 FSR 1                                        Oph  17 32 22.0 -27 03 41.0  MW      Op   *Ast      6.0                             Alessi: Nothing resembling a GC at this position, from Froebrich/Scholz/Raftery 2007
-FSR 1703            La Serena 238            Nor  15 41 55.0 -55 01 11.0  MW      Op   OC?       2.0    1330               8.55  Froebrich/Scholz/Raftery 2007
-FSR 1755                                     Sco  17 12 23.0 -38 26 53.0  MW      Op   OC??      8.0                             Froebrich/Scholz/Raftery 2007; young open cluster
+FSR 1703            La Serena 238            Nor  15 41 55.0 -55 01 11.0  MW      Op   OC        2.0    1330               8.55  Froebrich/Scholz/Raftery 2007
+FSR 1755            Mercer 91                Sco  17 12 23.0 -38 26 53.0  MW      Op   OC        8.0                             Froebrich/Scholz/Raftery 2007; young open cluster
 FSR 1767            2MASS-GC 4               Sco  17 35 44.8 -36 21 42.0  MW      Op   GC??      8.0    1948        1.41   8.68  Age is probably wrong, Alessi: not detected in a check with EDR3
 FSR 19                                       Oph  17 35 39.0 -21 02 49.0  MW      Op   *Ast     10.0                             Dubious, not a GC (arXiv:1904.10872v1)
 FSR 2                                        Oph  17 32 32.0 -27 03 52.0  MW      Op   *Ast?     4.0                             Froebrich/Scholz/Raftery 2007
 FSR 25                                       Oph  17 41 43.0 -19 34 15.0  MW      Op   *Ast      5.0                             Dubious, not a GC (arXiv:1904.10872v1)
 FSR 435                                      Cas  23 31 05.0 +59 46 40.0  MW      Op   OC        0.6                             Bica+ 2019, Alessi: compact, but poor OC
 FSR 55              BDS 8 ?                  Sct  18 24 42.0 -13 23 40.0  MW      Op   *Ast      8.0                             Alessi: Dust hole, Froebrich/Scholz/Raftery 2007
-FSR 584             SAI 20                   Cas  02 27 12.5 +61 37 40.8  MW      Op   EC?      11.2    1400        1.04   9.10  Alessi: seems to be an EC candidate, not a GC
+FSR 584             SAI 20                   Cas  02 27 12.5 +61 37 40.8  MW      Op   EC       11.2    1400        1.04   9.10  Alessi: seems to be an EC candidate, not a GC
 FSR 89                                       Aql  18 48 39.0 -03 30 34.0  MW      Op   *Ast?     4.0                             Froebrich/Scholz/Raftery 2007; old open cl
 Ferrero 45                                   Sgr  19 35 47.0 -30 30 15.0  MW      Op   OC?       1.0                             Alessi: smal,, open group of few stars/faing gxs?, Bica+ 2019
 Froebrich 4         Bica 49                  Sct  18 24 07.0 -13 19 48.0  MW      IR   RSG?      6.0    6000               7.20  Diam from extr rad, poss cluster of RSGS, weak candidate
 Froebrich 5                                  Sct  18 31 48.0 -10 40 12.0  MW      IR   RSG?      6.0    8000               7.20  Diam from extr rad, poss cluster of RSGS, weak candidate
 Froebrich 6                                  Aql  18 47 48.0 -01 42 00.0  MW      IR   RSG?      6.0    6000               7.20  Diam from extr rad, cluster of RSGS
+Gran C1                                      Oph  17 20 36.2 -29 40 23    MW      Op   GC?                                       Alessi: not seen visually, nor checking EDR3 kinematics
 Grindlay 1                                   Sco  17 31 58.0 -33 50 06.0  MW      IR   *Ast      0.0                             SC 2000.0, Webbink 1985
 Ind II              DES J2038-4609           Ind  20 38 52.8 -46 09 36.0  MW      Op   dSph??    2.9  214000                     Likely a false-positive, flagged due to a chance alignment of stars along the line of sight (Cantu et al. 2020)
 Kodaira 1                                    Ser  18 12 26.7 -12 04 12.0  MW      IR   *Ast      0.0                             Kodaira 1983, Webbink 1985; probably Red Star
@@ -456,11 +456,8 @@ NGC 6684            GCl-102                  Pav  18 49 00.0 -65 11 00.0  --    
 NGC 6941            GCl-117.1                Aql  20 36 18.0 -04 38 00.0  --      Op   Gx        2.0                             SB0 galaxy
 Patchick 54                                  Cru  12 14 20.0 -63 31 12.0  MW      Op   *Ast?     0.9                             Bica+ 2019
 Patchick 98                                  Ser  18 18 24.0 -12 30 06.0  MW      Op   *Ast?     1.0                             Bica+ 2019
-Patchick 99                                  Sgr  18 15 47.0 -29 48 46.0  MW      Op   OC?       0.7                             Bica+ 2019
 Pavo Cluster                                 Pav  17 50 12.0 -60 46 00.0  MW      Op   *Ast      0.5                             Becvar, Sawyer 1947; Shapley
 Ruprecht 101        FSR 1603                 Cru  12 09 45.0 -62 59 49.0  MW      Op   OC       10.0    3676                     Froebrich/Scholz/Raftery 2007
-SDSS J0814+5105                              Lyn  08 13 42.0 +51 05 27.0  MW      Op   UFD/GC?? 12.4   13800                     Alessi: nothing in EDR3
-SDSS J0821+5608                              Lyn  08 21 15.0 +56 08 16.0  MW      Op   UFD/GC??  9.4   13800                     Alessi: nothing in EDR3
 SDSS J1000+5730                              UMa  10 00 28.0 +57 30 10.0  MW      Op   dSph??    8.1   83200                     Alessi: nothing in EDR3
 SDSS J1058+2843                              LMi  10 58 04.0 +28 42 39.0  MW      Op   UFD/GC??  9.4   24000                     Alessi: nothing in EDR3
 SDSS J1329+2841                              CVn  13 29 13.0 +28 41 27.0  MW      Op   dSph??    8.6   75900                     Alessi: nothing in EDR3

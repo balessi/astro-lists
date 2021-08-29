@@ -176,15 +176,18 @@ Alessi 52                              3364     1.05    9.15    Bukowiecki L., e
 Alessi 53                              1460     0.52    7.75    Bukowiecki L., et al.            2011, AcA 62
 Alessi 53                              2360     0.61    8.699   TADROSS, A. L., ET AL.           2012, RAA  12, 75
 Alessi 53                              2394     0.64    7.000   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+Alessi 53                              4278                     Loktin-Popova                    2017
 Alessi 56                               700     2.97    7.40    Bukowiecki L., et al.            2011, AcA 62
 Alessi 56                              5745     2.19    8.585   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Alessi 57                               758     3.03    7.35    Bukowiecki L., et al.            2011, AcA 62
 Alessi 57                              3797     1.87    8.650   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Alessi 59                              3511     0.77    7.000   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Alessi 59                              3865     0.64    7.40    Bukowiecki L., et al.            2011, AcA 62
+Alessi 59                              4236                     Loktin-Popova                    2017
 Alessi 6                                613     0.19    8.320   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Alessi 60                              2610     0.21    8.640   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Alessi 60                              2916     0.30    8.40    Bukowiecki L., et al.            2011, AcA 62
+Alessi 60                              4617                     Loktin-Popova                    2017
 Alessi 62                               546     0.17    8.950   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Alessi 8                                715     0.09    8.105   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Alessi 9                                218     0.10    8.550   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
@@ -515,11 +518,13 @@ Berkeley 14                            5124     0.41    9.30    Bukowiecki L., e
 Berkeley 14                            5460     0.35    9.300   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Berkeley 14                            5500     0.52    9.20    ANN H.B., ET AL.                 1999, JKAS 32, 7
 Berkeley 14                            5644     0.52    9.20    LATA S., PANDEY A. K. ET AL.     2002, A A 388, 158–167
+Berkeley 14                            5746                     Loktin-Popova                    2017
 Berkeley 14A                           1100     0.30    6.970   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Berkeley 15                            1260     0.46    9.70    SUJATHA S., ET AL.               2004, BAS INDIA 32, 295
 Berkeley 15                            1300     0.35    9.400   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Berkeley 15                            1981     0.58    8.85    Bukowiecki L., et al.            2011, AcA 62
 Berkeley 15                            3000     0.88    8.50    LATA S., ET AL.                  2004, BAS INDIA 32, 371
+Berkeley 15                            4098                     Loktin-Popova                    2017
 Berkeley 17                            1800     0.85    9.600   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Berkeley 17                            2500     0.58    9.95    CARRARO G., ET AL.               1999, A&A 343, 825
 Berkeley 17                            2700     0.70   10.08    PHELPS R.L.                      1997, APJ 483, 826
@@ -530,6 +535,7 @@ Berkeley 18                            4700             9.15    FROEBRICH ET AL.
 Berkeley 18                            5526     0.43    9.45    Bukowiecki L., et al.            2011, AcA 62
 Berkeley 18                            5800     0.45    9.630   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Berkeley 18                            5800     0.46    9.63    KALUZNY J.                       1997, A&AS 121, 455
+Berkeley 18                            4406                     Loktin-Popova                    2017
 Berkeley 19                            3000     0.61    9.25    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
 Berkeley 19                            4227     0.37    9.40    Bukowiecki L., et al.            2011, AcA 62
 Berkeley 19                            4800     0.40    9.500   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
@@ -543,6 +549,7 @@ Berkeley 20                            8399     0.12    9.780   Kharchenko N. V.
 Berkeley 20                            8400     0.12    9.78    MACMINN D., ET AL.               1994, AJ 107, 1806
 Berkeley 20                            8598     0.06    10.00   Bukowiecki L., et al.            2011, AcA 62
 Berkeley 20                            9026     0.10    9.70    DURGAPAL A.K., ET AL.            2001, A&A 372, 71
+Berkeley 20                            8802                     Loktin-Popova                    2017
 Berkeley 21                            5186     0.76    9.34    LATA S., PANDEY A. K. ET AL.     2002, A A 388, 158–167
 Berkeley 21                            5716     0.67    9.300   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Berkeley 21                            6000             9.20    FROEBRICH ET AL.                 2010, MNRAS 409, 1281
@@ -551,14 +558,17 @@ Berkeley 22                            5493     0.63    9.500   Kharchenko N. V.
 Berkeley 22                            6000     0.60    9.48    KALUZNY J.                       1994, A&AS 108, 151
 Berkeley 22                            6177     0.58    9.50    Bukowiecki L., et al.            2011, AcA 62
 Berkeley 22                            6386     0.64    9.68    LATA S., PANDEY A. K. ET AL.     2002, A A 388, 158–167
+Berkeley 22                            7315                     Loktin-Popova                    2017
 Berkeley 23                            4724     0.40    8.970   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Berkeley 23                            5950     0.30    9.26    HASEGAWA T., ET AL.              2004, PASJ 56, 295
 Berkeley 23                            6223     0.19    9.00    Bukowiecki L., et al.            2011, AcA 62
 Berkeley 23                            6920     0.40    8.90    ANN H.B., ET AL.                 2002, AJ 123, 905
+Berkeley 23                           11117                     Loktin-Popova                    2017
 Berkeley 24                            4984     0.41    9.25    Bukowiecki L., et al.            2011, AcA 62
 Berkeley 24                            5100             9.15    FROEBRICH ET AL.                 2010, MNRAS 409, 1281
 Berkeley 24                            5527     0.58    9.210   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Berkeley 24                            6607             9.204   Hasegawa G., et al.              2008, PASJ 60, 1267H
+Berkeley 24                            5070                     Loktin-Popova                    2017
 Berkeley 25                            7523     0.15    9.80    Bukowiecki L., et al.            2011, AcA 62
 Berkeley 25                            8790             9.398   Hasegawa G., et al.              2008, PASJ 60, 1267H
 Berkeley 25                           11300     0.17    9.60    CARRARO G., ET AL.               2005, A&A 442, 917
@@ -578,6 +588,7 @@ Berkeley 29                           10797     0.10    9.100   Kharchenko N. V.
 Berkeley 29                           13800     0.10    9.54    TOSI M., ET AL.                  2004, MNRAS 354, 225
 Berkeley 29                           14119     0.21    9.60    LATA S., PANDEY A. K. ET AL.     2002, A A 388, 158–167
 Berkeley 29                           14296     0.07    9.00    Bukowiecki L., et al.            2011, AcA 62
+Berkeley 29                           14871                     Loktin-Popova                    2017
 Berkeley 30                            3250     0.40    9.00    HASEGAWA T., ET AL.              2004, PASJ 56, 295
 Berkeley 30                            3600             8.80    FROEBRICH ET AL.                 2010, MNRAS 409, 1281
 Berkeley 30                            4800     0.50    8.50    ANN H.B., ET AL.                 1999, JKAS 32, 7
@@ -585,12 +596,14 @@ Berkeley 30                            4898     0.50    8.48    LATA S., PANDEY 
 Berkeley 30                            4983     0.52    8.495   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Berkeley 30                            5096     0.26    8.80    Bukowiecki L., et al.            2011, AcA 62
 Berkeley 30                            7000                     ISKUDARJAN                       1960, BIUR.SOOB,28,46
+Berkeley 30                            6209                     Loktin-Popova                    2017
 Berkeley 31                            4000                     ISKUDARJAN                       1960, BIUR.SOOB,28,44
 Berkeley 31                            5200     0.13    9.90    GUETTER H.H.                     1993, AJ 106, 220
 Berkeley 31                            5880     0.13    9.90    LATA S., PANDEY A. K. ET AL.     2002, A A 388, 158–167
 Berkeley 31                            6242     0.07    9.300   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Berkeley 31                            8543     0.04    9.30    Bukowiecki L., et al.            2011, AcA 62
 Berkeley 31                            8850     0.15    9.34    HASEGAWA T., ET AL.              2004, PASJ 56, 295
+Berkeley 31                            8272                     Loktin-Popova                    2017
 Berkeley 32                            3100     0.16    9.53    KALUZNY J., MAZUR B.             1991, ACTA ASTR. 41, 167
 Berkeley 32                            3235     0.10    9.80    D'ORAZI V., ET AL.               2006, MNRAS 368, 471
 Berkeley 32                            3290     0.07    9.55    Bukowiecki L., et al.            2011, AcA 62
@@ -604,6 +617,7 @@ Berkeley 33                            4635     0.70    8.85    MAZUR B., ET AL.
 Berkeley 33                            4785     0.31    9.040   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Berkeley 33                            4786     0.70    8.85    LATA S., PANDEY A. K. ET AL.     2002, A A 388, 158–167
 Berkeley 33                            6500     0.30    8.90    CARRARO G., ET AL.               2005, MNRAS 360, 655
+Berkeley 33                           10955                     Loktin-Popova                    2017
 Berkeley 34                            7279     0.45    9.450   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Berkeley 34                            7600     0.45    9.45    HASEGAWA T., ET AL.              2004, PASJ 56, 295
 Berkeley 34                            7691     0.47    9.35    Bukowiecki L., et al.            2011, AcA 62
@@ -620,6 +634,7 @@ Berkeley 37                            4555     0.12    8.954   Tadross A. L.   
 Berkeley 37                            4815     0.27    8.800   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Berkeley 37                            4966     0.00    9.00    Bukowiecki L., et al.            2011, AcA 62
 Berkeley 37                            5623             9.204   Hasegawa G., et al.              2008, PASJ 60, 1267H
+Berkeley 37                            4171                     Loktin-Popova                    2017
 Berkeley 39                            3800     0.10    9.78    KASSIS M., ET AL.                1997, AJ 113, 1723
 Berkeley 39                            4800             9.50    FROEBRICH ET AL.                 2010, MNRAS 409, 1281
 Berkeley 39                            4804     0.12    9.90    LATA S., PANDEY A. K. ET AL.     2002, A A 388, 158–167
@@ -654,6 +669,7 @@ Berkeley 51                            3700                     BUCKNER & FROEBR
 Berkeley 52                            4947     1.44    9.000   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Berkeley 52                            6000             9.00    FROEBRICH ET AL.                 2010, MNRAS 409, 1281
 Berkeley 52                            6093     1.05    9.30    Bukowiecki L., et al.            2011, AcA 62
+Berkeley 52                            4473                     Loktin-Popova                    2017
 Berkeley 53                            3301     1.52    9.090   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Berkeley 53                            3500             9.10    FROEBRICH ET AL.                 2010, MNRAS 409, 1281
 Berkeley 53                            3530     1.31    9.15    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
@@ -679,6 +695,7 @@ Berkeley 59                            1000     1.24    6.100   Kharchenko N. V.
 Berkeley 6                             2300     0.78    8.000   Tadross A. L.                    2008, MNRAS 389, 285
 Berkeley 6                             2500     0.78    8.600   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Berkeley 6                             2667     0.65    7.90    Bukowiecki L., et al.            2011, AcA 62
+Berkeley 6                             4523                     Loktin-Popova                    2017
 Berkeley 60                            3299     0.96    8.400   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Berkeley 60                            4400     0.86    8.21    ANN H.B., ET AL.                 2002, AJ 123, 905
 Berkeley 60                            4512     0.90    8.25    Bukowiecki L., et al.            2011, AcA 62
@@ -725,6 +742,7 @@ Berkeley 69                            2860     0.65    8.95    PANDEY A.K., ET 
 Berkeley 69                            3289     0.65    8.95    LATA S., PANDEY A. K. ET AL.     2002, A A 388, 158–167
 Berkeley 69                            4000             8.80    BUCKNER ET AL.                   2014, MNRAS 444, 290
 Berkeley 69                            4300                     BUCKNER & FROEBRICH              2013, MNRAS 436, 1465
+Berkeley 69                            4340                     Loktin-Popova                    2017
 Berkeley 7                             2200             7.70    BUCKNER ET AL.                   2014, MNRAS 444, 290
 Berkeley 7                             2570     0.80    6.60    PHELPS R.L., JANES K.A.          1994, APJS 90, 31
 Berkeley 7                             2600     0.80    7.250   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
@@ -741,6 +759,7 @@ Berkeley 71                            2471     0.86    8.95    Bukowiecki L., e
 Berkeley 71                            3260     0.87    9.020   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Berkeley 71                            3296             9.114   Hasegawa G., et al.              2008, PASJ 60, 1267H
 Berkeley 71                            3900     0.85    8.50    LATA S., ET AL.                  2004, BAS INDIA 32, 371
+Berkeley 71                            5425                     Loktin-Popova                    2017
 Berkeley 72                            3500     0.43    8.65    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
 Berkeley 72                            3678     0.41    8.65    Bukowiecki L., et al.            2011, AcA 62
 Berkeley 72                            3753     0.90    8.840   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
@@ -758,9 +777,11 @@ Berkeley 76                            2360     0.73    8.870   Kharchenko N. V.
 Berkeley 76                            2505     0.73    8.903   Tadross A. L.                    2008, MNRAS 389, 285
 Berkeley 76                            6246     0.41    9.20    Bukowiecki L., et al.            2011, AcA 62
 Berkeley 76                            7551             9.204   Hasegawa G., et al.              2008, PASJ 60, 1267H
+Berkeley 76                            4664                     Loktin-Popova                    2017
 Berkeley 77                            3600             9.40    FROEBRICH ET AL.                 2010, MNRAS 409, 1281
 Berkeley 77                            3985     0.24    8.75    Bukowiecki L., et al.            2011, AcA 62
 Berkeley 77                            4699     0.13    8.835   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+Berkeley 77                            7093                     Loktin-Popova                    2017
 Berkeley 78                            4609     0.04    9.50    Bukowiecki L., et al.            2011, AcA 62
 Berkeley 78                            4670     0.01    9.450   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Berkeley 78                            4920             9.602   Hasegawa G., et al.              2008, PASJ 60, 1267H
@@ -779,6 +800,7 @@ Berkeley 81                            3000     1.00    9.00    SAGAR R., GRIFFI
 Berkeley 81                            3148     1.00    9.00    LATA S., PANDEY A. K. ET AL.     2002, A A 388, 158–167
 Berkeley 81                            3401     1.06    9.000   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Berkeley 81                            3601     0.90    8.95    Bukowiecki L., et al.            2011, AcA 62
+Berkeley 81                            4729                     Loktin-Popova                    2017
 Berkeley 82                             871     1.035   7.70    DAMBIS, A. K.                    1999, ASTRON LETTERS 25, 1, 7-13
 Berkeley 82                             917     1.043   7.674   FORBES D.                        1986, PUBL.ASTRON.SOC.PACIF. 98, 218
 Berkeley 82                             980     1.01    7.84    FORBES D.                        1986, PASP 98, 218
@@ -1640,6 +1662,7 @@ Czernik 20                             4019     0.450   7.101   BABU G.S.D.     
 Czernik 21                             2300     0.72    9.55    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
 Czernik 21                             2468     0.71    9.50    Bukowiecki L., et al.            2011, AcA 62
 Czernik 21                             4301     0.85    9.350   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+Czernik 21                             4134                     Loktin-Popova                    2017
 Czernik 22                             2900             8.80    BUCKNER ET AL.                   2014, MNRAS 444, 290
 Czernik 22                             3000                     BUCKNER & FROEBRICH              2013, MNRAS 436, 1465
 Czernik 22                             5900                     SVOLOPOULOS                      1965, ZF.A,61,101
@@ -1657,6 +1680,7 @@ Czernik 25                             1791     0.36    8.85    Bukowiecki L., e
 Czernik 25                             1861     0.63    8.520   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Czernik 25                             1980     0.58    8.114   TADROSS, A. L.                   2009, ASTROPHYS 4 SPACE SCI. 323, 383
 Czernik 25                             4790     0.69    8.45    SUJATHA S. ET AL.                2006, BASI 34, 357
+Czernik 25                             6163                     Loktin-Popova                    2017
 Czernik 26                             1200     0.45    8.230   TADROSS, A. L.                   2009, ASTROPHYS 4 SPACE SCI. 323, 383
 Czernik 26                             5981     0.30    9.15    Bukowiecki L., et al.            2011, AcA 62
 Czernik 26                             7655     0.25    9.000   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
@@ -1664,6 +1688,7 @@ Czernik 26                             8872             9.000   Hasegawa G., et 
 Czernik 27                             3837     0.00    9.05    Bukowiecki L., et al.            2011, AcA 62
 Czernik 27                             4285             9.041   Hasegawa G., et al.              2008, PASJ 60, 1267H
 Czernik 27                             4338     0.04    8.995   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+Czernik 27                             6084                     Loktin-Popova                    2017
 Czernik 28                             5500             9.20    FROEBRICH ET AL.                 2010, MNRAS 409, 1281
 Czernik 29                             2879     0.48    8.500   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Czernik 29                             3795     0.36    8.40    Bukowiecki L., et al.            2011, AcA 62
@@ -1681,6 +1706,7 @@ Czernik 32                             3858     0.83    9.000   Kharchenko N. V.
 Czernik 32                             4000     0.66    9.05    BICA E., BONATTO C.              2005, A&A 443, 465
 Czernik 32                             4085     0.73    8.95    Bukowiecki L., et al.            2011, AcA 62
 Czernik 32                             4100     0.85    9.00    CARRARO G., ET AL.               2005, MNRAS 362, 649
+Czernik 32                             4565                     Loktin-Popova                    2017
 Czernik 37                             1668     1.21    8.770   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Czernik 37                             1730     1.03    8.778   TADROSS, A. L.                   2008, NEW ASTRONOMY 13, 370
 Czernik 38                             1763     1.46    7.300   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
@@ -1688,6 +1714,7 @@ Czernik 38                             1910     2.03    7.000   TADROSS, A. L.  
 Czernik 39                             1143     2.52    7.800   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Czernik 39                             1340     2.90    7.000   TADROSS, A. L.                   2009, ASTROPHYS 4 SPACE SCI. 323, 383
 Czernik 39                             2103     0.86    8.50    Bukowiecki L., et al.            2011, AcA 62
+Czernik 39                             4023                     Loktin-Popova                    2017
 Czernik 4                              1630     1.06    8.000   TADROSS, A. L.                   2009, ASTROPHYS 4 SPACE SCI. 323, 383
 Czernik 4                              1632     1.00    7.715   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Czernik 4                              2051     0.93    7.50    Bukowiecki L., et al.            2011, AcA 62
@@ -1847,6 +1874,7 @@ Dias 4                                 2155     0.58    9.260   Kharchenko N. V.
 Dias 5                                 1289     1.08    8.100   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Dias 6                                 1580     0.91    8.778   TADROSS, A. L.                   2008, NEW ASTRONOMY 13, 370
 Dias 6                                 1916     0.90    8.600   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+Dias 6                                 4701                     Loktin-Popova                    2017
 Dias 7                                 2540     0.42    9.301   TADROSS, A. L.                   2009, NEW ASTRONOMY 14, 200
 Dias 7                                 2759     0.49    9.45    Bukowiecki L., et al.            2011, AcA 62
 Dias 7                                 2796     0.52    9.320   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
@@ -1880,6 +1908,8 @@ Dolidze 11                             1127     0.83    8.602   TADROSS, A. L., 
 Dolidze 11                             1813     0.65    7.350   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Dolidze 12                             4000     0.50    9.135   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Dolidze 13                             2400     0.35    8.962   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+Dolidze 13                             4645                     Loktin-Popova                    2017
+Dolidze 15                             5786                     Loktin-Popova                    2017
 Dolidze 16                              868     0.33    7.600   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Dolidze 17                             1031     0.42    9.180   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Dolidze 19                             1320     0.55    8.204   TADROSS, A. L., NASSER, M. A.    2010, NRIAG JOURNAL SER.”A67” (ARXIV:1011.2934)
@@ -1898,10 +1928,12 @@ Dolidze 25                             2992     0.722   6.40    DAMBIS, A. K.   
 Dolidze 25                             5237     0.810   7.110   MOFFAT A.F.J.,VOGT N.            1975, ASTRON.ASTROPHYS.SUPPL. 20, 85
 Dolidze 25                             5443     0.81    7.11    LATA S., PANDEY A. K. ET AL.     2002, A A 388, 158–167
 Dolidze 25                             6368     0.84    6.95    Bukowiecki L., et al.            2011, AcA 62
+Dolidze 25                             5560                     Loktin-Popova                    2017
 Dolidze 26                             1907     0.44    8.000   TADROSS, A. L., NASSER, M. A.    2010, NRIAG JOURNAL SER.”A67” (ARXIV:1011.2934)
 Dolidze 26                             2070     0.38    8.475   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Dolidze 27                             2107     0.87    8.970   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Dolidze 28                             1258     0.94    8.250   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+Dolidze 28                             4791                     Loktin-Popova                    2017
 Dolidze 29                             1460     3.04    7.500   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Dolidze 3                              1032     0.56    8.290   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Dolidze 30                             1569     1.00    8.950   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
@@ -2102,6 +2134,7 @@ ESO 559-13                             1905     0.31    8.905   Kharchenko N. V.
 ESO 559-13                             2757     0.24    9.00    Bukowiecki L., et al.            2011, AcA 62
 ESO 561-5                              1865     0.15    9.000   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 ESO 561-5                              3691     0.36    8.35    Bukowiecki L., et al.            2011, AcA 62
+ESO 561-5                              4236                     Loktin-Popova                    2017
 ESO 570-12                             1268     0.26    9.700   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 ESO 587-4                              5271     0.44    9.175   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 ESO 589-26                             2434     1.15    6.500   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
@@ -2122,6 +2155,8 @@ ESO 93-8                              13086     0.49    9.85    Bukowiecki L., e
 ESO 93-8                              13797     0.63    9.800   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 ESO 97-15                              3274     0.85    8.250   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 ESO 99-6                               1274     0.23    8.900   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+ESO0 92-18                             9289                     Loktin-Popova                    2017
+ESO0 96-44                             9354                     Loktin-Popova                    2017
 Eridanus                              84700                     Baumgart                         2021, website
 FSR 10                                 4844     0.54    9.150   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 FSR 100                                2687     2.19    8.000   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
@@ -3445,6 +3480,7 @@ FSR 850                                1836     0.56    7.300   Kharchenko N. V.
 FSR 851                                1092     0.96    9.150   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 FSR 852                                2149     0.48    9.000   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 FSR 852                                2310     0.43    8.90    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
+FSR 852                                4323                     Loktin-Popova                    2017
 FSR 854                                1700                     BUCKNER & FROEBRICH              2013, MNRAS 436, 1465
 FSR 854                                1700             9.30    BUCKNER ET AL.                   2014, MNRAS 444, 290
 FSR 857                                2056     1.04    8.000   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
@@ -3582,6 +3618,7 @@ Feinstein 1                            1200                     FEINSTEIN       
 Feinstein 1                            1200     0.4             HAGEN                            1970, DOP,4,22
 Feinstein 1                            1414     0.46    7.200   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Ferrero 0833-44                        7100     1.75   10.04    Garro                            2021, priv comm
+Ferrero 10                             4848                     Loktin-Popova                    2017
 Frolov 1                               2000     0.52    7.588   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 G 76.2-0.3                             1547     1.31    7.475   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 G 80.35+0.72                           1089     0.82    7.500   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
@@ -3616,6 +3653,7 @@ Haffner 11                             4800             9.10    FROEBRICH ET AL.
 Haffner 11                             5157     0.42    8.945   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Haffner 11                             5200     0.36    8.95    BICA E., BONATTO C.              2005, A&A 443, 465
 Haffner 11                             5634     0.39    9.45    Bukowiecki L., et al.            2011, AcA 62
+Haffner 11                             4537                     Loktin-Popova                    2017
 Haffner 13                              714     0.05    7.520   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Haffner 14                             2134     0.48    8.785   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Haffner 14                             3506     0.58    8.35    Bukowiecki L., et al.            2011, AcA 62
@@ -3642,11 +3680,13 @@ Haffner 18                             4571     0.413   7.20    DAMBIS, A. K.   
 Haffner 18                             6009     0.640   6.739   FITZGERALD M.P.,MOFFAT A.F.J.    1974, ASTRON.J. 79, 873
 Haffner 18                             6234     0.67    7.10    Bukowiecki L., et al.            2011, AcA 62
 Haffner 18                             6300     0.62    6.30    MUNARI U., ET AL.                1998, MNRAS 297, 867
+Haffner 18                             5510                     Loktin-Popova                    2017
 Haffner 19                             4093     0.460   7.50    DAMBIS, A. K.                    1999, ASTRON LETTERS 25, 1, 7-13
 Haffner 19                             4426     0.37    6.85    Bukowiecki L., et al.            2011, AcA 62
 Haffner 19                             4611     0.56    6.650   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Haffner 19                             5100     0.44v   6.78    MUNARI U., CARRARO G.            1996, MNRAS 283, 905
 Haffner 19                             6149     0.430   7.002   FITZGERALD M.P.,MOFFAT A.F.J.    1974, ASTRON.J. 79, 873
+Haffner 19                             4600                     Loktin-Popova                    2017
 Haffner 20                             2910     0.56    8.055   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Haffner 20                             3309     0.540   8.099   FITZGERALD M.P.,MOFFAT A.F.J.    1974, ASTRON.J. 79, 873
 Haffner 20                             3869     0.60    8.25    Bukowiecki L., et al.            2011, AcA 62
@@ -3673,6 +3713,7 @@ Haffner 6                              3322     0.43    9.00    LATA S., PANDEY 
 Haffner 6                              3781     0.50    8.80    Bukowiecki L., et al.            2011, AcA 62
 Haffner 7                              1893     0.35    9.000   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Haffner 7                              3538     0.58    8.15    Bukowiecki L., et al.            2011, AcA 62
+Haffner 7                              5292                     Loktin-Popova                    2017
 Haffner 8                              1182     0.031   9.155   FENKART R.P.ET AL.               1972, ASTRON.ASTROPHYS.SUPPL. 7, 487
 Haffner 8                              1197     0.03    9.035   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Haffner 8                              1670             8.75    FENKART                          1972, AS.AP.SUP,7,487
@@ -4447,6 +4488,7 @@ King 8                                 4300                     SVOLOPOULOS     
 King 8                                 4400                     BECKER                           1971, AS.AP.SUP,4,241
 King 8                                 4500     0.63    9.005   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 King 8                                 4822     0.73    8.70    Bukowiecki L., et al.            2011, AcA 62
+King 8                                 6804                     Loktin-Popova                    2017
 King 9                                 7434     0.45    9.25    Bukowiecki L., et al.            2011, AcA 62
 King 9                                 8001     0.37    9.500   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Kirkpatrick 1                          2578     2.31    9.300   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
@@ -4457,11 +4499,13 @@ Koposov 27                             2500     0.75    8.755   Kharchenko N. V.
 Koposov 36                             1600     0.83    8.445   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Koposov 36                             1700     0.83    8.35    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
 Koposov 43                             3000     0.65    9.115   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+Koposov 43                             4256                     Loktin-Popova                    2017
 Koposov 53                             2982     0.33    8.055   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Koposov 53                             3200     0.34    8.50    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
 Koposov 62                             2800     0.34    9.40    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
 Koposov 62                             3435     0.38    9.415   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Koposov 63                             3220     0.50    9.220   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+Koposov 63                             4560                     Loktin-Popova                    2017
 Koposov 77                             1750     0.57    9.65    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
 Koposov 77                             1750     0.57    9.445   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Kronberger 1                            800     0.43    8.10    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
@@ -4666,6 +4710,8 @@ Loden 991                              2628     1.25    7.250   Kharchenko N. V.
 Loden 995                              1481     0.46    8.625   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Loiano 1                               1447     0.61    8.900   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Loiano 1                               1928     0.54    8.25    Bukowiecki L., et al.            2011, AcA 62
+Loktin-Popova 20                       4129                     Loktin-Popova                    2017
+Loktin-Popova 22                       4420                     Loktin-Popova                    2017
 Lower Cen Crux                          122.4                   ANDERSON E., FRANCIS C.          2012, ASTRON. LETTERS 38, 331A (XHIP)
 Lynga 1                                1312     0.50    8.390   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Lynga 1                                1841     0.490   7.875   PETERSON C.J.,FITZGERALD M.P.    1988, MON.NOT.ROY.ASTRON.SOC. 235, 1439
@@ -5079,6 +5125,7 @@ Melotte 66                             4450     0.16    9.65    TWAROG B.A., ET 
 Melotte 66                             4487     0.13    9.365   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Melotte 66                             4948     0.06    9.50    Bukowiecki L., et al.            2011, AcA 62
 Melotte 66                             5000             9.45    FROEBRICH ET AL.                 2010, MNRAS 409, 1281
+Melotte 66                             4300                     Loktin-Popova                    2017
 Melotte 71                             1600             9.20    BUCKNER ET AL.                   2014, MNRAS 444, 290
 Melotte 71                             1660                     BARHATOVA                        1950, A.ZH,27,182
 Melotte 71                             1820                     SHAPLEY                          1930, ST.CL,229
@@ -6615,6 +6662,7 @@ NGC 1778                               1670             8.18    BARBON          
 NGC 1778                               2270                     COLLINDER                        1931, LD.AN,2,LK
 NGC 1778                               2270                     COLLINDER                        1931, LD.AN,2,CR
 NGC 1785                               3080     0.06    8.699   TADROSS, A. L.                   2011, JKAS 44 (1), 1
+NGC 1798                               4153                     Loktin-Popova                    2017
 NGC 1798, Berkeley 16                  3834     0.41    9.05    Bukowiecki L., et al.            2011, AcA 62
 NGC 1798, Berkeley 16                  4200     0.51    9.15    PARK H.-S., LEE M.G.             1999, MNRAS 304, 883
 NGC 1798, Berkeley 16                  4303     0.51    9.15    LATA S., PANDEY A. K. ET AL.     2002, A A 388, 158–167
@@ -6725,6 +6773,7 @@ NGC 1883                               4800     0.23    9.00    CARRARO G., ET A
 NGC 1883                               5752     0.63    8.545   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 NGC 1883                               8350                     COLLINDER                        1931, LD.AN,2,LK
 NGC 1883                               8350                     COLLINDER                        1931, LD.AN,2,CR
+NGC 1883                               6457                     Loktin-Popova                    2017
 NGC 189                                 790                     BALAZS                           1961, HBG.ABH,5,N10
 NGC 189                                 872     0.71    6.95    Bukowiecki L., et al.            2011, AcA 62
 NGC 189                                1080                     BECKER                           1963, ZF.A,57,117
@@ -6938,6 +6987,7 @@ NGC 2158                               6250                     COLLINDER       
 NGC 2158                               6250                     COLLINDER                        1931, LD.AN,2,CR
 NGC 2158                               8700     0.43            HAGEN                            1970, DOP,4,14
 NGC 2158                              16000                     ROSINO                           1954, RIC.SCI,24,1680
+NGC 2158                               5117                     Loktin-Popova                    2017
 NGC 2165                               1445     0.23    9.176   TADROSS, A. L.                   2011, JKAS 44 (1), 1
 NGC 2169                                        0.19            STARIKOVA                        1968, A.ZH,45,795
 NGC 2169                                                7.57    BARBARO                          1969, AP.SP.SC,3,123
@@ -7049,10 +7099,12 @@ NGC 2219                               2325     0.52    8.750   Kharchenko N. V.
 NGC 2220                               1170     0.06    9.477   TADROSS, A. L.                   2011, JKAS 44 (1), 1
 NGC 2220                               1393     0.56    8.560   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 NGC 2224                               2415     1.00    7.000   TADROSS, A. L.                   2011, JKAS 44 (1), 1
+NGC 2224                               4806                     Loktin-Popova                    2017
 NGC 2225                               3100             9.10    FROEBRICH ET AL.                 2010, MNRAS 409, 1281
 NGC 2225                               3200     0.35    9.10    CARRARO G., ET AL.               2005, MNRAS 362, 649
 NGC 2225                               3201     0.35    9.165   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 NGC 2225                               3324     0.32    9.05    Bukowiecki L., et al.            2011, AcA 62
+NGC 2225                               4459                     Loktin-Popova                    2017
 NGC 2232                                316     0.028   7.590   CLARIA J.J.                      1972, ASTRON.ASTROPHYS. 19, 303
 NGC 2232                                320     0.02            PASTORIZA M.G., ROPKE U.O.       1983, AJ 88, 1769
 NGC 2232                                320.2                   ANDERSON E., FRANCIS C.          2012, ASTRON. LETTERS 38, 331A (XHIP)
@@ -7090,6 +7142,7 @@ NGC 2243                               4500             9.60    FROEBRICH ET AL.
 NGC 2243                               4550                     COLLINDER                        1931, LD.AN,2,LK
 NGC 2243                               4550                     COLLINDER                        1931, LD.AN,2,CR
 NGC 2243                               9120                     SHAPLEY                          1930, ST.CL,229,176
+NGC 2243                               4884                     Loktin-Popova                    2017
 NGC 2244, Mon OB2 A                             0.46            STARIKOVA                        1968, A.ZH,45,795
 NGC 2244, Mon OB2 A                                     6.48    TOVMASJAN                        1963, BIUR.SOOB,33,87
 NGC 2244, Mon OB2 A                     110                     CHARLIER                         1918, LD.M,S2,N19,20
@@ -7184,6 +7237,7 @@ NGC 2251                               1790                     COLLINDER       
 NGC 2252                                900     0.10    8.860   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 NGC 2252                               1590                     COLLINDER                        1931, LD.AN,2,LK
 NGC 2252                               1590                     COLLINDER                        1931, LD.AN,2,CR
+NGC 2252                               4250                     Loktin-Popova                    2017
 NGC 2254                               1810                     BARHATOVA                        1950, A.ZH,27,182
 NGC 2254                               2049     0.32    8.75    Bukowiecki L., et al.            2011, AcA 62
 NGC 2254                               2170                     BECKER                           1971, AS.AP.SUP,4,241
@@ -7209,6 +7263,7 @@ NGC 2262                               3100             9.00    BUCKNER ET AL.  
 NGC 2262                               3200                     BUCKNER & FROEBRICH              2013, MNRAS 436, 1465
 NGC 2262                               3600     0.55    9.00    CARRARO G., ET AL.               2005, MNRAS 362, 649
 NGC 2262                               4750                     COLLINDER                        1931, LD.AN,2,LK
+NGC 2262                               5470                     Loktin-Popova                    2017
 NGC 2264                                        0.06            STARIKOVA                        1968, A.ZH,45,795
 NGC 2264                                                6.48    WALKER                           1956, AP.J,124,668
 NGC 2264                                150                     CHARLIER                         1918, LD.M,S2,N19,18
@@ -7366,6 +7421,7 @@ NGC 2304                               3896     0.15    8.835   Kharchenko N. V.
 NGC 2304                               3980     0.10    8.90    ANN H.B., ET AL.                 2002, AJ 123, 905
 NGC 2304                               5250                     COLLINDER                        1931, LD.AN,2,LK
 NGC 2304                               5250                     COLLINDER                        1931, LD.AN,2,CR
+NGC 2304                               4254                     Loktin-Popova                    2017
 NGC 2306                               1249     0.05    9.000   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 NGC 2309                               1500                     CHARLIER                         1918, LD.M,S2,N19,20
 NGC 2309                               1900                     BARHATOVA                        1950, A.ZH,27,182
@@ -7463,8 +7519,11 @@ NGC 2348                               1076     0.13    9.475   Kharchenko N. V.
 NGC 2349                               1628     0.61    8.875   TADROSS, A. L.                   2011, JKAS 44 (1), 1
 NGC 2349                               1819     0.31    9.140   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 NGC 2349                               2510     0.41    8.70    Bukowiecki L., et al.            2011, AcA 62
+NGC 2349                               4029                     Loktin-Popova                    2017
 NGC 2351                               5841     0.52    9.000   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+NGC 2351                               4121                     Loktin-Popova                    2017
 NGC 2352                               3000     0.67    8.775   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+NGC 2352                               8325                     Loktin-Popova                    2017
 NGC 2353                                        0.12            STARIKOVA                        1968, A.ZH,45,795
 NGC 2353                                 20                     COLLINDER                        1931, LD.AN,2,CR
 NGC 2353                                 30                     BARHATOVA                        1950, A.ZH,27,182
@@ -7836,6 +7895,7 @@ NGC 2455                               3220                     COLLINDER       
 NGC 2455                               3220                     COLLINDER                        1931, LD.AN,92,LK
 NGC 2455                               3284     0.24    8.25    Bukowiecki L., et al.            2011, AcA 62
 NGC 2455                               4370                     SHAPLEY                          1930, ST.CL,229
+NGC 2455                               4327                     Loktin-Popova                    2017
 NGC 2459                               1300     0.03    9.204   TADROSS, A. L.                   2011, JKAS 44 (1), 1
 NGC 2459                               2376     0.38    8.990   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 NGC 2467                                        0.38            STARIKOVA                        1968, A.ZH,45,795
@@ -8383,6 +8443,7 @@ NGC 3105                               8530     0.95    7.30    PAUNZEN E., ET A
 NGC 3105                               8710     1.03    7.40    Bukowiecki L., et al.            2011, AcA 62
 NGC 3105                               9500     1.06    7.40    SAGAR R., ET AL.                 2001, MNRAS 327, 23
 NGC 3105                              10301     1.35    7.400   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+NGC 3105                               4884                     Loktin-Popova                    2017
 NGC 3114                                                8.30    BARBARO                          1967, PAD.PUB,N138
 NGC 3114                                                8.00    BARBARO                          1969, AP.SP.SC,3,123
 NGC 3114                                                8.18    CANNON                           1970, MN,150,111
@@ -9321,6 +9382,7 @@ NGC 609                                3477     0.64    9.10    Bukowiecki L., e
 NGC 609                                4200             8.40    FROEBRICH ET AL.                 2010, MNRAS 409, 1281
 NGC 609                                4499     0.75    9.150   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 NGC 609                                9990                     COLLINDER                        1931, LD.AN,2,LK
+NGC 609                                4520                     Loktin-Popova                    2017
 NGC 6093                              10340                     Baumgart                         2021, website
 NGC 6101                              14450                     Baumgart                         2021, website
 NGC 6101                              14700            10.20    FROEBRICH ET AL.                 2010, MNRAS 409, 1281
@@ -10328,6 +10390,7 @@ NGC 6760                               8410                     Baumgart        
 NGC 6774, Ruprecht 147                  270     0.11    9.330   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 NGC 6775                               2004     0.44    8.850   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 NGC 6779                              10430                     Baumgart                         2021, website
+NGC 6791                               5474                     Loktin-Popova                    2017
 NGC 6791, Berkeley 46                                   9.85    CANNON                           1970, MN,150,111
 NGC 6791, Berkeley 46                                   9.65    BARBARO                          1967, PAD.PUB,N138
 NGC 6791, Berkeley 46                                   9.60    TORRES-PEIMBERT                  1971, TON.B,6,3
@@ -10533,6 +10596,7 @@ NGC 6847                               1894     0.58    8.699   TADROSS, A. L.  
 NGC 6856                               1202     0.31    9.010   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 NGC 6856                               1614     0.75    8.05    Bukowiecki L., et al.            2011, AcA 62
 NGC 6856                               1704     0.16    9.255   TADROSS, A. L.                   2011, JKAS 44 (1), 1
+NGC 6856                               4225                     Loktin-Popova                    2017
 NGC 6858                               1310     0.13    9.398   TADROSS, A. L.                   2011, JKAS 44 (1), 1
 NGC 6858                               2108     0.25    9.370   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 NGC 6859                               1335     0.19    9.477   TADROSS, A. L.                   2011, JKAS 44 (1), 1
@@ -10758,6 +10822,7 @@ NGC 6940                               2880                     SHAPLEY         
 NGC 6950                               1070     0.06    9.255   TADROSS, A. L.                   2011, JKAS 44 (1), 1
 NGC 6950                               1690     0.56    8.50    Bukowiecki L., et al.            2011, AcA 62
 NGC 6950                               3280     0.38    9.205   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+NGC 6950                               4007                     Loktin-Popova                    2017
 NGC 6981                              16660                     Baumgart                         2021, website
 NGC 6989                               1905     0.63    8.750   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 NGC 6991                               1400                     MELNIK A.M., DAMBIS A.K.         2009, MNRAS 400, 518
@@ -10909,6 +10974,7 @@ NGC 7067                               4680                     TRUMPLER        
 NGC 7067                              16700                     COLLINDER                        1931, LD.AN,2,LK
 NGC 7071                               1684     1.14    8.477   TADROSS, A. L.                   2011, JKAS 44 (1), 1
 NGC 7071                               3388     0.56    8.20    Bukowiecki L., et al.            2011, AcA 62
+NGC 7071                               4130                     Loktin-Popova                    2017
 NGC 7078                              10710                     Baumgart                         2021, website
 NGC 7082                               1300     0.24    8.002   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 NGC 7082                               1332     0.230   8.452   HASSAN S.M.                      1973, ASTRON.ASTROPHYS.SUPPL. 9, 261
@@ -11759,6 +11825,7 @@ Pfleiderer 3                           5629     1.36    9.15    Bukowiecki L., e
 Pfleiderer 3                           6100             9.10    FROEBRICH ET AL.                 2010, MNRAS 409, 1281
 Pfleiderer 4                           7278     0.84    9.20    Bukowiecki L., et al.            2011, AcA 62
 Pfleiderer 4                           7722     0.81    9.650   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+Pismis 1                               5907                     Loktin-Popova                    2017
 Pismis 10                              8835     1.46    8.400   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Pismis 11, BH 60                       1325     0.67    8.602   TADROSS, A. L.                   2008, NEW ASTRONOMY 13, 370
 Pismis 11, BH 60                       2800     1.25    7.34    STEEMERS W.J.G., ET AL.          1986, A&A 154, 308
@@ -12104,6 +12171,7 @@ Ruprecht 148, Basel 9                  2938     0.56    7.85    Bukowiecki L., e
 Ruprecht 148, Basel 9                  5520                     WAGNER                           1971, AS.AP,14,283
 Ruprecht 148, Basel 9                  5520                     MOFFAT                           1973, AS.AP,23,317
 Ruprecht 149                           3969     0.02    9.300   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+Ruprecht 149                           4036                     Loktin-Popova                    2017
 Ruprecht 15                            1845     0.65    8.699   TADROSS, A. L.                   2012, RAA  12, 158
 Ruprecht 15                            2362     0.42    8.750   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Ruprecht 15                            3429     0.36    8.70    Bukowiecki L., et al.            2011, AcA 62
@@ -12166,7 +12234,9 @@ Ruprecht 26                            2200             8.70    FROEBRICH ET AL.
 Ruprecht 26                            2368     0.52    7.50    Bukowiecki L., et al.            2011, AcA 62
 Ruprecht 27                             576     0.15    8.410   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Ruprecht 28                            4712     0.42    8.760   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+Ruprecht 28                            6028                     Loktin-Popova                    2017
 Ruprecht 29                            2312     0.09    8.600   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+Ruprecht 29                            4916                     Loktin-Popova                    2017
 Ruprecht 3                              832     0.00    9.25    Bukowiecki L., et al.            2011, AcA 62
 Ruprecht 3                             1259     0.00    9.100   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Ruprecht 30                            2134     0.48    8.725   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
@@ -12187,6 +12257,7 @@ Ruprecht 37, Berkeley 40               5250     0.00    9.300   Kharchenko N. V.
 Ruprecht 38                            2928     0.52    8.730   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Ruprecht 39                            2204     0.42    8.400   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Ruprecht 4                             4130             9.146   Hasegawa G., et al.              2008, PASJ 60, 1267H
+Ruprecht 4                             5816                     Loktin-Popova                    2017
 Ruprecht 4, Berkeley 74                3974     0.22    9.05    Bukowiecki L., et al.            2011, AcA 62
 Ruprecht 4, Berkeley 74                4591     0.46    9.005   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Ruprecht 4, Berkeley 74                4900     0.36    8.90    CARRARO G., ET AL.               2005, MNRAS 360, 655
@@ -12200,6 +12271,7 @@ Ruprecht 44                            4666     0.60    6.800   Kharchenko N. V.
 Ruprecht 44                            4992     0.640   6.811   FITZGERALD M.P.,MOFFAT A.F.J.    1976, ASTRON.ASTROPHYS. 50, 149
 Ruprecht 44                            5566     0.670   6.707   TURNER D.G.                      1981, ASTRON.J. 86, 222
 Ruprecht 44                            6574     0.650   6.722   MOFFAT A.F.J.,FITZGERALD M.P.    1974, ASTRON.ASTROPHYS. 34, 291
+Ruprecht 44                            4639                     Loktin-Popova                    2017
 Ruprecht 45                            1888     0.06    9.300   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Ruprecht 46                             750     0.07            VOGT                             1972, AS.AP.SUP,7,133
 Ruprecht 46                            1467     0.52    8.150   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
@@ -12225,6 +12297,7 @@ Ruprecht 55                            3961     0.570   6.720   MOFFAT A.F.J.,VO
 Ruprecht 55                            4200     0.60    6.00    ORSATTI A.M.                     1995, AJ 110, 1728
 Ruprecht 55                            5700     0.575   6.794   DODD R.J.,ELLERY L.A.            1980, MON.NOT.ROY.ASTRON.SOC. 193, 895
 Ruprecht 55                            6792     0.553   6.90    DAMBIS, A. K.                    1999, ASTRON LETTERS 25, 1, 7-13
+Ruprecht 55                            4851                     Loktin-Popova                    2017
 Ruprecht 56                             429     0.12    8.745   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Ruprecht 57                            1764     0.21    8.975   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Ruprecht 58                            2230     0.06    8.85    Bukowiecki L., et al.            2011, AcA 62
@@ -12269,6 +12342,7 @@ Ruprecht 76                            1332     0.40    8.150   Kharchenko N. V.
 Ruprecht 76                            1431     0.41    7.65    Bukowiecki L., et al.            2011, AcA 62
 Ruprecht 77                            3151     0.71    7.55    Bukowiecki L., et al.            2011, AcA 62
 Ruprecht 77                            4089     0.69    7.950   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+Ruprecht 77                            4138                     Loktin-Popova                    2017
 Ruprecht 78                            1706     0.44    7.250   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Ruprecht 78                            1711     0.26    7.70    Bukowiecki L., et al.            2011, AcA 62
 Ruprecht 79                            1832     0.817   7.83    MALYSHEVA, I. K.                 1997, ASTRON LETTERS 23, 5, 585-590
@@ -12310,6 +12384,7 @@ Ruprecht 98                             335     0.148   8.361   MOFFAT A.F.J.,VO
 Ruprecht 98                             350     0.17            MOFFAT                           1973, AS.AP.SUP,10,135
 Ruprecht 98                             610     0.16    8.800   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Ruprecht 99                             719     0.05    8.375   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+S289                                   4377                     Loktin-Popova                    2017
 SAI 1                                  1905     0.31    9.270   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 SAI 1                                  2170     0.34    9.10    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
 SAI 101                                1650     1.56    9.00    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
@@ -12340,6 +12415,7 @@ SAI 137                                1060     0.89    8.70    GLUSHKOVA E.V., 
 SAI 137                                2396     1.87    8.900   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 SAI 14                                 5086     0.83    9.450   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 SAI 14                                 6460     0.55    9.10    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
+SAI 14                                 4769                     Loktin-Popova                    2017
 SAI 141                                4940     0.94    8.60    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
 SAI 141                                4940     0.94    8.600   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 SAI 143                                6520     1.72    9.25    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
@@ -12378,6 +12454,7 @@ SAI 48                                 1800     0.31    9.35    GLUSHKOVA E.V., 
 SAI 48                                 4001     0.80    8.950   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 SAI 49                                 2720     0.47    9.05    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
 SAI 49                                 3200     0.54    9.150   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+SAI 49                                 4089                     Loktin-Popova                    2017
 SAI 50                                21900     0.60    9.70    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
 SAI 51                                  810     0.62    9.30    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
 SAI 6                                  2700     0.89    8.50    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
@@ -12387,6 +12464,7 @@ SAI 69                                 7140     0.35    9.10    GLUSHKOVA E.V., 
 SAI 69                                 7468     0.42    9.100   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 SAI 72                                 3150     0.82    8.50    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
 SAI 72                                 3239     0.77    8.485   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+SAI 72                                 5408                     Loktin-Popova                    2017
 SAI 81                                 2770     0.40    9.20    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
 SAI 81                                 5165     0.73    8.130   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 SAI 82                                 1150     0.39    8.65    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
@@ -12580,6 +12658,7 @@ Sher 1                                 4406     1.50    7.15    Bukowiecki L., e
 Sher 1                                 5801     1.50    6.715   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Sher 1                                 5998     1.389   6.40    DAMBIS, A. K.                    1999, ASTRON LETTERS 25, 1, 7-13
 Sher 1                                 8938     1.348   6.589   MOFFAT A.F.J.SHARA M.M.,ROTTER M.1991, ASTRON.J. 102, 642
+Sher 1                                 5875                     Loktin-Popova                    2017
 Shorlin 1                              5594     0.81    6.500   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Shorlin 2                              4129     0.38    6.000   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Sigma Orionis Cl                        390     0.15    6.100   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
@@ -12696,6 +12775,7 @@ Teutsch 1                              3700     0.45    8.65    GLUSHKOVA E.V., 
 Teutsch 10                             2000     0.42    9.15    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
 Teutsch 10                             2293     0.90    7.80    Bukowiecki L., et al.            2011, AcA 62
 Teutsch 10                             2600     1.02    7.800   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+Teutsch 10                             4579                     Loktin-Popova                    2017
 Teutsch 103                            2663     0.94    8.975   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Teutsch 103                            2790     0.62    8.75    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
 Teutsch 105                            6300             9.00    FROEBRICH ET AL.                 2010, MNRAS 409, 1281
@@ -12706,12 +12786,14 @@ Teutsch 11                             3443     0.70    8.699   TADROSS, A. L., 
 Teutsch 11                             4600     0.58    8.95    Bukowiecki L., et al.            2011, AcA 62
 Teutsch 11                             5302     0.71    8.800   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Teutsch 12                             2099     0.47    9.20    Bukowiecki L., et al.            2011, AcA 62
+Teutsch 12                             6634                     Loktin-Popova                    2017
 Teutsch 124                            2103     1.82    9.395   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Teutsch 124                            7178     1.12    9.15    Bukowiecki L., et al.            2011, AcA 62
 Teutsch 125                            1445     0.78    9.100   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Teutsch 126                            1819     0.63    8.800   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Teutsch 126                            2034     0.43    7.70    Bukowiecki L., et al.            2011, AcA 62
 Teutsch 13                             2753     0.63    7.295   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+Teutsch 13                             5621                     Loktin-Popova                    2017
 Teutsch 132                            2001     0.54    8.80    Bukowiecki L., et al.            2011, AcA 62
 Teutsch 132                            4001     0.80    6.900   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Teutsch 143a                           4231     0.83    6.600   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
@@ -12725,6 +12807,7 @@ Teutsch 14a                            2106     1.50    8.485   Kharchenko N. V.
 Teutsch 156                            3930     0.94    8.95    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
 Teutsch 156                            4400             8.90    FROEBRICH ET AL.                 2010, MNRAS 409, 1281
 Teutsch 156                            5408     1.04    8.785   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+Teutsch 156                            4729                     Loktin-Popova                    2017
 Teutsch 162                            1600     0.95    7.000   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Teutsch 162                            2224     0.92    7.75    Bukowiecki L., et al.            2011, AcA 62
 Teutsch 2                              2913     0.34    9.05    Bukowiecki L., et al.            2011, AcA 62
@@ -12738,6 +12821,7 @@ Teutsch 23                             2800     0.77    7.100   Kharchenko N. V.
 Teutsch 25                             1980     0.57    9.00    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
 Teutsch 25                             2839     0.42    9.260   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Teutsch 27                             3600     0.99    8.750   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+Teutsch 27                             4211                     Loktin-Popova                    2017
 Teutsch 28                             3797     1.87    8.850   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Teutsch 30                             1379     0.94    7.500   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Teutsch 30                             2368     1.27    7.05    Bukowiecki L., et al.            2011, AcA 62
@@ -12764,6 +12848,7 @@ Teutsch 51                             4000             9.00    BUCKNER ET AL.  
 Teutsch 51                             4100                     BUCKNER & FROEBRICH              2013, MNRAS 436, 1465
 Teutsch 51                             4100             9.15    FROEBRICH ET AL.                 2010, MNRAS 409, 1281
 Teutsch 51                             4690     0.92    9.05    Bukowiecki L., et al.            2011, AcA 62
+Teutsch 51                             6356                     Loktin-Popova                    2017
 Teutsch 52                             4200     1.08    8.800   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Teutsch 53                             5502     1.60    8.850   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Teutsch 54                             1805     0.71    7.80    Bukowiecki L., et al.            2011, AcA 62
@@ -12800,6 +12885,7 @@ Tombaugh 1                             2200     0.30    9.10    PIATTI A.E., ET 
 Tombaugh 1                             2390     0.24    9.00    Bukowiecki L., et al.            2011, AcA 62
 Tombaugh 1                             2642     0.28    9.065   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Tombaugh 1                             3000     0.40    9.00    CARRARO G., PATAT F.             1995, MNRAS 276, 563
+Tombaugh 1                             4758                     Loktin-Popova                    2017
 Tombaugh 2                             6565     0.35    9.010   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Tombaugh 2                             8000             9.00    FROEBRICH ET AL.                 2010, MNRAS 409, 1281
 Tombaugh 2                            10385     0.15    9.10    Bukowiecki L., et al.            2011, AcA 62
@@ -13190,6 +13276,7 @@ Trumpler 5                             3000     0.58    9.80    KALUZNY J.      
 Trumpler 5                             3079     0.58    9.50    LATA S., PANDEY A. K. ET AL.     2002, A A 388, 158–167
 Trumpler 5                             3330                     COLLINDER                        1931, LD.AN,2,LK
 Trumpler 5                             3330                     COLLINDER                        1931, LD.AN,2,CR
+Trumpler 5                             4658                     Loktin-Popova                    2017
 Trumpler 6                             1720                     BARHATOVA                        1950, A.ZH,27,182
 Trumpler 6                             1870                     TRUMPLER                         1930, LOB,14,171,176
 Trumpler 6                             2097     0.60    8.65    Bukowiecki L., et al.            2011, AcA 62
@@ -13289,6 +13376,7 @@ Waterloo 6                             1722     0.290   7.742   FITZGERALD M.P. 
 Waterloo 6                             2256     0.10    9.085   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Waterloo 7                             1982     0.26    7.45    Bukowiecki L., et al.            2011, AcA 62
 Waterloo 7                             2932     0.35    8.530   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
+Waterloo 7                             4233                     Loktin-Popova                    2017
 Westerlund 1                           1400                     WESTERLUND                       1961, PASP,73,51
 Westerlund 1                           5500             6.60    CLARK J.S., ET AL.               2005, A&A 434, 949
 Westerlund 1                           6000                     GRAHAM                           1970, AJ,75,716

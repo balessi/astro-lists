@@ -3419,6 +3419,7 @@ M 12                Oph  16 47 14.2 -01 56 56  Op  GC     36.0   4902  0.189 10.
 NGC 6235            Oph  16 53 25.2 -22 10 37  Op  GC     18.0  11765  0.311 10.071   -3.93   -7.59  Vasiliev2021        FSR 1787
 M 10                Oph  16 57 09.1 -04 06 00  Op  GC     31.8   5181  0.281 10.086   -4.76   -6.60  Vasiliev2021        NGC 6254, LP 2203, LP 648
 Palomar 15          Oph  16 59 50.9 +00 31 58  Op  GC      8.4  44100  0.378 10.090   -0.58   -0.86  2019MNRAS.484.2832V 
+Theia 3329          Oph  17 01 12.0 -25 54 00  Op  OC     75.0    946  0.342  8.310   -0.56    0.35  Alessi GEDR3 
 M 62                Oph  17 01 12.7 -30 06 50  Op  GC     25.2   5556  0.469 10.078   -4.98   -2.95  Vasiliev2021        NGC 6266, LP 625, LP 626
 M 19                Oph  17 02 37.7 -26 16 05  Op  GC     25.2   7246  0.383 10.102   -3.25    1.66  Vasiliev2021        NGC 6273, LP 636
 ASCC 87             Oph  17 02 37.9 -28 25 16  Op  OC     41.6    787  0.260  8.145   -1.18   -3.81  Cantat-Gaudin 2020b Theia 330, UPK 650
@@ -3426,7 +3427,6 @@ NGC 6284            Oph  17 04 28.6 -24 45 54  Op  GC     25.2  10638  0.281 10.
 NGC 6287            Oph  17 05 09.1 -22 42 29  Op  GC     20.4   6849  0.602 10.090   -5.01   -1.88  Vasiliev2021        FSR 4
 Theia 70            Oph  17 08 58.4 -17 19 03  Op  OC    208.3    213   0.14   7.30   -5.43  -11.55  Alessi GEDR3        
 NGC 6293            Oph  17 10 10.3 -26 34 55  Op  GC     18.6   8197  0.347 10.102    0.87   -4.33  Vasiliev2021        FSR 1783
-Theia 3329          Oph  17 01 12.0 -25 54 00  Op  OC     75.0    946  0.342  8.310   -0.56    0.35  Alessi GEDR3 
 MWSC 4317           Oph  17 10 28.2 +01 15 00  Op  OC?    15.0   2750   0.33   9.43   -0.63   -2.41  Alessi GEDR3        
 Majaess 178         Oph  17 11 26.7 -27 25 34  Op  EC     23.0    159                 -0.28  -19.24  Alessi GDR2         BHB 1, LDN 1746, Barnard 59
 Gran 2              Oph  17 11 33.6 -24 50 56  Op  GC      2.1  16600   0.76  10.08    0.19   -2.57  arXiv:2108.11922v1  
@@ -5071,6 +5071,7 @@ NGC 6716            Sgr  18 54 27.8 -19 53 17  Op  OC     11.9    712  0.220  7.
 M 54                Sgr  18 55 03.4 -30 28 48  Op  GC     17.4  20000  0.150 10.084   -2.68   -1.39  Vasiliev2021        NGC 6715, LP 8
 NGC 6717            Sgr  18 55 06.0 -22 42 04  Op  GC     13.8   8850  0.225 10.090   -3.12   -5.01  Vasiliev2021        FSR 44, Palomar 9
 NGC 6723            Sgr  18 59 33.1 -36 37 55  Op  GC     31.2   7752  0.051 10.098    1.03   -2.42  Vasiliev2021        FSR 3, LP 7
+Minni 348           Sgr  18 59 57.6 -29 22 12  Op  GC      2.0   6400                 -2.73   -1.45  Alessi GEDR3        
 ESO 397-1           Sgr  19 04 06.5 -33 23 42  Op  OC     14.4   6800  0.190  9.100   -2.78   -1.48  Alessi GEDR3        
 Theia 222           Sgr  19 05 36.0 -16 07 30  Op  OC    113.0    248  0.132  8.095    0.73  -11.19  Alessi GEDR3        
 MWSC 4475           Sgr  19 08 17.0 -30 12 54  Op  OC?    20.0   7850                 -2.66   -1.48  Alessi GEDR3        
@@ -5078,7 +5079,7 @@ UPK 16              Sgr  19 09 03.4 -19 06 07  Op  OC     33.8    825  0.195  7.
 Patchick 119        Sgr  19 09 07.0 -34 21 00  Op  OC      3.0   6980                 -2.61   -1.36  Alessi GEDR3        
 UPK 12              Sgr  19 15 13.2 -22 08 35  Op  OC     26.0    649  0.144  8.200    0.58   -6.68  Cantat-Gaudin 2020b Theia 389, UBC 98
 NGC 6774            Sgr  19 16 20.9 -16 19 58  Op  OC     78.2    308  0.110  9.400   -0.94  -26.58  Cantat-Gaudin 2020b Ruprecht 147, LP 2390, Theia 1531, UPK 22
-PS1 1               Sgr  19 16 41.1 -27 49 38  Op  GC      1.1   6667                 -3.31   -1.87  Alessi GDR2         Prestgard 64
+PS1 1               Sgr  19 16 41.1 -27 49 38  Op  GC      1.1  29600                 -3.31   -1.87  Alessi GDR2         Prestgard 64
 Terzan 7            Sgr  19 17 43.9 -34 39 29  Op  GC      9.6  21739  0.071  9.902   -3.00   -1.65  Vasiliev2021        
 Arp 2               Sgr  19 28 44.2 -30 21 22  Op  GC      8.0  29600  0.102 10.107   -2.31   -1.49  Alessi GEDR3        
 M 55                Sgr  19 39 59.8 -30 57 54  Op  GC     40.8   4854  0.082 10.107   -3.43   -9.31  Vasiliev2021        NGC 6809, LP 2050, LP 9

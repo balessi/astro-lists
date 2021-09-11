@@ -54,7 +54,7 @@ Struve 2398 B     c                C  CN  > 15.7    E   91.29  d    0.261    0.0
 Struve 2398 B     d                C  CN  > 13.1    E  192.4   d    0.428    0.03
 Groombridge 34 A  b                U  HS  >  3.03   E   11.44  d    0.072    0.094             
 Groombridge 34 A  c                C  CJ  > 36      E   20.8   y    5.4      0.27
-Epsilon Indi A    b                C  CJ     2.71   J   52.6   y   12.8      0.01
+Epsilon Indi A    b                C  CJ     3.25   J   45.2   y   11.57     0.26
 Tau Ceti          b    PxP-1       PD HS  >  2.00   E   13.96  d    0.105    0.16              also predicted, Poss periods: 7.1-14.8 d. For all PxP, see arXiv:2010.14675v1
 Tau Ceti          g                U  HT  >  1.75   E   20.00  d    0.133    0.06
 Tau Ceti          c    PxP-2       PD HS  >  3.1    E   35.36  d    0.195    0.03              also Predicted, Poss periods: 28.0-36.4 d

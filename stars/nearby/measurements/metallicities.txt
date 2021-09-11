@@ -264,3 +264,21 @@ Ross 128             0.087             Huber16
 
 Luy 789-6            0.05    0.17      Rojas-Ayala12
 Luy 789-6            0.24    0.12      Newton14
+
+
+Epsilon Indi         0.01          2001A&A...373.1019S
+Epsilon Indi         0.04          1980A&A....86..308K
+Epsilon Indi        -0.06          2004A&A...415.1153S
+Epsilon Indi        -0.13          2017A&A...606A..94D
+Epsilon Indi        -0.13          2013A&A...555A.150T
+Epsilon Indi        -0.16          2018AJ....155..111L
+Epsilon Indi        -0.162         2019A&A...629A..80H
+Epsilon Indi        -0.19          2013ApJ...764...78R
+Epsilon Indi        -0.20          2018A&A...615A..76S
+Epsilon Indi        -0.20          2008A&A...487..373S
+Epsilon Indi        -0.20          2015A&A...576A..69D
+Epsilon Indi        -0.20          2012A&A...545A..32A
+Epsilon Indi        -0.20          2008A&A...487..373S
+Epsilon Indi        -0.23          2018A&A...614A..55A
+Epsilon Indi        -0.23          1988A&A...206..100A
+Epsilon Indi        -0.61          2018A&A...615A..76S

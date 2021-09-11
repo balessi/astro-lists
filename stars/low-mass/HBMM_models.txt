@@ -1,10 +1,22 @@
 =================================================================================================================================================================================================================================
-P R O P E R T I E S   O F   E V O L U T I O N A R Y   M O D E L S   ( F R O M   R E D   D W A R F S   T O   S U B - B R O W N   D W A R F S )
+P R O P E R T I E S   O F   E V O L U T I O N A R Y   M O D E L S   ( F R O M   R E D   D W A R F S   T O   S U B - B R O W N   D W A R F S   A N D   M A S S I V E   P L A N E T S )
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Model source                     Mass(MSun/Jup)     Teff(K)   SpT   Log(L/LSun)    Z/ZSun    Radius(R/RSun) Atmospheric properties and comments
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Baraffe et al. (2018)           0.35      366                ~M3                                            Maximum mass of a fully convective red dwarf
 Adams et al. (2004)             0.25      262                ~M3.5                                          The minimum mass a red dwarf must have to eventually evolve into a red giant (otherwise they will become blue dwarfs)
+
+Forbes & Loeb (2019)      up to 0.12      125.6                                                             Overmassive BDs that gained mass through transfer
+
+Burrows et al. (1993)           0.094      98.4      3630              -2.90         0.0          0.090     Metal-free HBMM
+Saumon et al. (1994)            0.092      96.3      3600                            0.0                    Metal-free HBMM
+Burrows et al. (2001)           0.092      96.3                                     ~0                      Discussion of various models
+
+Zhang et al. (2017)             0.0875     91.6      2739     L                     -2.3                    Value is [Fe/H]
+Zhang et al. (2017)             0.0855     89.5      2549     L                     -1.8                    Value is [Fe/H]
+Zhang et al. (2017)             0.0845     88.5      2479     L                     -1.6                    Value is [Fe/H]
+Zhang et al. (2017)             0.083      86.9      2359     L                     -1.3                    Value is [Fe/H]
+Zhang et al. (2017)             0.080      83.8      2128     L                     -0.7                    Value is [Fe/H]
 
 Burrows et al. (1993, 1997)     0.0767     80.3      1747    ~L3.5     -4.21         1.28         0.085     Gray with grains
 Baraffe et al. (1998)           0.072      75.4      1700    ~L4       -4.26         1.28         0.085     Non-gray without grains
@@ -12,27 +24,27 @@ Chabrier et al. (2000)          0.070      73.3      1550    ~L5.5     -4.42    
 Baraffe et al. (2003)           0.072      75.4      1560    ~L5.5     -4.47         1.28         0.081     "COND" clear & metal depleted
 Saumon & Marley (2008)          0.075      78.5      1910    ~L2.5     -4.00         0.87         0.090     Cloudless
 Saumon & Marley (2008)          0.070      73.3      1550    ~L5.5     -4.36         0.87         0.092     Cloudy, fsed = 2
-Dieterich et al. (2014)                              2075**   L2.5**   -3.90                      0.086     Empirical, from diameter measurements
+Dieterich et al. (2014)                              2075[1]  L2.5[1]  -3.90                      0.086     Empirical, from diameter measurements
 Baraffe et al. (2015)           0.070      73.3      1626    ~L4.5     -4.30         1.00         0.089     "BT-Settl" cloud model
 Dupuy & Liu (2017)              0.067      70.0               L3-5   -3.9/-4.3                              Empirical, from mass measurements
 Smart et al. (2018)                                           L2-6                               ~0.08      Approx radius taken from graphic
-Hsu et al. (2021)***                               1500-1600  L5-6                                          Empirical, terminus of the stellar MS based on a kinematic break
-(Median ± Median Abs Dev)    0.071±0.001 74.4±1.1   1626±76   L4±0.5  -4.26±0.16    ~1          0.086±0.003 Median and MAD of all above STs
+Hsu et al. (2021)[2]                               1500-1600  L5-6                                          Empirical, terminus of the stellar MS based on a kinematic break
+Burrows et al. (2001)       0.070-0.075  73.3-78.5                                  ~1                      Discussion of various models [not included in median below]
+Auddy et al. (2016)         0.064-0.087  67.0-91.1                                                          Range for maximum mass of a Brown Dwarf [not included in median below]
 
-Burrows et al. (1993)           0.094      98.4      3630              -2.90         0.0          0.090     Metal free
-Saumon et al. (1994)            0.092      96.3      3600                            0.0                    Metal free
-Zhang et al. (2017)             0.0875     91.6      2739                           -2.3                    Value is [Fe/H]
-Zhang et al. (2017)             0.0855     89.5      2549                           -1.8                    Value is [Fe/H]
-Zhang et al. (2017)             0.0845     88.5      2479                           -1.6                    Value is [Fe/H]
-Zhang et al. (2017)             0.083      86.9      2359                           -1.3                    Value is [Fe/H]
-Zhang et al. (2017)             0.08       83.8      2128                           -0.7                    Value is [Fe/H]
+(Median ± Median Abs Dev)    0.071±0.001 74.4±1.1   1626±76   L4±0.5  -4.26±0.16    ~1          0.086±0.003 Median & MAD for the HBMM at solar metallicity
 
-Burrows et al. (2001)       0.070-0.092  73.3-96.4                                                          Discussion of various models
-Auddy et al. (2016)         0.064-0.087  67.0-91.1                                                          Range for maximum mass of a Brown Dwarf
+Zhang et al. (2019)         0.064-0.071   67-74               L3-T4                                         Transitional BDs (T-BDs) [3]
+Zhang et al. (2019)                       <67                 >=T5                                          Degenerate BDs (D-BDs) [3]
 
 Rebolo (1992)                   0.065      68.0                                                             Minimum Lithium-burning treshold
 Chabrier (1996)                 0.057      60.0                                                             Minimum Lithium-burning treshold
-Basri (1998)                    0.06       62.8                                                             Minimum Lithium-burning treshold
+Basri (1998)                    0.060      62.8                                                             Minimum Lithium-burning treshold
+
+Adams & Laughlin (1997)         0.040      41.9      ~273     Y? H?               >> 1                      Hypothetical "Frozen stars"
+
+Bolmont et al. (2011)           0.050      52.4                                                             Minimum BD mass for planets that spend a significant amount of time in the habitable zone – from 1 Gyr to ~ 10 Gyr
+Manasvi et al. (2020)           0.0287     30.0                                                             Minimum BD mass to host habitable planets over geologically significant timescales
 
 Burrows et al. (1997, 2001)     0.0124     13.0                                                             Deuterium burning minimum
 Chabrier et al. (2005)          0.0120     12.56                                                            Deuterium burning minimum
@@ -42,23 +54,20 @@ Spiegel et al. (2010)           0.0105     10.99                                
 Spiegel et al. (2010)           0.0156     16.30                                     0.0                    Deuterium-burning range (for zero metallicity, 90% of initial deuterium burned)
 
 Schlaufman (2018)               0.0096     10.0                                                             Largest mass of objects formed through core accretion (i.e. planets)
-Boss et al. (2003)             ~0.001       1.0                                                             The smallest mass of gas cloud that could collapse to form a body (sub-brown dwarf of BD-like)
-Boss et al. (2003)             ~0.002       2.0                                                             The largest mass of a body formed by accretion os dust and planetesimals (planet-like)
 Boss et al. (2003)             ~0.005       5.0                                                             The smallest mass for entities with EOS (interior equation of state) physics (BD-like)
-
-Forbes & Loeb (2019)      up to 0.12      125.6                                                             Overmassive BDs that gained mass through transfer
-Adams & Laughlin (1997)         0.04       41.9      ~273                          >>1.0                    Hypothetical "Frozen stars"
+Boss et al. (2003)             ~0.002       2.0                                                             The largest mass of a body formed by accretion os dust and planetesimals (planet-like)
+Boss et al. (2003)             ~0.001       1.0                                                             The smallest mass of gas cloud that could collapse to form a body (sub-brown dwarf of BD-like)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Notes:
 
-** The Optical ST of 2MASSI J0523382-140302 is L2.5, but IR ST is L5 (https://arxiv.org/abs/2011.11616)
-If you use subtype 2.5 to calculate the median, the resulting value MAD is 1.5
+[1] The Optical ST of 2MASSI J0523382-140302 is L2.5, but IR ST is L5 (https://arxiv.org/abs/2011.11616)
+If you use subtype 2.5 to calculate the median, the resulting value MAD is 1.5 (the median is the same)
 If you adopt the middle ground between Optical and IR STs, that is 3.75, then MAD decreases to 0.5
-Dieterich's Teff is 2075 K, but it is listed as 1939 in https://arxiv.org/abs/2011.11616
+Dieterich's Teff is 2075 K, but it is listed as 1939 in https://arxiv.org/abs/2011.11616 - I adopted 2007K, the moddle ground
 
-*** We interpret this newly-discerned "kinematic break" around spectral types L5–L6 to be an observable of the terminus of the stellar Main Sequence.
+[2] We interpret this newly-discerned "kinematic break" around spectral types L5–L6 to be an observable of the terminus of the stellar Main Sequence.
 The effective temperature range of L5–L6 dwarfs, 1500K-1600K (Filippazzo et al. 2015), corresponds to evolutionary model predictions for the HBMM
 at ages of 4–5 Gyr (Baraffe et al. 2003), in rough agreement with the average age of the local UCD population.
 Dupuy & Liu (2017) identify a similar HBMM boundary at slightly earlier spectral types of L3–L5 based on the distribution of 38 dynamical mass
@@ -67,16 +76,28 @@ The differences among these empirical indicators of the HBMM may reflect both sa
 For example, the L1–L2 range may represent a threshold in the brown dwarf-to-star ratio in the field population,
 while the L5-L6 range represents the disappearance of stars entirely.
 
--------------------------------------------------------------------------------------
+[3] Threshold defined at 90-99% SHBMM (steady hydrogen burning minimum mass)
+T-BDs can reach states of minimum temperature and pressure to fuse hydrogen at low rate in their cores to replenish the dissipation of their
+initial thermal energy. The unsteady hydrogen fusion in T-BDs could last for >>10 Gyr
+D-BDs are the vast majority of BDs that do not fuse hydrogen and keep cooling through their lifetime
+Mode details in Zhang (2018) "The Substellar Transition Zone: A Stretched Temperature Canyon in Brown Dwarf Population due to Unsteady Hydrogen Fusion"
+
+--------
+
 There is an increasing number of T dwarfs with measured masses in excess 60 MJup:
 
 Object              Mass (MJ)      ST     Teff (K)  [Fe/H]   Reference               
 -------------------------------------------------------------------------------------
-Epsilon Indi Ba     75.0 ±0.82     T1.5   1312 ±9    -0.20   Dieterich et. al (2018) 
+Epsilon Indi Ba     75.0 ±0.82     T1     1312 ±9    -0.20   Dieterich et. al (2018)  
 Epsilon Indi Bb     70.1 ±0.68     T6      975 ±11   -0.20   Dieterich et. al (2018) 
-HD 4747 B           70.0 ±1.6      L9/T1  1380 ±50   -0.22   Peretti et al. (2019)
+HD 4747 B           70.0 ±1.6      T0     1380 ±50   -0.22   Peretti et al. (2019)
 2MASS J1059-2113 B  67.0 +4.4-4.8  T3.5                      Sahlmann et. al (2020)
 2MASS J0805+4812 B  66.3 +5.2-14   T5.5                      Sahlmann et. al (2020) 
 WISE J0720-0846 B   66   ±4        T5.5   1250 ±40   +0.15   Dupuy et. al (2019)
 HD 4113 C           66   +5-4      T9 ?    700 ±40   +0.19   Cheetham et al. (2018)
 -------------------------------------------------------------------------------------
+
+Notice how close Epsilon Indi Ba mass is to the median HBMM for solar metallicity (thin disk) stars I calculated above.
+This suggests it is a very massive BD, almost at HBMM, but contrary to a star, it will continue cooling as time goes by
+therefore that's why it is cooler than the L4 type expected for the HBMM.
+BTW, the age for Epsilon indi is 5.10 +- 0.51 Gyr (median of several ages in literature)

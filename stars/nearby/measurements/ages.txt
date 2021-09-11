@@ -172,20 +172,26 @@ Gl 15B              4.365          Yee17   logt=9.64 +/- 0.53
 Gl 15A              3.020          Mann15  logt=9.48 +/- 0.56    
 Gl 15B              2.754          Mann15  logt=9.44 +/- 0.59    
 
-Epsilon Indi       13.96           Ramirez13
+Epsilon Indi       13.96  0.6/9.0  Ramirez13
 Epsilon Indi        8.513          Soto18
+Epsilon Indi        5.7    4.8     Adibekyan21
+Epsilon Indi        5.553  4.785   Delgado Mena19
+Epsilon Indi        5.270  4.996   Gomes da Silva21
 Epsilon Indi        5.10   4.01    Pace13
 Epsilon Indi        5.07           Casagrande11
+Epsilon Indi        4.7    1.0     Feng19
 Epsilon Indi        4.592  4.041   Tsantaki13
+Epsilon Indi        4.48           Casagrande11 
 Epsilon Indi        4.18           Delgado-Mena15
+Epsilon Indi BC     4.0    0.3     Scholz03
 Epsilon Indi        3.66           Eiroa13
 Epsilon Indi        2.5   1.5/1.0  Vigan17
 Epsilon Indi        2.0            Gaspar13
-Epsilon Indi        1.90           Casagrande11
 Epsilon Indi        1.60   0.20    Aguilera-Gomez18
-Epsilon Indi        1.4            Bryden06
+Epsilon Indi        1.4    0.6     Bryden06
 Epsilon Indi        1.288          Lachaume99  logt= 9.11 +/- 0.20
 Epsilon Indi        0.9            Vican12
+Epsilon Indi        0.5            Nielsen19
 Epsilon Indi        0.39           Rocha-Pinto04
 
 Tau Ceti           17.783          Takeda07    logt=10.25

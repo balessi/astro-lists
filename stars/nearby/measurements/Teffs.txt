@@ -256,3 +256,31 @@ Ross 248            3043    25     Mann15
 Ross 248            2930    60     Mann15
 Ross 248            2799           Worthey94
 Ross 248            2746           Jenkins09
+
+
+Epsilon Indi        4616           2019A&A...629A..80H
+Epsilon Indi        4682           2018AJ....155..111L
+Epsilon Indi        4707           2018A&A...614A..55A
+Epsilon Indi        4938           2018A&A...615A..76S
+Epsilon Indi        4882           2018A&A...615A..76S
+Epsilon Indi        4649           2017A&A...606A..94D
+Epsilon Indi        4758           2009A&A...497..497G
+Epsilon Indi        4754           2008A&A...487..373S
+Epsilon Indi        4731           2011A&A...530A.138C
+Epsilon Indi        4700           2001A&A...373.1019S
+Epsilon Indi        4642           2005ApJ...626..446R
+Epsilon Indi        4629           2004A&A...415.1153S
+Epsilon Indi        4582           1988A&A...206..100A
+Epsilon Indi        4577           1998A&AS..129..505B
+Epsilon Indi        4574           1998A&A...339..858D
+Epsilon Indi        4555           2012ApJ...757..112B
+Epsilon Indi        4500           1980A&A....86..308K
+Epsilon Indi        4754           2015A&A...576A..69D
+Epsilon Indi        4649           2013A&A...555A.150T
+Epsilon Indi        4649           2013ApJ...764...78R
+Epsilon Indi        4754           2012A&A...545A..32A
+Epsilon Indi        4582           1988A&A...206..100A
+Epsilon Indi        4500           1980A&A....86..308K
+Epsilon Indi        4754           2008A&A...487..373S
+Epsilon Indi        4582           1988A&A...206..100A
+Epsilon Indi        4500           1980A&A....86..308K

@@ -36,12 +36,15 @@ Auddy et al. (2016)         0.064-0.087  67.0-91.1                              
 
 Zhang et al. (2019)         0.064-0.071   67-74               L3-T4                                         Transitional BDs (T-BDs) [3]
 Zhang et al. (2019)                       <67                 >=T5                                          Degenerate BDs (D-BDs) [3]
+Zhang (2019)                    0.068      71.2                                     -0.5                    D-BDs - here [M/H] is equated with [Fe/H] (M/H is generally c x Fe/H, c being a constant betw 0.9 and 1) 
+Zhang (2019)                    0.065      68.0                                      0.0                    idem above comment
+Zhang (2019)                    0.06       62.8                                     +0.5                    idem above comment
 
 Rebolo (1992)                   0.065      68.0                                                             Minimum Lithium-burning treshold
 Chabrier (1996)                 0.057      60.0                                                             Minimum Lithium-burning treshold
 Basri (1998)                    0.060      62.8                                                             Minimum Lithium-burning treshold
 
-Adams & Laughlin (1997)         0.040      41.9      ~273     Y? H?               >> 1                      Hypothetical "Frozen stars"
+Adams & Laughlin (1997)         0.040      41.9      ~273     H?                  >> 1                      Hypothetical "Frozen stars" [4]
 
 Bolmont et al. (2011)           0.050      52.4                                                             Minimum BD mass for planets that spend a significant amount of time in the habitable zone – from 1 Gyr to ~ 10 Gyr
 Manasvi et al. (2020)           0.0287     30.0                                                             Minimum BD mass to host habitable planets over geologically significant timescales
@@ -52,6 +55,7 @@ Saumon & Marley (2008)          0.0125     13.1                                 
 Saumon & Marley (2008)          0.0118     12.4                                                             Cloudy case - minimum D-burning mass defined as objects that burn 90% of their initial deuterium in 10 Gyr
 Spiegel et al. (2010)           0.0105     10.99                                     3.0                    Deuterium-burning range (for three times solar metallicity, 10% of initial deuterium burned)
 Spiegel et al. (2010)           0.0156     16.30                                     0.0                    Deuterium-burning range (for zero metallicity, 90% of initial deuterium burned)
+Zhang (2019)                    0.01       10.5                                                             Deuterium burning minimum
 
 Schlaufman (2018)               0.0096     10.0                                                             Largest mass of objects formed through core accretion (i.e. planets)
 Boss et al. (2003)             ~0.005       5.0                                                             The smallest mass for entities with EOS (interior equation of state) physics (BD-like)
@@ -65,7 +69,7 @@ Notes:
 [1] The Optical ST of 2MASSI J0523382-140302 is L2.5, but IR ST is L5 (https://arxiv.org/abs/2011.11616)
 If you use subtype 2.5 to calculate the median, the resulting value MAD is 1.5 (the median is the same)
 If you adopt the middle ground between Optical and IR STs, that is 3.75, then MAD decreases to 0.5
-Dieterich's Teff is 2075 K, but it is listed as 1939 in https://arxiv.org/abs/2011.11616 - I adopted 2007K, the moddle ground
+Dieterich's Teff is 2075 K, but it is listed as 1939 in https://arxiv.org/abs/2011.11616 - I adopted 2007K, the middle ground
 
 [2] We interpret this newly-discerned "kinematic break" around spectral types L5–L6 to be an observable of the terminus of the stellar Main Sequence.
 The effective temperature range of L5–L6 dwarfs, 1500K-1600K (Filippazzo et al. 2015), corresponds to evolutionary model predictions for the HBMM
@@ -76,20 +80,40 @@ The differences among these empirical indicators of the HBMM may reflect both sa
 For example, the L1–L2 range may represent a threshold in the brown dwarf-to-star ratio in the field population,
 while the L5-L6 range represents the disappearance of stars entirely.
 
-[3] Threshold defined at 90-99% SHBMM (steady hydrogen burning minimum mass)
+[3] Threshold defined at 90-99% SHBMM (steady hydrogen burning minimum mass) - the mass range I put is for solar metallicity
 T-BDs can reach states of minimum temperature and pressure to fuse hydrogen at low rate in their cores to replenish the dissipation of their
 initial thermal energy. The unsteady hydrogen fusion in T-BDs could last for >>10 Gyr
 D-BDs are the vast majority of BDs that do not fuse hydrogen and keep cooling through their lifetime
-Mode details in Zhang (2018) "The Substellar Transition Zone: A Stretched Temperature Canyon in Brown Dwarf Population due to Unsteady Hydrogen Fusion"
+More details in Zhang (2018) "The Substellar Transition Zone: A Stretched Temperature Canyon in Brown Dwarf Population due to Unsteady Hydrogen Fusion"
+And in Dr Zhange Primeval series
+Primeval - I. Six new L subdwarfs, classification and atmospheric properties
+Primeval - II. The most metal-poor substellar object
+Primeval - III. The halo transitional brown dwarfs
+Primeval - IV. New L subdwarfs, Gaia astrometry, population properties, and a blue brown dwarf binary
+Primeval - V. A halo L3 subdwarf with prograde eccentric orbit in the Galactic plane
+Primeval - VI. Population properties of metal-poor degenerate brown dwarfs
+Primeval - VII. The discovery of the first wide M+L extreme subdwarf binary
+The Substellar Transition Zone: A Stretched Temperature Canyon in Brown Dwarf Population due to Unsteady Hydrogen Fusion
+listed in https://astronomy.nju.edu.cn/EN/People/AssociateProfessors/20200707/i113755.html
+
+[4]
+A frozen star, besides a disused term for a black hole, is a type of hypothetical star that, according to the astronomers Fred Adams and Gregory P. Laughlin,
+may appear in the future of the Universe when the metallicity of the interstellar medium is several times the solar value.
+Due to opacity effects, as metallicity of the interstellar gas increases both the maximum and minimum masses a star can have will decrease.
+For the latter case, it's expected that an object with a mass of 0.04 MSun, that currently would become a brown dwarf unable to fuse hydrogen,
+could do so ending in the main sequence with a surface temperature of 0 °C (273 K, thus frozen), much cooler than the dimmest red dwarfs of today,
+and ice clouds forming in its atmosphere. The luminosity of these objects would be more than a thousand times lower than the faintest stars 
+currently existing and their lifetimes would also be sensibly longer.
 
 --------
 
-There is an increasing number of T dwarfs with measured masses in excess 60 MJup:
+There is an increasing number of T dwarfs with dynamically measured masses in excess 60 MJup:
 
 Object              Mass (MJ)      ST     Teff (K)  [Fe/H]   Reference               
 -------------------------------------------------------------------------------------
-Epsilon Indi Ba     75.0 ±0.82     T1     1312 ±9    -0.20   Dieterich et. al (2018)  
-Epsilon Indi Bb     70.1 ±0.68     T6      975 ±11   -0.20   Dieterich et. al (2018) 
+Epsilon Indi Ba     75.0 ±0.8      T1     1312 ±9    -0.20   Dieterich et. al (2018) 
+Gliese 229 B        71.4 ±0.6      T7      927 ±77           Brandt et al. (2021)
+Epsilon Indi Bb     70.1 ±0.7      T6      975 ±11   -0.20   Dieterich et. al (2018) 
 HD 4747 B           70.0 ±1.6      T0     1380 ±50   -0.22   Peretti et al. (2019)
 2MASS J1059-2113 B  67.0 +4.4-4.8  T3.5                      Sahlmann et. al (2020)
 2MASS J0805+4812 B  66.3 +5.2-14   T5.5                      Sahlmann et. al (2020) 

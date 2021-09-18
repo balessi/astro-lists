@@ -361,6 +361,7 @@ ASCC 92                       ;FoF 2356                      ;     ;      ;     
 ASCC 92                       ;Theia 739                     ;     ;      ;     ;        ;
 ASCC 92                       ;UPK 11                        ;     ;      ;     ;        ;
 ASCC 94                       ;UBC 342                       ;     ;      ;     ;        ;
+ASCC 95                       ;Theia 2144                    ;     ;      ;     ;        ;
 ASCC 96                       ;Ferrero 1                     ;     ;      ;     ;        ;
 ASCC 97                       ;Alessi 40                     ;     ;      ;     ;        ;
 ASCC 97                       ;FoF 2405                      ;     ;      ;     ;        ;
@@ -519,8 +520,10 @@ Alessi 26                     ;Alessi-Teutsch 4              ;     ;      ;     
 Alessi 26                     ;RSG 3                         ;     ;      ;     ;        ;
 Alessi 27                     ;ASCC 118                      ;     ;      ;     ;        ;
 Alessi 27                     ;Alessi-Teutsch 5              ;     ;      ;     ;        ;
+Alessi 273                    ;Theia 2897                    ;     ;      ;     ;        ;
 Alessi 28                     ;UPK 67                        ;     ;      ;     ;        ;
 Alessi 281                    ;CMa 23                        ;     ;      ;     ;        ;
+Alessi 285                    ;Theia 2409                    ;     ;      ;     ;        ;
 Alessi 29                     ;Loktin-Popova 15              ;     ;      ;     ;        ;
 Alessi 29                     ;NGC 1662                      ;     ;      ;     ;        ;
 Alessi 29                     ;in NGC 1662                   ;     ;      ;     ;        ;
@@ -1807,6 +1810,7 @@ BH 223                        ;ESO 392-8                     ;     ;      ;     
 BH 223                        ;NGC 6334                      ;     ;      ;     ;        ;
 BH 223                        ;Russeil 471                   ;     ;      ;     ;        ;
 BH 223                        ;Theia 1682                    ;  141;    42;   17;  12.057;  40.476
+BH 223                        ;Theia 1682                    ;     ;      ;     ;        ;
 BH 224                        ;IC 4651                       ;     ;      ;     ;        ;
 BH 225                        ;Trumpler 25                   ;     ;      ;     ;        ;
 BH 226                        ;NGC 6352                      ;     ;      ;     ;        ;
@@ -2050,6 +2054,7 @@ Basel 11B                     ;FSR 877                       ;     ;      ;     
 Basel 11B                     ;Theia 1830                    ;     ;      ;     ;        ;
 Basel 13                      ;IC 1363                       ;     ;      ;     ;        ;
 Basel 13                      ;Theia 2561                    ;   97;   310;   68;  70.103;  21.935
+Basel 13                      ;Theia 2561                    ;     ;      ;     ;        ;
 Basel 14                      ;V532 Cyg                      ;     ;      ;     ;        ;
 Basel 17                      ;ESO 129-2                     ;     ;      ;     ;        ;
 Basel 17                      ;Loden 282                     ;     ;      ;     ;        ;
@@ -2174,6 +2179,7 @@ Berkeley 59                   ;FoF 2196                      ;     ;      ;     
 Berkeley 59                   ;FoF 2196                      ;  235;   242;  158;  67.234;  65.289
 Berkeley 59                   ;Theia 670                     ;     ;      ;     ;        ;
 Berkeley 59                   ;Theia 670                     ;  235;   582;  139;  59.149;  23.883
+Berkeley 59                   ;Theia 670                     ;     ;      ;     ;        ;
 Berkeley 6                    ;FoF 176                       ;   66;  7160;   64;  96.970;   0.894
 Berkeley 60                   ;FoF 174                       ;     ;      ;     ;        ;
 Berkeley 60                   ;FoF 174                       ;  104;    99;   60;  57.692;  60.606
@@ -2669,6 +2675,7 @@ CMa 18                        ;NGC 2343                      ;     ;      ;     
 CMa 19                        ;NGC 2335                      ;     ;      ;     ;        ;
 CMa 2                         ;HeXuHao 32                    ;     ;      ;     ;        ;
 CMa 23                        ;Alessi 281                    ;     ;      ;     ;        ;
+CMa 23                        ;Theia 2289                    ;     ;      ;     ;        ;
 CMa 3                         ;Gulliver 13                   ;     ;      ;     ;        ;
 CMa 6                         ;VdB 92                        ;     ;      ;     ;        ;
 CMa 7                         ;LP 2216                       ;     ;      ;     ;        ;
@@ -3964,6 +3971,7 @@ Czernik 41                    ;FSR 157                       ;     ;      ;     
 Czernik 41                    ;FoF 318                       ;     ;      ;     ;        ;
 Czernik 41                    ;FoF 318                       ;  181;   220;  113;  62.431;  51.364
 Czernik 43                    ;FSR 433                       ;     ;      ;     ;        ;
+Czernik 43                    ;Theia 3500                    ;     ;      ;     ;        ;
 Czernik 43                    ;UBC 399                       ;     ;      ;     ;        ;
 Czernik 45                    ;GLM-G360 105                  ;     ;      ;     ;        ;
 Czernik 5                     ;FSR 570                       ;     ;      ;     ;        ;
@@ -4262,6 +4270,7 @@ DBSB 120                      ;VVV-CL 94                     ;     ;      ;     
 DBSB 122                      ;GM 24                         ;     ;      ;     ;        ;
 DBSB 122                      ;IRAS 17136-3617               ;     ;      ;     ;        ;
 DBSB 123                      ;Theia 1777                    ;   65;    46;   23;  35.385;  50.000
+DBSB 123                      ;Theia 1777                    ;     ;      ;     ;        ;
 DBSB 123                      ;UFMG 29                       ;     ;      ;     ;        ;
 DBSB 126                      ;IRAS10049-5657                ;     ;      ;     ;        ;
 DBSB 126                      ;MDF 12                        ;     ;      ;     ;        ;
@@ -5013,6 +5022,7 @@ ESO 393-13                    ;NGC 6404                      ;     ;      ;     
 ESO 393-14                    ;NGC 6400                      ;     ;      ;     ;        ;
 ESO 393-15                    ;Theia 2322                    ;     ;      ;     ;        ;
 ESO 393-15                    ;Theia 2322                    ;    5;   100;    1;  20.000;   1.000
+ESO 393-15                    ;Theia 2322                    ;     ;      ;     ;        ;
 ESO 393-15                    ;UBC 328                       ;     ;      ;     ;        ;
 ESO 393-17                    ;Ruprecht 128                  ;     ;      ;     ;        ;
 ESO 393-18                    ;NGC 6415                      ;     ;      ;     ;        ;
@@ -6088,6 +6098,7 @@ FSR 306                       ;FoF 509                       ;     ;      ;     
 FSR 306                       ;FoF 509                       ;  142;   120;   81;  57.042;  67.500
 FSR 307                       ;Theia 2786                    ;   77;   643;    8;  10.390;   1.244
 FSR 307                       ;Theia 3986                    ;   77;   142;   12;  15.584;   8.451
+FSR 307                       ;Theia 3986                    ;     ;      ;     ;        ;
 FSR 309                       ;NGC 7086                      ;     ;      ;     ;        ;
 FSR 31                        ;FoF 1214                      ;  425;   387;  172;  40.471;  44.444
 FSR 31                        ;FoF 1626                      ;  425;    87;   23;   5.412;  26.437
@@ -6110,6 +6121,7 @@ FSR 320                       ;UBC 158                       ;     ;      ;     
 FSR 321                       ;Escorial 35                   ;     ;      ;     ;        ;
 FSR 321                       ;UBC 159                       ;     ;      ;     ;        ;
 FSR 322                       ;Theia 2503                    ;   17;   230;    4;  23.529;   1.739
+FSR 322                       ;Theia 3917                    ;     ;      ;     ;        ;
 FSR 325                       ;FoF 2125                      ;     ;      ;     ;        ;
 FSR 325                       ;Theia 3659                    ;   51;   205;    7;  13.725;   3.415
 FSR 325                       ;UBC 160                       ;     ;      ;     ;        ;
@@ -6153,6 +6165,7 @@ FSR 383                       ;Pismis-Moreno 1               ;     ;      ;     
 FSR 385                       ;FoF 1810                      ;     ;      ;     ;        ;
 FSR 385                       ;FoF 1810                      ;   58;    52;   37;  63.793;  71.154
 FSR 387                       ;NGC 7380                      ;     ;      ;     ;        ;
+FSR 39                        ;Theia 2327                    ;     ;      ;     ;        ;
 FSR 391                       ;NGC 7423                      ;     ;      ;     ;        ;
 FSR 392                       ;King 18                       ;     ;      ;     ;        ;
 FSR 394                       ;SAI 147                       ;     ;      ;     ;        ;
@@ -6186,6 +6199,7 @@ FSR 430                       ;FoF 541                       ;     ;      ;     
 FSR 430                       ;FoF 541                       ;   31;    88;   27;  87.097;  30.682
 FSR 430                       ;SAI 148                       ;     ;      ;     ;        ;
 FSR 430                       ;Saloranta J2315+6410          ;     ;      ;     ;        ;
+FSR 430                       ;Theia 2907                    ;     ;      ;     ;        ;
 FSR 431                       ;Gulliver 49                   ;     ;      ;     ;        ;
 FSR 433                       ;Czernik 43                    ;     ;      ;     ;        ;
 FSR 434                       ;King 20                       ;     ;      ;     ;        ;
@@ -6586,6 +6600,7 @@ FSR 974                       ;FoF 371                       ;   48;    50;   19
 FSR 977                       ;Riddle 1                      ;     ;      ;     ;        ;
 FSR 977                       ;Teutsch 34                    ;     ;      ;     ;        ;
 FSR 977                       ;Theia 3205                    ;   16;   239;    5;  31.250;   2.092
+FSR 977                       ;Theia 3205                    ;     ;      ;     ;        ;
 FSR 979                       ;SAI 65                        ;     ;      ;     ;        ;
 FSR 981                       ;IC 446                        ;     ;      ;     ;        ;
 FSR 983                       ;Kernya 31                     ;     ;      ;     ;        ;
@@ -12116,6 +12131,7 @@ Haffner 14                    ;FSR 1319                      ;     ;      ;     
 Haffner 14                    ;FoF 91                        ;     ;      ;     ;        ;
 Haffner 14                    ;FoF 91                        ;  331;   176;  130;  39.275;  73.864
 Haffner 14                    ;Theia 2158                    ;  331;    46;    5;   1.511;  10.870
+Haffner 14                    ;Theia 2158                    ;     ;      ;     ;        ;
 Haffner 15                    ;BH 8                          ;     ;      ;     ;        ;
 Haffner 15                    ;ESO 368-12                    ;     ;      ;     ;        ;
 Haffner 15                    ;FSR 1340                      ;     ;      ;     ;        ;
@@ -12309,12 +12325,15 @@ HeXuHao 10                    ;UPK 634                       ;     ;      ;     
 HeXuHao 12                    ;Theia 2502                    ;     ;      ;     ;        ;
 HeXuHao 15                    ;Theia 2015                    ;     ;      ;     ;        ;
 HeXuHao 19                    ;Theia 2356                    ;     ;      ;     ;        ;
+HeXuHao 23                    ;Theia 4535                    ;     ;      ;     ;        ;
 HeXuHao 24                    ;Theia 3229                    ;     ;      ;     ;        ;
 HeXuHao 28                    ;Theia 2420                    ;     ;      ;     ;        ;
 HeXuHao 29                    ;UPK 1                         ;     ;      ;     ;        ;
 HeXuHao 3                     ;Teutsch 189                   ;     ;      ;     ;        ;
+HeXuHao 3                     ;Theia 2319                    ;     ;      ;     ;        ;
 HeXuHao 32                    ;CMa 2                         ;     ;      ;     ;        ;
 HeXuHao 32                    ;Theia 2471                    ;     ;      ;     ;        ;
+HeXuHao 33                    ;Theia 1692                    ;     ;      ;     ;        ;
 HeXuHao 34                    ;HD 120132 Grp                 ;     ;      ;     ;        ;
 HeXuHao 34                    ;Theia 2090                    ;     ;      ;     ;        ;
 HeXuHao 39                    ;Theia 2175                    ;     ;      ;     ;        ;
@@ -12322,18 +12341,25 @@ HeXuHao 4                     ;FoF 888                       ;     ;      ;     
 HeXuHao 40                    ;PHOC 11                       ;     ;      ;     ;        ;
 HeXuHao 42                    ;Theia 3788                    ;     ;      ;     ;        ;
 HeXuHao 43                    ;Theia 3524                    ;     ;      ;     ;        ;
+HeXuHao 44                    ;Theia 2945                    ;     ;      ;     ;        ;
+HeXuHao 45                    ;Theia 904b                    ;     ;      ;     ;        ;
 HeXuHao 46                    ;Theia 5345                    ;     ;      ;     ;        ;
 HeXuHao 5                     ;UPK 455                       ;     ;      ;     ;        ;
 HeXuHao 50                    ;PHOC 26                       ;     ;      ;     ;        ;
+HeXuHao 51                    ;Theia 1868                    ;     ;      ;     ;        ;
 HeXuHao 54                    ;CMa 1                         ;     ;      ;     ;        ;
 HeXuHao 54                    ;PHOC 4                        ;     ;      ;     ;        ;
+HeXuHao 54                    ;Theia 2649                    ;     ;      ;     ;        ;
 HeXuHao 57                    ;PHOC 20                       ;     ;      ;     ;        ;
+HeXuHao 57                    ;Theia 2510                    ;     ;      ;     ;        ;
 HeXuHao 58                    ;Loktin-Popova 50A             ;     ;      ;     ;        ;
 HeXuHao 61                    ;Theia 2266                    ;     ;      ;     ;        ;
 HeXuHao 63                    ;Theia 2254                    ;     ;      ;     ;        ;
 HeXuHao 64                    ;Theia 2745                    ;     ;      ;     ;        ;
 HeXuHao 65                    ;Theia 355                     ;     ;      ;     ;        ;
 HeXuHao 66                    ;Alessi 63                     ;     ;      ;     ;        ;
+HeXuHao 67                    ;Theia 2279                    ;     ;      ;     ;        ;
+HeXuHao 73                    ;Theia 2575                    ;     ;      ;     ;        ;
 Heiles 2                      ;TMC 1                         ;     ;      ;     ;        ;
 Heiles 2                      ;Taurus III                    ;     ;      ;     ;        ;
 Heiles Cloud 2                ;HMAC 15                       ;     ;      ;     ;        ;
@@ -12760,6 +12786,7 @@ IC 5146                       ;FoF 2282                      ;     ;      ;     
 IC 5146                       ;FoF 2282                      ;  105;    73;   71;  67.619;  97.260
 IC 5146                       ;Theia 88                      ;     ;      ;     ;        ;
 IC 5146                       ;Theia 88                      ;  105;   234;   67;  63.810;  28.632
+IC 5146                       ;Theia 88                      ;     ;      ;     ;        ;
 IC 5146                       ;UPK 148                       ;     ;      ;     ;        ;
 ICA 73                        ;IDK 5                         ;     ;      ;     ;        ;
 IDK 5                         ;ICA 73                        ;     ;      ;     ;        ;
@@ -13782,6 +13809,7 @@ King 23                       ;Czernik 28                    ;     ;      ;     
 King 23                       ;FoF 584                       ;     ;      ;     ;        ;
 King 23                       ;FoF 584                       ;   89;   135;   65;  73.034;  48.148
 King 23                       ;Theia 2350                    ;   89;    50;   17;  19.101;  34.000
+King 23                       ;Theia 2350                    ;     ;      ;     ;        ;
 King 24                       ;Czernik 32                    ;     ;      ;     ;        ;
 King 25                       ;FSR 127                       ;     ;      ;     ;        ;
 King 25                       ;FoF 308                       ;     ;      ;     ;        ;
@@ -14217,9 +14245,22 @@ LMR 81                        ;Russeil 82                    ;     ;      ;     
 LMR 83                        ;Russeil 83                    ;     ;      ;     ;        ;
 LMR 84                        ;Russeil 84                    ;     ;      ;     ;        ;
 LMR 88                        ;Russeil 85                    ;     ;      ;     ;        ;
+LP 1218                       ;Theia 1820                    ;     ;      ;     ;        ;
+LP 145                        ;Theia 1731                    ;     ;      ;     ;        ;
+LP 1780                       ;Theia 5761                    ;     ;      ;     ;        ;
 LP 1787                       ;Teutsch 17                    ;     ;      ;     ;        ;
 LP 2216                       ;CMa 7                         ;     ;      ;     ;        ;
+LP 2287                       ;Theia 2360                    ;     ;      ;     ;        ;
+LP 2293                       ;Theia 984                     ;     ;      ;     ;        ;
+LP 2295                       ;Theia 3701                    ;     ;      ;     ;        ;
+LP 2295                       ;Theia 6035                    ;     ;      ;     ;        ;
 LP 2302                       ;CMa 13                        ;     ;      ;     ;        ;
+LP 2339                       ;Theia 1796                    ;     ;      ;     ;        ;
+LP 285                        ;Theia 3161                    ;     ;      ;     ;        ;
+LP 300                        ;Theia 1957                    ;     ;      ;     ;        ;
+LP 301                        ;Theia 1957                    ;     ;      ;     ;        ;
+LP 304                        ;Theia 1957                    ;     ;      ;     ;        ;
+LP 866                        ;Theia 4124                    ;     ;      ;     ;        ;
 LP 935                        ;Haffner 24                    ;     ;      ;     ;        ;
 LSS 2063                      ;DBSB 57                       ;     ;      ;     ;        ;
 LSS 2063                      ;Majaess 133                   ;     ;      ;     ;        ;
@@ -14862,7 +14903,11 @@ M 11                          ;Collinder 391                 ;     ;      ;     
 M 11                          ;FSR 82                        ;     ;      ;     ;        ;
 M 11                          ;Melotte 213                   ;     ;      ;     ;        ;
 M 11                          ;NGC 6705                      ;     ;      ;     ;        ;
+M 11                          ;Theia 2170                    ;     ;      ;     ;        ;
+M 11                          ;Theia 2622                    ;     ;      ;     ;        ;
+M 11                          ;Theia 4307                    ;     ;      ;     ;        ;
 M 12                          ;NGC 6218                      ;     ;      ;     ;        ;
+M 12                          ;Theia 5812                    ;     ;      ;     ;        ;
 M 13                          ;NGC 6205                      ;     ;      ;     ;        ;
 M 14                          ;FSR 64                        ;     ;      ;     ;        ;
 M 14                          ;NGC 6402                      ;     ;      ;     ;        ;
@@ -14995,6 +15040,7 @@ M 71                          ;Collinder 409                 ;     ;      ;     
 M 71                          ;FSR 147                       ;     ;      ;     ;        ;
 M 71                          ;Melotte 226                   ;     ;      ;     ;        ;
 M 71                          ;NGC 6838                      ;     ;      ;     ;        ;
+M 71                          ;Theia 7437                    ;     ;      ;     ;        ;
 M 72                          ;NGC 6981                      ;     ;      ;     ;        ;
 M 73                          ;Collinder 426                 ;     ;      ;     ;        ;
 M 73                          ;NGC 6994                      ;     ;      ;     ;        ;
@@ -15404,6 +15450,7 @@ Melotte 101                   ;FoF 44                        ;  472;   471;  359
 Melotte 101                   ;Theia 3281                    ;     ;      ;     ;        ;
 Melotte 101                   ;Theia 3281                    ;  472;   222;  140;  29.661;  63.063
 Melotte 101                   ;Theia 4350                    ;  472;    78;   43;   9.110;  55.128
+Melotte 101                   ;Theia 4350                    ;     ;      ;     ;        ;
 Melotte 102                   ;IC 2602                       ;     ;      ;     ;        ;
 Melotte 103                   ;NGC 3532                      ;     ;      ;     ;        ;
 Melotte 104                   ;IC 2714                       ;     ;      ;     ;        ;
@@ -15577,6 +15624,7 @@ Melotte 71                    ;FSR 1222                      ;     ;      ;     
 Melotte 71                    ;FoF 585                       ;     ;      ;     ;        ;
 Melotte 71                    ;FoF 585                       ;  533;   656;  512;  96.060;  78.049
 Melotte 71                    ;Theia 5059                    ;  533;    83;   63;  11.820;  75.904
+Melotte 71                    ;Theia 5059                    ;     ;      ;     ;        ;
 Melotte 71                    ;Theia 5163                    ;     ;      ;     ;        ;
 Melotte 71                    ;Theia 5163                    ;  533;   283;  202;  37.899;  71.378
 Melotte 71                    ;Wilks Cl                      ;     ;      ;     ;        ;
@@ -15658,6 +15706,7 @@ Mintaka                       ;CB 1                          ;     ;      ;     
 Mintaka                       ;Caballero-Solano 1            ;     ;      ;     ;        ;
 Mircea's man                  ;Foldvari 37                   ;     ;      ;     ;        ;
 Moffat 1                      ;C1557-540                     ;     ;      ;     ;        ;
+Moffat 1                      ;Theia 2075                    ;     ;      ;     ;        ;
 Moffat 1                      ;Theia 3333                    ;   15;    46;    2;  13.333;   4.348
 Moffat 2                      ;Theia 1989                    ;     ;      ;     ;        ;
 Moffat-Fitzgerald 1           ;HD 85891                      ;     ;      ;     ;        ;
@@ -16439,6 +16488,7 @@ NGC 2421                      ;FoF 195                       ;     ;      ;     
 NGC 2421                      ;FoF 195                       ;  522;   517;  359;  68.774;  69.439
 NGC 2421                      ;Melotte 67                    ;     ;      ;     ;        ;
 NGC 2421                      ;Theia 2102                    ;  522;   220;  159;  30.460;  72.273
+NGC 2421                      ;Theia 2102                    ;     ;      ;     ;        ;
 NGC 2422                      ;Escorial 21                   ;     ;      ;     ;        ;
 NGC 2422                      ;Escorial 21                   ;  617;     6;    5;   0.810;  83.333
 NGC 2422                      ;FoF 2325                      ;     ;      ;     ;        ;
@@ -16943,6 +16993,7 @@ NGC 3766                      ;FoF 240                       ;     ;      ;     
 NGC 3766                      ;FoF 240                       ; 1194;  1112;  797;  66.750;  71.673
 NGC 3766                      ;Melotte 107                   ;     ;      ;     ;        ;
 NGC 3766                      ;Theia 1849                    ; 1194;    52;   35;   2.931;  67.308
+NGC 3766                      ;Theia 1849                    ;     ;      ;     ;        ;
 NGC 3766                      ;Theia 1935                    ;     ;      ;     ;        ;
 NGC 3766                      ;Theia 1935                    ; 1194;   360;  255;  21.357;  70.833
 NGC 3766                      ;Theia 2727                    ; 1194;    80;    9;   0.754;  11.250
@@ -17259,7 +17310,10 @@ NGC 5999                      ;FoF 141                       ;     ;      ;     
 NGC 5999                      ;FoF 141                       ;  183;   411;  176;  96.175;  42.822
 NGC 5999                      ;Melotte 137                   ;     ;      ;     ;        ;
 NGC 5999                      ;Theia 1978                    ;  183;    79;   11;   6.011;  13.924
+NGC 5999                      ;Theia 1978                    ;     ;      ;     ;        ;
 NGC 5999                      ;Theia 2747                    ;     ;      ;     ;        ;
+NGC 5999                      ;Theia 3045                    ;     ;      ;     ;        ;
+NGC 5999                      ;Theia 4122                    ;     ;      ;     ;        ;
 NGC 6005                      ;BH 179                        ;     ;      ;     ;        ;
 NGC 6005                      ;Collinder 294                 ;     ;      ;     ;        ;
 NGC 6005                      ;ESO 178-3                     ;     ;      ;     ;        ;
@@ -17292,6 +17346,7 @@ NGC 6067                      ;FoF 143                       ;     ;      ;     
 NGC 6067                      ;FoF 143                       ;  844;   924;  559;  66.232;  60.498
 NGC 6067                      ;Melotte 140                   ;     ;      ;     ;        ;
 NGC 6067                      ;Theia 2390                    ;  844;    46;   43;   5.095;  93.478
+NGC 6067                      ;Theia 2390                    ;     ;      ;     ;        ;
 NGC 6067                      ;Theia 2591                    ;  844;    97;   16;   1.896;  16.495
 NGC 6067                      ;Theia 2993                    ;     ;      ;     ;        ;
 NGC 6067                      ;Theia 2993                    ;  844;   914;  493;  58.412;  53.939
@@ -17353,6 +17408,7 @@ NGC 6167                      ;Harvard 11                    ;     ;      ;     
 NGC 6167                      ;Theia 1962                    ;     ;      ;     ;        ;
 NGC 6167                      ;Theia 1962                    ; 3136;   332;  229;   7.302;  68.976
 NGC 6167                      ;Theia 2387                    ; 3136;    67;   67;   2.136; 100.000
+NGC 6167                      ;Theia 2387                    ;     ;      ;     ;        ;
 NGC 6169                      ;Collinder 306                 ;     ;      ;     ;        ;
 NGC 6169                      ;ESO 276-5                     ;     ;      ;     ;        ;
 NGC 6169                      ;Mu Nor                        ;     ;      ;     ;        ;
@@ -17518,6 +17574,7 @@ NGC 6318                      ;FoF 276                       ;     ;      ;     
 NGC 6318                      ;FoF 276                       ;  372;   237;  202;  54.301;  85.232
 NGC 6318                      ;Melotte 166                   ;     ;      ;     ;        ;
 NGC 6318                      ;Theia 1699                    ;  372;   100;   20;   5.376;  20.000
+NGC 6318                      ;Theia 1699                    ;     ;      ;     ;        ;
 NGC 6318                      ;Theia 2037                    ;     ;      ;     ;        ;
 NGC 6318                      ;Theia 2037                    ;  372;   223;   84;  22.581;  37.668
 NGC 6322                      ;BH 220                        ;     ;      ;     ;        ;
@@ -17590,6 +17647,7 @@ NGC 6362                      ;FoF 6                         ;     ;      ;     
 NGC 6366                      ;FSR 56                        ;     ;      ;     ;        ;
 NGC 6366                      ;FoF 2045                      ;     ;      ;     ;        ;
 NGC 6366                      ;FoF 649                       ;     ;      ;     ;        ;
+NGC 6366                      ;Theia 4049                    ;     ;      ;     ;        ;
 NGC 637                       ;Collinder 17                  ;     ;      ;     ;        ;
 NGC 637                       ;FSR 554                       ;     ;      ;     ;        ;
 NGC 637                       ;FoF 552                       ;  147;   520;  133;  90.476;  25.577
@@ -17781,6 +17839,7 @@ NGC 6544                      ;ESO 521-28                    ;     ;      ;     
 NGC 6544                      ;FoF 150                       ;     ;      ;     ;        ;
 NGC 6544                      ;FoF 2108                      ;     ;      ;     ;        ;
 NGC 6544                      ;Melotte 192                   ;     ;      ;     ;        ;
+NGC 6544                      ;Theia 2477                    ;     ;      ;     ;        ;
 NGC 6546                      ;Collinder 365                 ;     ;      ;     ;        ;
 NGC 6546                      ;ESO 521-29                    ;     ;      ;     ;        ;
 NGC 6553                      ;ESO 521-36                    ;     ;      ;     ;        ;
@@ -17978,6 +18037,7 @@ NGC 6737                      ;ESO 592-8                     ;     ;      ;     
 NGC 6738                      ;Collinder 396                 ;     ;      ;     ;        ;
 NGC 6749                      ;Berkeley 42                   ;     ;      ;     ;        ;
 NGC 6752                      ;ESO 141-30                    ;     ;      ;     ;        ;
+NGC 6752                      ;Theia 5229                    ;     ;      ;     ;        ;
 NGC 6755                      ;Collinder 397                 ;     ;      ;     ;        ;
 NGC 6755                      ;FoF 159                       ;  217;   969;  147;  67.742;  15.170
 NGC 6755                      ;FoF 2122                      ;     ;      ;     ;        ;
@@ -17986,6 +18046,7 @@ NGC 6755                      ;FoF 302                       ;  217;  1537;  146
 NGC 6755                      ;Theia 1733                    ;     ;      ;     ;        ;
 NGC 6755                      ;Theia 1733                    ;  217;    47;   22;  10.138;  46.809
 NGC 6755                      ;Theia 2282                    ;  217;    43;   15;   6.912;  34.884
+NGC 6755                      ;Theia 2282                    ;     ;      ;     ;        ;
 NGC 6756                      ;Collinder 398                 ;     ;      ;     ;        ;
 NGC 6756                      ;FSR 113                       ;     ;      ;     ;        ;
 NGC 6756                      ;FoF 159                       ;  227;   969;  183;  80.617;  18.885
@@ -18034,6 +18095,7 @@ NGC 6819                      ;Melotte 223                   ;     ;      ;     
 NGC 6819                      ;Theia 7522                    ;     ;      ;     ;        ;
 NGC 6819                      ;Theia 7522                    ; 1527;  1083;  837;  54.813;  77.285
 NGC 6819                      ;Theia 8171                    ; 1527;    53;   41;   2.685;  77.358
+NGC 6819                      ;Theia 8171                    ;     ;      ;     ;        ;
 NGC 6823                      ;Collinder 405                 ;     ;      ;     ;        ;
 NGC 6823                      ;FSR 153                       ;     ;      ;     ;        ;
 NGC 6823                      ;FoF 322                       ;     ;      ;     ;        ;
@@ -18770,6 +18832,7 @@ PHN98 RS                      ;PHN98 16                      ;     ;      ;     
 PHOC 10                       ;Theia 2538                    ;   29;   218;   20;  68.966;   9.174
 PHOC 11                       ;HeXuHao 40                    ;     ;      ;     ;        ;
 PHOC 12                       ;Theia 2448                    ;   71;    61;   11;  15.493;  18.033
+PHOC 12                       ;Theia 2448                    ;     ;      ;     ;        ;
 PHOC 13                       ;Theia 2554                    ;   64;   161;   25;  39.062;  15.528
 PHOC 16                       ;FoF 733                       ;     ;      ;     ;        ;
 PHOC 16                       ;FoF 733                       ;   58;   106;   44;  75.862;  41.509
@@ -18793,7 +18856,9 @@ PHOC 29                       ;FoF 1431                      ;     ;      ;     
 PHOC 29                       ;FoF 1431                      ;   39;    60;   28;  71.795;  46.667
 PHOC 3                        ;Theia 2564                    ;     ;      ;     ;        ;
 PHOC 31                       ;Theia 2771                    ;   73;   159;   49;  67.123;  30.818
+PHOC 31                       ;Theia 2771                    ;     ;      ;     ;        ;
 PHOC 37                       ;Theia 3218                    ;   54;   123;   44;  81.481;  35.772
+PHOC 37                       ;Theia 3218                    ;     ;      ;     ;        ;
 PHOC 38                       ;Theia 3072                    ;   47;   173;   15;  31.915;   8.671
 PHOC 39                       ;Ser far-South                 ;     ;      ;     ;        ;
 PHOC 39                       ;Theia 23                      ;  139;   544;  112;  80.576;  20.588
@@ -18955,6 +19020,7 @@ Patchick 3                    ;FoF 2034                      ;  126;    57;   55
 Patchick 3                    ;SAI 45                        ;     ;      ;     ;        ;
 Patchick 3                    ;Theia 4635                    ;     ;      ;     ;        ;
 Patchick 3                    ;Theia 4635                    ;  126;   143;   79;  62.698;  55.245
+Patchick 3                    ;Theia 4635                    ;     ;      ;     ;        ;
 Patchick 34                   ;FoF 1730                      ;     ;      ;     ;        ;
 Patchick 35                   ;Kronberger 21                 ;     ;      ;     ;        ;
 Patchick 38                   ;Teutsch 21                    ;     ;      ;     ;        ;
@@ -19161,6 +19227,7 @@ Platais 10                    ;Theia 439                     ;     ;      ;     
 Platais 10                    ;Theia 439                     ;   80;   617;   74;  92.500;  11.994
 Platais 11                    ;HIP 67330                     ;     ;      ;     ;        ;
 Platais 12                    ;HIP 67440                     ;     ;      ;     ;        ;
+Platais 12                    ;Theia 447                     ;     ;      ;     ;        ;
 Platais 2                     ;HIP 5671                      ;     ;      ;     ;        ;
 Platais 3                     ;HIP 21974                     ;     ;      ;     ;        ;
 Platais 3                     ;OPD 20                        ;     ;      ;     ;        ;
@@ -21910,6 +21977,7 @@ Teutsch 118                   ;Czernik 39                    ;     ;      ;     
 Teutsch 118                   ;FSR 111                       ;     ;      ;     ;        ;
 Teutsch 126                   ;FoF 1309                      ;     ;      ;     ;        ;
 Teutsch 126                   ;FoF 1309                      ;   57;    90;   35;  61.404;  38.889
+Teutsch 126                   ;Theia 3203                    ;     ;      ;     ;        ;
 Teutsch 126                   ;Theia 4081                    ;   57;   792;   20;  35.088;   2.525
 Teutsch 127                   ;FSR 353                       ;     ;      ;     ;        ;
 Teutsch 127                   ;FoF 345                       ;     ;      ;     ;        ;
@@ -22469,7 +22537,9 @@ Theia 156                     ;ASCC 85                       ;     ;      ;     
 Theia 156                     ;ASCC 85                       ;  196;   105;   92;  46.939;  87.619
 Theia 156                     ;UPK 635                       ;     ;      ;     ;        ;
 Theia 157                     ;UPK 178                       ;  379;    31;   25;   6.596;  80.645
+Theia 157                     ;UPK 178                       ;     ;      ;     ;        ;
 Theia 158                     ;UPK 143                       ;  384;   110;   87;  22.656;  79.091
+Theia 158                     ;UPK 143                       ;     ;      ;     ;        ;
 Theia 159                     ;FoF 2351                      ;     ;      ;     ;        ;
 Theia 159                     ;FoF 2351                      ;  178;    94;   59;  33.146;  62.766
 Theia 159                     ;UBC 392                       ;     ;      ;     ;        ;
@@ -22613,6 +22683,7 @@ Theia 1678                    ;UBC 343                       ;     ;      ;     
 Theia 1678                    ;UBC 343                       ;  113;   196;   36;  31.858;  18.367
 Theia 168                     ;UPK 116                       ;     ;      ;     ;        ;
 Theia 1682                    ;BH 223                        ;   42;   141;   17;  40.476;  12.057
+Theia 1682                    ;BH 223                        ;     ;      ;     ;        ;
 Theia 1682                    ;NGC 6334                      ;     ;      ;     ;        ;
 Theia 1683                    ;FoF 275                       ;   98;   265;   24;  24.490;   9.057
 Theia 1683                    ;NGC 6216                      ;     ;      ;     ;        ;
@@ -22624,8 +22695,10 @@ Theia 1690                    ;FoF 2335                      ;  276;    56;   28
 Theia 1690                    ;Gulliver 29                   ;     ;      ;     ;        ;
 Theia 1690                    ;Gulliver 29                   ;  276;   342;  147;  53.261;  42.982
 Theia 1690                    ;Melnik-Efremov 4              ;  276;     8;    2;   0.725;  25.000
+Theia 1692                    ;HeXuHao 33                    ;     ;      ;     ;        ;
 Theia 1699                    ;FoF 276                       ;  100;   237;   16;  16.000;   6.751
 Theia 1699                    ;NGC 6318                      ;  100;   372;   20;  20.000;   5.376
+Theia 1699                    ;NGC 6318                      ;     ;      ;     ;        ;
 Theia 17                      ;IC 348                        ;     ;      ;     ;        ;
 Theia 17                      ;IC 348                        ;  319;   139;   56;  17.555;  40.288
 Theia 170                     ;UPK 89                        ;     ;      ;     ;        ;
@@ -22647,6 +22720,7 @@ Theia 1710                    ;FoF 671                       ;  891;   194;  134
 Theia 1710                    ;NGC 2362                      ;     ;      ;     ;        ;
 Theia 1710                    ;NGC 2362                      ;  891;   144;   99;  11.111;  68.750
 Theia 1713                    ;AFGL 490                      ;     ;      ;     ;        ;
+Theia 1714                    ;UFMG 84                       ;     ;      ;     ;        ;
 Theia 1714                    ;vdBergh 113                   ;  323;   112;   46;  14.241;  41.071
 Theia 1716                    ;UBC 542                       ;     ;      ;     ;        ;
 Theia 1716                    ;UBC 542                       ;  118;   107;   45;  38.136;  42.056
@@ -22667,6 +22741,7 @@ Theia 1729                    ;NGC 869                       ;     ;      ;     
 Theia 1729                    ;NGC 869                       ;  539;   503;  167;  30.983;  33.201
 Theia 1729                    ;NGC 884                       ;  539;   322;  116;  21.521;  36.025
 Theia 1731                    ;FoF 145                       ;   66;   531;   23;  34.848;   4.331
+Theia 1731                    ;LP 145                        ;     ;      ;     ;        ;
 Theia 1733                    ;FoF 159                       ;   47;   969;   22;  46.809;   2.270
 Theia 1733                    ;FoF 302                       ;   47;  1537;   18;  38.298;   1.171
 Theia 1733                    ;NGC 6755                      ;     ;      ;     ;        ;
@@ -22732,6 +22807,7 @@ Theia 1776                    ;FoF 155                       ;  140;  1619;   85
 Theia 1776                    ;NGC 6705                      ;     ;      ;     ;        ;
 Theia 1776                    ;NGC 6705                      ;  140;  2130;  113;  80.714;   5.305
 Theia 1777                    ;DBSB 123                      ;   46;    65;   23;  50.000;  35.385
+Theia 1777                    ;DBSB 123                      ;     ;      ;     ;        ;
 Theia 1779                    ;UFMG 4                        ;     ;      ;     ;        ;
 Theia 178                     ;UPK 151                       ;     ;      ;     ;        ;
 Theia 1781                    ;Ruprecht 133                  ;   42;  5838;   19;  45.238;   0.325
@@ -22766,6 +22842,7 @@ Theia 1793                    ;FoF 262                       ;  266;  1163;   96
 Theia 1793                    ;NGC 5617                      ;     ;      ;     ;        ;
 Theia 1793                    ;NGC 5617                      ;  266;   565;   97;  36.466;  17.168
 Theia 1796                    ;FoF 2339                      ;  157;    55;   34;  21.656;  61.818
+Theia 1796                    ;LP 2339                       ;     ;      ;     ;        ;
 Theia 18                      ;Escorial 35                   ;  243;     6;    3;   1.235;  50.000
 Theia 18                      ;FoF 2392                      ;     ;      ;     ;        ;
 Theia 18                      ;FoF 2392                      ;  243;   164;  115;  47.325;  70.122
@@ -22791,6 +22868,7 @@ Theia 1818                    ;Ruprecht 170                  ;   66;    65;   18
 Theia 182                     ;Theia 1171                    ;     ;      ;     ;        ;
 Theia 182                     ;Theia 122                     ;     ;      ;     ;        ;
 Theia 1820                    ;FoF 1218                      ;  220;   117;   13;   5.909;  11.111
+Theia 1820                    ;LP 1218                       ;     ;      ;     ;        ;
 Theia 1822                    ;UBC 670                       ;     ;      ;     ;        ;
 Theia 1823                    ;FoF 262                       ;  420;  1163;  102;  24.286;   8.770
 Theia 1823                    ;FoF 263                       ;  420;   397;   55;  13.095;  13.854
@@ -22820,6 +22898,7 @@ Theia 1843                    ;Haffner 8                     ;     ;      ;     
 Theia 1843                    ;Haffner 8                     ;   92;   188;   26;  28.261;  13.830
 Theia 1849                    ;FoF 240                       ;   52;  1112;   31;  59.615;   2.788
 Theia 1849                    ;NGC 3766                      ;   52;  1194;   35;  67.308;   2.931
+Theia 1849                    ;NGC 3766                      ;     ;      ;     ;        ;
 Theia 185                     ;ASCC 51                       ;     ;      ;     ;        ;
 Theia 185                     ;UBC 260                       ;     ;      ;     ;        ;
 Theia 185                     ;UBC 260                       ;  152;    20;   19;  12.500;  95.000
@@ -22847,6 +22926,8 @@ Theia 1864                    ;COIN-Gaia 28                  ;     ;      ;     
 Theia 1864                    ;COIN-Gaia 28                  ;  102;    90;   53;  51.961;  58.889
 Theia 1864                    ;FoF 2076                      ;  102;    64;   27;  26.471;  42.188
 Theia 1865                    ;Ruprecht 134                  ;   58;  1196;   16;  27.586;   1.338
+Theia 1865                    ;UFMG 88                       ;     ;      ;     ;        ;
+Theia 1868                    ;HeXuHao 51                    ;     ;      ;     ;        ;
 Theia 1873                    ;FoF 1168                      ;  687;   138;  107;  15.575;  77.536
 Theia 1873                    ;FoF 2098                      ;  687;   105;   42;   6.114;  40.000
 Theia 1873                    ;FoF 2222                      ;  687;    54;   29;   4.221;  53.704
@@ -22898,6 +22979,7 @@ Theia 1925                    ;SAI 72                        ;  840;    14;    2
 Theia 1927                    ;FoF 2111                      ;  477;   168;   75;  15.723;  44.643
 Theia 1927                    ;FoF 2112                      ;  477;    52;   16;   3.354;  30.769
 Theia 1927                    ;FoF 867                       ;  477;   118;   40;   8.386;  33.898
+Theia 1927                    ;UFMG 4                        ;     ;      ;     ;        ;
 Theia 1930                    ;FoF 844                       ;   43;   155;   24;  55.814;  15.484
 Theia 1930                    ;NGC 4463                      ;     ;      ;     ;        ;
 Theia 1930                    ;NGC 4463                      ;   43;    67;   18;  41.860;  26.866
@@ -22924,6 +23006,9 @@ Theia 1953                    ;UBC 349                       ;     ;      ;     
 Theia 1953                    ;UBC 349                       ;   47;   539;   15;  31.915;   2.783
 Theia 1957                    ;FoF 301                       ;  111;   168;   16;  14.414;   9.524
 Theia 1957                    ;FoF 302                       ;  111;  1537;   13;  11.712;   0.846
+Theia 1957                    ;LP 300                        ;     ;      ;     ;        ;
+Theia 1957                    ;LP 301                        ;     ;      ;     ;        ;
+Theia 1957                    ;LP 304                        ;     ;      ;     ;        ;
 Theia 196                     ;ASCC 111                      ;     ;      ;     ;        ;
 Theia 196                     ;ASCC 111                      ;  423;   190;  151;  35.697;  79.474
 Theia 196                     ;FoF 2341                      ;  423;    50;   47;  11.111;  94.000
@@ -22945,6 +23030,7 @@ Theia 1977                    ;NGC 2335                      ;     ;      ;     
 Theia 1977                    ;NGC 2335                      ;  157;   192;  102;  64.968;  53.125
 Theia 1978                    ;FoF 141                       ;   79;   411;   16;  20.253;   3.893
 Theia 1978                    ;NGC 5999                      ;   79;   183;   11;  13.924;   6.011
+Theia 1978                    ;NGC 5999                      ;     ;      ;     ;        ;
 Theia 1980                    ;FoF 1197                      ;  487;    85;   18;   3.696;  21.176
 Theia 1980                    ;FoF 281                       ;  487;   210;   50;  10.267;  23.810
 Theia 1980                    ;FoF 283                       ;  487;   102;   18;   3.696;  17.647
@@ -23051,6 +23137,7 @@ Theia 2070                    ;FoF 1129                      ;  447;   235;  150
 Theia 2070                    ;NGC 4609                      ;     ;      ;     ;        ;
 Theia 2070                    ;NGC 4609                      ;  447;   286;  208;  46.532;  72.727
 Theia 2073                    ;SAI 90                        ;  117;    69;   12;  10.256;  17.391
+Theia 2075                    ;Moffat 1                      ;     ;      ;     ;        ;
 Theia 2078                    ;FoF 2087                      ;  380;    99;   12;   3.158;  12.121
 Theia 2078                    ;FoF 980                       ;  380;    77;    8;   2.105;  10.390
 Theia 2078                    ;Ruprecht 71                   ;  380;    39;    6;   1.579;  15.385
@@ -23089,8 +23176,10 @@ Theia 2100                    ;NGC 6883                      ;   46;   176;   17
 Theia 2100                    ;UBC 139                       ;     ;      ;     ;        ;
 Theia 2100                    ;UBC 139                       ;   46;    98;   17;  36.957;  17.347
 Theia 2101                    ;UBC 326                       ;  130;   204;   23;  17.692;  11.275
+Theia 2101                    ;UBC 326                       ;     ;      ;     ;        ;
 Theia 2102                    ;FoF 195                       ;  220;   517;  137;  62.273;  26.499
 Theia 2102                    ;NGC 2421                      ;  220;   522;  159;  72.273;  30.460
+Theia 2102                    ;NGC 2421                      ;     ;      ;     ;        ;
 Theia 2110                    ;DBSB 7                        ;     ;      ;     ;        ;
 Theia 2110                    ;DBSB 7                        ;   49;   283;   27;  55.102;   9.541
 Theia 2110                    ;FoF 1411                      ;   49;    78;   10;  20.408;  12.821
@@ -23113,6 +23202,7 @@ Theia 2136                    ;Ruprecht 76                   ;     ;      ;     
 Theia 2136                    ;Ruprecht 76                   ;   54;    56;    9;  16.667;  16.071
 Theia 2139                    ;Basel 18                      ;   74;   118;    9;  12.162;   7.627
 Theia 214                     ;OPD 16                        ;  279;    18;   17;   6.093;  94.444
+Theia 2144                    ;ASCC 95                       ;     ;      ;     ;        ;
 Theia 2145                    ;FSR 1500                      ;  358;   126;   41;  11.453;  32.540
 Theia 2145                    ;Ruprecht 82                   ;     ;      ;     ;        ;
 Theia 2145                    ;Ruprecht 82                   ;  358;   153;   18;   5.028;  11.765
@@ -23128,6 +23218,7 @@ Theia 2152                    ;Trumpler 29                   ;     ;      ;     
 Theia 2152                    ;Trumpler 29                   ;  532;   142;  112;  21.053;  78.873
 Theia 2153                    ;FoF 1237                      ;  141;  1766;   30;  21.277;   1.699
 Theia 2158                    ;Haffner 14                    ;   46;   331;    5;  10.870;   1.511
+Theia 2158                    ;Haffner 14                    ;     ;      ;     ;        ;
 Theia 216                     ;OPD 14                        ;     ;      ;     ;        ;
 Theia 216                     ;OPD 14                        ; 1023;    20;   20;   1.955; 100.000
 Theia 216                     ;UPK 612                       ;     ;      ;     ;        ;
@@ -23138,6 +23229,7 @@ Theia 2164                    ;FoF 1778                      ;  209;   126;  101
 Theia 2164                    ;NGC 7031                      ;     ;      ;     ;        ;
 Theia 2164                    ;NGC 7031                      ;  209;   204;  139;  66.507;  68.137
 Theia 2170                    ;FoF 155                       ;   54;  1619;   34;  62.963;   2.100
+Theia 2170                    ;M 11                          ;     ;      ;     ;        ;
 Theia 2170                    ;NGC 6705                      ;   54;  2130;   37;  68.519;   1.737
 Theia 218                     ;HIP 22931                     ;     ;      ;     ;        ;
 Theia 218                     ;Platais A1                    ;   90;     6;    4;   4.444;  66.667
@@ -23223,14 +23315,17 @@ Theia 2276                    ;Gulliver 19                   ;  141;   132;   75
 Theia 2277                    ;FoF 58                        ;   62;   482;   48;  77.419;   9.959
 Theia 2277                    ;NGC 2645                      ;   62;    36;    7;  11.290;  19.444
 Theia 2277                    ;Pismis 8                      ;   62;    44;    5;   8.065;  11.364
+Theia 2279                    ;HeXuHao 67                    ;     ;      ;     ;        ;
 Theia 2280                    ;UBC 361                       ;     ;      ;     ;        ;
 Theia 2280                    ;UBC 361                       ;  453;    42;   36;   7.947;  85.714
 Theia 2282                    ;FoF 159                       ;   43;   969;   16;  37.209;   1.651
 Theia 2282                    ;FoF 302                       ;   43;  1537;   16;  37.209;   1.041
 Theia 2282                    ;NGC 6755                      ;   43;   217;   15;  34.884;   6.912
+Theia 2282                    ;NGC 6755                      ;     ;      ;     ;        ;
 Theia 2288                    ;BH 87                         ;     ;      ;     ;        ;
 Theia 2288                    ;BH 87                         ;  113;   400;   25;  22.124;   6.250
 Theia 2288                    ;FoF 225                       ;  113;   199;   16;  14.159;   8.040
+Theia 2289                    ;CMa 23                        ;     ;      ;     ;        ;
 Theia 2292                    ;FoF 2188                      ;  205;    50;   16;   7.805;  32.000
 Theia 2292                    ;Ruprecht 24                   ;     ;      ;     ;        ;
 Theia 2292                    ;Ruprecht 24                   ;  205;    63;   34;  16.585;  53.968
@@ -23253,8 +23348,10 @@ Theia 2317                    ;UBC 517                       ;     ;      ;     
 Theia 2318                    ;FoF 198                       ;   57;   134;    9;  15.789;   6.716
 Theia 2318                    ;FoF 198                       ;   57;   195;    9;  15.789;   4.615
 Theia 2318                    ;UBC 223                       ;     ;      ;     ;        ;
+Theia 2319                    ;HeXuHao 3                     ;     ;      ;     ;        ;
 Theia 2322                    ;ESO 393-15                    ;     ;      ;     ;        ;
 Theia 2322                    ;ESO 393-15                    ;  100;     5;    1;   1.000;  20.000
+Theia 2322                    ;ESO 393-15                    ;     ;      ;     ;        ;
 Theia 2324                    ;UBC 533                       ;     ;      ;     ;        ;
 Theia 2324                    ;UBC 533                       ;  137;    23;   22;  16.058;  95.652
 Theia 2325                    ;FoF 2312                      ;     ;      ;     ;        ;
@@ -23263,6 +23360,7 @@ Theia 2326                    ;ASCC 6                        ;     ;      ;     
 Theia 2326                    ;ASCC 6                        ;  582;   111;  109;  18.729;  98.198
 Theia 2326                    ;FoF 2074                      ;  582;    63;   53;   9.107;  84.127
 Theia 2326                    ;Stock 4                       ;  582;    44;   42;   7.216;  95.455
+Theia 2327                    ;FSR 39                        ;     ;      ;     ;        ;
 Theia 233                     ;Platais A5                    ;  680;    12;    7;   1.029;  58.333
 Theia 233                     ;UPK 552                       ;  680;    44;   39;   5.735;  88.636
 Theia 2336                    ;FoF 1219                      ;  143;   245;   54;  37.762;  22.041
@@ -23285,8 +23383,10 @@ Theia 2349                    ;Ruprecht 138                  ;     ;      ;     
 Theia 2349                    ;Ruprecht 138                  ;  405;    83;   25;   6.173;  30.120
 Theia 2350                    ;FoF 584                       ;   50;   135;   14;  28.000;  10.370
 Theia 2350                    ;King 23                       ;   50;    89;   17;  34.000;  19.101
+Theia 2350                    ;King 23                       ;     ;      ;     ;        ;
 Theia 236                     ;PHOC 40                       ;  219;    36;   32;  14.612;  88.889
 Theia 2360                    ;FoF 2287                      ;  183;    53;   40;  21.858;  75.472
+Theia 2360                    ;LP 2287                       ;     ;      ;     ;        ;
 Theia 2363                    ;FoF 1400                      ;  376;   231;  156;  41.489;  67.532
 Theia 2363                    ;NGC 2353                      ;     ;      ;     ;        ;
 Theia 2363                    ;NGC 2353                      ;  376;   204;  167;  44.415;  81.863
@@ -23306,12 +23406,15 @@ Theia 2381                    ;NGC 1496                      ;  271;    54;   47
 Theia 2381                    ;PHOC 23                       ;  271;    38;   23;   8.487;  60.526
 Theia 2387                    ;FoF 864                       ;   67;  1655;   65;  97.015;   3.927
 Theia 2387                    ;NGC 6167                      ;   67;  3136;   67; 100.000;   2.136
+Theia 2387                    ;NGC 6167                      ;     ;      ;     ;        ;
 Theia 2390                    ;FoF 143                       ;   46;   924;   34;  73.913;   3.680
 Theia 2390                    ;NGC 6067                      ;   46;   844;   43;  93.478;   5.095
+Theia 2390                    ;NGC 6067                      ;     ;      ;     ;        ;
 Theia 2396                    ;FoF 2237                      ;  360;   168;  119;  33.056;  70.833
 Theia 2396                    ;Ruprecht 91                   ;     ;      ;     ;        ;
 Theia 2396                    ;Ruprecht 91                   ;  360;   467;  219;  60.833;  46.895
 Theia 2398                    ;UPK 470                       ;   68;   115;   47;  69.118;  40.870
+Theia 2398                    ;UPK 470                       ;     ;      ;     ;        ;
 Theia 24                      ;BDB 257                       ;     ;      ;     ;        ;
 Theia 24                      ;UPK 599                       ;  162;    87;   46;  28.395;  52.874
 Theia 2400                    ;FoF 90                        ;   42;   110;   11;  26.190;  10.000
@@ -23320,6 +23423,7 @@ Theia 2400                    ;Ruprecht 23                   ;   42;   206;   18
 Theia 2404                    ;UBC 201                       ;     ;      ;     ;        ;
 Theia 2404                    ;UBC 201                       ;   78;    51;   33;  42.308;  64.706
 Theia 2408                    ;Hogg 16                       ;  679;    22;   10;   1.473;  45.455
+Theia 2409                    ;Alessi 285                    ;     ;      ;     ;        ;
 Theia 2410                    ;FSR 1524                      ;  147;    29;    5;   3.401;  17.241
 Theia 2419                    ;COIN-Gaia 20                  ;     ;      ;     ;        ;
 Theia 2419                    ;COIN-Gaia 20                  ;  153;    36;   35;  22.876;  97.222
@@ -23339,6 +23443,7 @@ Theia 2447                    ;FoF 2145                      ;  477;   114;   67
 Theia 2447                    ;NGC 2396                      ;     ;      ;     ;        ;
 Theia 2447                    ;NGC 2396                      ;  477;   148;  120;  25.157;  81.081
 Theia 2448                    ;PHOC 12                       ;   61;    71;   11;  18.033;  15.493
+Theia 2448                    ;PHOC 12                       ;     ;      ;     ;        ;
 Theia 2452                    ;Collinder 258                 ;     ;      ;     ;        ;
 Theia 2452                    ;Collinder 258                 ;  870;   110;   88;  10.115;  80.000
 Theia 2452                    ;FoF 2154                      ;  870;    58;   12;   1.379;  20.690
@@ -23368,6 +23473,7 @@ Theia 2474                    ;Ruprecht 67                   ;  635;    84;   19
 Theia 2474                    ;UBC 481                       ;     ;      ;     ;        ;
 Theia 2475                    ;NGC 2401                      ;   56;   193;    8;  14.286;   4.145
 Theia 2477                    ;FoF 150                       ;   69;   470;   23;  33.333;   4.894
+Theia 2477                    ;NGC 6544                      ;     ;      ;     ;        ;
 Theia 2483                    ;COIN-Gaia 7                   ;     ;      ;     ;        ;
 Theia 2483                    ;COIN-Gaia 7                   ;   81;    31;   27;  33.333;  87.097
 Theia 2486                    ;COIN-Gaia 26                  ;  115;    62;   51;  44.348;  82.258
@@ -23407,6 +23513,7 @@ Theia 251                     ;NGC 1039                      ;     ;      ;     
 Theia 251                     ;NGC 1039                      ;  343;   555;  249;  72.595;  44.865
 Theia 251                     ;UPK 299                       ;     ;      ;     ;        ;
 Theia 251                     ;UPK 305                       ;  343;    45;   13;   3.790;  28.889
+Theia 2510                    ;HeXuHao 57                    ;     ;      ;     ;        ;
 Theia 2510                    ;PHOC 20                       ;   74;    48;   34;  45.946;  70.833
 Theia 2513                    ;FoF 2071                      ;   61;    72;   24;  39.344;  33.333
 Theia 2513                    ;King 20                       ;     ;      ;     ;        ;
@@ -23460,9 +23567,11 @@ Theia 2558                    ;FoF 420                       ;   64;   390;    7
 Theia 2558                    ;NGC 4103                      ;     ;      ;     ;        ;
 Theia 2558                    ;NGC 4103                      ;   64;   313;   13;  20.312;   4.153
 Theia 2561                    ;Basel 13                      ;  310;    97;   68;  21.935;  70.103
+Theia 2561                    ;Basel 13                      ;     ;      ;     ;        ;
 Theia 2563                    ;ASCC 30                       ;     ;      ;     ;        ;
 Theia 2563                    ;ASCC 30                       ;  240;    46;   41;  17.083;  89.130
 Theia 2563                    ;NGC 2302                      ;  240;    51;   34;  14.167;  66.667
+Theia 2565                    ;UBC 484                       ;     ;      ;     ;        ;
 Theia 257                     ;ASCC 86                       ;     ;      ;     ;        ;
 Theia 257                     ;Alessi-Teutsch 12             ;     ;      ;     ;        ;
 Theia 257                     ;Alessi-Teutsch 12             ;  193;    41;   40;  20.725;  97.561
@@ -23470,11 +23579,13 @@ Theia 257                     ;UPK 625                       ;     ;      ;     
 Theia 2574                    ;FoF 2140                      ;  268;   132;   96;  35.821;  72.727
 Theia 2574                    ;UBC 54                        ;     ;      ;     ;        ;
 Theia 2574                    ;UBC 54                        ;  268;   143;  106;  39.552;  74.126
+Theia 2575                    ;HeXuHao 73                    ;     ;      ;     ;        ;
 Theia 258                     ;UPK 281                       ;     ;      ;     ;        ;
 Theia 2591                    ;FoF 143                       ;   97;   924;   13;  13.402;   1.407
 Theia 2591                    ;NGC 6067                      ;   97;   844;   16;  16.495;   1.896
 Theia 2592                    ;FoF 2294                      ;  121;    60;   42;  34.711;  70.000
 Theia 2592                    ;UBC 27                        ;  121;    65;   63;  52.066;  96.923
+Theia 2592                    ;UBC 27                        ;     ;      ;     ;        ;
 Theia 2593                    ;NGC 7281                      ;     ;      ;     ;        ;
 Theia 2593                    ;NGC 7281                      ;  147;    40;   20;  13.605;  50.000
 Theia 2599                    ;FoF 2244                      ;   84;    60;   10;  11.905;  16.667
@@ -23499,6 +23610,7 @@ Theia 2615                    ;Basel 8                       ;     ;      ;     
 Theia 2615                    ;Basel 8                       ;  473;    51;   36;   7.611;  70.588
 Theia 262                     ;UPK 120                       ;     ;      ;     ;        ;
 Theia 2622                    ;FoF 155                       ;  102;  1619;   72;  70.588;   4.447
+Theia 2622                    ;M 11                          ;     ;      ;     ;        ;
 Theia 2622                    ;NGC 6705                      ;  102;  2130;   76;  74.510;   3.568
 Theia 263                     ;FoF 2274                      ;  343;    65;   63;  18.367;  96.923
 Theia 263                     ;NGC 7063                      ;     ;      ;     ;        ;
@@ -23519,8 +23631,10 @@ Theia 2642                    ;NGC 6152                      ;     ;      ;     
 Theia 2642                    ;NGC 6152                      ;  204;   172;   88;  43.137;  51.163
 Theia 2645                    ;FoF 2210                      ;  352;   119;   83;  23.580;  69.748
 Theia 2645                    ;UBC 311                       ;     ;      ;     ;        ;
+Theia 2649                    ;HeXuHao 54                    ;     ;      ;     ;        ;
 Theia 2649                    ;PHOC 4                        ;   69;    71;   41;  59.420;  57.746
 Theia 2652                    ;UPK 528                       ;  119;    54;   40;  33.613;  74.074
+Theia 2652                    ;UPK 528                       ;     ;      ;     ;        ;
 Theia 2657                    ;NGC 2338                      ;  349;    20;   15;   4.298;  75.000
 Theia 266                     ;FoF 2360                      ;     ;      ;     ;        ;
 Theia 266                     ;FoF 2360                      ;  234;   113;   88;  37.607;  77.876
@@ -23587,6 +23701,7 @@ Theia 2746                    ;Trumpler 22                   ;     ;      ;     
 Theia 2747                    ;FoF 141                       ;  134;   411;   23;  17.164;   5.596
 Theia 2747                    ;NGC 5999                      ;     ;      ;     ;        ;
 Theia 275                     ;UPK 418                       ;  208;    18;    7;   3.365;  38.889
+Theia 275                     ;UPK 418                       ;     ;      ;     ;        ;
 Theia 275                     ;contains UPK 418              ;     ;      ;     ;        ;
 Theia 2753                    ;UBC 350                       ;     ;      ;     ;        ;
 Theia 2753                    ;UBC 350                       ;  222;   149;   64;  28.829;  42.953
@@ -23613,6 +23728,7 @@ Theia 277                     ;NGC 2447                      ;     ;      ;     
 Theia 277                     ;NGC 2447                      ; 1081;   731;  638;  59.019;  87.278
 Theia 277                     ;UPK 480                       ;     ;      ;     ;        ;
 Theia 2771                    ;PHOC 31                       ;  159;    73;   49;  30.818;  67.123
+Theia 2771                    ;PHOC 31                       ;     ;      ;     ;        ;
 Theia 2778                    ;COIN-Gaia 5                   ;  127;    21;    3;   2.362;  14.286
 Theia 2779                    ;FoF 432                       ;  236;   416;  177;  75.000;  42.548
 Theia 2779                    ;NGC 5823                      ;     ;      ;     ;        ;
@@ -23620,6 +23736,7 @@ Theia 2779                    ;NGC 5823                      ;  236;   464;  196
 Theia 278                     ;UPK 55                        ;     ;      ;     ;        ;
 Theia 278                     ;UPK 55                        ;  113;    46;   41;  36.283;  89.130
 Theia 2781                    ;UBC 3                         ;  260;    28;   26;  10.000;  92.857
+Theia 2781                    ;UBC 3                         ;     ;      ;     ;        ;
 Theia 2786                    ;FSR 307                       ;  643;    77;    8;   1.244;  10.390
 Theia 2789                    ;FSR 923                       ;     ;      ;     ;        ;
 Theia 2789                    ;FSR 923                       ;   54;    70;   29;  53.704;  41.429
@@ -23728,10 +23845,12 @@ Theia 289                     ;UPK 587                       ;  117;    41;   31
 Theia 2895                    ;FoF 2090                      ;  509;    64;    8;   1.572;  12.500
 Theia 2895                    ;NGC 3033                      ;     ;      ;     ;        ;
 Theia 2896                    ;Ruprecht 133                  ;   83;  5838;   28;  33.735;   0.480
+Theia 2897                    ;Alessi 273                    ;     ;      ;     ;        ;
 Theia 29                      ;Cha II                        ;     ;      ;     ;        ;
 Theia 290                     ;UPK 649                       ;     ;      ;     ;        ;
 Theia 2906                    ;UBC 95                        ;     ;      ;     ;        ;
 Theia 2906                    ;UBC 95                        ;   43;    84;   26;  60.465;  30.952
+Theia 2907                    ;FSR 430                       ;     ;      ;     ;        ;
 Theia 2907                    ;FoF 541                       ;   54;    88;   19;  35.185;  21.591
 Theia 2908                    ;UBC 534                       ;     ;      ;     ;        ;
 Theia 2908                    ;UBC 534                       ;  236;    25;   22;   9.322;  88.000
@@ -23766,6 +23885,7 @@ Theia 294                     ;NGC 2323                      ; 1606;  1026;  675
 Theia 294                     ;PHOC 5                        ; 1606;    39;   11;   0.685;  28.205
 Theia 294                     ;contains NGC 2301             ;     ;      ;     ;        ;
 Theia 2944                    ;FSR 1100                      ;  124;    41;   20;  16.129;  48.780
+Theia 2945                    ;HeXuHao 44                    ;     ;      ;     ;        ;
 Theia 2947                    ;UBC 563                       ;     ;      ;     ;        ;
 Theia 2947                    ;UBC 563                       ;  222;    20;   20;   9.009; 100.000
 Theia 295                     ;Ruprecht 161                  ;     ;      ;     ;        ;
@@ -23843,6 +23963,7 @@ Theia 3041                    ;UBC 83                        ;  338;    61;   30
 Theia 3044                    ;ESO 130-8                     ;     ;      ;     ;        ;
 Theia 3044                    ;ESO 130-8                     ;  218;   105;   93;  42.661;  88.571
 Theia 3044                    ;FoF 1993                      ;  218;   153;  116;  53.211;  75.817
+Theia 3045                    ;NGC 5999                      ;     ;      ;     ;        ;
 Theia 3053                    ;UBC 663                       ;   67;     7;    1;   1.493;  14.286
 Theia 3054                    ;FoF 145                       ;   52;   531;    7;  13.462;   1.318
 Theia 3060                    ;UBC 451                       ;     ;      ;     ;        ;
@@ -23891,6 +24012,7 @@ Theia 3157                    ;FoF 381                       ;   89;   180;   22
 Theia 3157                    ;NGC 2455                      ;     ;      ;     ;        ;
 Theia 3157                    ;NGC 2455                      ;   89;   106;   24;  26.966;  22.642
 Theia 3161                    ;FoF 285                       ;  224;   414;   40;  17.857;   9.662
+Theia 3161                    ;LP 285                        ;     ;      ;     ;        ;
 Theia 3171                    ;UBC 118                       ;     ;      ;     ;        ;
 Theia 3171                    ;UBC 118                       ;  299;    85;   69;  23.077;  81.176
 Theia 3174                    ;FoF 2072                      ;  107;    92;   37;  34.579;  40.217
@@ -23918,7 +24040,9 @@ Theia 320                     ;FoF 2325                      ;  932;   496;  479
 Theia 320                     ;NGC 2422                      ;     ;      ;     ;        ;
 Theia 320                     ;NGC 2422                      ;  932;   617;  579;  62.124;  93.841
 Theia 320                     ;UPK 460                       ;     ;      ;     ;        ;
+Theia 3203                    ;Teutsch 126                   ;     ;      ;     ;        ;
 Theia 3205                    ;FSR 977                       ;  239;    16;    5;   2.092;  31.250
+Theia 3205                    ;FSR 977                       ;     ;      ;     ;        ;
 Theia 3210                    ;FSR 1153                      ;     ;      ;     ;        ;
 Theia 3210                    ;FSR 1153                      ;  136;     7;    1;   0.735;  14.286
 Theia 3213                    ;FoF 716                       ;   67;   135;   31;  46.269;  22.963
@@ -23927,6 +24051,7 @@ Theia 3213                    ;Ruprecht 128                  ;   67;   165;   40
 Theia 3217                    ;UBC 149                       ;     ;      ;     ;        ;
 Theia 3217                    ;UBC 149                       ;  504;   218;  122;  24.206;  55.963
 Theia 3218                    ;PHOC 37                       ;  123;    54;   44;  35.772;  81.481
+Theia 3218                    ;PHOC 37                       ;     ;      ;     ;        ;
 Theia 3229                    ;HeXuHao 24                    ;     ;      ;     ;        ;
 Theia 323                     ;Theia 246                     ;     ;      ;     ;        ;
 Theia 323                     ;Theia 404                     ;     ;      ;     ;        ;
@@ -23951,6 +24076,7 @@ Theia 3268                    ;FoF 437                       ;  397;   397;  264
 Theia 3268                    ;NGC 6192                      ;     ;      ;     ;        ;
 Theia 3268                    ;NGC 6192                      ;  397;   514;  320;  80.605;  62.257
 Theia 327                     ;UPK 495                       ;  526;    39;   26;   4.943;  66.667
+Theia 327                     ;UPK 495                       ;     ;      ;     ;        ;
 Theia 3271                    ;FoF 81                        ;   91;   176;   25;  27.473;  14.205
 Theia 3271                    ;NGC 2262                      ;     ;      ;     ;        ;
 Theia 3271                    ;NGC 2262                      ;   91;   215;   27;  29.670;  12.558
@@ -24098,6 +24224,7 @@ Theia 3491                    ;NGC 2374                      ;     ;      ;     
 Theia 3491                    ;NGC 2374                      ;  208;   144;   90;  43.269;  62.500
 Theia 35                      ;UPK 469                       ;     ;      ;     ;        ;
 Theia 350                     ;UPK 591                       ;     ;      ;     ;        ;
+Theia 3500                    ;Czernik 43                    ;     ;      ;     ;        ;
 Theia 3505                    ;FoF 144                       ;  915;  1772;  510;  55.738;  28.781
 Theia 3505                    ;NGC 6259                      ;  915;   738;  461;  50.383;  62.466
 Theia 3505                    ;UBC 322                       ;     ;      ;     ;        ;
@@ -24153,6 +24280,7 @@ Theia 360                     ;Alessi 175                    ;     ;      ;     
 Theia 360                     ;UPK 429                       ;     ;      ;     ;        ;
 Theia 360                     ;UPK 429                       ;   96;   131;   64;  66.667;  48.855
 Theia 3603                    ;RCW 103A                      ;  323;     8;    1;   0.310;  12.500
+Theia 3603                    ;Trumpler 23                   ;     ;      ;     ;        ;
 Theia 361                     ;Alessi J0709-0707             ;     ;      ;     ;        ;
 Theia 361                     ;FoF 2302                      ;     ;      ;     ;        ;
 Theia 361                     ;FoF 2302                      ;   89;    73;   34;  38.202;  46.575
@@ -24215,6 +24343,9 @@ Theia 370                     ;Mamajek 3                     ;     ;      ;     
 Theia 370                     ;Mamajek 3                     ;  250;    16;   15;   6.000;  93.750
 Theia 370                     ;OPD 44                        ;  250;     6;    5;   2.000;  83.333
 Theia 3701                    ;FoF 2295                      ;  292;   176;  131;  44.863;  74.432
+Theia 3701                    ;LP 2295                       ;     ;      ;     ;        ;
+Theia 3701                    ;Theia 6035                    ;     ;      ;     ;        ;
+Theia 3701                    ;Theia 904e                    ;     ;      ;     ;        ;
 Theia 3727                    ;COIN-Gaia 38                  ;  100;    50;   34;  34.000;  68.000
 Theia 3727                    ;UBC 50                        ;     ;      ;     ;        ;
 Theia 3728                    ;UBC 143                       ;     ;      ;     ;        ;
@@ -24275,6 +24406,7 @@ Theia 389                     ;UPK 12                        ;  188;    47;   39
 Theia 389                     ;contains UPK 12               ;     ;      ;     ;        ;
 Theia 391                     ;ASCC 128                      ;     ;      ;     ;        ;
 Theia 391                     ;ASCC 128                      ;  662;    68;   67;  10.121;  98.529
+Theia 3917                    ;FSR 322                       ;     ;      ;     ;        ;
 Theia 3923                    ;FSR 905                       ;     ;      ;     ;        ;
 Theia 3923                    ;FSR 905                       ;  161;   155;   66;  40.994;  42.581
 Theia 3923                    ;FoF 1974                      ;  161;    78;   43;  26.708;  55.128
@@ -24293,6 +24425,7 @@ Theia 3978                    ;UBC 383                       ;   91;    37;   23
 Theia 398                     ;Theia 319                     ;     ;      ;     ;        ;
 Theia 398                     ;UPK 463                       ;     ;      ;     ;        ;
 Theia 3986                    ;FSR 307                       ;  142;    77;   12;   8.451;  15.584
+Theia 3986                    ;FSR 307                       ;     ;      ;     ;        ;
 Theia 3989                    ;FoF 87                        ;   91;   259;   11;  12.088;   4.247
 Theia 3989                    ;NGC 2383                      ;   91;   332;   14;  15.385;   4.217
 Theia 3992                    ;FoF 200                       ;  803;   392;  242;  30.137;  61.735
@@ -24323,6 +24456,7 @@ Theia 4045                    ;FoF 442                       ;  143;   159;   59
 Theia 4045                    ;UBC 324                       ;     ;      ;     ;        ;
 Theia 4045                    ;UBC 324                       ;  143;   412;   78;  54.545;  18.932
 Theia 4049                    ;FoF 649                       ;  173;   316;  123;  71.098;  38.924
+Theia 4049                    ;NGC 6366                      ;     ;      ;     ;        ;
 Theia 405                     ;FoF 2278                      ; 1023;   207;  187;  18.280;  90.338
 Theia 405                     ;NGC 6025                      ;     ;      ;     ;        ;
 Theia 405                     ;NGC 6025                      ; 1023;   286;  271;  26.491;  94.755
@@ -24375,8 +24509,10 @@ Theia 4108                    ;FoF 2220                      ;  282;   169;  139
 Theia 4108                    ;UBC 242                       ;     ;      ;     ;        ;
 Theia 4117                    ;Harvard 20                    ;  166;    36;    4;   2.410;  11.111
 Theia 412                     ;UPK 369                       ;  219;    38;   20;   9.132;  52.632
+Theia 4122                    ;NGC 5999                      ;     ;      ;     ;        ;
 Theia 4124                    ;FoF 866                       ;  102;   208;   64;  62.745;  30.769
 Theia 4124                    ;FoF 866                       ;  102;   229;   66;  64.706;  28.821
+Theia 4124                    ;LP 866                        ;     ;      ;     ;        ;
 Theia 414                     ;ASCC 36                       ;   81;    13;    5;   6.173;  38.462
 Theia 4142                    ;FoF 658                       ;  340;   128;  105;  30.882;  82.031
 Theia 4142                    ;UBC 211                       ;     ;      ;     ;        ;
@@ -24459,6 +24595,7 @@ Theia 43                      ;UPK 640                       ; 2546;   616;  517
 Theia 430                     ;OPD 80                        ;     ;      ;     ;        ;
 Theia 430                     ;OPD 80                        ;  214;     4;    4;   1.869; 100.000
 Theia 4307                    ;FoF 155                       ;  180;  1619;   34;  18.889;   2.100
+Theia 4307                    ;M 11                          ;     ;      ;     ;        ;
 Theia 4307                    ;NGC 6705                      ;  180;  2130;   60;  33.333;   2.817
 Theia 4310                    ;UBC 181                       ;     ;      ;     ;        ;
 Theia 4310                    ;UBC 181                       ;   83;    31;   28;  33.735;  90.323
@@ -24476,6 +24613,7 @@ Theia 435                     ;Mu Oph                        ;     ;      ;     
 Theia 435                     ;OPD 68                        ;  682;     4;    4;   0.587; 100.000
 Theia 4350                    ;FoF 44                        ;   78;   471;   30;  38.462;   6.369
 Theia 4350                    ;Melotte 101                   ;   78;   472;   43;  55.128;   9.110
+Theia 4350                    ;Melotte 101                   ;     ;      ;     ;        ;
 Theia 4351                    ;UBC 378                       ;     ;      ;     ;        ;
 Theia 4351                    ;UBC 378                       ;  139;    29;   26;  18.705;  89.655
 Theia 4360                    ;FoF 1201                      ;   91;   155;   22;  24.176;  14.194
@@ -24513,6 +24651,7 @@ Theia 4440                    ;FoF 583                       ;   96;   428;   37
 Theia 4441                    ;UBC 44                        ;   60;    47;    5;   8.333;  10.638
 Theia 445                     ;ASCC 101                      ;     ;      ;     ;        ;
 Theia 445                     ;ASCC 101                      ;  334;    69;   69;  20.659; 100.000
+Theia 447                     ;Platais 12                    ;     ;      ;     ;        ;
 Theia 447                     ;Platais C12                   ;  581;     7;    6;   1.033;  85.714
 Theia 447                     ;UBC 11                        ;  581;    44;   41;   7.057;  93.182
 Theia 449                     ;Escorial 23                   ; 1457;     7;    1;   0.069;  14.286
@@ -24544,6 +24683,7 @@ Theia 452                     ;Alessi 24                     ; 1260;   156;  147
 Theia 452                     ;FoF 2389                      ; 1260;   111;  109;   8.651;  98.198
 Theia 4530                    ;Gulliver 51                   ;     ;      ;     ;        ;
 Theia 4530                    ;Gulliver 51                   ;  141;    75;   40;  28.369;  53.333
+Theia 4535                    ;HeXuHao 23                    ;     ;      ;     ;        ;
 Theia 4536                    ;Collinder 110                 ;     ;      ;     ;        ;
 Theia 4536                    ;Collinder 110                 ;  774;   881;  567;  73.256;  64.359
 Theia 4536                    ;FoF 79                        ;  774;   810;  498;  64.341;  61.481
@@ -24582,6 +24722,7 @@ Theia 4633                    ;UBC 209                       ;     ;      ;     
 Theia 4635                    ;FoF 2034                      ;  143;    57;   44;  30.769;  77.193
 Theia 4635                    ;Patchick 3                    ;     ;      ;     ;        ;
 Theia 4635                    ;Patchick 3                    ;  143;   126;   79;  55.245;  62.698
+Theia 4635                    ;Patchick 3                    ;     ;      ;     ;        ;
 Theia 4649                    ;UBC 463                       ;     ;      ;     ;        ;
 Theia 4649                    ;UBC 463                       ;   80;    12;    6;   7.500;  50.000
 Theia 4651                    ;FoF 311                       ;  231;   110;   13;   5.628;  11.818
@@ -24634,6 +24775,7 @@ Theia 476                     ;NGC 2287                      ;     ;      ;     
 Theia 476                     ;NGC 2287                      ;  842;   625;  615;  73.040;  98.400
 Theia 476                     ;UPK 461                       ;     ;      ;     ;        ;
 Theia 4761                    ;UPK 241                       ;  108;    22;   21;  19.444;  95.455
+Theia 4761                    ;UPK 241                       ;     ;      ;     ;        ;
 Theia 4767                    ;FoF 377                       ;   48;   186;   17;  35.417;   9.140
 Theia 4767                    ;NGC 2425                      ;     ;      ;     ;        ;
 Theia 4767                    ;NGC 2425                      ;   48;   355;   21;  43.750;   5.915
@@ -24655,6 +24797,7 @@ Theia 4811                    ;UBC 284                       ;   60;   170;   25
 Theia 483                     ;Theia 1406                    ;     ;      ;     ;        ;
 Theia 484                     ;Ruprecht 53                   ;     ;      ;     ;        ;
 Theia 4848                    ;UBC 475                       ;  182;    19;    7;   3.846;  36.842
+Theia 4848                    ;UBC 475                       ;     ;      ;     ;        ;
 Theia 485                     ;contains UPK 57               ;     ;      ;     ;        ;
 Theia 4850                    ;FoF 1222                      ;  631;   393;  151;  23.930;  38.422
 Theia 4850                    ;FoF 1651                      ;  631;   493;   72;  11.410;  14.604
@@ -24723,6 +24866,7 @@ Theia 500                     ;UBC 396                       ;  233;    20;   18
 Theia 500                     ;UPK 176                       ;     ;      ;     ;        ;
 Theia 5006                    ;FoF 668                       ;  381;   167;  136;  35.696;  81.437
 Theia 5006                    ;UBC 6                         ;  381;    76;   76;  19.948; 100.000
+Theia 5006                    ;UBC 6                         ;     ;      ;     ;        ;
 Theia 501                     ;ASCC 12                       ;     ;      ;     ;        ;
 Theia 501                     ;ASCC 12                       ;  623;   168;   62;   9.952;  36.905
 Theia 501                     ;Berkeley 14A                  ;  623;    27;   24;   3.852;  88.889
@@ -24751,6 +24895,7 @@ Theia 5056                    ;UBC 105                       ;     ;      ;     
 Theia 5056                    ;UBC 105                       ;  288;   115;   73;  25.347;  63.478
 Theia 5059                    ;FoF 585                       ;   83;   656;   66;  79.518;  10.061
 Theia 5059                    ;Melotte 71                    ;   83;   533;   63;  75.904;  11.820
+Theia 5059                    ;Melotte 71                    ;     ;      ;     ;        ;
 Theia 5079                    ;Ruprecht 66                   ;     ;      ;     ;        ;
 Theia 508                     ;OPD 34                        ;     ;      ;     ;        ;
 Theia 508                     ;OPD 34                        ;  201;     7;    3;   1.493;  42.857
@@ -24804,6 +24949,7 @@ Theia 5222                    ;FoF 18                        ;  312;   300;  145
 Theia 5222                    ;FoF 2051                      ;  312;    66;   14;   4.487;  21.212
 Theia 5222                    ;Tombaugh 1                    ;     ;      ;     ;        ;
 Theia 5222                    ;Tombaugh 1                    ;  312;   448;  188;  60.256;  41.964
+Theia 5229                    ;NGC 6752                      ;     ;      ;     ;        ;
 Theia 523                     ;Theia 516                     ;     ;      ;     ;        ;
 Theia 524                     ;FoF 2408                      ;     ;      ;     ;        ;
 Theia 524                     ;FoF 2408                      ; 2299;   698;  680;  29.578;  97.421
@@ -24826,6 +24972,7 @@ Theia 532                     ;Theia 166                     ;     ;      ;     
 Theia 532                     ;Theia 550                     ;     ;      ;     ;        ;
 Theia 532                     ;Theia 732                     ;     ;      ;     ;        ;
 Theia 534                     ;UPK 296                       ;  501;    71;   50;   9.980;  70.423
+Theia 534                     ;UPK 296                       ;     ;      ;     ;        ;
 Theia 534                     ;contains UPK 296              ;     ;      ;     ;        ;
 Theia 535                     ;Alessi 10                     ;     ;      ;     ;        ;
 Theia 535                     ;Alessi 10                     ;  239;    70;   70;  29.289; 100.000
@@ -24912,6 +25059,7 @@ Theia 5710                    ;FoF 1847                      ;  527;   228;  187
 Theia 575                     ;UPK 4                         ;     ;      ;     ;        ;
 Theia 575                     ;UPK 4                         ;  184;   129;   86;  46.739;  66.667
 Theia 5761                    ;FoF 1780                      ;   44;   115;   17;  38.636;  14.783
+Theia 5761                    ;LP 1780                       ;     ;      ;     ;        ;
 Theia 577                     ;UPK 213                       ;     ;      ;     ;        ;
 Theia 577                     ;UPK 216                       ;     ;      ;     ;        ;
 Theia 5773                    ;FSR 241                       ;     ;      ;     ;        ;
@@ -24933,6 +25081,7 @@ Theia 5805                    ;Trumpler 5                    ;     ;      ;     
 Theia 5805                    ;Trumpler 5                    ;  833;  2358;  708;  84.994;  30.025
 Theia 581                     ;COIN-Gaia 34                  ;  208;    34;   10;   4.808;  29.412
 Theia 581                     ;Theia 778                     ;     ;      ;     ;        ;
+Theia 5812                    ;M 12                          ;     ;      ;     ;        ;
 Theia 584                     ;Theia 1069                    ;     ;      ;     ;        ;
 Theia 5840                    ;Berkeley 9                    ;     ;      ;     ;        ;
 Theia 5840                    ;Berkeley 9                    ;  174;   171;   83;  47.701;  48.538
@@ -24985,6 +25134,8 @@ Theia 60                      ;FoF 2331                      ;  402;   144;  135
 Theia 60                      ;NGC 5662                      ;     ;      ;     ;        ;
 Theia 60                      ;NGC 5662                      ;  402;   238;  227;  56.468;  95.378
 Theia 60                      ;UPK 603                       ;     ;      ;     ;        ;
+Theia 6035                    ;LP 2295                       ;     ;      ;     ;        ;
+Theia 6035                    ;Theia 3701                    ;     ;      ;     ;        ;
 Theia 6039                    ;FoF 615                       ;  164;   390;   46;  28.049;  11.795
 Theia 6039                    ;IC 361                        ;     ;      ;     ;        ;
 Theia 6039                    ;IC 361                        ;  164;   470;   46;  28.049;   9.787
@@ -25041,6 +25192,7 @@ Theia 63                      ;Mamajek 1                     ;   20;    20;   15
 Theia 6308                    ;FoF 325                       ;   41;   250;    5;  12.195;   2.000
 Theia 633                     ;Theia 246                     ;     ;      ;     ;        ;
 Theia 6338                    ;UBC 47                        ;   78;    24;    9;  11.538;  37.500
+Theia 6338                    ;UBC 47                        ;     ;      ;     ;        ;
 Theia 634                     ;Theia 734                     ;     ;      ;     ;        ;
 Theia 635                     ;NGC 2281                      ;     ;      ;     ;        ;
 Theia 635                     ;NGC 2281                      ;  616;   410;  372;  60.390;  90.732
@@ -25093,6 +25245,7 @@ Theia 6674                    ;King 1                        ;     ;      ;     
 Theia 6674                    ;King 1                        ;  161;   651;  111;  68.944;  17.051
 Theia 670                     ;Berkeley 59                   ;     ;      ;     ;        ;
 Theia 670                     ;Berkeley 59                   ;  582;   235;  139;  23.883;  59.149
+Theia 670                     ;Berkeley 59                   ;     ;      ;     ;        ;
 Theia 670                     ;Cep OB4                       ;  582;     7;    7;   1.203; 100.000
 Theia 670                     ;FoF 2196                      ;  582;   242;  161;  27.663;  66.529
 Theia 670                     ;PTB 9                         ;  582;    19;   19;   3.265; 100.000
@@ -25213,6 +25366,7 @@ Theia 7410                    ;NGC 6939                      ;     ;      ;     
 Theia 7410                    ;NGC 6939                      ;  729;   636;  403;  55.281;  63.365
 Theia 743                     ;UPK 568                       ;     ;      ;     ;        ;
 Theia 7437                    ;FoF 46                        ;   81;  1032;   16;  19.753;   1.550
+Theia 7437                    ;M 71                          ;     ;      ;     ;        ;
 Theia 745                     ;ASCC 104                      ;     ;      ;     ;        ;
 Theia 747                     ;NGC 225                       ;     ;      ;     ;        ;
 Theia 747                     ;NGC 225                       ;  322;    28;   28;   8.696; 100.000
@@ -25308,6 +25462,7 @@ Theia 812                     ;Theia 697                     ;     ;      ;     
 Theia 815                     ;Theia 723                     ;     ;      ;     ;        ;
 Theia 8171                    ;FoF 628                       ;   53;  1414;   33;  62.264;   2.334
 Theia 8171                    ;NGC 6819                      ;   53;  1527;   41;  77.358;   2.685
+Theia 8171                    ;NGC 6819                      ;     ;      ;     ;        ;
 Theia 8180                    ;FoF 651                       ; 1097;   863;  755;  68.824;  87.486
 Theia 8180                    ;NGC 188                       ;     ;      ;     ;        ;
 Theia 8180                    ;NGC 188                       ; 1097;   857;  776;  70.738;  90.548
@@ -25394,6 +25549,7 @@ Theia 876                     ;UPK 119                       ;   87;    24;   24
 Theia 88                      ;FoF 2282                      ;  234;    73;   49;  20.940;  67.123
 Theia 88                      ;IC 5146                       ;     ;      ;     ;        ;
 Theia 88                      ;IC 5146                       ;  234;   105;   67;  28.632;  63.810
+Theia 88                      ;IC 5146                       ;     ;      ;     ;        ;
 Theia 880                     ;Theia 104                     ;     ;      ;     ;        ;
 Theia 880                     ;UPK 542                       ;     ;      ;     ;        ;
 Theia 880                     ;UPK 542                       ;   95;    43;   30;  31.579;  69.767
@@ -25459,6 +25615,8 @@ Theia 902                     ;Theia 480                     ;     ;      ;     
 Theia 902                     ;UPK 351                       ;     ;      ;     ;        ;
 Theia 903                     ;Theia 502                     ;     ;      ;     ;        ;
 Theia 903                     ;UPK 590                       ;     ;      ;     ;        ;
+Theia 904b                    ;HeXuHao 45                    ;     ;      ;     ;        ;
+Theia 904e                    ;Theia 3701                    ;     ;      ;     ;        ;
 Theia 909                     ;Cha I Assoc                   ;     ;      ;     ;        ;
 Theia 91                      ;FSR 398                       ;  784;    55;   49;   6.250;  89.091
 Theia 91                      ;FoF 2255                      ;  784;   100;   73;   9.311;  73.000
@@ -25549,6 +25707,7 @@ Theia 981                     ;UPK 333                       ;     ;      ;     
 Theia 981                     ;UPK 333                       ;   81;    54;   33;  40.741;  61.111
 Theia 982                     ;Theia 1263                    ;     ;      ;     ;        ;
 Theia 984                     ;FoF 2293                      ;  131;    55;   33;  25.191;  60.000
+Theia 984                     ;LP 2293                       ;     ;      ;     ;        ;
 Theia 989                     ;Theia 889                     ;     ;      ;     ;        ;
 Theia 99                      ;Escorial 29                   ;  703;     9;    2;   0.284;  22.222
 Theia 991                     ;COIN-Gaia 25                  ;     ;      ;     ;        ;
@@ -25749,6 +25908,7 @@ Trumpler 23                   ;FoF 2103                      ;     ;      ;     
 Trumpler 23                   ;FoF 2103                      ;  368;    74;   20;   5.435;  27.027
 Trumpler 23                   ;FoF 269                       ;     ;      ;     ;        ;
 Trumpler 23                   ;FoF 269                       ;  368;   512;  311;  84.511;  60.742
+Trumpler 23                   ;Theia 3603                    ;     ;      ;     ;        ;
 Trumpler 24                   ;Harvard 12                    ;     ;      ;     ;        ;
 Trumpler 24                   ;UBC 323                       ;     ;      ;     ;        ;
 Trumpler 25                   ;BH 225                        ;     ;      ;     ;        ;
@@ -26373,6 +26533,7 @@ UBC 269                       ;Kronberger 124                ;     ;      ;     
 UBC 27                        ;FoF 2294                      ;     ;      ;     ;        ;
 UBC 27                        ;FoF 2294                      ;   65;    60;   35;  53.846;  58.333
 UBC 27                        ;Theia 2592                    ;   65;   121;   63;  96.923;  52.066
+UBC 27                        ;Theia 2592                    ;     ;      ;     ;        ;
 UBC 271                       ;FoF 1540                      ;     ;      ;     ;        ;
 UBC 273                       ;Kronberger 133                ;     ;      ;     ;        ;
 UBC 274                       ;FoF 5                         ;     ;      ;     ;        ;
@@ -26427,6 +26588,7 @@ UBC 296                       ;Theia 2201                    ;     ;      ;     
 UBC 296                       ;Theia 2201                    ;   33;    69;   11;  33.333;  15.942
 UBC 3                         ;Alessi 161                    ;     ;      ;     ;        ;
 UBC 3                         ;Theia 2781                    ;   28;   260;   26;  92.857;  10.000
+UBC 3                         ;Theia 2781                    ;     ;      ;     ;        ;
 UBC 300                       ;Theia 3861                    ;     ;      ;     ;        ;
 UBC 300                       ;Theia 3861                    ;  124;    69;   42;  33.871;  60.870
 UBC 302                       ;Theia 3421                    ;     ;      ;     ;        ;
@@ -26508,6 +26670,7 @@ UBC 324                       ;Theia 4045                    ;  412;   143;   78
 UBC 325                       ;Theia 481                     ;     ;      ;     ;        ;
 UBC 325                       ;UPK 644                       ;     ;      ;     ;        ;
 UBC 326                       ;Theia 2101                    ;  204;   130;   23;  11.275;  17.692
+UBC 326                       ;Theia 2101                    ;     ;      ;     ;        ;
 UBC 326                       ;UFMG 23                       ;     ;      ;     ;        ;
 UBC 327                       ;ESO 518 03                    ;     ;      ;     ;        ;
 UBC 327                       ;ESO 518-3                     ;     ;      ;     ;        ;
@@ -26792,12 +26955,14 @@ UBC 465                       ;FoF 1426                      ;  111;   121;   15
 UBC 465                       ;Waterloo 3                    ;     ;      ;     ;        ;
 UBC 465                       ;Waterloo 3                    ;  111;    64;   47;  42.342;  73.438
 UBC 47                        ;Theia 6338                    ;   24;    78;    9;  37.500;  11.538
+UBC 47                        ;Theia 6338                    ;     ;      ;     ;        ;
 UBC 470                       ;ESO 430-18                    ;     ;      ;     ;        ;
 UBC 470                       ;FoF 1440                      ;     ;      ;     ;        ;
 UBC 470                       ;FoF 1449                      ;   33;    65;    9;  27.273;  13.846
 UBC 472                       ;Theia 7197                    ;     ;      ;     ;        ;
 UBC 472                       ;Theia 7197                    ;   57;    52;   22;  38.596;  42.308
 UBC 475                       ;Theia 4848                    ;   19;   182;    7;  36.842;   3.846
+UBC 475                       ;Theia 4848                    ;     ;      ;     ;        ;
 UBC 477                       ;Theia 891                     ;     ;      ;     ;        ;
 UBC 477                       ;UPK 508                       ;     ;      ;     ;        ;
 UBC 479                       ;Theia 1884                    ;     ;      ;     ;        ;
@@ -26816,6 +26981,7 @@ UBC 482                       ;Alessi 172                    ;     ;      ;     
 UBC 482                       ;Theia 2078                    ;     ;      ;     ;        ;
 UBC 482                       ;Theia 2078                    ;   97;   380;   27;  27.835;   7.105
 UBC 484                       ;FoF 2149                      ;     ;      ;     ;        ;
+UBC 484                       ;Theia 2565                    ;     ;      ;     ;        ;
 UBC 485                       ;FoF 2149                      ;     ;      ;     ;        ;
 UBC 485                       ;Theia 3590                    ;     ;      ;     ;        ;
 UBC 486                       ;Theia 2458                    ;     ;      ;     ;        ;
@@ -27027,6 +27193,7 @@ UBC 6                         ;FoF 668                       ;   76;   167;   55
 UBC 6                         ;Teutsch 182                   ;     ;      ;     ;        ;
 UBC 6                         ;Teutsch 198                   ;     ;      ;     ;        ;
 UBC 6                         ;Theia 5006                    ;   76;   381;   76; 100.000;  19.948
+UBC 6                         ;Theia 5006                    ;     ;      ;     ;        ;
 UBC 60                        ;COIN-Gaia 11                  ;     ;      ;     ;        ;
 UBC 60                        ;UPK 345                       ;     ;      ;     ;        ;
 UBC 601                       ;FoF 554                       ;   17;  2839;   14;  82.353;   0.493
@@ -27261,6 +27428,7 @@ UFMG 36                       ;UBC 533                       ;     ;      ;     
 UFMG 39                       ;Theia 3926                    ;     ;      ;     ;        ;
 UFMG 4                        ;FoF 867                       ;     ;      ;     ;        ;
 UFMG 4                        ;Theia 1779                    ;     ;      ;     ;        ;
+UFMG 4                        ;Theia 1927                    ;     ;      ;     ;        ;
 UFMG 40                       ;FoF 714                       ;     ;      ;     ;        ;
 UFMG 40                       ;UBC 307                       ;     ;      ;     ;        ;
 UFMG 49                       ;UBC 295                       ;     ;      ;     ;        ;
@@ -27284,9 +27452,11 @@ UFMG 72                       ;Theia 1761                    ;     ;      ;     
 UFMG 76                       ;PHOC 17                       ;     ;      ;     ;        ;
 UFMG 8                        ;FoF 866                       ;     ;      ;     ;        ;
 UFMG 83                       ;Ruprecht 168                  ;     ;      ;     ;        ;
+UFMG 84                       ;Theia 1714                    ;     ;      ;     ;        ;
 UFMG 85                       ;Theia 2517                    ;     ;      ;     ;        ;
 UFMG 86                       ;PHOC 18                       ;     ;      ;     ;        ;
 UFMG 87                       ;FoF 1194                      ;     ;      ;     ;        ;
+UFMG 88                       ;Theia 1865                    ;     ;      ;     ;        ;
 UFMG 9                        ;UBC 336                       ;     ;      ;     ;        ;
 UFMG 92                       ;DB 13                         ;     ;      ;     ;        ;
 UFMG 94                       ;Theia 3922                    ;     ;      ;     ;        ;
@@ -27366,6 +27536,7 @@ UPK 140                       ;Theia 199                     ;     ;      ;     
 UPK 141                       ;FoF 2343                      ;     ;      ;     ;        ;
 UPK 141                       ;Gulliver 48                   ;     ;      ;     ;        ;
 UPK 143                       ;Theia 158                     ;  110;   384;   87;  79.091;  22.656
+UPK 143                       ;Theia 158                     ;     ;      ;     ;        ;
 UPK 144                       ;ABP 1                         ;     ;      ;     ;        ;
 UPK 145                       ;FoF 2419                      ;     ;      ;     ;        ;
 UPK 145                       ;NGC 7058                      ;     ;      ;     ;        ;
@@ -27410,6 +27581,7 @@ UPK 176                       ;Theia 500                     ;     ;      ;     
 UPK 177                       ;ASCC 123                      ;     ;      ;     ;        ;
 UPK 177                       ;Theia 117                     ;     ;      ;     ;        ;
 UPK 178                       ;Theia 157                     ;   31;   379;   25;  80.645;   6.596
+UPK 178                       ;Theia 157                     ;     ;      ;     ;        ;
 UPK 179                       ;Theia 1165                    ;     ;      ;     ;        ;
 UPK 179                       ;in Theia 280                  ;     ;      ;     ;        ;
 UPK 18                        ;Theia 479                     ;     ;      ;     ;        ;
@@ -27495,6 +27667,7 @@ UPK 237                       ;Theia 1073                    ;   95;   203;   91
 UPK 237                       ;UBC 408                       ;     ;      ;     ;        ;
 UPK 24                        ;Theia 459                     ;   36;   859;   30;  83.333;   3.492
 UPK 241                       ;Theia 4761                    ;   22;   108;   21;  95.455;  19.444
+UPK 241                       ;Theia 4761                    ;     ;      ;     ;        ;
 UPK 242                       ;NGC 225                       ;     ;      ;     ;        ;
 UPK 242                       ;Theia 747                     ;     ;      ;     ;        ;
 UPK 243                       ;contains Theia 6              ;     ;      ;     ;        ;
@@ -27587,6 +27760,7 @@ UPK 292                       ;Theia 932                     ;   29;    78;   25
 UPK 294                       ;Theia 869                     ;     ;      ;     ;        ;
 UPK 294                       ;Theia 869                     ;   34;    68;   30;  88.235;  44.118
 UPK 296                       ;Theia 534                     ;   71;   501;   50;  70.423;   9.980
+UPK 296                       ;Theia 534                     ;     ;      ;     ;        ;
 UPK 297                       ;FoF 2321                      ;     ;      ;     ;        ;
 UPK 297                       ;King 6                        ;     ;      ;     ;        ;
 UPK 297                       ;Theia 864                     ;     ;      ;     ;        ;
@@ -27801,6 +27975,7 @@ UPK 414                       ;Spurious 1                    ;     ;      ;     
 UPK 415                       ;in Theia 727                  ;     ;      ;     ;        ;
 UPK 418                       ;Alessi 144                    ;     ;      ;     ;        ;
 UPK 418                       ;Theia 275                     ;   18;   208;    7;  38.889;   3.365
+UPK 418                       ;Theia 275                     ;     ;      ;     ;        ;
 UPK 419                       ;FoF 2375                      ;     ;      ;     ;        ;
 UPK 419                       ;LDN 1641S                     ;     ;      ;     ;        ;
 UPK 42                        ;Theia 1041                    ;     ;      ;     ;        ;
@@ -27893,6 +28068,7 @@ UPK 467                       ;Theia 395                     ;  124;   205;  113
 UPK 469                       ;Theia 35                      ;     ;      ;     ;        ;
 UPK 47                        ;Theia 125                     ;     ;      ;     ;        ;
 UPK 470                       ;Theia 2398                    ;  115;    68;   47;  40.870;  69.118
+UPK 470                       ;Theia 2398                    ;     ;      ;     ;        ;
 UPK 472                       ;Theia 759                     ;     ;      ;     ;        ;
 UPK 473                       ;Collinder 121                 ;     ;      ;     ;        ;
 UPK 473                       ;FoF 2270                      ;     ;      ;     ;        ;
@@ -27927,6 +28103,7 @@ UPK 49                        ;Alessi 44                     ;     ;      ;     
 UPK 49                        ;Theia 125                     ;     ;      ;     ;        ;
 UPK 490                       ;Theia 665                     ;     ;      ;     ;        ;
 UPK 495                       ;Theia 327                     ;   39;   526;   26;  66.667;   4.943
+UPK 495                       ;Theia 327                     ;     ;      ;     ;        ;
 UPK 496                       ;FoF 2400                      ;     ;      ;     ;        ;
 UPK 496                       ;NGC 2451B                     ;     ;      ;     ;        ;
 UPK 497                       ;FoF 2437                      ;     ;      ;     ;        ;
@@ -27993,6 +28170,7 @@ UPK 525                       ;Vela Ring I                   ;     ;      ;     
 UPK 526                       ;Theia 107                     ;     ;      ;     ;        ;
 UPK 526                       ;Theia 107                     ;   39;    97;   34;  87.179;  35.052
 UPK 528                       ;Theia 2652                    ;   54;   119;   40;  74.074;  33.613
+UPK 528                       ;Theia 2652                    ;     ;      ;     ;        ;
 UPK 529                       ;Theia 1081                    ;     ;      ;     ;        ;
 UPK 53                        ;Theia 952                     ;     ;      ;     ;        ;
 UPK 53                        ;Theia 952                     ;  167;   344;  148;  88.623;  43.023

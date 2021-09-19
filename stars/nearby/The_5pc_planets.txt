@@ -8,12 +8,13 @@ Sun               I    Mercury     C  HT     0.055  E   87.97  d    0.387    0.2
 Sun               II   Venus       C  HT     0.815  E  224.70  d    0.723    0.007  0.95       
 Sun               III  Earth       C  WT     1.00   E  365.26  d    1.00     0.017  1.00  1.00 
 Sun               IV   Mars        C  WT     0.107  E  686.97  d    1.523    0.093  0.53  0.70 
-Sun                    Ceres       C  CD     0.0002 E    4.61  y    2.77     0.076  0.07       Dwarf planet, largest in the Main Belt
+Sun                    Ceres       C  CD     0.0002 E    4.61  y    2.77     0.076  0.07       Dwarf planet, largest and most massive in the Main Belt
 Sun               V    Jupiter     C  CJ     1.00   J   11.86  y    5.20     0.049 11.21
 Sun               VI   Saturn      C  CJ     0.30   J   29.46  y    9.58     0.057  9.45
 Sun               VII  Uranus      C  CN    14.54   E   84.02  y   19.22     0.046  3.93
 Sun               VIII Neptune     C  CN    17.15   E  164.8   y   30.11     0.009  3.88
 Sun                    Pluto       C  CD     0.0022 E  247.9   y   39.48     0.249  0.19       Dwarf planet, largest in the Kuiper Belt
+Sun                    Eris        C  CD     0.0028 E  559.1   y   67.86     0.436  0.18       Dwarf planet, most massive in the Kuiper Belt
 Sun               IX   Planet Nine D  CS     6.2    E 7407     y  380        0.21   3.0        May not exist (reasons summarized by Lawler - The Conversation)
 Proxima Centauri  d                U  HT  >  0.29   E    5.168 d    0.02895
 Proxima Centauri  b                C  WT  >  1.17   E   11.184 d    0.04857  0.109 ~1.15  0.87 Rad= 0.8-1.5 RE, mass = 3.0 if coplanar with c (Benedict 2020)
@@ -39,7 +40,7 @@ Lalande 21185                      R  C?                29     y                
 Lalande 21185                      R  CJ     1.6    J   30     y    7.3      0                 Dismissed: claimed by Gatewood (1996), but not confirmed by RV
 Epsilon Eridani                    R  CJ            J  773.4   d                               False positive (Rosenthal, 2021)
 Epsilon Eridani                    C  CA  <  0.0001 E    5.74  y    3.0                        Asteroid belt 3.0 +- 0.75 AU
-Epsilon Eridani   b    AEgir       U  CJ     0.66   J    7.28  y    3.52     0.07              Dust disks, asteroid belt, mass from Sayson et al. (2021)
+Epsilon Eridani   b    AEgir       C  CJ     0.66   J    7.28  y    3.52     0.07              Dust disks, asteroid belt, mass from Sayson et al. (2021)
 Epsilon Eridani                    C  CA            E   57.8   y   14                          Asteroid belt 8-20 AU
 Epsilon Eridani   c                U  CN     0.1    J  280     y   40        0.3           
 Epsilon Eridani                    C  CA     0.002  E  513     y   60                          Dust disk 35-100 AU, peak of emission at 60 AU
@@ -48,7 +49,7 @@ Lacaille 9352     c                C  HS  >  7.6    E   21.789 d    0.120    0.0
 Lacaille 9352     d                D  WS  >  6.5    E   38.80  d    0.175    0.04              May be due to stellar activity
 Ross 128          b                C  WT  >  1.35   E    9.86  d    0.0493   0.036        0.86 
 Ross 128          c                U  CJ     0.25   J   31.4   y    5.5                        Kervella+, 2019, 1 < sma < 10
-61 Cygni B        b                U  CJ  ~  3      J >668     d   >1.3                        Kervella+, 2019; also several spurious claims made betw 1942 and 77 around both A and B stars
+61 Cygni B        b                U  CJ  ~  3      J >668     d   >1.3                        Kervella+, 2019; see also several spurious claims made between 1942 and 77 around both A and B stars
 Struve 2398 B     b                U  HT  >  1.20   E    2.7   d    0.024
 Struve 2398 B     c                C  CN  > 15.7    E   91.29  d    0.261    0.06
 Struve 2398 B     d                C  CN  > 13.1    E  192.4   d    0.428    0.03
@@ -64,7 +65,7 @@ Tau Ceti          e                C  WS  >  3.93   E  162.87  d    0.538    0.1
 Tau Ceti               PxP-5       P  HS  >  3.6    E  270.0   d    0.754                      Predicted, if PxP-4 period is close to 470 d
 Tau Ceti               PxP-4       P  HS  >  3.6    E  468.0   d    1.09                       Predicted, Possible periods: 277-468 d
 Tau Ceti          f                C  CS  >  3.93   E  636.13  d    1.334    0.16         0.58
-Tau Ceti          i                U  CJ  <  3.0    J   12.6   y    5.0                        Kervella+, 2019
+Tau Ceti          i                U  CJ     1.5    J   44.0   y   11.5                        Kervella+, 2019; mass: 1-2 MJ, SMA = 3-20 AU
 Tau Ceti                           C  CA                          ~29                          Debris disk, 6.2 - 52 AU 
 LHS 1565          b                C  HT  >  1.38   E    3.20  d    0.021   <0.31              
 LHS 1565          c                C  WT  >  1.75   E    6.69  d    0.035   <0.29         0.86
@@ -81,8 +82,8 @@ Teegarden's star  e                R  HJ  >  0.26   J    2.06  d    0.014    0  
 Teegarden's star  b                C  WT  >  1.05   E    4.91  d    0.0252   0            0.95
 Teegarden's star  c                C  WT  >  1.11   E   11.409 d    0.0443   0            0.68
 Teegarden's star  d                U  CT  >  0.83   E   25.94  d    0.0766   0                 Fixed eccentricity
-Kapteyn's star    b                U  WS  >  4.8    E   48.62  d    0.168    0.21         0.67 
-Kapteyn's star    c                C  CS  >  7.0    E  121.53  d    0.311    0.23
+Kapteyn's star    b                D  WS  >  4.8    E   48.62  d    0.168    0.21         0.67 No evidence of any  planets orbiting Kapteyn's stars (Bortle, 2021)
+Kapteyn's star    c                D  CS  >  7.0    E  121.53  d    0.311    0.23
 Lacaille 8760     b                U  CJ     1.5    J   21.4   y    6.5                        Kervella+, 2019, 0.5 < m < 2.5, 3 < sma < 10
 Wolf 1061         b                C  HT  >  1.91   E    4.887 d    0.0375   0.15              
 Wolf 1061         c                C  WS  >  3.41   E   17.872 d    0.0890   0.11         0.80

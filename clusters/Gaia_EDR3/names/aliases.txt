@@ -2253,6 +2253,7 @@ Berkeley 9                    ;FoF 722                       ;  171;   111;  103
 Berkeley 9                    ;Theia 5840                    ;     ;      ;     ;        ;
 Berkeley 9                    ;Theia 5840                    ;  171;   174;   83;  48.538;  47.701
 Berkeley 90                   ;FSR 262                       ;     ;      ;     ;        ;
+Berkeley 90                   ;Villafranca O-011             ;     ;      ;     ;        ;
 Berkeley 91                   ;FSR 287                       ;     ;      ;     ;        ;
 Berkeley 92                   ;FSR 329                       ;     ;      ;     ;        ;
 Berkeley 95                   ;FSR 375                       ;     ;      ;     ;        ;
@@ -2266,6 +2267,7 @@ Berkeley 98                   ;FSR 361                       ;     ;      ;     
 Berkeley 98                   ;FoF 48                        ;     ;      ;     ;        ;
 Berkeley 98                   ;FoF 48                        ;  148;   105;   82;  55.405;  78.095
 Berkeley 99                   ;FSR 455                       ;     ;      ;     ;        ;
+Bermuda Cl                    ;Villafranca O-014 NW          ;     ;      ;     ;        ;
 Beta Cru                      ;Park-Finley 1                 ;     ;      ;     ;        ;
 Beta Lyr                      ;Gaia 8                        ;     ;      ;     ;        ;
 Beta Mon                      ;ASCC 24                       ;     ;      ;     ;        ;
@@ -2274,6 +2276,7 @@ Beta-1 Cap                    ;Alessi 81                     ;     ;      ;     
 Bica 1                        ;BBD 1                         ;     ;      ;     ;        ;
 Bica 1                        ;Cyg OB2                       ;     ;      ;     ;        ;
 Bica 1                        ;FSR 234                       ;     ;      ;     ;        ;
+Bica 1                        ;Villafranca O-007             ;     ;      ;     ;        ;
 Bica 118                      ;Dolidze 1                     ;     ;      ;     ;        ;
 Bica 121                      ;Gulliver 42                   ;     ;      ;     ;        ;
 Bica 130                      ;TC 2020+3950                  ;     ;      ;     ;        ;
@@ -2286,6 +2289,7 @@ Bica 186                      ;Bica 185                      ;     ;      ;     
 Bica 2                        ;BBD 2                         ;     ;      ;     ;        ;
 Bica 2                        ;Cyg OB2                       ;     ;      ;     ;        ;
 Bica 2                        ;FSR 236                       ;     ;      ;     ;        ;
+Bica 2                        ;Villafranca O-008             ;     ;      ;     ;        ;
 Bica 201                      ;Gulliver 19                   ;     ;      ;     ;        ;
 Bica 218                      ;W3 Main                       ;     ;      ;     ;        ;
 Bica 219                      ;W3(OH)                        ;     ;      ;     ;        ;
@@ -2542,6 +2546,7 @@ CCCP-Cl 2                     ;CCL 2                         ;     ;      ;     
 CCCP-Cl 20                    ;Bochum 11                     ;     ;      ;     ;        ;
 CCCP-Cl 20                    ;Carina T                      ;     ;      ;     ;        ;
 CCCP-Cl 3                     ;CCL 3                         ;     ;      ;     ;        ;
+CCCP-Cl 3                     ;Villafranca O-003             ;     ;      ;     ;        ;
 CCCP-Cl 4                     ;CCL 4                         ;     ;      ;     ;        ;
 CCCP-Cl 5                     ;Collinder 232                 ;     ;      ;     ;        ;
 CCCP-Cl 6                     ;CCL 6                         ;     ;      ;     ;        ;
@@ -3680,6 +3685,7 @@ Collinder 419                 ;FoF 2247                      ;   48;   217;   46
 Collinder 419                 ;Theia 286                     ;     ;      ;     ;        ;
 Collinder 419                 ;Theia 286                     ;   48;   575;   31;  64.583;   5.391
 Collinder 419                 ;UPK 111                       ;     ;      ;     ;        ;
+Collinder 419                 ;Villafranca O-015             ;     ;      ;     ;        ;
 Collinder 42                  ;Pleiades                      ;     ;      ;     ;        ;
 Collinder 420                 ;NGC 6910                      ;     ;      ;     ;        ;
 Collinder 421                 ;FoF 1770                      ;     ;      ;     ;        ;
@@ -4339,6 +4345,7 @@ DBSB 54                       ;Trumpler 14                   ;     ;      ;     
 DBSB 56                       ;Majaess 135                   ;     ;      ;     ;        ;
 DBSB 57                       ;LSS 2063                      ;     ;      ;     ;        ;
 DBSB 57                       ;Majaess 133                   ;     ;      ;     ;        ;
+DBSB 57                       ;Villafranca O-006             ;     ;      ;     ;        ;
 DBSB 59                       ;FSR 1567                      ;     ;      ;     ;        ;
 DBSB 6                        ;DBSB 9                        ;   64;   252;   59;  92.188;  23.413
 DBSB 6                        ;FSR 1259                      ;     ;      ;     ;        ;
@@ -6066,6 +6073,7 @@ FSR 257                       ;Berkeley 89                   ;     ;      ;     
 FSR 262                       ;Berkeley 90                   ;     ;      ;     ;        ;
 FSR 263                       ;Theia 3                       ;     ;      ;     ;        ;
 FSR 263                       ;UPK 127                       ;     ;      ;     ;        ;
+FSR 263                       ;Villafranca O-014 NW          ;     ;      ;     ;        ;
 FSR 265                       ;OSC 318.45+41.91              ;     ;      ;     ;        ;
 FSR 267                       ;Teutsch 22                    ;     ;      ;     ;        ;
 FSR 268                       ;NGC 7044                      ;     ;      ;     ;        ;
@@ -11594,6 +11602,7 @@ Gaia 8                        ;PHOC 41                       ;     ;      ;     
 Gaia-TGAS 1                   ;UPK 578                       ;     ;      ;     ;        ;
 Gamma Vel                     ;BBJ 4                         ;     ;      ;     ;        ;
 Gamma Vel                     ;Pozzo 1                       ;     ;      ;     ;        ;
+Gamma Vel                     ;Villafranca O-024             ;     ;      ;     ;        ;
 Garrison 1                    ;Sigma Ori                     ;     ;      ;     ;        ;
 Gas Pump Handle               ;Ramakers 53                   ;     ;      ;     ;        ;
 Gem I                         ;Gem T1                        ;     ;      ;     ;        ;
@@ -11621,6 +11630,7 @@ Group X                       ;OPD 10                        ;     ;      ;     
 Gru I                         ;DES J2256-5010                ;     ;      ;     ;        ;
 Gru II                        ;DES J2204-4626                ;     ;      ;     ;        ;
 Gulf of Mexico                ;Herbig 1                      ;     ;      ;     ;        ;
+Gulf of Mexico Cl             ;Villafranca O-014 SE          ;     ;      ;     ;        ;
 Gulliver 1                    ;FoF 404                       ;     ;      ;     ;        ;
 Gulliver 1                    ;FoF 404                       ;  162;   146;   92;  56.790;  63.014
 Gulliver 1                    ;Kronberger 118                ;     ;      ;     ;        ;
@@ -12153,12 +12163,14 @@ Haffner 18                    ;FoF 1435                      ;  160;    50;   13
 Haffner 18                    ;Haffner 18a                   ;     ;      ;     ;        ;
 Haffner 18                    ;Haffner 19                    ;  160;    39;   24;  15.000;  61.538
 Haffner 18                    ;Pup OB2                       ;  160;     9;    1;   0.625;  11.111
+Haffner 18                    ;Villafranca O-012 S           ;     ;      ;     ;        ;
 Haffner 18a                   ;Haffner 18                    ;     ;      ;     ;        ;
 Haffner 18b                   ;ESO 493-29                    ;     ;      ;     ;        ;
 Haffner 18c                   ;ESO 493-30                    ;     ;      ;     ;        ;
 Haffner 19                    ;ESO 493-28                    ;     ;      ;     ;        ;
 Haffner 19                    ;FoF 1435                      ;   39;    50;    5;  12.821;  10.000
 Haffner 19                    ;Haffner 18                    ;   39;   160;   24;  61.538;  15.000
+Haffner 19                    ;Villafranca O-012 N           ;     ;      ;     ;        ;
 Haffner 2                     ;Tombaugh 2                    ;     ;      ;     ;        ;
 Haffner 20                    ;BH 16                         ;     ;      ;     ;        ;
 Haffner 20                    ;ESO 430-4                     ;     ;      ;     ;        ;
@@ -12588,6 +12600,7 @@ IC 1805                       ;FSR 588                       ;     ;      ;     
 IC 1805                       ;FoF 558                       ;     ;      ;     ;        ;
 IC 1805                       ;FoF 558                       ;  106;   394;  100;  94.340;  25.381
 IC 1805                       ;Melotte 15                    ;     ;      ;     ;        ;
+IC 1805                       ;Villafranca O-017             ;     ;      ;     ;        ;
 IC 1805 West                  ;BDB 112                       ;     ;      ;     ;        ;
 IC 1848                       ;Collinder 32                  ;     ;      ;     ;        ;
 IC 1848                       ;Collinder 33                  ;     ;      ;     ;        ;
@@ -13568,6 +13581,8 @@ KBD 2                         ;KKC 39                        ;     ;      ;     
 KBD 3                         ;KKC 48                        ;     ;      ;     ;        ;
 KFG14 Orion D                 ;Bica 304                      ;     ;      ;     ;        ;
 KHC Grp D                     ;UPK 127                       ;     ;      ;     ;        ;
+KHC Grp D                     ;Villafranca O-014 NW          ;     ;      ;     ;        ;
+KHC Grp E                     ;Villafranca O-014 SE          ;     ;      ;     ;        ;
 KK15 1                        ;IRDC G53.2                    ;     ;      ;     ;        ;
 KKC 1                         ;IRAS 00117+6412               ;     ;      ;     ;        ;
 KKC 1                         ;Majaess 7                     ;     ;      ;     ;        ;
@@ -14262,6 +14277,7 @@ LP 301                        ;Theia 1957                    ;     ;      ;     
 LP 304                        ;Theia 1957                    ;     ;      ;     ;        ;
 LP 866                        ;Theia 4124                    ;     ;      ;     ;        ;
 LP 935                        ;Haffner 24                    ;     ;      ;     ;        ;
+LS 2063                       ;Villafranca O-006             ;     ;      ;     ;        ;
 LSS 2063                      ;DBSB 57                       ;     ;      ;     ;        ;
 LSS 2063                      ;Majaess 133                   ;     ;      ;     ;        ;
 LW 1                          ;NGC 1466                      ;     ;      ;     ;        ;
@@ -14913,10 +14929,12 @@ M 14                          ;FSR 64                        ;     ;      ;     
 M 14                          ;NGC 6402                      ;     ;      ;     ;        ;
 M 15                          ;NGC 7078                      ;     ;      ;     ;        ;
 M 16                          ;NGC 6611                      ;     ;      ;     ;        ;
+M 16                          ;Villafranca O-019             ;     ;      ;     ;        ;
 M 17                          ;BDB 12                        ;     ;      ;     ;        ;
 M 17                          ;MDF 4                         ;     ;      ;     ;        ;
 M 17                          ;NGC 6618                      ;     ;      ;     ;        ;
 M 17                          ;Ryu 721                       ;     ;      ;     ;        ;
+M 17                          ;Villafranca O-009             ;     ;      ;     ;        ;
 M 17 IRS 5                    ;M 17 SW                       ;     ;      ;     ;        ;
 M 17 IRS1                     ;M 17 KWO                      ;     ;      ;     ;        ;
 M 17 KWO                      ;M 17 IRS1                     ;     ;      ;     ;        ;
@@ -14983,6 +15001,7 @@ M 41                          ;ESO 557-14                    ;     ;      ;     
 M 41                          ;Melotte 52                    ;     ;      ;     ;        ;
 M 41                          ;NGC 2287                      ;     ;      ;     ;        ;
 M 42                          ;ONC                           ;     ;      ;     ;        ;
+M 42                          ;Villafranca O-023             ;     ;      ;     ;        ;
 M 44                          ;NGC 2632                      ;     ;      ;     ;        ;
 M 44                          ;Praesepe                      ;     ;      ;     ;        ;
 M 45                          ;Pleiades                      ;     ;      ;     ;        ;
@@ -15054,6 +15073,7 @@ M 78                          ;NGC 2068                      ;     ;      ;     
 M 79                          ;ESO 487-7                     ;     ;      ;     ;        ;
 M 79                          ;NGC 1904                      ;     ;      ;     ;        ;
 M 8                           ;NGC 6523                      ;     ;      ;     ;        ;
+M 8                           ;Villafranca O-018             ;     ;      ;     ;        ;
 M 80                          ;ESO 516-11                    ;     ;      ;     ;        ;
 M 80                          ;FSR 1768                      ;     ;      ;     ;        ;
 M 80                          ;NGC 6093                      ;     ;      ;     ;        ;
@@ -15249,6 +15269,7 @@ Majaess 131                   ;FoF 1034                      ;     ;      ;     
 Majaess 131                   ;FoF 1036                      ;     ;      ;     ;        ;
 Majaess 133                   ;DBSB 57                       ;     ;      ;     ;        ;
 Majaess 133                   ;LSS 2063                      ;     ;      ;     ;        ;
+Majaess 133                   ;Villafranca O-006             ;     ;      ;     ;        ;
 Majaess 134                   ;FoF 1039                      ;     ;      ;     ;        ;
 Majaess 134                   ;Majaess 13 B                  ;     ;      ;     ;        ;
 Majaess 135                   ;DBSB 56                       ;     ;      ;     ;        ;
@@ -16219,6 +16240,7 @@ NGC 2244                      ;Melotte 47                    ;     ;      ;     
 NGC 2244                      ;Mon OB2A                      ;     ;      ;     ;        ;
 NGC 2244                      ;Mon OB2A                      ;  509;    10;    5;   0.982;  50.000
 NGC 2244                      ;RMC-Spitzer B                 ;     ;      ;     ;        ;
+NGC 2244                      ;Villafranca O-020             ;     ;      ;     ;        ;
 NGC 2245                      ;BDB 197                       ;     ;      ;     ;        ;
 NGC 2245                      ;LkHalpha 215                  ;     ;      ;     ;        ;
 NGC 225                       ;Collinder 7                   ;     ;      ;     ;        ;
@@ -16263,6 +16285,7 @@ NGC 2264                      ;S Mon                         ;     ;      ;     
 NGC 2264                      ;Theia 41                      ;     ;      ;     ;        ;
 NGC 2264                      ;Theia 41                      ;  513;   808;  358;  69.786;  44.307
 NGC 2264                      ;UPK 400                       ;     ;      ;     ;        ;
+NGC 2264                      ;Villafranca O-016             ;     ;      ;     ;        ;
 NGC 2264                      ;Winter Christmas Tree         ;     ;      ;     ;        ;
 NGC 2264 A                    ;TPN 19                        ;     ;      ;     ;        ;
 NGC 2264 C                    ;SHD 1                         ;     ;      ;     ;        ;
@@ -16284,6 +16307,8 @@ NGC 2264 J                    ;NGC 2264 IRS 2                ;     ;      ;     
 NGC 2264 K                    ;NGC 2264 IRS 1                ;     ;      ;     ;        ;
 NGC 2264 North                ;FSR 990                       ;     ;      ;     ;        ;
 NGC 2264 North                ;Russeil 237                   ;     ;      ;     ;        ;
+NGC 2264 North                ;Villafranca O-016 N           ;     ;      ;     ;        ;
+NGC 2264 South                ;Villafranca O-016 S           ;     ;      ;     ;        ;
 NGC 2266                      ;Collinder 113                 ;     ;      ;     ;        ;
 NGC 2266                      ;FSR 879                       ;     ;      ;     ;        ;
 NGC 2266                      ;FoF 631                       ;     ;      ;     ;        ;
@@ -16437,6 +16462,7 @@ NGC 2362                      ;Melotte 65                    ;     ;      ;     
 NGC 2362                      ;Tau CMa                       ;     ;      ;     ;        ;
 NGC 2362                      ;Theia 1710                    ;     ;      ;     ;        ;
 NGC 2362                      ;Theia 1710                    ;  144;   891;   99;  68.750;  11.111
+NGC 2362                      ;Villafranca O-021             ;     ;      ;     ;        ;
 NGC 2367                      ;Collinder 137                 ;     ;      ;     ;        ;
 NGC 2367                      ;ESO 559-5                     ;     ;      ;     ;        ;
 NGC 2367                      ;FSR 1269                      ;     ;      ;     ;        ;
@@ -16588,6 +16614,7 @@ NGC 2455                      ;Melotte 77                    ;     ;      ;     
 NGC 2455                      ;Theia 3157                    ;     ;      ;     ;        ;
 NGC 2455                      ;Theia 3157                    ;  106;    89;   24;  22.642;  26.966
 NGC 2467                      ;Collinder 164                 ;     ;      ;     ;        ;
+NGC 2467                      ;Villafranca O-012             ;     ;      ;     ;        ;
 NGC 2467-East                 ;BDB 247                       ;     ;      ;     ;        ;
 NGC 2477                      ;BH 13                         ;     ;      ;     ;        ;
 NGC 2477                      ;Collinder 165                 ;     ;      ;     ;        ;
@@ -16969,6 +16996,7 @@ NGC 3603                      ;Collinder 244                 ;     ;      ;     
 NGC 3603                      ;ESO 129-16                    ;     ;      ;     ;        ;
 NGC 3603                      ;FSR 1576                      ;     ;      ;     ;        ;
 NGC 3603                      ;MDF 15                        ;     ;      ;     ;        ;
+NGC 3603                      ;Villafranca O-001             ;     ;      ;     ;        ;
 NGC 362                       ;ESO 51-13                     ;     ;      ;     ;        ;
 NGC 366                       ;Collinder 9                   ;     ;      ;     ;        ;
 NGC 366                       ;FSR 528                       ;     ;      ;     ;        ;
@@ -17437,6 +17465,7 @@ NGC 6193                      ;FoF 2313                      ;     ;      ;     
 NGC 6193                      ;FoF 2313                      ;  428;    91;   75;  17.523;  82.418
 NGC 6193                      ;Theia 1643                    ;     ;      ;     ;        ;
 NGC 6193                      ;Theia 1643                    ;  428;   270;  158;  36.916;  58.519
+NGC 6193                      ;Villafranca O-010             ;     ;      ;     ;        ;
 NGC 6200                      ;BH 196                        ;     ;      ;     ;        ;
 NGC 6200                      ;Collinder 311                 ;     ;      ;     ;        ;
 NGC 6200                      ;ESO 277-8                     ;     ;      ;     ;        ;
@@ -17481,6 +17510,7 @@ NGC 6231                      ;Melotte 153                   ;     ;      ;     
 NGC 6231                      ;Theia 1672                    ;     ;      ;     ;        ;
 NGC 6231                      ;Theia 1672                    ;  527;  1200;  372;  70.588;  31.000
 NGC 6231                      ;UBC 672                       ;  527;    15;    5;   0.949;  33.333
+NGC 6231                      ;Villafranca O-022             ;     ;      ;     ;        ;
 NGC 6235                      ;ESO 519-11                    ;     ;      ;     ;        ;
 NGC 6235                      ;FSR 1787                      ;     ;      ;     ;        ;
 NGC 6242                      ;BH 204                        ;     ;      ;     ;        ;
@@ -18350,6 +18380,7 @@ NGC 752                       ;Theia 1214                    ;     ;      ;     
 NGC 752                       ;Theia 1214                    ;  223;   720;  181;  81.166;  25.139
 NGC 752                       ;UPK 285                       ;     ;      ;     ;        ;
 NGC 7538                      ;BKL 1                         ;     ;      ;     ;        ;
+NGC 7538                      ;Villafranca O-013             ;     ;      ;     ;        ;
 NGC 7538-IRS1                 ;BDB 86                        ;     ;      ;     ;        ;
 NGC 7538-IRS1                 ;Hodapp 33                     ;     ;      ;     ;        ;
 NGC 7654                      ;FoF 526                       ;     ;      ;     ;        ;
@@ -19167,6 +19198,7 @@ Pismis 24                     ;NGC 6357                      ;     ;      ;     
 Pismis 24                     ;NGC 6357                      ;  375;   123;   86;  22.933;  69.919
 Pismis 24                     ;PHOC 17                       ;  375;    30;   30;   8.000; 100.000
 Pismis 24                     ;Theia 1645                    ;  375;   171;   18;   4.800;  10.526
+Pismis 24                     ;Villafranca O-005             ;     ;      ;     ;        ;
 Pismis 24 Core C              ;NGC 6357 A                    ;     ;      ;     ;        ;
 Pismis 24 S                   ;NGC 6357 B                    ;     ;      ;     ;        ;
 Pismis 24 W                   ;VVV-CL 164                    ;     ;      ;     ;        ;
@@ -21184,6 +21216,7 @@ Sigma Ori                     ;SigmaOri-3                    ;  114;    18;   17
 Sigma Ori                     ;SigmaOri-4                    ;  114;    10;    6;   5.263;  60.000
 Sigma Ori                     ;SigmaOri-7                    ;  114;    13;    8;   7.018;  61.538
 Sigma Ori                     ;UBC 205                       ;     ;      ;     ;        ;
+Sigma Ori                     ;Villafranca O-026             ;     ;      ;     ;        ;
 Sigma Sco                     ;Ishikawa-Nishida 1            ;     ;      ;     ;        ;
 SigmaOri-1                    ;Escorial 7                    ;   31;     6;    1;   3.226;  16.667
 SigmaOri-1                    ;FoF 2370                      ;   31;   493;   29;  93.548;   5.882
@@ -25829,6 +25862,7 @@ Trumpler 14                   ;FoF 232                       ;  517;   193;   52
 Trumpler 14                   ;G287.4-0.6                    ;     ;      ;     ;        ;
 Trumpler 14                   ;MDF 14                        ;     ;      ;     ;        ;
 Trumpler 14                   ;Trumpler 15                   ;  517;   365;  136;  26.306;  37.260
+Trumpler 14                   ;Villafranca O-002             ;     ;      ;     ;        ;
 Trumpler 14-N4                ;TRB 1                         ;     ;      ;     ;        ;
 Trumpler 15                   ;BH 104                        ;     ;      ;     ;        ;
 Trumpler 15                   ;Bochum 10                     ;  365;   366;  186;  50.959;  50.820
@@ -25852,6 +25886,9 @@ Trumpler 16                   ;Eta Car Cl                    ;     ;      ;     
 Trumpler 16                   ;FoF 2092                      ;  370;   373;   56;  15.135;  15.013
 Trumpler 16                   ;FoF 231                       ;     ;      ;     ;        ;
 Trumpler 16                   ;FoF 231                       ;  370;   272;  205;  55.405;  75.368
+Trumpler 16                   ;Villafranca O-025             ;     ;      ;     ;        ;
+Trumpler 16E                  ;Villafranca O-025             ;     ;      ;     ;        ;
+Trumpler 16W                  ;Villafranca O-003             ;     ;      ;     ;        ;
 Trumpler 17                   ;BH 107                        ;     ;      ;     ;        ;
 Trumpler 17                   ;Collinder 235                 ;     ;      ;     ;        ;
 Trumpler 17                   ;ESO 128-22                    ;     ;      ;     ;        ;
@@ -28801,6 +28838,44 @@ Vela Ring K                   ;FoF 2412                      ;     ;      ;     
 Vela Sheet                    ;Vel OB2                       ;     ;      ;     ;        ;
 Vela a                        ;Vela I                        ;     ;      ;     ;        ;
 Vela b                        ;Vela II                       ;     ;      ;     ;        ;
+Villafranca O-001             ;NGC 3603                      ;     ;      ;     ;        ;
+Villafranca O-002             ;Trumpler 14                   ;     ;      ;     ;        ;
+Villafranca O-003             ;CCCP-Cl 3                     ;     ;      ;     ;        ;
+Villafranca O-003             ;Trumpler 16W                  ;     ;      ;     ;        ;
+Villafranca O-004             ;Westerlund 2                  ;     ;      ;     ;        ;
+Villafranca O-005             ;Pismis 24                     ;     ;      ;     ;        ;
+Villafranca O-006             ;DBSB 57                       ;     ;      ;     ;        ;
+Villafranca O-006             ;LS 2063                       ;     ;      ;     ;        ;
+Villafranca O-006             ;Majaess 133                   ;     ;      ;     ;        ;
+Villafranca O-007             ;Bica 1                        ;     ;      ;     ;        ;
+Villafranca O-008             ;Bica 2                        ;     ;      ;     ;        ;
+Villafranca O-009             ;M 17                          ;     ;      ;     ;        ;
+Villafranca O-010             ;NGC 6193                      ;     ;      ;     ;        ;
+Villafranca O-011             ;Berkeley 90                   ;     ;      ;     ;        ;
+Villafranca O-012             ;NGC 2467                      ;     ;      ;     ;        ;
+Villafranca O-012 N           ;Haffner 19                    ;     ;      ;     ;        ;
+Villafranca O-012 S           ;Haffner 18                    ;     ;      ;     ;        ;
+Villafranca O-013             ;NGC 7538                      ;     ;      ;     ;        ;
+Villafranca O-014 NW          ;Bermuda Cl                    ;     ;      ;     ;        ;
+Villafranca O-014 NW          ;FSR 263                       ;     ;      ;     ;        ;
+Villafranca O-014 NW          ;KHC Grp D                     ;     ;      ;     ;        ;
+Villafranca O-014 SE          ;Gulf of Mexico Cl             ;     ;      ;     ;        ;
+Villafranca O-014 SE          ;KHC Grp E                     ;     ;      ;     ;        ;
+Villafranca O-015             ;Collinder 419                 ;     ;      ;     ;        ;
+Villafranca O-016             ;NGC 2264                      ;     ;      ;     ;        ;
+Villafranca O-016 N           ;NGC 2264 North                ;     ;      ;     ;        ;
+Villafranca O-016 S           ;NGC 2264 South                ;     ;      ;     ;        ;
+Villafranca O-017             ;IC 1805                       ;     ;      ;     ;        ;
+Villafranca O-018             ;M 8                           ;     ;      ;     ;        ;
+Villafranca O-019             ;M 16                          ;     ;      ;     ;        ;
+Villafranca O-020             ;NGC 2244                      ;     ;      ;     ;        ;
+Villafranca O-021             ;NGC 2362                      ;     ;      ;     ;        ;
+Villafranca O-022             ;NGC 6231                      ;     ;      ;     ;        ;
+Villafranca O-023             ;M 42                          ;     ;      ;     ;        ;
+Villafranca O-024             ;Gamma Vel                     ;     ;      ;     ;        ;
+Villafranca O-025             ;Trumpler 16                   ;     ;      ;     ;        ;
+Villafranca O-025             ;Trumpler 16E                  ;     ;      ;     ;        ;
+Villafranca O-026             ;Sigma Ori                     ;     ;      ;     ;        ;
 Vir I                         ;HSC J1200-0040                ;     ;      ;     ;        ;
 Virgo Diamond                 ;Brosch 1                      ;     ;      ;     ;        ;
 Volans-Carina                 ;OPD 30                        ;     ;      ;     ;        ;
@@ -28934,6 +29009,7 @@ Westerlund 2                  ;FoF 1008                      ;     ;      ;     
 Westerlund 2                  ;FoF 1008                      ;  168;    52;   19;  11.310;  36.538
 Westerlund 2                  ;MDF 13                        ;     ;      ;     ;        ;
 Westerlund 2                  ;NGC 3247                      ;     ;      ;     ;        ;
+Westerlund 2                  ;Villafranca O-004             ;     ;      ;     ;        ;
 Westerlund 2 North            ;Bica 417                      ;     ;      ;     ;        ;
 Westerlund 3                  ;Pismis 22                     ;     ;      ;     ;        ;
 Whiting 1                     ;WHI B0200-03                  ;     ;      ;     ;        ;

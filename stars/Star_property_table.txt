@@ -18,7 +18,7 @@ All data are Eric Mamajek's values, except:
 4. Added column LogAge (Logarithm of the lifetime in years) calculated using the equation 1.03*10^10 * (Msun / 10^logL)
    derived from https://www.maplesoft.com/applications/view.aspx?SID=154326&view=html
     The age of the universe is 13.8*10^9 yrs, (log_t = 10.14), so all stars with ST > G7 are still in the MS
-5. Added Y3 and Y4 types. Values from T9.5 - Y4 types derived from my own list of Y dwarfs (see /low-mass/Y_dwarfs.txt)
+5. Added Y4 type. Values from T9.5 - Y4 types derived from my own list of Y dwarfs (see /low-mass/Y_dwarfs.txt)
    Any types later than Y0.5 are very uncertain given the extreme faintness and paucity of those objects
    None of subtypes > Y1 are standard, but are used in literature (TODO: put ref) and Y3 and Y4 are best understood as >=Y3 and >=Y4
 6. Removed "V" from SpT column, given that all SpTs shown here are Main Sequence

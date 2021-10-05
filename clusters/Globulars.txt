@@ -318,6 +318,7 @@ WHI B0200-03        Whiting 1                Cet  02 02 57.0 -03 15 10.1  Sgr   
 Westerlund 1        Russeil 443              Ara  16 47 02.4 -45 51 07.0  MW      Op   SSC       2.8    3558               6.80  Massive, inc. yellow SG & RSGs
 Westerlund 2 Main   FoF 1005                 Car  10 24 02.4 -57 45 29.0  MW      Op   SSC       2.4    4785               6.00  
 Willman 1           SDSS J1049+5103          UMa  10 49 24.0 +51 03 00.0  MW      Op   UFD/GC    1.8   42300                     UFD with MV -2.8 and Rh 27 pc, Very loose, elong grp of vF stars in SDSS/PanSTARRS/BASS
+FSR 1776            Minni 23                 Sco  17 54 14.0 -36 09 08.0  MW      Op   GC?       4.0    7380        0.35  10.00  dubious: not seen visually, Alessi PMs discordant from Minitti's PMs and errors in both are of as high as 0.5-1 mas 
 
 -----------------------------------
 Very doubtful / Discarded

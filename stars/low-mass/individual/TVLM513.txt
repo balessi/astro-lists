@@ -13,15 +13,13 @@ ICRS coord. (ep=J2000) :    15 01 08.187 +22 50 02.04 (Infrared) [ 90 60 0 ] B 2
 
 Boo
 
-Shows hints of an unseen companion with undetermined mass
-
   101.8    5.2    Tinney95
   100.8    2.3    vanAltena95
-   94.40   0.60   Dahn02
+   94.40   0.60   Dahn02       [superseded by Dahn17 - do not use]
    94.55   0.55   Dahn17
    92.92   0.23   Forbrich13
    93.27   0.18   Gawronski17
-   93.450  0.195  Gaia DR2
+   93.450  0.195  Gaia DR2     [superseded by GCNS21 (Gaia EDR3) - do not use]
    93.166  0.136  GCNS21
    93.368  0.039  Curiel20
    
@@ -41,6 +39,7 @@ Shows hints of an unseen companion with undetermined mass
   M 8.5   nir      Dupuy12
   M 8.5            Testi09
   M 9     opt      Faherty09
+  M 9.7            Speculoos
 
 
   u(AB)  23.231 0.598   2009yCat.2294....0A

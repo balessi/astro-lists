@@ -7,6 +7,9 @@ PMs are not homogeneous
 Add associated errors
 Add number of members
 Add mag of brightest member (and/or mag range)
+Add density
+Add total magnitude (and color)
+Add surface brightness
 Add metallicity
 
 Separate aliases from associated Objs

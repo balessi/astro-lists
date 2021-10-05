@@ -11,7 +11,7 @@ Alpha Cae A         Gl 174.1      04 40 33.71 -41 51 49.5   49.062  0.094   F 2 
 Alpha Cae B                       04 40 34.17 -41 51 54.7   49.062  0.094   M 0.5 V   12.5  
 2MASS J0443-3202                  04 43 05.82 -32 02 08.7   48.50   0.66    L 5.5 V   15.27J
 LEHPM 3806                        04 32 29.87 -48 19 16.5   48.174  0.019   M 4   V   14.14 
-RR Cae AB           GJ 2034       04 21 05.56 -48 39 07.0   47.200  0.020  DA 7.8     14.40   post comm env with a ~M 5 companion, has a possible massive Jovian Pl
+RR Cae AB           GJ 2034       04 21 05.56 -48 39 07.0   47.200  0.020  DA 7.8     14.40   post comm env with a ~M 5 companion, has 2 possible Jovian Pls
 L 447-6                           04 44 50.19 -37 49 40.9   46.780  0.013   M 4   V   14.51 
 2MASS J0451-3402    SY Cae        04 51 00.94 -34 02 14.9   45.92   0.14    L 0.5 V   22.11 
 UPM J0455-3212                    04 55 19.01 -32 12 23.3   45.835  0.020   M 4   V   16.29 

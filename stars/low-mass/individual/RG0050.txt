@@ -8,20 +8,22 @@ par
   41.8     3.0    Ianna95
   46.20   10.05   Tin96
   41.0     4.0    YPC95
-  40.1790  0.2291 Gaia DR2
+  40.1790  0.2291 Gaia DR2  do not use
   40.187   0.182  GCNS21
 
   40.19    0.18   ADOPTED
 
 ST
-  M 7.5   Liebert82      do not use
-  M 8     Kirkpatrick93
-  M 8 o   Dupuy12
-  M 8 nir Testi09
-  M 8 o   Faherty09
-  M 9     Crifo05
+  M 7.5         Liebert82      do not use
+  M 8           Kirkpatrick93
+  M 8   (op)    Dupuy12
+  M 8   (nir)   Testi09
+  M 8   (op)    Faherty09
+  M 9           Crifo05
+  M 9           Dieterich14
+  M 9.6 +- 1.1  Speculoos
 
-  M 9     adopted type
+  M 9           adopted type
 
 V
   21.51  Ianna93
@@ -29,4 +31,5 @@ V
 
   21.525 median
 
-Teff, Rad = 2402 34, 0.091 0.0086  (Dieterich14)
+Teff, Rad = 2402 +- 34, 0.091 +- 0.0086 (Dieterich14)
+            2302 +-105, 0.11  +- 0.01   (Speculoos)

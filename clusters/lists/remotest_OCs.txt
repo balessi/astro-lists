@@ -156,6 +156,7 @@ NGC 3603                               7200     1.44    6.48    SAGAR R., ET AL.
 NGC 3603                               6900     1.25    6.00    SUNG H., BESSELL M.S.            2004, AJ 127, 1014
 NGC 3603                               7158     1.63    6.000   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 SAI 50                                21900     0.60    9.70    GLUSHKOVA E.V., ET AL.           2010, PAZH, 36, 83
+Saurer 1                              13200     0.20    9.653   Carraro & Baume                  2003, MNRAS 346, 1
 Saurer 1                              16489     0.07    9.30    Bukowiecki L., et al.            2011, AcA 62
 Saurer 1                              13719     0.04    9.600   Kharchenko N. V., et al.         2013, A&A 558A, 53 (MWSC II)
 Saurer 1                              13100             9.65    Frinchaboy+                      2006  AJ

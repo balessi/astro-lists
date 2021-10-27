@@ -42,12 +42,24 @@ PHOC           | 1-41       | 2021/02   | Hunt           | 2021A&A...646A.104H |
 PST            | 1-5        | 2021/02   | Pavlidou       | arXiv:2102.08263    | The substructure of the Perseus star forming region: A survey with Gaia DR2
 LFT group      | 1-22       | 2021/03   | Liu            | arXiv:2103.10154    | The old moving groups in the field of Taurus
 Valparaiso     | 1          | 2021/04   | Negueruela     | arXiv:2104.08778    | A massive open cluster hiding in full sight
+CFN            | 1-2        | 2021/06   | Kerr           | arXiv:2105.09338v2  | Stars with Photometrically Young Gaia Luminosities Around the Solar System (SPYGLASS) I: Mapping Young Stellar Structures and their Star Formation Histories
+CHA            | 1-4        | 2021/06   | Kerr           | arXiv:2105.09338v2  | Stars with Photometrically Young Gaia Luminosities Around the Solar System (SPYGLASS) I: Mapping Young Stellar Structures and their Star Formation Histories
+CM             | 1-2        | 2021/06   | Kerr           | arXiv:2105.09338v2  | Stars with Photometrically Young Gaia Luminosities Around the Solar System (SPYGLASS) I: Mapping Young Stellar Structures and their Star Formation Histories
+GT             | 1-11       | 2021/06   | Kerr           | arXiv:2105.09338v2  | Stars with Photometrically Young Gaia Luminosities Around the Solar System (SPYGLASS) I: Mapping Young Stellar Structures and their Star Formation Histories
+MSW            | 1-4        | 2021/06   | Kerr           | arXiv:2105.09338v2  | Stars with Photometrically Young Gaia Luminosities Around the Solar System (SPYGLASS) I: Mapping Young Stellar Structures and their Star Formation Histories
+ORI            | 1-3        | 2021/06   | Kerr           | arXiv:2105.09338v2  | Stars with Photometrically Young Gaia Luminosities Around the Solar System (SPYGLASS) I: Mapping Young Stellar Structures and their Star Formation Histories
+PER            | 1-2        | 2021/06   | Kerr           | arXiv:2105.09338v2  | Stars with Photometrically Young Gaia Luminosities Around the Solar System (SPYGLASS) I: Mapping Young Stellar Structures and their Star Formation Histories
+POB3           | 1-2        | 2021/06   | Kerr           | arXiv:2105.09338v2  | Stars with Photometrically Young Gaia Luminosities Around the Solar System (SPYGLASS) I: Mapping Young Stellar Structures and their Star Formation Histories
+SC             | 1-27       | 2021/06   | Kerr           | arXiv:2105.09338v2  | Stars with Photometrically Young Gaia Luminosities Around the Solar System (SPYGLASS) I: Mapping Young Stellar Structures and their Star Formation Histories
+TLC            | 1-27       | 2021/06   | Kerr           | arXiv:2105.09338v2  | Stars with Photometrically Young Gaia Luminosities Around the Solar System (SPYGLASS) I: Mapping Young Stellar Structures and their Star Formation Histories
+VCG4           | 1-5        | 2021/06   | Kerr           | arXiv:2105.09338v2  | Stars with Photometrically Young Gaia Luminosities Around the Solar System (SPYGLASS) I: Mapping Young Stellar Structures and their Star Formation Histories
 Casado         | 24-61      | 2021/07   | Casado         | arXiv:2107.12036    | The list of possible double and multiple open clusters between galactic longitudes 240 and 270 degrees
 XDOCC          | 1-11       | 2021/08   | Jaehnig        | arXiv:2108.02783    | Membership lists for 431 open clusters in Gaia DR2 using extreme deconvolution gaussian mixture models
 CMa            | 0-23       | 2021/08   | Santos-Silva   | arXiv:2108.06234    | Canis Major OB1 stellar groups contents revealed by Gaia
 Camargo        | 1010-1013  | 2021/09   | Camargo        | arXiv:2109.14664    | NGC1605a and b: an old binary open cluster in the Galaxy
 Villafranca O- | 001-026    | 2021/10   | Maíz Apellániz | arXiv:2110.01464    | The Villafranca catalog of Galactic OB groups II. From Gaia DR2 to EDR3 and ten new systems with O stars
 Alessi         | 63-330     | 2022/xx   | Alessi         | unpublished         | several candidates found in many surveys and checked visually with Gaia
+
 
 Notes:
 

@@ -1,0 +1,202 @@
+           
+04.5-1 stream               ;Op    ;Str?  ;        ;  7390;      ;                     ;from arXiv:1711.03967v1, average dist
+08.0-1 stream               ;Op    ;Str?  ;        ; 11135;      ;                     ;from arXiv:1711.03967v1, average dist
+08.0-2 stream               ;Op    ;Str?  ;        ;  8190;      ;                     ;from arXiv:1711.03967v1, average dist
+09.0-1 stream               ;Op    ;Str?  ;        ; 11340;      ;                     ;from arXiv:1711.03967v1, average dist
+15.0-1 stream               ;Op    ;Str?  ;        ; 17260;      ;                     ;from arXiv:1711.03967v1, average dist
+17.0-1 stream               ;Op    ;Str?  ;        ; 16990;      ;                     ;from arXiv:1711.03967v1, average dist
+20.0-1 stream               ;Op    ;Str   ;        ; 20800;      ;                     ;from arXiv:1711.03967v1, average dist
+22.0-1 stream               ;Op    ;Str?  ;        ; 23665;      ;                     ;from arXiv:1711.03967v1, average dist
+23.5-2 stream               ;Op    ;Str?  ;        ; 26545;      ;                     ;from arXiv:1711.03967v1, average dist
+24.5-1 stream               ;Op    ;Str?  ;        ; 26360;      ;                     ;from arXiv:1711.03967v1, average dist
+ACS stream                  ;Op    ;Str   ;        ;  8000;      ;Anticenter Stream    ;from Grillmair (2006)
+ATLAS stream                ;Op    ;Str   ;        ; 20000;      ;                     ;from Koposov et al. (2014)
+Acheron                     :Op    ;Str   ;        ;      ;      ;                     ;Grillmair 2009               
+Aliqa Uma stream            ;Op    ;Str   ;        ; 28800;      ;                     ;from arXiv:1801.03097v1
+Alpheus stream              ;IR    ;Str   ;        ;  1900;      ;                     ;from Grillmair et al. (2013)
+C1 stream                   ;Op    ;Str   ;        ;  1500;      ;                     ;Avg dist of stars in tbl 4 of Klement et al. (2009)
+C2 stream                   ;Op    ;Str   ;        ;  1500;      ;                     ;Avg dist of stars in tbl 4 of Klement et al. (2009)
+C3 stream                   ;Op    ;Str   ;        ;  1400;      ;                     ;Avg dist of stars in tbl 4 of Klement et al. (2009)
+C4 stream                   ;Op    ;Str   ;        ;  1200;      ;                     ;Avg dist of stars in tbl 4 of Klement et al. (2009)
+Cetus                       :Op    ;Str   ;        ;      ;      ;                     ;Newberg 2009                 
+Chenab stream               ;Op    ;Str   ;        ; 39800;      ;                     ;from arXiv:1801.03097v1
+Cocytos                     :Op    ;Str   ;        ;      ;      ;                     ;Grillmair 2009               
+Corvus stream               ;Op    ;Str   ;        ;  9620;      ;                     ;from arXiv:1711.03967v1, average dist
+Dehnen 11                   ;Op    ;MG    ;        ;      ;      ;                     ;Vx= -70, Vy= -10
+Dehnen 12                   ;Op    ;MG    ;        ;      ;      ;                     ;Vx= -70, Vy= -50
+Dehnen 13                   ;Op    ;MG    ;        ;      ;      ;                     ;Vx= +50, Vy= 0
+Dehnen 14                   ;Op    ;MG    ;        ;      ;      ;                     ;Vx= +50, Vy= -25
+Dehnen 3                    ;Op    ;MG    ;        ;      ;      ;                     ;Sirius and UMa MGs, Vx= +9, Vy= +3
+Dehnen 6                    ;Op    ;MG    ;        ;      ;      ;                     ;Vx= +20, Vy= -20
+Dehnen 8                    ;Op    ;MG    ;        ;      ;      ;                     ;Vx= -40, Vy= -50
+Dehnen 9                    ;Op    ;MG    ;        ;      ;      ;                     ;Vx= -25, Vy= -50
+EBS                         :Op    ;Str   ;        ;      ;      ;                     ;Grillmair & Carlin 2016      
+Elqui stream                ;Op    ;Str   ;        ; 50100;      ;                     ;from arXiv:1801.03097v1
+Eri/Phe                     :Op    ;      ;        ;      ;      ;                     ;Li 2016                      
+Eridanus                    :Op    ;      ;        ;      ;      ;                     ;Myeong 2017                  
+Fimbulthul                  :Op    ;Str   ;        ;      ;      ;                     ;Ibata et al. 2019            
+Fjorm                       :Op    ;Str   ;        ;      ;      ;                     ;Ibata et al. 2019
+GD-1                        :Op    ;Str   ;        ;      ;      ;                     ;Price-Whelan & Bonaca 2018   
+Gaia-1 stream               ;Op    ;Str   ;        ;  4600;      ;                     ;from arXiv:1804.11339v1
+Gaia-2 stream               ;Op    ;Str   ;        ; 12000;      ;                     ;from arXiv:1804.11339v1
+Gaia-3 stream               ;Op    ;Str   ;        ;  9900;      ;                     ;from arXiv:1804.11339v1
+Gaia-4 stream               ;Op    ;Str   ;        ; 11100;      ;                     ;from arXiv:1804.11339v1
+Gaia-5 stream               ;Op    ;Str   ;        ;  6400;      ;                     ;from arXiv:1804.11339v1
+Gemini Stream               ;Op    ;Str   ;        ; 90000;      ;                     ;Distance varies 70-110 Kpc, extends to 60 degrees
+Gjoll                       :Op    ;Str   ;        ;      ;      ;                     ;Ibata et al. 2019
+Helmi stream                ;Op    ;Str   ;        ;  1400;      ;                     ;Avg dist of stars in tbl 4 of Klement et al. (2009)
+Her-Aql                     :Op    ;Ovd   ;        ;      ;      ;                     ;Grillmair & Carlin 2016      
+Hermus stream               ;Op    ;Str   ;        ; 18500;      ;                     ;from Grillmair (2014), Phoenix stream is an extension of it
+Hyllus stream               ;Op    ;Str   ;        ; 20000;      ;                     ;from Grillmair (2014)
+Indus stream                ;Op    ;Str   ;        ; 16600;      ;                     ;from arXiv:1801.03097v1
+Jet stream                  ;Op    ;Str   ;        ; 28600;10.097;                     ;from arXiv:1711.09103v1
+Jhelum stream               ;Op    ;Str   ;        ; 13200;      ;                     ;from arXiv:1801.03097v1
+Kwando stream               ;Op    ;Str   ;        ;  4400;      ;                     ;from Grillmair (2017a)
+Leiptr                      :Op    ;Str   ;        ;      ;      ;                     ;Ibata et al. 2019
+Lethe                       :Op    ;Str   ;        ;      ;      ;                     ;Grillmair 2009               
+Molonglo stream             ;Op    ;Str   ;        ; 20000;      ;                     ;from Grillmair (2017a)
+Monoceros                   :Op    ;Ovd?  ;        ;      ;      ;                     ;Grillmair & Carlin 2016      
+Murrumbidgee stream         ;Op    ;Str   ;        ; 21000;      ;                     ;from Grillmair (2017a)
+NGC 5466                    :Op    ;Str   ;        ;      ;      ;                     ;Grillmair & Johnson 2006     
+Ophiucus                    :Op    ;Str   ;        ;      ;      ;                     ;Bernard 2014                 
+Orinoco stream              ;Op    ;Str   ;        ;  6900;      ;                     ;from Grillmair (2017a)
+Orphan stream               ;Op    ;Str   ;        ; 37500;      ;                     ;from Newberg et al. (2010), average distance
+PAndAS stream               ;Op    ;Str   ;        ; 17000;      ;                     ;from Grillmair & Carlin (2016)
+PS1-A                       ;Op    ;      ;        ;      ;      ;                     ;Bernard 2016
+PS1-B                       ;Op    ;      ;        ;      ;      ;                     ;Bernard 2016
+PS1-C                       ;Op    ;      ;        ;      ;      ;                     ;Bernard 2016
+PS1-D                       ;Op    ;      ;        ;      ;      ;                     ;Bernard 2016
+PS1-E                       ;Op    ;      ;        ;      ;      ;                     ;Bernard 2016
+Pal 15                      ;Op    ;      ;        ;      ;      ;                     ;Myeong 2017                  
+Pal 5                       ;Op    ;      ;        ;      ;      ;                     ;Grillmair 2006               
+Palca stream                ;Op    ;Str   ;        ; 36300;      ;                     ;from arXiv:1801.03097v1
+Phlegethon stream           ;Op    ;Str   ;        ;  3570;      ;                     ;from arXiv:1806.01195
+Phoenix stream              ;Op    ;Str   ;        ; 17500;10.060;                     ;from Balbinot et al. (2016b), part of Hermus stream
+Pisces Overd                :Op    ;Ovd   ;        ;      ;      ;                     ;Grillmair & Carlin 2016
+RAVE DR-1 stream            ;Op    ;Str   ;        ;  1400;      ;KFR08 stream         ;Avg dist of stars in tbl 4 of Klement et al. (2009)
+RHLS stream                 ;Op    ;Str   ;        ;   610;      ;                     ;Incl RZ Cep, HD 214161 and BPS CS 30339-0037. Dist is average
+Ravi stream                 ;Op    ;Str   ;        ; 22900;      ;                     ;from arXiv:1801.03097v1
+S1 stream                   ;Op    ;Str   ;        ;      ;      ;                     ;
+S2 stream                   ;Op    ;Str   ;        ;      ;      ;                     ;
+S3 stream                   ;Op    ;Str   ;        ;  1200;      ;                     ;Avg dist of stars in tbl 4 of Klement et al. (2009)
+S52-32-20.4 stream          ;Op    ;Str   ;        ;      ;      ;                     ;from Newberg+ 2001
+SKOa stream                 ;Op    ;Str   ;        ;  1490;      ;                     ;
+SKOb stream                 ;Op    ;Str   ;        ;  5450;      ;                     ;
+SKOc stream                 ;Op    ;Str   ;        ;  5090;      ;                     ;
+Sagitarius                  :Op    ;Str   ;        ;      ;      ;                     ;Law & Majewski 2010 (model)
+Sangarius stream            ;Op    ;Str   ;        ; 21000;      ;                     ;from arXiv:1612.03181v1
+Scamander stream            ;Op    ;Str   ;        ; 21000;      ;                     ;from arXiv:1612.03181v1
+Slidr                       :Op    ;Str   ;        ;      ;      ;                     ;Ibata et al. 2019
+Styx                        :Op    ;Str   ;        ;      ;      ;                     ;Grillmair 2009
+Svol                        :Op    ;Str   ;        ;      ;      ;                     ;Ibata et al. 2019            
+Sylgr                       :Op    ;Str   ;        ;      ;      ;                     ;Ibata et al. 2019            
+Tri-And                     :Op    ;Ovd   ;        ;      ;      ;                     ;Grillmair & Carlin 2016
+Tri-And 2                   :Op    ;Ovd   ;        ;      ;      ;                     ;Grillmair & Carlin 2016
+Tri/Pis                     :Op    ;      ;        ;      ;      ;                     ;Bonaca 2012
+Triangulum stream           ;Op    ;Str   ;        ; 26000;      ;                     ;from Bonaca et al. (2012)
+Tucana III                  :Op    ;Str   ;        ;      ;      ;                     ;Shipp et al. 2018
+Turbio stream               ;Op    ;Str   ;        ; 16600;      ;                     ;from arXiv:1801.03097v1
+Turranburra stream          ;Op    ;Str   ;        ; 27500;      ;                     ;from arXiv:1801.03097v1
+VOD/VSS                     :Op    ;      ;        ;      ;      ;                     ;Vivas et al. 2001
+WG 1 stream                 ;Op    ;Str   ;        ;      ;      ;                     ;from Agnello (2017)
+WG 2 stream                 ;Op    ;Str   ;        ;      ;      ;                     ;from Agnello (2017)
+WG 3 stream                 ;Op    ;Str   ;        ;      ;      ;                     ;from Agnello (2017)
+WG 4 stream                 ;Op    ;Str   ;        ;      ;      ;                     ;from Agnello (2017)
+Wambelong stream            ;Op    ;Str   ;        ; 15100;      ;                     ;from arXiv:1801.03097v1
+Willka Yaku stream          ;Op    ;Str   ;        ; 34700;      ;                     ;from arXiv:1801.03097v1
+Ylgr                        :Op    ;Str   ;        ;      ;      ;                     ;Ibata et al. 2019            
+[KSP2004] I                 ;Op    ;MG    ;        ;  9760;      ;                     ;
+[KSP2004] II                ;Op    ;MG    ;        ; 15790;      ;                     ;
+[KSP2004] III               ;Op    ;MG    ;        ; 17470;      ;                     ;
+
+PCI-3 stream                ;And  ;01 25 18.3 ;+39 36 23  ;Op    ;Str   ;        ; 13000;      ;      ;B-1 stream                                                                                                        ;Coordinate of the most significant bin
+Argo Overd                  ;Car  ;10 50 00   ;-63 47 00  ;Op    ;Overd ; 6000.00; 13800;      ;      ;                                                                                                                  ;
+BHB Clump 4                 ;Lib  ;14 51 00   ;-00 39 00  ;Op    ;Overd ; 1000.00;  9500;      ;      ;                                                                                                                  ;
+Her-Aql cloud               ;Aql  ;19 04 24   ;+06 17 00  ;Op    ;Overd ; 1800.00; 15000;      ;      ;                                                                                                                  ;
+Per                         ;Ari  ;03 24 06   ;+20 08 00  ;Op    ;Overd ; 2400.00; 20000;      ;      ;                                                                                                                  ;
+Styx stream                 ;Boo  ;13 56 24.0 ;+26 48 00  ;Op    ;GxR   ; 3200.00; 38000;      ;      ;                                                                                                                  ;Dist of the nearest portion, value on the Diam col is for length
+TriAnd                      ;Psc  ;01 00 00   ;+32 50 00  ;Op    ;Overd ; 2100.00; 20000;      ;      ;                                                                                                                  ;
+TriAnd 2                    ;And  ;01 09 18   ;+35 44 00  ;Op    ;Overd ; 3600.00; 28000;      ;      ;                                                                                                                  ;
+Vir Overdensity             ;Vir  ;12 46 30.0 ;+02 10 00  ;Op    ;GxR?  ; 3200.00; 10000;      ;      ;VOD                                                                                                               ;Diam derived from extent from closer to 3000 sq deg area.
+Vir Stel Str                ;Vir  ;12 42 42.0 ;-00 47 00  ;Op    ;GxR?  ; 1800.00; 19000;      ;      ;VSS, 12.4h clump                                                                                                  ;
+[DVZ14] Group A             ;Vir  ;12 27 30   ;-02 00 00  ;Op    ;Overd ; 1300.00; 19700;      ;      ;VSS                                                                                                               ;
+[DVZ14] Group B             ;Vir  ;12 31 30   ;-02 30 00  ;Op    ;Overd ; 1300.00; 18800;      ;      ;                                                                                                                  ;
+[DVZ14] Group D             ;Vir  ;13 00 00   ;+03 00 00  ;Op    ;Overd ; 3300.00;  5400;      ;      ;                                                                                                                  ;
+[DVZ14] Group F             ;Vir  ;12 44 48   ;-02 30 00  ;Op    ;Overd ; 1500.00; 10600;      ;      ;                                                                                                                  ;Already identified in 2008AJ....136.1645V (arXiv:0807.1735v1)
+[DVZ14] Group H             ;Vir  ;12 52 45   ;-00 30 00  ;Op    ;Overd ; 1500.00; 12600;      ;      ;                                                                                                                  ;
+[MEB2017] 1                 ;Col  ;05 41 34   ;-32 34 35  ;Op    ;MG/GCR; 3000.00;  1800;      ;10.000;                                                                                                                  ;from arXiv:1704.01363v1, diameter and geom center taken from articles Fig. 4: l=237.25, b=-28.065, diam= ~48, 14 stars of which 5 are related, 3 unrelated and 6 possibly related
+[SIL07] struct A            ;Aqr  ;22 03 48   ; 00 00 00  ;Op    ;Overd ; 1600.00; 21000;      ;      ;                                                                                                                  ;
+[SJM2010] A16               ;Psc  ;00 07 15.0 ;+08 46 25  ;IR    ;dSph? ; 4200.00;103000;      ;      ;                                                                                                                  ;In ref 2010ApJ...722..750S
+Hydra I                     ;Hya  ;08 53 48.0 ;+03 28 00  ;Op    ;GCR   ;  120.00;  9700;      ;      ;                                                                                                                  ;GC remnant, EBS progenitor, two-lobed structure
+Ophiuchus stream            ;Oph  ;16 07 12   ;-06 55 30  ;Op    ;GCR   ;  150.00;  9500;      ;      ;                                                                                                                  ;GC remnant, 150 x 7
+LAMOST 1                    ;Dra  ;18 20 00   ;+52 19 48  ;Op    ;GCR   ;  480.00;  2600;      ;10.040;                                                                                                                  ;
+45o tidal stream            ;Boo  ;14 05 31.2 ;+28 32 02.4;Op    ;GCR?  ;        ; 16000;      ;      ;                                                                                                                  ;Aprox dist of GCl NGC 5466. Coordinates of NGC 5466
+Cetus polar stream          ;Cet  ;01 31 00   ;+01 00 00  ;Op    ;GCR?  ;        ; 34000;      ;      ;CPS                                                                                                               ;The unusual GCl NGC 5824 in CPS orbit
+Lethe stream                ;CrB  ;16 15 45.0 ;+29 56 45  ;Op    ;GCR?  ;        ; 12800;      ;      ;                                                                                                                  ;
+Cocytos stream              ;Her  ;16 29 21.0 ;+26 40 08  ;Op    ;GCR?  ;        ; 11000;      ;      ;                                                                                                                  ;
+GD-1 stream                 ;Leo  ;09 36 00   ;+30 18 00  ;Op    ;GCR?  ;        ;  7700;      ;      ;Grillmair-Dionatos 1                                                                                              ;( R.A, decl.) = (144.1, 30.3)
+Acheron stream              ;SerCp;15 50 24.0 ;+09 48 39  ;Op    ;GCR?  ;        ;  3500;      ;      ;                                                                                                                  ;
+Styx stream                 ;Boo  ;13 56 24.0 ;+26 48 00  ;Op    ;GxR   ; 3200.00; 38000;      ;      ;                                                                                                                  ;Dist of the nearest portion, value on the Diam col is for length
+Aquarius stream             ;Aqr  ;22 58 00   ;-13 00 00  ;Op    ;GxR?  ;        ;  5300;      ;      ;                                                                                                                  ;Stars lies at 0.5kpc <= d <= 10 kpc
+[SJM2010] A15               ;Oct  ;19 54 53.1 ;-77 25 36  ;IR    ;GxR?  ;  900.00; 99000;      ;      ;                                                                                                                  ;In ref 2010ApJ...722..750S. Overdensity of 2MASS giants in the MW halo. Near a strong extinction region
+S297+63-20.5                ;Vir  ;12 40 42.0 ;+00 15 00  ;Op    ;GxR?  ;  900.00; 18000;      ;      ;VSS?                                                                                                              ;
+Vir Stel Str                ;Vir  ;12 42 42.0 ;-00 47 00  ;Op    ;GxR?  ; 1800.00; 19000;      ;      ;VSS, 12.4h clump                                                                                                  ;
+Vir Overdensity             ;Vir  ;12 46 30.0 ;+02 10 00  ;Op    ;GxR?  ; 3200.00; 10000;      ;      ;VOD                                                                                                               ;Diam derived from extent from closer to 3000 sq deg area.
+[MEB2017] 1                 ;Col  ;05 41 34   ;-32 34 35  ;Op    ;MG/GCR; 3000.00;  1800;      ;10.000;                                                                                                                  ;from arXiv:1704.01363v1, diameter and geom center taken from articles Fig. 4: l=237.25, b=-28.065, diam= ~48, 14 stars of which 5 are related, 3 unrelated and 6 possibly related
+[MMH94] 1                   ;Com  ;13 08 56.7 ;+29 24 16  ;Op    ;MG    ;   30.00;  4500;      ;      ;                                                                                                                  ;Diam and coords are approximate. See 1994ApJ...427L..37M. Dist is the value of Z coord.
+F826 Halo Moving Group      ;Mon  ;06 51 36   ;-00 57 36  ;Op    ;MG    ;  360.00; 30000;      ;      ;[AG91] 1, Arnold-Gilmore 1                                                                                        ;
+Her-CrB str                 ;Her  ;16 06 00   ;+41 00 00  ;Op    ;MG    ;  450.00; 50000;      ;      ;                                                                                                                  ;Four blue horizontal branch (BHB) stars.
+Cnc group B                 ;Cnc  ;08 30 03.02;+20 44 10.9;Op    ;MG    ;  186.00; 86000;      ;      ;                                                                                                                  ;Four RR Lyrae stars
+Cnc group A                 ;Cnc  ;08 38 59.50;+20 36 00.0;Op    ;MG    ;  252.00; 86000;      ;      ;                                                                                                                  ;Four RR Lyrae stars
+[LHN08] C9                  ;Dra  ;12 56 41.0 ;+63 29 06  ;Op    ;Overd ;        ;      ;      ;      ;                                                                                                                  ;
+[LHN08] C3                  ;Lyn  ;08 28 56.0 ;+57 09 50  ;Op    ;Overd ;        ;      ;      ;      ;                                                                                                                  ;
+[LHN08] C4                  ;UMa  ;09 40 01.0 ;+66 37 52  ;Op    ;Overd ;        ;      ;      ;      ;                                                                                                                  ;
+[LHN08] C7                  ;UMa  ;11 36 50.0 ;+58 46 55  ;Op    ;Overd ;        ;      ;      ;      ;                                                                                                                  ;
+[LHN08] C8                  ;UMa  ;12 53 47.0 ;+55 03 22  ;Op    ;Overd ;        ;      ;      ;      ;                                                                                                                  ;
+[SHM2009] 6                 ;Hya  ;10 44 01.5 ;-19 00 46.4;Op    ;Overd ;  284.00; 28800;      ;      ;                                                                                                                  ;See Starkenburg et al. (2009) and arXiv:1507.06776v1. Diam is lower limit.
+160deg overd                ;Leo  ;10 43 36   ;+13 18 00  ;Op    ;Overd ;  360.00; 17000;      ;      ;                                                                                                                  ;
+180deg overd                ;Vir  ;11 59 12   ;+02 00 00  ;Op    ;Overd ;  400.00; 19000;      ;      ;                                                                                                                  ;
+Orphan str prgn?            ;Sex  ;10 50 48.0 ;-01 49 00  ;Op    ;Overd ;  420.00; 21400;      ;      ;                                                                                                                  ;It isnt SEGUE 1 nor UMa II nor HVC Complex A. Diam from fig.
+BHB Clump 2                 ;Cet  ;01 19 00   ; 00 00 00  ;Op    ;Overd ;  440.00; 31600;      ;      ;                                                                                                                  ;
+BHB Clump 8                 ;Psc  ;00 08 00   ;+00 04 00  ;Op    ;Overd ;  460.00; 15200;      ;      ;                                                                                                                  ;
+[SIL07] struct E            ;Aqr  ;20 56 12   ; 00 00 00  ;Op    ;Overd ;  600.00; 43000;      ;      ;                                                                                                                  ;
+S52-32-20.4                 ;Aqr  ;21 18 18   ;+00 17 00  ;Op    ;Overd ;  600.00;      ;      ;      ;                                                                                                                  ;Diam is lower limit
+[SIL07] struct M            ;Cet  ;02 37 48   ; 00 00 00  ;Op    ;Overd ;  600.00;102000;      ;      ;                                                                                                                  ;
+[SIS13] 6                   ;Vir  ;12 23 10.9 ;-00 16 57  ;Op    ;Overd ;  602.00; 15700;      ;      ;                                                                                                                  ;Sesar et al. 2013
+BHB Clump 6                 ;Sex  ;09 53 00   ;+05 24 00  ;Op    ;Overd ;  690.00;  9600;      ;      ;                                                                                                                  ;
+BHB Clump 5                 ;Boo  ;15 27 00   ;+46 31 00  ;Op    ;Overd ;  730.00; 12100;      ;      ;                                                                                                                  ;
+BHB Clump 7                 ;Psc  ;23 42 00   ;-00 32 00  ;Op    ;Overd ;  790.00;  7700;      ;      ;                                                                                                                  ;
+BHB Clump 1                 ;CrB  ;16 14 00   ;+36 49 00  ;Op    ;Overd ;  820.00;  7800;      ;      ;                                                                                                                  ;
+BHB Clump 3                 ;SerCp;15 33 00   ;+01 13 00  ;Op    ;Overd ;  820.00;  8400;      ;      ;                                                                                                                  ;
+[SIL07] struct G            ;Psc  ;23 39 12   ; 00 00 00  ;Op    ;Overd ;  840.00; 55000;      ;      ;                                                                                                                  ;
+[SIS13] 1                   ;Her  ;16 49 44.3 ;+39 38 58  ;Op    ;Overd ;  852.00; 10100;      ;      ;                                                                                                                  ;Sesar et al. 2013
+EriPhe overd                ;Eri  ;01 53 34   ;-54 54 44  ;Op    ;Overd ;  860.00; 16000;      ;      ;                                                                                                                  ;
+[SIS13] 2                   ;Her  ;16 00 50.7 ;+16 13 46  ;Op    ;Overd ;  860.00;  7700;      ;      ;                                                                                                                  ;Sesar et al. 2013
+BHB Clump 4                 ;Lib  ;14 51 00   ;-00 39 00  ;Op    ;Overd ; 1000.00;  9500;      ;      ;                                                                                                                  ;
+[DVZ14] Group A             ;Vir  ;12 27 30   ;-02 00 00  ;Op    ;Overd ; 1300.00; 19700;      ;      ;VSS                                                                                                               ;
+[DVZ14] Group B             ;Vir  ;12 31 30   ;-02 30 00  ;Op    ;Overd ; 1300.00; 18800;      ;      ;                                                                                                                  ;
+[DVZ14] Group F             ;Vir  ;12 44 48   ;-02 30 00  ;Op    ;Overd ; 1500.00; 10600;      ;      ;                                                                                                                  ;Already identified in 2008AJ....136.1645V (arXiv:0807.1735v1)
+[DVZ14] Group H             ;Vir  ;12 52 45   ;-00 30 00  ;Op    ;Overd ; 1500.00; 12600;      ;      ;                                                                                                                  ;
+[SIL07] struct A            ;Aqr  ;22 03 48   ; 00 00 00  ;Op    ;Overd ; 1600.00; 21000;      ;      ;                                                                                                                  ;
+Her-Aql cloud               ;Aql  ;19 04 24   ;+06 17 00  ;Op    ;Overd ; 1800.00; 15000;      ;      ;                                                                                                                  ;
+TriAnd                      ;Psc  ;01 00 00   ;+32 50 00  ;Op    ;Overd ; 2100.00; 20000;      ;      ;                                                                                                                  ;
+Per                         ;Ari  ;03 24 06   ;+20 08 00  ;Op    ;Overd ; 2400.00; 20000;      ;      ;                                                                                                                  ;
+[DVZ14] Group D             ;Vir  ;13 00 00   ;+03 00 00  ;Op    ;Overd ; 3300.00;  5400;      ;      ;                                                                                                                  ;
+TriAnd 2                    ;And  ;01 09 18   ;+35 44 00  ;Op    ;Overd ; 3600.00; 28000;      ;      ;                                                                                                                  ;
+Argo Overd                  ;Car  ;10 50 00   ;-63 47 00  ;Op    ;Overd ; 6000.00; 13800;      ;      ;                                                                                                                  ;
+PCI-3 stream                ;And  ;01 25 18.3 ;+39 36 23  ;Op    ;Str   ;        ; 13000;      ;      ;B-1 stream                                                                                                        ;Coordinate of the most significant bin
+B-2 stream                  ;Cet  ;01 08 05   ;-00 01 18  ;Op    ;Str   ;        ; 10500;      ;      ;                                                                                                                  ;Coordinate of the most significant bin
+PS1-A stream                ;Cet  ;01 57 02   ;-04 14 34  ;Op    ;Str   ;        ;  7900; 0.030;      ;                                                                                                                  ;from Bernard et al. (2016)
+PCI-8 stream                ;Hya  ;08 50 28.0 ;+06 07 33  ;Op    ;Str   ;        ;  9900;      ;      ;B-7 stream                                                                                                        ;Coordinate of the most significant bin
+PS1-D stream                ;Hya  ;09 19 26   ;+00 50 14  ;Op    ;Str   ;        ; 22900; 0.050;      ;                                                                                                                  ;from Bernard et al. (2016)
+EBS stream                  ;Hya  ;10 03 00   ;-16 48 00  ;Op    ;Str   ;        ; 10900;      ;      ;Eastern Banded Structure                                                                                          ;
+PCI-7 stream                ;Lyn  ;08 17 49.2 ;+37 58 10  ;Op    ;Str   ;        ;  8700;      ;      ;B-6 stream                                                                                                        ;Coordinate of the most significant bin
+PS1-C stream                ;Peg  ;22 10 28   ;+14 56 29  ;Op    ;Str   ;        ; 17400; 0.100;      ;                                                                                                                  ;from Bernard et al. (2016)
+PSS                         ;Peg  ;23 49 00   ;+23 30 00  ;Op    ;Str   ;        ; 35000;      ;      ;                                                                                                                  ;
+PCI-2 stream                ;Psc  ;01 19 58.6 ;+31 40 47  ;Op    ;Str   ;        ; 12500;      ;      ;                                                                                                                  ;Coordinate of the most significant bin
+PS1-B stream                ;Sex  ;09 53 15   ;-11 07 22  ;Op    ;Str   ;        ; 14500; 0.060;      ;                                                                                                                  ;from Bernard et al. (2016)
+PCI-6 stream                ;UMa  ;08 38 29.8 ;+53 52 20  ;Op    ;Str   ;        ;  9400;      ;      ;B-5 stream                                                                                                        ;Coordinate of the most significant bin
+PS1-E stream                ;UMa  ;11 33 20   ;+55 23 27  ;Op    ;Str   ;        ; 12600; 0.020;      ;                                                                                                                  ;from Bernard et al. (2016)
+PCI-1 stream                ;UMa  ;14 19 18.7 ;+56 22 19  ;Op    ;Str   ;        ; 10400;      ;      ;                                                                                                                  ;Coordinate of the most significant bin
+Phe stream                  ;Phe  ;01 35 00   ;-49 53 24  ;Op    ;Str   ;  486.00; 17500;      ;10.060;                                                                                                                  ;Coordinates for the C1 overdensity that is roughly at streams center. Its lenght is listed as diam and its width is 10.6 (Balbinot et al. 2015)
+[SJM2010] A16               ;Psc  ;00 07 15.0 ;+08 46 25  ;IR    ;dSph? ; 4200.00;103000;      ;      ;                                                                                                                  ;In ref 2010ApJ...722..750S

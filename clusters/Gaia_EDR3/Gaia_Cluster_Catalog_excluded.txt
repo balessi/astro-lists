@@ -55,3 +55,4 @@ G11.10-0.11         Sgr  18 10 28.2 -19 22 30  IR  EC      0.4   4065           
 G12.02-0.03         Sgr  18 12 01.8 -18 31 54  IR  EC      0.5   9434                 -4.11   -7.76  VLBI                                      not seen (Aladin + UKIDSS)
 Russeil 27          Sgr  18 13 55.0 -18 01 46  IR  EC      2.4   2404                 -1.00   -2.85  VLBI                                      not seen (Aladin + UKIDSS)
 Ryu 716             Sgr  18 19 20.8 -16 30 56  IR  EC      1.7   1832                  0.22   -2.07  VLBI                                      not seen (Aladin + UKIDSS)
+Spurious 3          Ori  05 53 57.4 -05 10 24  Op  OC    204.0    449         7.020   -2.48    0.10  2018AJ....156...84K Orion B West, COAA 21 UPK 414 includes both Spurious 1 and 3 (poss the same obj)

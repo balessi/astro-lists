@@ -1,0 +1,1255 @@
+Name              Galactic Coord.  CST  RA          DEC            Size         Type
+PaStDr 3          PN-G 127.6-13.5  And  01 19 28.88 +49 01 09.38   12'          Possible NP, CSPN ?
+PaStDr 3          PN-G 127.6-13.5  And  01 19 28.88 +49 01 09.38   12'          Possible PN
+Ra 22             PN-G 130.5-14.7  And  01 34 56.00 +47 29 39.00   2.5'         Possible PN
+Ra 68             PN-G 138.5-18.9  And  02 11 11.20 +41 29 35.30   4.6'         Possible PN
+Dr 28             PN-G 139.3-09.8  And  02 33 54.60 +49 45 51.73   4.5'         Possible NP, CSPN ?
+St 12             PN-G 101.9-17.7  And  23 04 21.23 +40 43 39.40   1.7 x 1.3'   Possible PN
+DrBl 1            PN-G 107.1-14.9  And  23 23 36.14 +45 13 03.94   1.3'         Possible NP, CSPN ?
+DrBl 1            PN-G 107.1-14.9  And  23 23 36.14 +45 13 03.94   1.3'         New candidate
+Dr 21             PN-G 107.1-14.8  And  23 23 49.89 +45 16 54.43   7.5'         Possible NP, CSPN ?
+Dr 30             PN-G 109.9-08.1  And  23 25 34.37 +52 32 36.69   66'          Possible NP, CSPN ?
+Dr Objet 6        PN-G             Ant  09 37 23.81 -36 59 22.61   6.3'         Arc, isolated nebulosity ?
+StDr 131          PN-G 257.4+19.5  Ant  09 38 16.03 -25 46 16.27   25'          
+Or 4              PN-G 261.2+19.8  Ant  09 50 48.22 -28 01 51.60   0.2'         Possible PN
+LDu 9             PN-G             Aps  17 18 25.41 -68 54 23.60   0.7 x 0.6'   Galaxy ?
+Mul-IR 32         PN-G 031.7+00.8  Aql  18 46 04.40 +00 38 55.00                Possible PN
+Mul-IR 9          PN-G 033.9+01.2  Aql  18 48 53.06 +01 28 51.30                True PN
+Ra 23             PN-G 032.1+00.1  Aql  18 49 32.00 -00 38 08.00   0.2'         HII region
+Mul-IR 10         PN-G 030.3-01.0  Aql  18 50 36.20 -02 44 21.00                Possible PN
+StDr 60           PN-G 040.7+03.8  Aql  18 51 55.48 +08 40 13.09   1.0 x 0.9'   Possible NP, CSPN ?
+StDr 60           PN-G 040.7+03.8  Aql  18 51 55.48 +08 40 13.09   1.0 x 0.9'   New candidate
+StDr 118          PN-G 030.6-01.5  Aql  18 52 48.44 -02 46 18.49   0.1'         
+Mul-IR 35         PN-G 034.9-00.0  Aql  18 55 14.96 +01 44 58.10                Possible PN
+RaStDr 1          PN-G 033.7-01.3  Aql  18 57 48.70 +00 02 56.90   0.1'         
+StDr 83           PN-G 045.6+04.0  Aql  19 00 10.02 +13 07 05.90   0.43'        Possible NP, CSPN ?
+StDr 83           PN-G 045.6+04.0  Aql  19 00 10.02 +13 07 05.90   0.43'        New candidate
+Mul-IR 33         PN-G 029.0-04.8  Aql  19 01 29.50 -05 40 41.00                Possible PN
+Ra 73             PN-G 035.2-01.6  Aql  19 01 31.94 +01 20 41.10   0.1'         Possible NP
+Ra 73             PN-G 035.2-01.6  Aql  19 01 31.94 +01 20 41.10   0.1'         Likely PN
+Mul-LDu-IR 1      PN-G 043.9+02.3  Aql  19 03 29.32 +10 53 51.20                Possible PN
+Mul-IR 16         PN-G 041.3+00.5  Aql  19 04 57.56 +07 44 19.00                True PN
+Ra 2              PN-G 048.9+04.3  Aql  19 05 12.00 +16 13 44.00   1'           Possible PN
+Mul-IR 13         PN-G 045.8+02.4  Aql  19 06 15.34 +12 36 49.10                Possible PN
+RaPas 1           PN-G 037.3-02.2  Aql  19 07 32.90 +02 56 26.98   0.1'         Possible NP
+RaPas 1           PN-G 037.3-02.2  Aql  19 07 32.90 +02 56 26.98   0.1'         New candidate
+RaPas 2           PN-G 037.5-02.3  Aql  19 08 12.94 +02 59 48.70   0.1'         Possible NP
+RaPas 2           PN-G 037.5-02.3  Aql  19 08 12.94 +02 59 48.70   0.1'         New candidate
+StDr 49           PN-G 025.6-08.3  Aql  19 08 19.59 -10 18 17.76   9'           Possible NP, CSPN ?
+StDr 49           PN-G 025.6-08.3  Aql  19 08 19.59 -10 18 17.76   9'           New candidate
+Mul-IR 81         PN-G 041.6-00.2  Aql  19 08 19.60 +07 35 33.00                Possible PN
+StDr 101          PN-G 038.0-02.5  Aql  19 10 03.40 +03 22 24.06   3.75'        Likely PN
+StDr 34           PN-G 047.1+02.0  Aql  19 10 23.97 +13 32 21.49   0.6'         True PN
+Dr 33             PN-G 048.7+02.6  Aql  19 11 02.73 +15 17 48.00   1.2'         Possible PN, CSPN ?
+Ra 31             PN-G 040.6-01.5  Aql  19 11 04.00 +06 08 44.00   0.4'         Possible PN
+LDuPa 1           PN-G 048.9+02.5  Aql  19 11 56.23 +15 25 25.20   0.1'         True PN
+Mul-IR 82         PN-G 043.9-00.0  Aql  19 12 08.00 +09 46 15.00                Possible PN
+StDr Objet 11     PN-G             Aql  19 12 13.00 +04 54 16.25   1.3 x 0.8'   SNR ?
+StDr Objet 11     PN-G             Aql  19 12 13.00 +04 54 16.25   1.3 x 0.8'   New candidate
+Mul 9             PN-G 049.1+02.5  Aql  19 12 17.93 +15 33 50.40   0.1'         Possible PN
+Mul-IR 17         PN-G 038.5-03.1  Aql  19 12 47.70 +03 34 35.60                Possible PN
+StDr 14           PN-G 047.3+01.2  Aql  19 13 45.30 +13 22 09.99   1'           Possible PN, CSPN ?
+Mul 3             PN-G 048.9+01.8  Aql  19 14 23.64 +15 04 55.30   0.1'         Possible PN
+EMol 1            PN-G 048.7+01.4  Aql  19 15 23.58 +14 43 13.56   0.1'         Possible NP
+EMol 1            PN-G 048.7+01.4  Aql  19 15 23.58 +14 43 13.56   0.1'         New candidate
+StDr 45           PN-G 049.8+02.0  Aql  19 15 34.52 +15 56 09.00   2.6'         Possible NP, CSPN ?
+StDr 45           PN-G 049.8+02.0  Aql  19 15 34.52 +15 56 09.00   2.6'         New candidate
+MulLDu 2          PN-G 048.3+01.0  Aql  19 16 14.99 +14 09 38.14   0.1'         Possible NP
+MulLDu 2          PN-G 048.3+01.0  Aql  19 16 14.99 +14 09 38.14   0.1'         New candidate
+LDu-IR 2          PN-G 048.3+01.0  Aql  19 16 15.09 +14 09 38.70                Possible PN
+LDu-IR 3          PN-G 048.5+01.1  Aql  19 16 28.28 +14 25 33.40                Possible PN
+StDr 16           PN-G 039.1-04.5  Aql  19 18 50.58 +03 27 20.62   2.4'         Possible NP, CSPN ?
+StDr 84           PN-G 044.0-02.3  Aql  19 20 11.50 +08 45 58.40   0.38'        Possible NP, CSPN ?
+StDr 84           PN-G 044.0-02.3  Aql  19 20 11.50 +08 45 58.40   0.38'        New candidate
+Mul-IR 80         PN-G 047.0-00.7  Aql  19 20 14.10 +12 12 22.00                Possible PN
+Dr 37             PN-G 046.9-00.8  Aql  19 20 26.60 +12 02 19.81   2 x 1.3'     Possible PN, CSPN ?
+Pre 6             PN-G 050.7+01.1  Aql  19 20 30.00 +16 23 34.00   0.1'         Possible PN
+Mul-IR 15         PN-G 049.1-00.0  Aql  19 21 51.40 +14 21 41.30                Possible PN
+Su 1              PN-G 032.9-09.9  Aql  19 26 49.00 -04 32 03.00   0.5 x 0.2'   Possible PN
+Fe 1              PN-G 045.7-03.8  Aql  19 28 47.00 +09 34 36.00   0.9'         Likely PN
+St 5              PN-G 045.2-04.6  Aql  19 30 45.62 +08 43 30.60   0.6'         Possible PN
+StDr 87           PN-G 038.1-08.5  Aql  19 31 09.65 +00 41 14.40   0.33'        Possible NP, CSPN ?
+StDr 87           PN-G 038.1-08.5  Aql  19 31 09.65 +00 41 14.40   0.33'        New candidate
+St 1              PN-G 045.2-04.7  Aql  19 31 20.13 +08 43 56.40   0.4 x 0.3'   Possible PN
+Dr 29             PN-G 051.5-01.7  Aql  19 32 45.83 +15 43 12.57   6.2'         Possible NP, CSPN ?
+Fe 5              PN-G             Aql  19 39 05.00 +08 44 35.00   0.5'         PN, HII region ?
+StDr 100          PN-G 049.7-04.9  Aql  19 40 38.71 +12 31 20.11   1'           Possible NP, CSPN ?
+StDr 100          PN-G 049.7-04.9  Aql  19 40 38.71 +12 31 20.11   1'           New candidate
+Ra 7              PN-G 040.8-09.7  Aql  19 40 43.00 +02 30 32.00   2.3'         Possible PN
+Fe 4              PN-G 030.6-16.4  Aql  19 46 31.00 -09 21 18.00   0.5'         True PN
+LDu 17            PN-G             Aql  19 48 33.90 -09 48 06.70   0.6'         Galaxy ?
+LDu Objet 6       PN-G             Aql  19 52 06.00 +09 44 07.00   0.2'         Galaxy ?
+LDu 25            PN-G 050.0-08.7  Aql  19 54 53.78 +10 54 30.00   0.2'         Possible PN
+Ra 29             PN-G 052.2-10.4  Aql  20 05 22.00 +11 53 36.00   0.4'         Possible PN
+Ra 20             PN-G 044.6-14.8  Aql  20 05 48.00 +03 19 38.00   0.2'         Possible PN
+Mo Objet 6        PN-G             Aql  20 08 22.40 +09 58 54.30   0.1'         Globular cluster, reflexion nebula ?
+LDu Objet 7       PN-G             Aql  20 11 00.00 +01 40 57.00   0.5'         Galaxy ?
+KanPre 1          PN-G 048.7-15.7  Aql  20 16 41.00 +06 18 47.00   3'           Possible PN
+LDu 27            PN-G 044.0-21.2  Aql  20 27 02.79 -00 17 32.00   1'           Possible PN
+DoS 4             PN-G 045.0-21.9  Aql  20 31 14.95 +00 08 27.81   4.0 x 2.5'   Possible NP
+DoS 4             PN-G 045.0-21.9  Aql  20 31 14.95 +00 08 27.81   4.0 x 2.5'   New candidate
+LDu 26            PN-G 045.6-22.8  Aql  20 35 22.79 +00 12 52.00   0.7'         Possible PN
+St Objet 4        PN-G             Aqr  21 06 58.54 -03 26 38.00   0.4 x 0.1'   Cometary globule ?
+DeGaPe 19         PN-G 335.2-01.4  Ara  16 34 51.00 -49 46 29.10   0.1'         Possible PN
+DeGaPe 21         PN-G 336.0-00.8  Ara  16 35 08.00 -48 46 22.70   0.2 x 0.1'   Possible PN
+StRas 3           PN-G 332.9-03.8  Ara  16 36 23.41 -53 03 10.52   0.4'         Possible NP
+DeGaPe 23         PN-G 336.3-01.2  Ara  16 38 10.50 -48 50 54.90   0.1'         Possible PN
+DeGaPe 18         PN-G 335.8-01.7  Ara  16 38 25.70 -49 32 02.50   0.1'         Possible PN
+DeGaPe 14         PN-G 336.0-01.9  Ara  16 40 22.20 -49 32 56.40   0.1'         Possible PN
+DeGaPe 13         PN-G 336.2-01.8  Ara  16 40 34.60 -49 19 22.90   0.1'         Possible PN
+Pre 40            PN-G 339.0+00.1  Ara  16 42 48.70 -45 54 05.00   0.1'         Possible PN
+Pre 70            PN-G 328.3-09.3  Ara  16 44 23.07 -60 05 38.89   4 x 3'       Possible NP
+Pre 70            PN-G 328.3-09.3  Ara  16 44 23.07 -60 05 38.89   4 x 3'       New candidate
+DeGaPe 8          PN-G 337.7-01.5  Ara  16 45 31.30 -47 57 44.70   0.1'         Possible PN
+DeGaPe 12         PN-G 337.1-02.1  Ara  16 45 38.30 -48 45 09.00   0.1'         Possible PN
+DeGaPe 7          PN-G 337.7-01.6  Ara  16 45 45.10 -47 59 22.90   0.1'         Possible PN
+Pa 183            PN-G 337.6-01.7  Ara  16 46 01.00 -48 10 02.30   0.1'         Possible NP
+Pa 183            PN-G 337.6-01.7  Ara  16 46 01.00 -48 10 02.30   0.1'         New candidate
+DeGaPe 5          PN-G 338.1-01.4  Ara  16 46 11.80 -47 37 05.40   0.1'         Possible PN
+St 64             PN-G 336.2-03.2  Ara  16 47 15.49 -50 14 58.90   0.1'         Possible PN
+LDu 33            PN-G 338.0-1.9   Ara  16 48 06.95 -48 01 26.40   0.1'         Possible PN
+DeGaPe 11         PN-G 337.2-02.7  Ara  16 49 01.70 -49 07 01.00   0.1'         Possible PN
+Pre 26            PN-G 334.7-04.8  Ara  16 49 08.50 -52 22 48.00   1.6 x 1.4'   Possible PN
+DeGaPe Objet 1    PN-G 338.5-01.9  Ara  16 50 07.00 -47 37 57.00   7.1 x 4.6'   Complex nebulous object, connected to NGC 6188 ?
+DeGaPe 10         PN-G 337.6-02.7  Ara  16 50 27.70 -48 50 37.00   0.1'         Possible PN
+DeGaPe 6          PN-G 338.5-02.0  Ara  16 50 32.40 -47 42 29.30   0.1'         Possible PN
+DeGaPe 15         PN-G 336.7-03.5  Ara  16 50 46.00 -49 58 22.50   0.1'         Possible PN
+Mo 33             PN-G 335.4-05.3  Ara  16 54 17.69 -52 09 36.44   2.0 x 1.3'   Possible NP, cometary globule ?
+Pa 184            PN-G 338.4-04.3  Ara  17 01 02.00 -49 09 09.70   0.1'         Possible NP
+Pa 184            PN-G 338.4-04.3  Ara  17 01 02.00 -49 09 09.70   0.1'         New candidate
+Pa 185            PN-G 340.6-03.6  Ara  17 05 29.65 -47 01 47.80   0.1'         Possible NP
+Pa 185            PN-G 340.6-03.6  Ara  17 05 29.65 -47 01 47.80   0.1'         New candidate
+Pa 186            PN-G 339.8-04.4  Ara  17 06 37.20 -48 05 26.50   0.1'         Possible NP
+Pa 186            PN-G 339.8-04.4  Ara  17 06 37.20 -48 05 26.50   0.1'         New candidate
+Pa 187            PN-G 340.0-04.3  Ara  17 06 59.84 -47 59 05.40   0.1'         Possible NP
+Pa 187            PN-G 340.0-04.3  Ara  17 06 59.84 -47 59 05.40   0.1'         New candidate
+Pa 205            PN-G 341.6-03.7  Ara  17 09 23.78 -46 16 40.90   0.1'         
+St 31             PN-G 340.5-06.0  Ara  17 17 12.68 -48 31 56.79   0.5'         Possible PN
+Pre Objet 11      PN-G             Ara  17 29 55.88 -51 05 03.25   0.4'         Proto PN ?
+Pre Objet 11      PN-G             Ara  17 29 55.88 -51 05 03.25   0.4'         New candidate
+SuFe 1            PN-G 155.5+05.1  Aur  04 53 53.90 +51 57 45.70   0.1 x 0.1'   True PN
+Su Objet 1        PN-G             Aur  04 54 59.34 +51 25 20.10   0.6 x 0.2'   HII region, galaxy ?
+StDr Objet 22     PN-G             Aur  04 55 05.36 +52 15 52.23   1.5'         Supernova Remnant Candidate
+Ra Objet 3        PN-G             Aur  04 56 28.00 +50 17 18.00   1.3'         True PN
+StDr 18           PN-G 161.1+04.4  Aur  05 11 33.10 +47 04 52.34   0.7'         Possible NP
+StDr 18           PN-G 161.1+04.4  Aur  05 11 33.10 +47 04 52.34   0.7'         Possible PN
+Or 1              PN-G 166.2+01.4  Aur  05 14 25.22 +41 13 09.07   1.0 x 0.9'   Possible PN
+StDr 125          PN-G 164.1+03.6  Aur  05 17 15.49 +44 11 20.99   6.2'         
+StDr Objet 6      PN-G             Aur  05 18 17.68 +37 38 39.78   0.6'         Strömgren sphere ? Sp (P. Le Dû)
+Mul-IR 89         PN-G 170.7-00.1  Aur  05 21 09.20 +36 39 35.00                Emission star (Ha)
+Mo 6              PN-G 170.8+00.0  Aur  05 21 54.10 +36 38 21.98   1.5 x 1.1'   Possible PN
+Mo Objet 2        PN-G             Aur  05 21 54.51 +36 38 16.60   2.1 x 1.6'   Reflexion nebula
+StDr Objet 17     PN-G             Aur  05 23 09.04 +55 02 35.76   15'          Strömgren sphere ?
+StDr Objet 17     PN-G             Aur  05 23 09.04 +55 02 35.76   15'          New candidate
+LDu 32            PN-G 173.1-0.1   Aur  05 27 35.26 +34 40 00.30   0.3'         Possible PN
+RaBel 1           PN-G 173.0-00.1  Aur  05 27 41.70 +34 41 33.90   0.3'         Possible PN
+Hu 4              PN-G 157.3+10.3  Aur  05 28 21.00 +53 31 20.00   4.2 x 4.2'   Possible PN
+Dr 32             PN-G 169.4+03.8  Aur  05 34 06.69 +39 56 03.20   0.5'         True PN
+StDr 37           PN-G 177.2-00.2  Aur  05 37 44.06 +31 09 17.50   1.8'         Possible NP, CSPN ?
+StDr 37           PN-G 177.2-00.2  Aur  05 37 44.06 +31 09 17.50   1.8'         New candidate
+Mo Objet 13       PN-G             Aur  05 42 40.75 +37 39 48.57   0.2 x 0.1'   Jet, Herbig-Haro object ?
+StDr 8            PN-G 176.1+02.1  Aur  05 44 33.78 +33 21 37.29   0.7'         Possible PN, CSPN ?
+Dr 34             PN-G 179.9+01.3  Aur  05 51 00.85 +29 39 10.14   0.5 x 0.4'   Possible PN, CSPN ?
+Pre 5             PN-G 181.6+02.6  Aur  05 59 40.89 +28 50 29.00   0.9'         Possible PN, Galaxy ?
+StDr 38           PN-G 226.6-10.6  CMa  06 37 32.39 -16 58 30.80   1.7 x 0.8'   Possible NP, CSPN ?
+StDr 38           PN-G 226.6-10.6  CMa  06 37 32.39 -16 58 30.80   1.7 x 0.8'   New candidate
+DeGaPe 72         PN-G 225.2-02.9  CMa  07 03 28.50 -12 14 59.50   0.1'         Possible NP, dwarf nova ?
+DeGaPe 72         PN-G 225.2-02.9  CMa  07 03 28.50 -12 14 59.50   0.1'         New candidate
+DeGaPe 73         PN-G 224.7-02.3  CMa  07 04 41.90 -11 32 59.90   0.1'         Possible NP, YSO ?
+DeGaPe 73         PN-G 224.7-02.3  CMa  07 04 41.90 -11 32 59.90   0.1'         New candidate
+DeGaPe 74         PN-G 225.3-02.4  CMa  07 05 21.30 -12 10 44.70   0.1'         Possible NP
+DeGaPe 74         PN-G 225.3-02.4  CMa  07 05 21.30 -12 10 44.70   0.1'         New candidate
+Ra 64             PN-G 226.7-02.8  CMa  07 06 49.95 -13 36 59.70   0.7 x 0.8'   Possible PN
+MoMi 3            PN-G 225.5-01.9  CMa  07 07 51.23 -12 07 50.92   1 x 0.4'     
+Pre Objet 12      PN-G             CMa  07 12 40.21 -25 08 34.45   0.9 x 0.7'   HII region ?
+Pre Objet 12      PN-G             CMa  07 12 40.21 -25 08 34.45   0.9 x 0.7'   New candidate
+Mul-IR 46         PN-G 226.4-00.7  CMa  07 13 40.10 -12 22 06.50                Possible PN
+St 10             PN-G 226.6+00.3  CMa  07 17 58.99 -12 02 25.10   1.6 x 0.6'   Possible PN
+Fe 3              PN-G             CMa  07 19 02.38 -17 59 02.00   2.2'         HII region ?
+Mo Objet 1        PN-G             CMa  07 19 31.90 -23 16 22.00   10.7 x 4.8'  Cometary globule
+Dr 19             PN-G 227.9+00.2  CMa  07 20 18.50 -13 10 35.03   2.3'         Possible PN
+Mul-LDu-IR 10     PN-G 233.5-02.5  CMa  07 20 42.87 -19 29 06.00                Possible PN
+StDr 63           PN-G 227.2+01.4  CMa  07 23 17.07 -11 59 15.06   1.56'        Possible NP, CSPN ?
+StDr 63           PN-G 227.2+01.4  CMa  07 23 17.07 -11 59 15.06   1.56'        New candidate
+StDr 64           PN-G 231.2-00.1  CMa  07 25 25.42 -16 18 39.83   0.83'        Possible NP, CSPN ?
+StDr 64           PN-G 231.2-00.1  CMa  07 25 25.42 -16 18 39.83   0.83'        New candidate
+Mul-LDu-IR 16     PN-G 232.9-00.7  CMa  07 26 13.20 -18 06 35.20                Possible PN
+StDr 137          PN-G 208.4+09.4  CMi  07 18 57.80 +07 22 23.20   6.3'         
+Hu 5              PN-G 213.3+11.4  CMi  07 33 04.46 +04 52 02.70   4.4 x 3.5'   Likely PN
+St 3              PN-G 207.4+16.5  CMi  07 41 26.49 +12 10 20.60   0.1'         Possible PN
+StDr 36           PN-G 140.2+03.7  Cam  03 24 22.82 +61 20 40.10   5.2'         Possible NP, CSPN ?
+StDr 36           PN-G 140.2+03.7  Cam  03 24 22.82 +61 20 40.10   5.2'         New candidate
+Su 4              PN-G 147.8+01.0  Cam  03 58 18.64 +54 39 35.80   1.2'         HII region
+MoMi 1            PN-G 146.7+03.1  Cam  04 02 11.07 +56 54 28.93   0.1'         Possible NP, Galaxy ?
+MoMi 1            PN-G 146.7+03.1  Cam  04 02 11.07 +56 54 28.93   0.1'         New candidate
+Mul Objet 10      PN-G             Cam  04 05 24.33 +54 01 16.28   0.1'         Emission star ?
+Mul Objet 4       PN-G             Cam  04 05 24.33 +54 01 16.28   0.1'         Non PN
+Dr 26             PN-G 145.3+05.6  Cam  04 06 49.60 +59 43 46.08   3'           Possible NP, CSPN ?
+Hu 3              PN-G 149.7+07.5  Cam  04 41 10.89 +57 54 17.00   19.6 x 15.2' Possible PN
+StDr 68           PN-G 277.7-04.7  Car  09 25 30.34 -57 11 43.60   2'           Possible NP, CSPN ?
+StDr 68           PN-G 277.7-04.7  Car  09 25 30.34 -57 11 43.60   2'           New candidate
+Mo Objet 14       PN-G             Car  09 41 55.71 -60 39 39.78   0.3 x 0.2'   Galaxy ?
+LDu 41            PN-G 283.2-05.1  Car  09 55 19.07 -61 08 37.70   1.7 x 0.9'   Possible PN
+Mur 1             PN-G 284.0-06.1  Car  09 55 31.33 -62 23 33.20   0.1'         Possible PN, Galaxy ?
+LDu 40            PN-G 284.0-05.9  Car  09 56 06.66 -62 14 05.30   1 x 0.8'     Possible PN
+Mo 29             PN-G 284.2-05.7  Car  09 58 53.27 -62 14 34.26   2.0 x 1.8'   Possible NP
+DoS 3             PN-G 285.1-06.8  Car  09 59 42.76 -63 37 04.67   0.1'         Possible NP
+DoS 3             PN-G 285.1-06.8  Car  09 59 42.76 -63 37 04.67   0.1'         New candidate
+Pre 62            PN-G 283.1-01.2  Car  10 13 18.64 -57 58 16.19   0.2'         Possible PN
+St 18             PN-G 286.3-05.0  Car  10 17 36.38 -62 53 10.67   1.9'         Possible PN
+Ro Objet 1        PN-G             Car  10 18 52.21 -62 20 55.96   0.4'         Lonely nebulosity ?
+DeGaPe Objet 3    PN-G 284.6-01.3  Car  10 22 26.60 -58 47 02.10   1.9 x 1.9'   HII region ?
+Su Objet 6        PN-G             Car  10 24 34.90 -59 56 05.80   0.3 x 0.2'   Ionised ISM ?
+LDu Objet 10      PN-G             Car  10 26 12.66 -58 21 24.20   0.5'         Single star ?
+St 32             PN-G 286.0-01.8  Car  10 29 47.92 -59 58 41.65   0.1'         Possible PN
+Pa 169            PN-G 286.3-01.0  Car  10 34 27.70 -59 28 48.30   0.1'         Possible NP
+Pa 169            PN-G 286.3-01.0  Car  10 34 27.70 -59 28 48.30   0.1'         True PN
+Pre Objet 10      PN-G             Car  10 36 50.21 -61 34 37.92   0.6 x 0.3'   Proto PN ?
+Pre Objet 10      PN-G             Car  10 36 50.21 -61 34 37.92   0.6 x 0.3'   New candidate
+St 21             PN-G 286.4-00.4  Car  10 37 20.64 -58 59 43.04   0.2'         Possible PN
+Mo 13             PN-G 288.1-03.3  Car  10 38 28.87 -62 19 27.00   1.8 x 1.6'   Possible PN
+St 25             PN-G 285.9+00.9  Car  10 39 12.45 -57 31 41.51   0.4 x 0.2'   Possible PN
+Pre 20            PN-G 287.5+00.1  Car  10 47 52.00 -58 56 20.60   0.1'         Possible PN, nebulous disc
+Pre 55            PN-G 287.2+00.8  Car  10 47 55.90 -58 14 34.00   0.6 x 0.6'   Possible PN
+Pre 19            PN-G 287.9+00.1  Car  10 50 25.00 -59 06 28.00   0.1'         Possible PN
+Ra 74             PN-G 289.2-01.4  Car  10 54 07.00 -61 08 20.00   0.1'         Possible NP
+Ra 74             PN-G 289.2-01.4  Car  10 54 07.00 -61 08 20.00   0.1'         New candidate
+LDu 43            PN-G 287.9+01.3  Car  10 54 42.09 -58 02 52.80   1.8 x 1'     Possible PN, SNR
+St 52             PN-G 289.6-01.6  Car  10 56 15.45 -61 28 26.02   0.1'         Possible PN
+Dr Objet 4        PN-G             Car  10 56 46.77 -59 30 08.56   2.8'         Lonely object, HII region ?
+LDu Objet 9       PN-G             Car  10 57 33.23 -66 44 48.90   1.6 x 0.9'   HII region ?
+Mo 12             PN-G 290.7-03.5  Car  10 57 43.36 -63 40 39.27   0.2'         Possible PN
+LDu Objet 8       PN-G             Car  10 58 04.77 -67 00 49.80   5 x 3'       Cometary globule ?
+DeGaPe 27         PN-G 290.9-00.6  Car  11 09 25.80 -61 04 09.30   0.1'         Possible PN
+Ras 1             PN-G 290.7-00.0  Car  11 10 13.24 -60 31 57.90   0.2 x 0.1'   Possible NP
+LDu 38            PN-G 292.7-04.4  Car  11 11 50.99 -65 21 27.90   3.8'         Possible PN
+Pre 43            PN-G 290.8+00.5  Car  11 12 27.35 -59 58 38.00   0.7 x 0.5'   Possible PN, CSPN ?
+Pre 44            PN-G 290.2+02.0  Car  11 12 42.90 -58 21 04.00   1'           Possible PN, CSPN ?
+DeGaPe 4          PN-G 291.7-00.2  Car  11 16 58.00 -61 05 35.40   0.1'         Possible PN
+St 17             PN-G 290.8+02.9  Car  11 19 05.09 -57 44 30.60   0.3 x 0.2'   Possible PN
+Mul Objet 6       PN-G             Cas  00 02 37.93 +53 47 05.19   0.1'         Active galaxy ?
+Mul Objet 6       PN-G             Cas  00 02 37.93 +53 47 05.19   0.1'         Galaxy
+Dr 27             PN-G 117.4-05.2  Cas  00 11 03.42 +57 10 36.30   9'           Likely PN, CSPN ?
+Ra 65             PN-G 000.1+50.8  Cas  00 11 45.64 +50 49 38.10   1.8 x 0.8'   Cometary globule, Possible PN, elongated nebulosity
+Su Objet 2        PN-G             Cas  00 13 48.27 +65 48 15.29   1.1 x 0.8'   HII region, galaxy ?
+Mul 2             PN-G 119.4+01.0  Cas  00 19 42.43 +63 43 21.50   0.1'         Possible PN
+Su Objet 4        PN-G             Cas  00 28 32.08 +65 27 43.66   0.8 x 0.5'   Jet, Herbig-Haro object ?
+Su Objet 4        PN-G             Cas  00 28 32.08 +65 27 43.66   0.8 x 0.5'   Non PN
+Ou 2              PN-G 120.4-01.3  Cas  00 30 57.16 +61 24 37.40   1.3'         True PN
+Hu 2              PN-G 121.7+11.4  Cas  00 33 57.40 +74 18 40.00   2.0 x 1.6'   Likely PN
+Mul-IR 86         PN-G 121.2+04.4  Cas  00 33 57.90 +67 18 30.00                Possible PN
+StDr Objet 18     PN-G             Cas  00 45 06.48 +62 07 47.12   0.4'         Galaxy ?
+StDr Objet 18     PN-G             Cas  00 45 06.48 +62 07 47.12   0.4'         Herbig-Haro object
+Mul-IR 87         PN-G 122.6-00.9  Cas  00 49 06.36 +61 53 39.80                Possible PN
+Hu Objet 2        PN-G             Cas  00 52 21.74 +51 52 40.50   5.7 x 3.5'   Cometary globule ?
+Mul-IR 38         PN-G 123.1+03.7  Cas  00 54 07.70 +66 40 13.00                Possible PN
+Fe 7              PN-G             Cas  01 03 27.22 +69 46 55.00   6 x 4'       PN, HII region ?
+StDr 35           PN-G 125.0-07.9  Cas  01 06 12.41 +54 54 11.41   16 x 10'     Possible NP, CSPN ?
+StDr 35           PN-G 125.0-07.9  Cas  01 06 12.41 +54 54 11.41   16 x 10'     New candidate
+DrSti 1           PN-G 125.1-09.1  Cas  01 06 28.60 +53 40 52.30   5'           Possible PN, CSPN ?
+Dr 36             PN-G 125.3-08.9  Cas  01 07 40.04 +53 52 24.02   2.7 x 2.1'   Likely PN, CSPN ?
+StDr 55           PN-G 127.4+01.4  Cas  01 32 38.77 +63 59 30.39   5'           Possible NP, CSPN ?
+StDr 55           PN-G 127.4+01.4  Cas  01 32 38.77 +63 59 30.39   5'           New candidate
+Mul 8             PN-G 129.7-07.1  Cas  01 38 42.98 +55 04 58.40   0.6'         Possible PN
+Ra 53             PN-G 129.7-07.4  Cas  01 38 43.40 +54 50 25.00   0.7'         Possible PN, nébulosité très faible
+Ra 19             PN-G 129.7-07.0  Cas  01 39 21.00 +55 12 14.00   1.3'         Possible PN
+Ra 52             PN-G 129.0-01.5  Cas  01 41 52.00 +60 45 07.00   0.7'         Possible PN
+Pre Objet 4       PN-G             Cas  01 52 50.00 +59 39 50.00   2.5 x 1.5'   Cometary globule ?
+Ra 18             PN-G 130.2+00.7  Cas  01 55 39.00 +62 40 20.00   1'           Possible PN
+Ra 33             PN-G 129.5+03.7  Cas  01 56 05.00 +65 44 16.00   1.3'         Possible PN
+Fe 6              PN-G 129.6+03.4  Cas  01 56 25.25 +65 28 29.10   3.5'         True PN
+StDr Objet 16     PN-G             Cas  02 06 48.64 +60 10 37.12   0.4'         YSO ?
+StDr Objet 16     PN-G             Cas  02 06 48.64 +60 10 37.12   0.4'         New candidate
+Fe 8              PN-G 131.0+03.7  Cas  02 10 10.64 +65 25 15.30   0.8 x 0.7'   True PN
+Mo Objet 3        PN-G             Cas  02 10 23.87 +65 38 58.60   3.1 x 3.4'   Diffuse nebula ?
+StDr 46           PN-G 133.2-00.9  Cas  02 15 34.62 +60 11 00.90   1.1'         Possible NP
+StDr 46           PN-G 133.2-00.9  Cas  02 15 34.62 +60 11 00.90   1.1'         True PN
+StDr 61           PN-G 134.3+02.5  Cas  02 35 23.84 +63 03 02.35   13'          
+LDu 3             PN-G 136.7+01.4  Cas  02 50 03.48 +61 08 31.96   2'           HII region
+LDu 14            PN-G 137.7+03.3  Cas  03 04 21.70 +62 18 01.30   1'           True PN
+FeMul 1           PN-G             Cas  23 02 30.00 +58 57 55.00   1 x 0.8'     Amorphous diffuse nebula, galaxy ?
+Pre Objet 1       PN-G             Cas  23 02 30.00 +59 02 56.00   4.5 x 3.5'   Confirmed SNR   CTB 109, G109.-1.0
+StDr 97           PN-G 109.5-04.3  Cas  23 14 18.82 +55 59 33.90   1.08'        Possible NP
+StDr 97           PN-G 109.5-04.3  Cas  23 14 18.82 +55 59 33.90   1.08'        Possible PN
+StDr 98           PN-G 110.0-04.6  Cas  23 17 57.63 +55 50 27.03   19.4'        Possible NP, CSPN ?
+StDr 98           PN-G 110.0-04.6  Cas  23 17 57.63 +55 50 27.03   19.4'        New candidate
+LDu 12            PN-G 112.4-00.3  Cas  23 23 59.64 +60 45 00.90   2.3'         HII region
+Dr 35             PN-G 111.4-05.9  Cas  23 30 41.11 +55 04 11.82   9.9 x 8.6'   Possible PN, CSPN ?
+LDu 13            PN-G 114.4+00.0  Cas  23 38 40.43 +61 41 40.90   0.9 x 0.7'   True PN
+Mul objet 2       PN-G             Cas  23 59 53.00 +63 57 01.00                Galaxy ?
+Ras 3             PN-G 286.0+14.2  Cen  11 16 39.49 -45 31 15.60   0.1'         Possible NP
+Ras 3             PN-G 286.0+14.2  Cen  11 16 39.49 -45 31 15.60   0.1'         New candidate
+Mo 28             PN-G 289.7+06.4  Cen  11 20 28.93 -54 04 09.28   2.1 x 1.5'   Possible NP
+Ras 4             PN-G 286.5+15.7  Cen  11 22 31.16 -44 17 46.20   0.3 x 0.2'   Possible NP
+Ras 4             PN-G 286.5+15.7  Cen  11 22 31.16 -44 17 46.20   0.3 x 0.2'   New candidate
+Pa 170            PN-G 293.7-03.3  Cen  11 23 35.80 -64 39 25.50   0.1'         Possible NP
+Pa 170            PN-G 293.7-03.3  Cen  11 23 35.80 -64 39 25.50   0.1'         New candidate
+St 16             PN-G 293.0-01.4  Cen  11 24 07.44 -62 39 29.16   0.2 x 0.1'   Possible PN
+Mul-LDu-IR 14     PN-G 292.8-00.6  Cen  11 24 45.81 -61 50 02.40                Possible PN
+Ras 5             PN-G 287.1+15.5  Cen  11 24 48.51 -44 40 59.30   0.4 x 0.3'   Possible NP
+Ras 5             PN-G 287.1+15.5  Cen  11 24 48.51 -44 40 59.30   0.4 x 0.3'   New candidate
+Ras 6             PN-G 287.6+14.7  Cen  11 25 59.48 -45 34 32.20   0.1'         Possible NP
+Ras 6             PN-G 287.6+14.7  Cen  11 25 59.48 -45 34 32.20   0.1'         New candidate
+St 34             PN-G 291.8+02.8  Cen  11 26 02.53 -58 11 41.36   0.5'         Possible PN
+LDu 42            PN-G 290.4+07.4  Cen  11 27 16.09 -53 24 53.10   0.8'         Possible PN
+St Objet 14       PN-G             Cen  11 28 54.66 -63 58 27.02   0.2'         Atypic object, SNR ?
+Ras Objet 3       PN-G             Cen  11 31 11.95 -44 10 22.90   0.4 x 0.3'   YSO, Galaxy ?
+Ras Objet 3       PN-G             Cen  11 31 11.95 -44 10 22.90   0.4 x 0.3'   New candidate
+Pre 29            PN-G 286.6+20.9  Cen  11 32 16.50 -39 22 20.90   0.5 x 0.3'   Possible PN
+Pre 3             PN-G 290.1+12.6  Cen  11 35 38.20 -48 21 10.00   0.8'         Possible PN, circular shape on blue DSS image
+St 53             PN-G 292.9+03.7  Cen  11 36 10.02 -57 41 19.96   0.2'         Possible PN, CSPN ?
+LDu 37            PN-G 292.3+05.9  Cen  11 36 21.77 -55 22 49.60   2.3'         Possible PN
+St 54             PN-G 292.8+04.6  Cen  11 36 54.60 -56 46 53.38   1 x 0.5'     Possible PN, cometary globule ?
+Mo 9              PN-G 295.4-02.7  Cen  11 40 38.77 -64 34 35.63   0.4 x 0.3'   Possible PN
+Dr 8              PN-G 294.5+01.2  Cen  11 42 41.88 -60 27 28.02   0.3'         Possible PN
+PaMo 1            PN-G 296.2-01.9  Cen  11 49 43.70 -63 58 50.80   0.1'         Possible PN
+Ra 75             PN-G 294.9+03.5  Cen  11 50 12.40 -58 22 04.28   0.1'         Possible NP
+Ra 75             PN-G 294.9+03.5  Cen  11 50 12.40 -58 22 04.28   0.1'         New candidate
+DeGaPe 61         PN-G 296.3-02.1  Cen  11 50 17.10 -64 12 14.10   0.1'         Possible PN
+Ras 7             PN-G 291.6+17.4  Cen  11 51 09.38 -44 06 11.30   0.9 x 0.7'   Possible NP
+Ras 7             PN-G 291.6+17.4  Cen  11 51 09.38 -44 06 11.30   0.9 x 0.7'   New candidate
+Ras 8             PN-G 292.0+16.0  Cen  11 51 28.73 -45 33 50.10   0.3'         Possible NP
+Ras 8             PN-G 292.0+16.0  Cen  11 51 28.73 -45 33 50.10   0.3'         New candidate
+Ras 9             PN-G 292.1+16.4  Cen  11 52 14.90 -45 12 22.60   0.2 x 0.1'   Possible NP
+Ras 9             PN-G 292.1+16.4  Cen  11 52 14.90 -45 12 22.60   0.2 x 0.1'   New candidate
+Pre 54            PN-G 295.6+02.0  Cen  11 52 26.65 -59 59 56.30   0.2 x 0.1'   Possible PN
+Dr 12             PN-G 296.2-00.2  Cen  11 53 33.19 -62 21 26.64   0.1'         Possible PN
+Pre 51            PN-G 295.7+02.5  Cen  11 54 46.04 -59 31 50.50   0.1'         Possible PN
+StDr 127          PN-G 298.2+18.2  Cen  12 26 32.07 -44 21 11.61   0.7'         
+Pre 23            PN-G 304.1+08.1  Cen  12 59 45.00 -54 40 52.00   3.2'         Possible PN, extended nebulous disc
+DeGaPe 9          PN-G 305.4-00.5  Cen  13 13 40.40 -63 20 44.10   0.1'         Possible PN
+Pre 65            PN-G 305.4-00.7  Cen  13 13 45.74 -63 33 44.17   0.3'         Possible PN
+St 49             PN-G 305.9+01.6  Cen  13 16 14.16 -61 04 44.50   0.1'         Possible PN
+StDr 9            PN-G 306.9+03.7  Cen  13 22 24.99 -58 52 01.03   4.4 x 3.3'   Possible PN, CSPN ?
+Pre Objet 7       PN-G             Cen  13 24 04.50 -60 36 32.00   0.3 x 0.1'   Bipolar aspect, simple star, galaxy?
+Pre 56            PN-G 307.2+03.8  Cen  13 25 01.44 -58 41 39.78   0.7'         Possible PN
+Mo 24             PN-G 307.2+00.9  Cen  13 27 47.46 -61 39 12.44   0.4 x 0.3'   Possible PN, Nébuleuse par réflexion ?
+Mo 10             PN-G 307.3+00.8  Cen  13 28 44.30 -61 41 07.71   0.4 x 0.3'   Possible PN
+StDr 23           PN-G 307.1-01.1  Cen  13 29 26.42 -63 40 36.83   0.1'         Possible NP
+StDr 23           PN-G 307.1-01.1  Cen  13 29 26.42 -63 40 36.83   0.1'         True PN
+StDr 105          PN-G 307.5+00.4  Cen  13 30 42.87 -62 01 57.29   0.1'         
+Su 5              PN-G 307.3-01.6  Cen  13 31 54.29 -64 12 33.70   0.1'         Possible PN
+Mul-LDu-IR 15     PN-G 307.7-00.8  Cen  13 34 21.57 -63 21 00.60                Possible PN
+Fe 10             PN-G 307.9-00.1  Cen  13 35 16.00 -62 36 02.00   0.1'         Possible PN
+St 57             PN-G 308.0-01.8  Cen  13 38 32.35 -64 17 43.12   0.1'         Possible PN
+DeGaPe 60         PN-G 308.5+00.0  Cen  13 39 45.40 -62 15 50.80   0.1'         Possible PN
+Pa 174            PN-G 308.5-01.4  Cen  13 42 22.20 -63 45 34.00   0.1'         Possible NP
+Pa 174            PN-G 308.5-01.4  Cen  13 42 22.20 -63 45 34.00   0.1'         New candidate
+DeGaPe 63         PN-G 308.9-00.5  Cen  13 44 14.60 -62 47 01.70   2.3 x 1.3'   Possible NP
+Mul-IR 52         PN-G 310.5+02.6  Cen  13 51 44.10 -59 20 16.00                Possible PN
+Mo 37             PN-G 310.9+00.8  Cen  13 58 25.94 -60 57 50.30   0.1'         Possible NP
+Mo 37             PN-G 310.9+00.8  Cen  13 58 25.94 -60 57 50.30   0.1'         New candidate
+Tan 5             PN-G 311.6+01.5  Cen  14 02 15.76 -60 07 34.06   0.1'         Possible PN
+Dr 18             PN-G 313.9+07.1  Cen  14 06 51.86 -54 07 42.45   2'           Possible PN
+Mul-IR 53         PN-G 313.2+02.9  Cen  14 10 43.90 -58 17 12.00                Possible PN
+Mo 38             PN-G 312.2-01.1  Cen  14 13 53.98 -62 30 26.91   0.1'         Possible NP
+Mo 38             PN-G 312.2-01.1  Cen  14 13 53.98 -62 30 26.91   0.1'         New candidate
+Dr 16             PN-G 312.6-00.8  Cen  14 16 01.83 -62 04 18.50   0.2'         Possible PN
+Pa 175            PN-G 312.2-02.1  Cen  14 16 11.40 -63 30 20.60   0.1'         Possible NP
+Pa 175            PN-G 312.2-02.1  Cen  14 16 11.40 -63 30 20.60   0.1'         New candidate
+Pre 60            PN-G 313.7+02.2  Cen  14 16 48.38 -58 50 37.73   0.1'         Possible PN
+Mul-IR 54         PN-G 313.5+01.1  Cen  14 17 23.80 -59 55 22.00                Possible PN
+Mo 34             PN-G 313.2-00.8  Cen  14 20 40.01 -61 56 26.55   0.1'         Possible NP
+Mul-IR 55         PN-G 315.2+01.9  Cen  14 28 19.00 -58 36 46.00                Possible PN
+StDr 70           PN-G 313.7-02.4  Cen  14 29 32.37 -63 15 57.18   1.33'        Possible NP, CSPN ?
+StDr 70           PN-G 313.7-02.4  Cen  14 29 32.37 -63 15 57.18   1.33'        New candidate
+St 58             PN-G 315.7+02.1  Cen  14 30 44.35 -58 15 38.51   0.1'         Possible PN
+Tan 4             PN-G 314.7-00.4  Cen  14 31 53.00 -61 02 07.20   0.3 x 0.1'   Possible PN
+St 59             PN-G 315.9+02.1  Cen  14 32 22.97 -58 12 04.45   0.2'         Possible PN
+Pa 176            PN-G 315.1-00.9  Cen  14 36 22.20 -61 21 13.10   0.1'         Possible NP
+Pa 176            PN-G 315.1-00.9  Cen  14 36 22.20 -61 21 13.10   0.1'         New candidate
+Dr 15             PN-G 316.3+01.5  Cen  14 37 10.21 -58 34 08.37   9.4 x 7.6'   Region HII, Possible PN
+St Objet 8        PN-G             Cen  14 40 52.64 -59 10 06.17   0.4'         HII region, Galaxy ?
+KnFe 1            PN-G 097.4+12.3  Cep  20 38 09.15 +61 55 05.00   0.7'         True PN
+Ra Objet 6        PN-G             Cep  20 54 13.47 +58 51 24.90   2.0 x 1.1'   HII region ?
+Hu 1              PN-G 096.1+08.9  Cep  20 54 14.00 +58 51 20.40   1.5 x 1.5'   Possible PN
+St Objet 2        PN-G             Cep  21 03 24.04 +58 45 43.60   1.6 x 1.0'   Cometary globule, HII region ?
+Ou 4              PN-G 098.5+08.0  Cep  21 11 48.20 +59 59 12.00   69.4 x 19.8' Bipolar PN ? Massive ejection ? (A&A)
+StDr 15           PN-G 095.8+04.8  Cep  21 15 06.92 +55 55 52.60   5 x 3.8'     Possible NP, CSPN ?
+St 9              PN-G 098.0+06.6  Cep  21 16 33.04 +58 44 22.30   1.6 x 0.8'   Possible PN
+StDr 126          PN-G 098.6+06.4  Cep  21 21 04.23 +59 01 31.25   3'           
+StDr 3            PN-G 097.7+03.4  Cep  21 31 59.35 +56 13 15.52   2 x 1'       Possible PN
+Hu Objet 1        PN-G             Cep  21 32 06.30 +63 04 24.00   3.5 x 2.3'   Cometary globule ?
+Jo 1              PN-G 099.0+03.0  Cep  21 40 32.51 +56 47 55.00   0.2'         True PN
+StDr 4            PN-G 098.4+02.2  Cep  21 41 30.82 +55 47 52.78   3 x 2.3'     SNR ?
+Mul objet 1       PN-G             Cep  21 55 42.00 +66 49 50.00   8.4 x 4.5'   SN remanent ?
+Dr 5              PN-G 103.9+05.5  Cep  21 57 35.52 +61 51 28.95   0.2'         True PN
+StDr 12           PN-G 104.2+04.8  Cep  22 03 30.65 +61 29 43.39   0.8'         True PN
+Rai 1             PN-G 102.2+01.5  Cep  22 06 08.05 +57 38 22.90   0.3'         True PN
+St 7              PN-G 102.5+01.7  Cep  22 06 55.39 +57 58 22.60   2.4 x 2.4'   Possible PN
+St 8              PN-G 107.7+08.8  Cep  22 07 59.14 +66 45 13.30   6.3 x 2.7'   SNR ?
+Ra Objet 7        PN-G             Cep  22 09 27.00 +63 24 53.00   1.8 x 0.6'   Cometary globule ?
+Ra 50             PN-G 102.0+00.1  Cep  22 10 45.27 +56 23 13.10   0.4 x 0.3'   True PN
+Ch 3              PN-G 103.2-00.2  Cep  22 19 41.44 +56 43 48.40   1.3 x 0.8'   Likely PN
+Fe Objet 1        PN-G             Cep  22 33 36.80 +65 48 03.00   0.8 x 0.5'   Oval lonely ring
+Gar Objet 1       PN-G             Cep  22 46 24.97 +59 09 37.20   2 x 1'       Ionised ISM ?
+Gar Objet 1       PN-G             Cep  22 46 24.97 +59 09 37.20   2 x 1'       New candidate
+Ra 59             PN-G 110.1+03.2  Cep  22 54 20.00 +63 09 28.00   0.5 x 0.3'   Possible PN
+Ra 38             PN-G 110.0+02.6  Cep  22 55 58.00 +62 33 25.00   0.1'         Possible PN, in stellar formation region
+Ra 56             PN-G 110.9+03.1  Cep  23 01 23.00 +63 26 45.00   0.4 x 0.5'   Possible PN, very faint nebulosity
+Ra 21             PN-G 111.0+02.8  Cep  23 02 57.00 +63 13 07.00   0.3'         Ionised ISM
+StDr 99           PN-G 114.0+04.1  Cep  23 24 11.06 +65 30 52.40   3'           Possible NP, CSPN ?
+StDr 99           PN-G 114.0+04.1  Cep  23 24 11.06 +65 30 52.40   3'           New candidate
+Su Objet 3        PN-G             Cha  11 02 43.08 -76 17 28.23   2.5 x 0.4'   Arc, artefact
+Mul-IR 51         PN-G 308.1-02.8  Cir  13 41 30.30 -65 12 25.90                Possible PN
+Mul-LDu-IR 6      PN-G 308.1-02.8  Cir  13 41 30.49 -65 12 26.00                Possible PN
+Dr Objet 3        PN-G             Cir  14 42 24.97 -61 42 10.66   0.7 x 0.1'   Herbig-Haro object ?
+Ro 6              PN-G 316.7-01.0  Cir  14 48 23.77 -60 45 28.67   0.3 x 0.2'   Possible PN
+St 60             PN-G 316.7-01.1  Cir  14 48 49.50 -60 52 31.90   0.1'         Possible PN
+Ro 3              PN-G 317.8+00.5  Cir  14 50 27.55 -58 47 33.02   0.1'         Possible PN
+Mo Objet 9        PN-G             Cir  14 52 02.71 -58 08 45.26   0.9 x 0.8'   Galaxy, reflexion nebula ?
+Mul-IR 56         PN-G 318.0+00.5  Cir  14 52 06.55 -58 44 03.00                Possible PN
+MulPre 2          PN-G 318.0+00.5  Cir  14 52 06.55 -58 44 03.00   0.1'         Possible NP
+MulPre 2          PN-G 318.0+00.5  Cir  14 52 06.55 -58 44 03.00   0.1'         New candidate
+Pa 177            PN-G 319.0+01.4  Cir  14 55 37.50 -57 28 02.20   0.1'         Possible NP
+Pa 177            PN-G 319.0+01.4  Cir  14 55 37.50 -57 28 02.20   0.1'         New candidate
+Dr 6              PN-G 318.9+00.8  Cir  14 57 10.32 -58 03 36.55   0.1'         Possible PN
+Mo Objet 17       PN-G             Cir  14 58 57.78 -57 53 39.28   0.3'         Galaxy ?
+Pa 178            PN-G 319.8+01.1  Cir  15 01 47.90 -57 22 59.70   0.1'         Possible NP
+Pa 178            PN-G 319.8+01.1  Cir  15 01 47.90 -57 22 59.70   0.1'         Emission line star
+Pre 67            PN-G 319.8+01.0  Cir  15 02 07.31 -57 25 21.12   0.1'         Possible NP
+Pre 67            PN-G 319.8+01.0  Cir  15 02 07.31 -57 25 21.12   0.1'         Likely PN
+Ra 71             PN-G 320.1+01.2  Cir  15 03 16.90 -57 07 19.70   0.1'         Possible PN
+PrePa 2           PN-G 319.3-00.8  Cir  15 06 10.60 -59 18 19.20   0.1'         Possible PN
+Pre 37            PN-G 318.5-02.3  Cir  15 06 18.60 -61 04 22.00   0.1'         Possible PN
+Mul-IR 57         PN-G 321.3+02.1  Cir  15 07 35.40 -55 44 54.00                Possible PN
+Pa 179            PN-G 321.0+01.4  Cir  15 08 31.00 -56 33 01.00   0.1'         Possible NP
+Pa 179            PN-G 321.0+01.4  Cir  15 08 31.00 -56 33 01.00   0.1'         Possible PN
+PrePa 3           PN-G 319.5-01.1  Cir  15 08 56.40 -59 33 16.00   0.1'         Possible NP
+PrePa 3           PN-G 319.5-01.1  Cir  15 08 56.40 -59 33 16.00   0.1'         True PN
+Ras 2             PN-G 321.6+01.0  Cir  15 13 31.22 -56 32 42.10   2.3'         Possible NP
+DeGaPe 42         PN-G 319.8-01.7  Cir  15 13 35.20 -59 53 12.60   0.1'         Possible PN
+Dr 7              PN-G 321.3+00.4  Cir  15 13 54.00 -57 11 51.23   0.2'         Possible PN
+DeGaPe 37         PN-G 320.4-01.2  Cir  15 15 03.78 -59 11 42.20   0.1'         Possible PN
+DeGaPe 41         PN-G 320.1-02.0  Cir  15 15 59.54 -59 57 30.60   0.1'         Possible PN
+DeGaPe 34         PN-G 320.7-01.0  Cir  15 16 04.30 -58 49 16.00   0.1'         Possible PN
+DeGaPe 36         PN-G 320.4-01.4  Cir  15 16 04.92 -59 18 09.50   0.1'         Possible PN
+Dr 9              PN-G 319.2-03.7  Cir  15 17 45.49 -61 56 31.60   0.2'         Possible PN
+DeGaPe 62         PN-G 319.0-04.1  Cir  15 17 59.50 -62 18 33.90   0.1'         Possible PN
+DeGaPe 39         PN-G 320.6-02.0  Cir  15 19 45.00 -59 41 58.90   0.1'         Possible PN
+DeGaPe 38         PN-G 320.6-02.0  Cir  15 20 01.59 -59 40 38.80   0.1'         Possible PN
+DeGaPe 40         PN-G 320.8-01.8  Cir  15 20 18.10 -59 28 12.10   0.1'         Possible PN
+DeGaPe 43         PN-G 320.6-02.4  Cir  15 21 08.20 -60 04 06.90   0.1'         Possible PN
+DeGaPe 35         PN-G 321.1-01.5  Cir  15 21 18.10 -59 00 34.20   0.1'         Possible PN
+Pa 181            PN-G 321.0-02.2  Cir  15 23 49.00 -59 40 50.30   0.1'         Possible NP
+Pa 181            PN-G 321.0-02.2  Cir  15 23 49.00 -59 40 50.30   0.1'         New candidate
+Ro 7              PN-G 322.6-00.3  Cir  15 25 55.06 -57 12 59.45   0.1'         Possible NP
+Ro 7              PN-G 322.6-00.3  Cir  15 25 55.06 -57 12 59.45   0.1'         New candidate
+Ro 8              PN-G 323.6+00.3  Cir  15 28 14.78 -56 03 10.04   0.1'         Possible NP
+Ro 8              PN-G 323.6+00.3  Cir  15 28 14.78 -56 03 10.04   0.1'         New candidate
+LDu Objet 2       PN-G             Col  06 07 37.00 -27 55 19.00   0.2'         Galaxy ?
+StDr 136          PN-G 354.0-08.8  CrA  18 08 41.01 -38 29 36.90   2'           
+PaGo 1            PN-G 060.7+48.9  CrB  16 01 25.00 +38 03 00.00   20'          Possible PN
+PaGo 2            PN-G 060.7+48.9  CrB  16 01 25.00 +38 03 00.00   20'          Possible NP, CSPN ?
+LDu 11            PN-G             Crt  11 36 15.95 -10 52 44.00   1'           Confirmed globular cluster
+Mul-LDu-IR 20     PN-G 296.4+01.3  Cru  11 58 05.00 -60 48 09.30                Possible PN
+StDr Objet 10     PN-G             Cru  12 04 00.23 -61 46 47.21   02 x 0.1'    Reflexion nebula ?
+StDr Objet 10     PN-G             Cru  12 04 00.23 -61 46 47.21   02 x 0.1'    New candidate
+Mo 31             PN-G 297.5+02.5  Cru  12 08 17.51 -59 50 59.76   1.9'         Possible NP
+Pre 61            PN-G 297.4+03.5  Cru  12 08 40.48 -58 49 47.16   0.1'         Possible PN
+Pre 59            PN-G 297.4+03.6  Cru  12 09 10.24 -58 46 00.61   0.4'         Possible PN, CSPN ?
+St 35             PN-G 297.9+00.9  Cru  12 09 48.48 -61 32 02.43   1'           Possible PN
+Pre 41            PN-G 298.5-01.7  Cru  12 10 53.00 -64 17 25.00   0.1'         Possible PN
+StDr 22           PN-G 297.4+05.5  Cru  12 11 06.97 -56 50 46.17   0.9'         Possible NP
+StDr 22           PN-G 297.4+05.5  Cru  12 11 06.97 -56 50 46.17   0.9'         New candidate
+PrePa 1           PN-G 298.7-01.6  Cru  12 12 31.80 -64 12 52.00   1'           Possible PN
+Pa Objet 1        PN-G             Cru  12 15 05.10 -55 56 16.90   0.1'         Atypic object
+Pa Objet 1        PN-G             Cru  12 15 05.10 -55 56 16.90   0.1'         New candidate
+Pa 171            PN-G 297.9+05.7  Cru  12 15 14.20 -56 43 32.20   1.2'         Possible NP
+Pa 171            PN-G 297.9+05.7  Cru  12 15 14.20 -56 43 32.20   1.2'         New candidate
+Pa 172            PN-G 298.1+04.5  Cru  12 15 44.30 -57 58 17.60   0.1'         Possible NP
+Pa 172            PN-G 298.1+04.5  Cru  12 15 44.30 -57 58 17.60   0.1'         New candidate
+Pre 63            PN-G 298.1+05.1  Cru  12 16 17.49 -57 22 25.66   0.4'         Possible PN, CSPN ?
+St 39             PN-G 299.3-00.7  Cru  12 19 15.16 -63 23 23.34   0.1'         Possible NP
+Mul Objet 3       PN-G             Cru  12 22 44.76 -63 02 21.01   0.1'         YSO ?
+Mul Objet 3       PN-G             Cru  12 22 44.76 -63 02 21.01   0.1'         New candidate
+Ra 77             PN-G 300.1-00.5  Cru  12 26 29.00 -63 18 59.00   0.2'         Possible NP
+Ra 77             PN-G 300.1-00.5  Cru  12 26 29.00 -63 18 59.00   0.2'         New candidate
+Pre 39            PN-G 300.7+00.5  Cru  12 33 04.80 -62 13 29.00   0.1'         Possible PN
+St 55             PN-G 300.8-00.4  Cru  12 33 09.61 -63 16 00.11   0.1'         Possible PN
+Mo Objet 16       PN-G             Cru  12 34 52.28 -61 47 01.19   0.2'         Galaxy ?
+Mo 11             PN-G 301.5+00.2  Cru  12 39 34.82 -62 32 30.00   1.0 x 0.6'   Possible PN
+St 43             PN-G 301.8+02.0  Cru  12 42 15.23 -60 46 4.180   1.1 x 0.8s'  Possible NP
+Mo Objet 4        PN-G             Cru  12 43 10.06 -60 35 06.90   1.6 x 1.0'   Reflexion nebula, murky ?
+Pre 66            PN-G 302.2+02.8  Cru  12 45 57.64 -60 00 03.85   0.3'         Possible PN, CSPN ?
+Pa 173            PN-G 302.8-01.0  Cru  12 50 37.90 -63 54 56.40   0.1'         Possible NP
+Pa 173            PN-G 302.8-01.0  Cru  12 50 37.90 -63 54 56.40   0.1'         True PN
+Dr 23             PN-G 078.6+14.0  Cyg  19 25 26.71 +46 46 26.42   8'           Possible NP, CSPN ?
+LDu 22            PN-G 068.2+08.4  Cyg  19 27 45.62 +35 08 57.30   1.6 x 1.0'   Possible PN
+Ra 69             PN-G 070.6+09.1  Cyg  19 30 23.61 +37 37 06.80   0.1'         Possible PN
+StDr 132          PN-G 067.0+07.0  Cyg  19 31 26.90 +33 27 23.59   4'           
+Ra 36             PN-G 071.2+07.9  Cyg  19 37 01.00 +37 31 46.00   0.3'         Confirmed as non PN by DSH
+Hu 7              PN-G 077.0+10.7  Cyg  19 38 19.16 +43 52 44.70   5 x 3'       Possible PN
+Ra 15             PN-G 072.0+08.0  Cyg  19 38 36.00 +38 18 34.00   0.4'         Confirmed as non PN by DSH
+Ra 14             PN-G 090.2+16.7  Cyg  19 39 44.00 +58 02 11.00   3.7'         Possible PN
+Mul Objet 9       PN-G             Cyg  19 42 48.29 +29 02 29.98   0.1'         Emission star ?
+Mul Objet 9       PN-G             Cyg  19 42 48.29 +29 02 29.98   0.1'         New candidate
+Ra 8              PN-G 078.3+10.2  Cyg  19 43 46.00 +44 49 49.00   0.5'         Confirmed as non PN by DSH
+StDr Objet 29     PN-G             Cyg  19 44 08.42 +28 48 31.27   0.6'         Binary system ?
+LDu Objet 4       PN-G             Cyg  19 45 37.00 +48 38 27.00   0.2 x 0.4'   Galaxy ? Cluster ?
+Ra 35             PN-G 090.6+16.0  Cyg  19 45 56.00 +58 06 13.00   4'           Possible PN
+LDu 24            PN-G 081.9+11.7  Cyg  19 46 03.44 +48 35 09.50   0.3'         Possible PN
+Ra 26             PN-G 069.0+03.8  Cyg  19 49 35.00 +33 36 01.00   0.5'         Possible PN
+StDr 91           PN-G 066.7+02.4  Cyg  19 49 39.11 +30 58 18.47   1.1'         Possible NP, CSPN ?
+StDr 91           PN-G 066.7+02.4  Cyg  19 49 39.11 +30 58 18.47   1.1'         New candidate
+StDr Objet 26     PN-G             Cyg  19 49 48.68 +35 49 14.34   0.35'        Post AGB star ?
+Pre 7             PN-G 066.2+01.9  Cyg  19 50 33.00 +30 15 22.00   0.6'         True PN
+Ra Objet 2        PN-G             Cyg  19 50 57.00 +33 47 32.00   0.3'         Single star ?
+Ou 8              PN-G 068.4+02.7  Cyg  19 52 23.88 +32 35 59.50   1 x 0.5'     Possible PN
+Ou 7              PN-G 068.3+02.6  Cyg  19 52 45.42 +32 25 36.00   5.7 x 3.2'   Possible PN, connected to CTB80 ?
+Ra 13             PN-G 069.3+03.0  Cyg  19 53 47.00 +33 30 19.00   0.1'         Possible PN
+StDr 121          PN-G 071.5+04.2  Cyg  19 53 47.36 +36 02 17.73   1.5'         
+StDr Objet 3      PN-G             Cyg  19 54 10.03 +33 58 45.71   0.2'         ProtoPN, YSO ?
+PaStDr 2          PN-G 066.8+00.9  Cyg  19 55 52.27 +30 16 09.90   2.3'         Possible NP, CSPN ?
+PaStDr 2          PN-G 066.8+00.9  Cyg  19 55 52.27 +30 16 09.90   2.3'         HII region
+Ch 2              PN-G 070.7+03.0  Cyg  19 56 53.55 +34 44 55.40   0.9 x 0.5'   Likely PN
+Mul-IR 75         PN-G 068.8+01.8  Cyg  19 57 01.50 +32 25 31.00                Possible PN
+Ch 1              PN-G 070.8+03.0  Cyg  19 57 15.56 +34 47 18.80   1.0 x 0.4'   True PN
+StDr Objet 27     PN-G             Cyg  19 57 29.91 +40 58 47.60   1.6'         Reflexion nebula ?
+Mul-IR 71         PN-G 068.6+01.4  Cyg  19 58 09.00 +32 07 10.00                Possible PN
+Mul-IR 76         PN-G 068.6+01.4  Cyg  19 58 20.40 +32 03 14.00                Possible PN
+StDr 92           PN-G 068.0+00.7  Cyg  19 59 39.84 +31 14 06.91   1.82'        Possible NP, CSPN ?
+StDr 92           PN-G 068.0+00.7  Cyg  19 59 39.84 +31 14 06.91   1.82'        True PN
+StDr 103          PN-G 071.1+02.3  Cyg  20 00 38.97 +34 39 23.04   10'          
+Ra 6              PN-G 082.2+09.0  Cyg  20 00 59.00 +47 34 11.00   0.3'         Possible PN
+Ra 40             PN-G 075.2+04.4  Cyg  20 02 51.60 +39 15 31.50   0.3'         Possible PN, galaxy ?
+LDu 23            PN-G 082.6+08.7  Cyg  20 03 48.86 +47 44 01.50   0.3'         Possible PN
+Ou 6              PN-G 072.0+02.2  Cyg  20 03 53.54 +35 22 50.40   0.2'         True PN
+StDr Objet 15     PN-G             Cyg  20 07 48.87 +41 39 31.21   1.2'         Binary system ?
+StDr Objet 15     PN-G             Cyg  20 07 48.87 +41 39 31.21   1.2'         New candidate
+StDr 6            PN-G 074.7+02.9  Cyg  20 07 58.58 +38 02 10.51   0.1'         True PN
+Mul Objet 5       PN-G             Cyg  20 08 38.47 +41 00 40.78   0.1'         Proto-PN
+Mul Objet 5       PN-G             Cyg  20 08 38.47 +41 00 40.78   0.1'         Possible prePN
+StDr Objet 28     PN-G             Cyg  20 09 08.50 +29 32 07.10   1.4'         HII region ?
+Mul 4             PN-G 073.4+01.5  Cyg  20 10 17.90 +36 13 09.00   0.1'         Likely PN
+Mul-IR 83         PN-G 074.3+01.7  Cyg  20 11 46.20 +37 00 43.00                Possible PN
+Mul-IR 84         PN-G 074.5+01.5  Cyg  20 13 14.30 +37 05 37.00                Possible PN
+Mul-IR 73         PN-G 074.5+01.5  Cyg  20 13 17.00 +37 06 02.20                Possible PN
+Mul-IR 18         PN-G 070.9-00.9  Cyg  20 13 41.34 +32 45 54.50                Possible PN
+Mul-IR 70         PN-G 074.7+01.5  Cyg  20 13 51.00 +37 16 21.00                Possible PN
+Ra 28             PN-G 070.5-01.4  Cyg  20 14 43.00 +32 08 34.00   0.1'         Possible PN
+Ra 37             PN-G 070.6-01.7  Cyg  20 16 03.00 +31 58 45.00   1.7'         Possible PN
+StDr 11           PN-G 069.4-03.8  Cyg  20 20 50.30 +29 49 51.10   1.4'         Possible PN, CSPN ?
+Mul-IR 85         PN-G 076.4+00.3  Cyg  20 23 19.20 +37 58 52.00                Possible PN
+LDu 2             PN-G 083.4+05.0  Cyg  20 24 50.63 +46 22 24.40   20.1 x 11.7' Ionised ISM
+StDr 5            PN-G 071.1-04.7  Cyg  20 28 54.25 +30 44 07.00   1.4'         Possible PN
+Hu 9              PN-G 073.1-03.4  Cyg  20 29 35.09 +33 07 31.70   18'          
+Hu 8              PN-G 073.0-04.1  Cyg  20 32 09.00 +32 37 18.00   0.1'         Active core galaxy
+Hu 8              PN-G 073.0-04.1  Cyg  20 32 09.00 +32 37 18.00   0.1'         Galaxy
+StDr Objet 2      PN-G             Cyg  20 33 31.14 +44 08 45.39   0.6'         ProtoPN,YSO, Galaxy ?
+Mul-IR 19         PN-G 072.3-05.3  Cyg  20 34 26.00 +31 18 33.00                True PN
+Ra 67             PN-G 084.3+03.1  Cyg  20 36 07.20 +46 01 53.00   0.2'         True PN
+Dr 25             PN-G 094.4+10.4  Cyg  20 36 51.53 +58 27 57.33   2.6'         Possible NP, CSPN ?
+StDr 27           PN-G 079.1-02.1  Cyg  20 42 07.58 +38 38 08.78   3'           Possible NP, CSPN ?
+StDr 27           PN-G 079.1-02.1  Cyg  20 42 07.58 +38 38 08.78   3'           Possible PN
+Ra 4              PN-G 077.3-04.0  Cyg  20 44 13.00 +36 07 38.00   0.3'         True PN
+LDu 21            PN-G 079.5-03.8  Cyg  20 49 56.55 +37 54 05.80   0.2'         Possible PN
+Ra 10             PN-G 086.5+01.8  Cyg  20 50 13.00 +46 55 18.00   0.8'         True PN
+Rai 2             PN-G 089.1+03.8  Cyg  20 50 45.92 +50 12 07.50   0.1'         True PN
+Zol 1             PN-G 086.8+01.2  Cyg  20 53 49.60 +46 46 47.00   0.6'         True PN
+Su 2              PN-G 085.3-00.4  Cyg  20 56 13.13 +44 34 39.49   2.1 x 1.0'   Possible PN, cometary globule ?
+Ra 66             PN-G 083.6-02.1  Cyg  20 57 03.75 +42 06 27.00   0.2'         Possible PN
+Pa 180            PN-G 093.1+05.3  Cyg  21 00 00.22 +54 18 11.05   1'           Possible NP
+Pa 180            PN-G 093.1+05.3  Cyg  21 00 00.22 +54 18 11.05   1'           New candidate
+Ra 5              PN-G 086.2-01.2  Cyg  21 02 38.00 +44 46 42.00   0.2'         True PN
+StDr Objet 14     PN-G             Cyg  21 04 40.09 +37 16 42.05   1'           Binary system ?
+StDr Objet 14     PN-G             Cyg  21 04 40.09 +37 16 42.05   1'           New candidate
+Mul-IR 77         PN-G 093.5+03.8  Cyg  21 09 36.50 +53 34 04.00                Possible PN
+MoMi 2            PN-G 083.9-05.3  Cyg  21 10 51.12 +40 17 00.07   8 x 3.6'     Possible NP, CSPN ?
+MoMi 2            PN-G 083.9-05.3  Cyg  21 10 51.12 +40 17 00.07   8 x 3.6'     Object of unknown nature
+LDu Objet 5       PN-G             Cyg  21 13 09.00 +46 22 32.00   2.6 x 2.6'   Diffuse nebula ?
+Ou 5              PN-G 086.9-03.4  Cyg  21 14 20.00 +43 41 35.00   0.6 x 0.8'   True PN
+StDr 133          PN-G 086.6-04.6  Cyg  21 17 40.87 +42 42 35.82   2.8'         
+Ra 43             PN-G 094.1+02.6  Cyg  21 17 54.00 +53 09 39.00   0.7'         Possible PN
+Mul-IR 78         PN-G 091.7-00.1  Cyg  21 19 45.10 +49 28 10.00                Possible PN
+StDr 94           PN-G 093.2+00.8  Cyg  21 22 16.87 +51 13 13.50   2.2'         Possible NP, CSPN ?
+StDr 94           PN-G 093.2+00.8  Cyg  21 22 16.87 +51 13 13.50   2.2'         New candidate
+StDr 95           PN-G 093.1-00.3  Cyg  21 26 59.81 +50 18 57.30   1.1'         Possible NP
+StDr 95           PN-G 093.1-00.3  Cyg  21 26 59.81 +50 18 57.30   1.1'         New candidate
+PaStDr 1          PN-G 092.8-00.9  Cyg  21 28 14.11 +49 41 47.30   5.3'         Possible NP, CSPN ?
+LDu 28            PN-G 075.8-17.7  Cyg  21 28 26.76 +54 11 01.60   0.4'         Possible PN
+LDu 18            PN-G 093.8-00.2  Cyg  21 29 52.51 +50 54 19.18   0.4'         True PN
+App 2             PN-G 095.1+00.9  Cyg  21 30 45.12 +52 41 48.10   1 x 0.8'     True PN
+StDr Objet 1      PN-G             Cyg  21 35 07.85 +52 11 32.36   0.5 x 0.3'   True PN
+LDu-IR 9          PN-G 095.4+00.2  Cyg  21 35 13.12 +52 18 58.40                Possible PN
+LDu 1             PN-G 094.5-00.8  Cyg  21 36 06.35 +50 54 04.80   2.2'         True PN
+St 13             PN-G 092.3-04.3  Cyg  21 40 00.35 +46 51 17.60   0.4 x 0.3'   Possible PN
+StDr 2            PN-G 093.4-03.2  Cyg  21 40 22.13 +48 21 52.64   0.6'         Likely PN, CSPN ?
+StDr 17           PN-G 091.0-06.3  Cyg  21 42 15.52 +44 28 04.33   15 x 13'     True PN
+Su Objet 7        PN-G             Cyg  21 43 01.90 +54 56 35.60   0.4 x 0.3'   Ionised ISM ?
+Ra 57             PN-G 097.4-02.4  Cyg  21 56 40.67 +51 34 59.50   0.1 x 0.3'   Possible PN
+DrZi Objet 1      PN-G             Cyg  22 00 00.44 +49 00 57.07   18'          Complex object, arc, big nebulosity
+Mul 7             PN-G 056.6-12.0  Del  20 20 25.28 +14 46 50.90   0.2'         Possible PN
+Pre 1             PN-G 053.9-15.8  Del  20 27 35.50 +10 28 10.40   0.2 x 0. 3'  Possible PN, nebulosity on DSS image
+Pre 25            PN-G 053.1-17.5  Del  20 31 59.00 +08 58 38.00   12.0 x 7.2'  Possible PN, cometary globule ?
+Kan 3             PN-G 061.4-15.8  Del  20 44 14.00 +16 30 30.51   0.1'         Possible PN
+St Objet 3        PN-G             Dor  05 08 19.00 -62 18 50.90   0.1'         Galaxy ?
+FoGl 1            PN-G 279.8-31.4  Dor  05 40 54.77 -69 26 46.00   0.5 x 0.5'   Possible PN
+Mul-LDu-IR 2      PN-G 279.1-27.8  Dor  06 21 57.10 -68 57 00.60                Possible PN
+St 11             PN-G 116.5+23.8  Dra  20 42 35.45 +83 22 37.20   1.6'         Possible PN
+StDr Objet 30     PN-G             Eri  05 06 19.83 -10 47 37.37   7'           SNR ?
+Ra 51             PN-G 187.7+01.5  Gem  06 08 52.00 +22 57 21.00   0.6 x 0.6'   Possible PN, circular nebulosity
+Bl 1              PN-G 188.0+02.4  Gem  06 12 50.50 +23 07 34.90   7.3 x 3.9'   Possible NP
+Pre 34            PN-G 187.7+03.4  Gem  06 16 07.20 +23 52 20.00   1.3'         Possible PN
+Ma Objet 1        PN-G             Gem  06 22 25.96 +23 46 07.54   0.3 x 0.2'   Herbig-Haro object ?
+Ra 55             PN-G 201.3+04.1  Gem  06 45 05.00 +12 12 53.00   2.2 x 1.7'   Possible PN
+Mul-LDu-IR 9      PN-G 041.1+24.2  Her  17 36 29.20 +17 40 39.00                Possible PN
+PaGo 1            PN-G 046.9+24.3  Her  17 44 15.30 +22 36 26.80   10'          Possible NP, CSPN ?
+PaGo 2            PN-G 046.9+24.3  Her  17 44 15.30 +22 36 26.80   10'          New candidate
+Bea 1             PN-G 237.8+13.5  Hya  08 28 03.29 -14 58 54.60   0.3'         Possible PN
+StDr Objet 20     PN-G             Hya  09 26 20.58 -22 23 39.13   28'          White dwarf and variable star V*YY Hya interaction ?
+StDr Objet 20     PN-G             Hya  09 26 20.58 -22 23 39.13   28'          New candidate
+StDr 47           PN-G 253.7+19.4  Hya  09 27 31.46 -23 22 34.40   4.5'         Possible NP, CSPN ?
+StDr 47           PN-G 253.7+19.4  Hya  09 27 31.46 -23 22 34.40   4.5'         New candidate
+StDr 43           PN-G 101.4-01.9  Lac  22 16 18.23 +54 18 42.10   7'           Possible NP, CSPN ?
+StDr 43           PN-G 101.4-01.9  Lac  22 16 18.23 +54 18 42.10   7'           Possible PN
+RaMul 1           PN-G 101.1-02.4  Lac  22 16 30.00 +53 42 19.00   0.6'         Possible PN
+Ra 42             PN-G 095.7-15.0  Lac  22 30 05.00 +40 15 33.00   1.6 x 1.8'   Possible PN
+St 4              PN-G 098.2-13.3  Lac  22 36 35.31 +42 55 45.10   0.1'         Possible PN
+StDr 96           PN-G 103.9-03.7  Lac  22 37 00.25 +54 02 50.68   1'           Possible NP, CSPN ?
+StDr 96           PN-G 103.9-03.7  Lac  22 37 00.25 +54 02 50.68   1'           Likely PN
+StDr 53           PN-G 105.4-03.3  Lac  22 44 54.68 +55 09 25.60   0.3'         True PN
+StDr 53           PN-G 105.4-03.3  Lac  22 44 54.68 +55 09 25.60   0.3'         Likely PN
+App 1             PN-G 101.8-11.6  Lac  22 49 20.13 +46 07 38.40   0.9 x 0.5'   Type Seyfert Galaxy
+St 15             PN-G 233.7+53.3  Leo  10 33 19.09 +10 11 24.43   1 x 0.7'     Possible PN
+Za Objet 1        PN-G             Leo  11 42 28.50 +13 00 13.40   1 x 0.7'     Galaxy ?
+Su 6              PN-G 355.5+48.2  Lib  14 59 12.10 -01 05 56.06   0.1'         Possible NP
+Su 6              PN-G 355.5+48.2  Lib  14 59 12.10 -01 05 56.06   0.1'         New candidate
+LDu-IR 13         PN-G 350.6+29.4  Lib  15 41 16.09 -17 16 39.30                Possible PN
+Or 5              PN-G 318.3+14.3  Lup  14 18 15.90 -45 56 21.00   0.3'         Possible PN
+Pre 28            PN-G 323.6+10.3  Lup  14 55 15.30 -47 27 40.00   0.5 x 0.4'   Possible PN
+Dr 17             PN-G 324.2+04.0  Lup  15 18 32.75 -52 38 22.50   1'           Possible PN, CSPN ?
+Dr Objet 1        PN-G             Lup  15 20 04.55 -52 17 32.39   0.4 x 0.2'   HII region ?
+StDr 81           PN-G 061.8+20.9  Lyr  18 20 13.82 +34 21 08.70   24'          Possible NP, CSPN ?
+StDr 81           PN-G 061.8+20.9  Lyr  18 20 13.82 +34 21 08.70   24'          New candidate
+Mul-IR 67         PN-G 072.6+23.9  Lyr  18 20 30.30 +44 49 12.00                Cold star (red giant ?)
+StDr 29           PN-G 065.4+20.2  Lyr  18 29 02.10 +37 20 05.35   5'           Likely PN, CSPN ?
+StDr 29           PN-G 065.4+20.2  Lyr  18 29 02.10 +37 20 05.35   5'           Likely PN
+Ra 60             PN-G 061.3+17.2  Lyr  18 36 01.00 +32 40 19.00   1.8 x 1.5'   Possible PN
+PaStDr 5          PN-G 063.3+15.8  Lyr  18 45 41.34 +33 56 04.54   9'           Possible PN
+StDr 119          PN-G 067.4+15.7  Lyr  18 53 36.55 +37 29 14.62   10'          
+Ra 1              PN-G 066.5+15.1  Lyr  18 54 45.77 +36 30 12.00   0.3'         True PN
+StDr 120          PN-G 067.9+14.6  Lyr  18 59 25.79 +37 30 26.33   10'          
+Ra Objet 4        PN-G             Lyr  19 00 06.00 +30 38 02.00   0.3'         Galaxy ?
+LDu 19            PN-G 077.6+17.5  Lyr  19 04 10.44 +47 15 18.50   0.25'        Possible PN 
+LDu Objet 3       PN-G             Lyr  19 08 55.00 +35 27 24.00   0.1'         Galaxy ?
+LDu 7             PN-G             Lyr  19 11 22.56 +40 55 38.60   0.2'         Galaxy ?
+LDu 8             PN-G             Lyr  19 18 52.05 +43 34 57.10   0.1'         Galaxy ?
+Dr 20             PN-G 012.1-33.1  Mic  20 27 59.68 -30 56 02.20   5.3'         Possible PN, dust cloud ?
+Za Objet 2        PN-G             Mon  05 56 31.20 -08 30 19.10   0.6 x 0.5'   Galaxy ?
+Ra 25             PN-G 203.1-03.0  Mon  06 22 35.00 +07 18 53.00   0.3'         Possible PN
+StDr 32           PN-G 200.6-00.7  Mon  06 25 53.99 +10 33 08.81   6.6'         Possible NP, CSPN ?
+StDr 32           PN-G 200.6-00.7  Mon  06 25 53.99 +10 33 08.81   6.6'         New candidate
+StDr 13           PN-G 204.4-00.4  Mon  06 34 22.65 +07 22 20.24   7.5'         True PN
+Mul-IR 42         PN-G 202.9+00.9  Mon  06 36 26.70 +09 20 22.00                Possible PN
+Mul-IR 74         PN-G 212.7-03.6  Mon  06 38 15.20 -01 30 44.40                Possible PN
+Mul-IR 43         PN-G 212.8-03.6  Mon  06 38 16.20 -01 33 08.00                Possible PN
+Pre 31            PN-G 202.0+02.6  Mon  06 41 02.70 +10 56 13.90   0.1'         Possible PN
+PaRasMoMi 1       PN-G 206.2+00.6  Mon  06 41 30.00 +06 16 30.00   26'          
+StDr 33           PN-G 201.6+03.9  Mon  06 44 52.15 +11 49 08.30   2.1 x 0.6'   Possible NP
+StDr 33           PN-G 201.6+03.9  Mon  06 44 52.15 +11 49 08.30   2.1 x 0.6'   New candidate
+LDu 34            PN-G 214.0-02.0  Mon  06 46 00.90 -01 57 07.06   0.8 x 1.1'   Possible PN
+Mul-IR 90         PN-G 210.3-00.0  Mon  06 46 32.00 +02 18 29.00                Possible PN
+Mul-IR 44         PN-G 214.4-01.7  Mon  06 47 55.00 -02 08 39.00                Possible PN
+Pre Objet 2       PN-G             Mon  06 48 16.40 +10 03 55.00   1.4 x 0.8'   Cometary globule ?
+Pre Objet 3       PN-G             Mon  06 48 58.20 +10 10 24.00   1.0 x 0.4'   Cometary globule ?
+St 14             PN-G 215.5-01.9  Mon  06 49 23.36 -03 11 46.90   1.5 x 1.2'   Possible PN
+St Objet 1        PN-G             Mon  06 49 28.48 -04 09 29.50   1.5 x 0.7'   Cometary globule ?
+StDr Objet 4      PN-G             Mon  06 51 36.59 +02 43 18.08   16'          SNR ?
+CaVa 1            PN-G 205.0+04.4  Mon  06 52 52.59 +09 04 22.70   7.9'         True PN
+Mul 16            PN-G 216.2-00.7  Mon  06 54 38.70 -03 16 30.30   0.1'         Interesting object
+StDr 61           PN-G 216.2-00.7  Mon  06 54 38.70 -03 16 30.30   0.1'         Possible NP
+Mul Objet 4       PN-G             Mon  06 54 38.73 -03 16 30.39   0.1'         YSO ?
+StDr 39           PN-G 223.5-03.1  Mon  06 59 32.57 -10 52 14.30   9'           Possible NP, CSPN ?
+StDr 39           PN-G 223.5-03.1  Mon  06 59 32.57 -10 52 14.30   9'           New candidate
+Mo 2              PN-G 215.7+00.8  Mon  06 59 39.77 -02 07 21.30   0.1'         Possible PN
+StDr 62           PN-G 217.7+00.0  Mon  07 00 24.53 -04 13 15.30   0.1'         Possible NP
+StDr 62           PN-G 217.7+00.0  Mon  07 00 24.53 -04 13 15.30   0.1'         New candidate
+Hu 6              PN-G 206.6+05.9  Mon  07 01 25.00 +08 15 00.00   210'         Possible PN, SNR ?
+Mul-IR 45         PN-G 216.1+01.2  Mon  07 01 37.43 -02 17 51.20                Possible PN
+StDr 44           PN-G 220.9-00.8  Mon  07 03 06.26 -07 31 45.40   21 x 13'     Possible NP, CSPN ?
+StDr 44           PN-G 220.9-00.8  Mon  07 03 06.26 -07 31 45.40   21 x 13'     New candidate
+StDr 65           PN-G 225.8+04.2  Mon  07 30 39.36 -09 25 22.62   3.3'         Possible NP, CSPN ?
+StDr 65           PN-G 225.8+04.2  Mon  07 30 39.36 -09 25 22.62   3.3'         New candidate
+LDu 5             PN-G 227.3+06.5  Mon  07 41 34.79 -09 42 01.90   0.6'         Possible PN
+StDr 130          PN-G 228.0+06.8  Mon  07 44 11.83 -10 08 41.32   13'          
+Pre 33            PN-G 297.6-08.1  Mus  11 49 08.40 -70 20 31.00   0.4 x 0.2'   Proto-PN
+Mo 30             PN-G 298.1-05.6  Mus  11 59 56.08 -68 02 17.97   1.0 x 0.7'   Possible NP
+St 22             PN-G 299.2-05.1  Mus  12 12 05.11 -67 45 31.68   0.3'         Possible PN
+Ra 76             PN-G 299.9-04.5  Mus  12 20 37.73 -67 14 49.00   0.1'         Possible NP
+Ra 76             PN-G 299.9-04.5  Mus  12 20 37.73 -67 14 49.00   0.1'         New candidate
+St 26             PN-G 301.0-04.5  Mus  12 32 17.77 -67 20 30.80   0.5'         Possible PN
+Pre Objet 8       PN-G             Mus  12 51 02.28 -65 18 59.93   2.7 x 0.1'   Lonely filament, SNR ?
+Pre 22            PN-G 303.7-01.9  Mus  12 58 50.60 -64 48 34.40   0.1'         Possible PN
+St 20             PN-G 303.7-03.6  Mus  12 59 28.79 -66 32 48.50   0.2'         Possible PN
+St 56             PN-G 304.6-01.9  Mus  13 07 27.38 -64 43 47.91   0.5'         Possible PN
+Ra 78             PN-G 307.1-02.1  Mus  13 30 37.40 -64 42 40.61   0.1'         Possible NP, Galaxy ?
+Ra 78             PN-G 307.1-02.1  Mus  13 30 37.40 -64 42 40.61   0.1'         New candidate
+StDr 69           PN-G 307.9-03.4  Mus  13 40 34.42 -65 47 46.00   1.65'        Possible NP, CSPN ?
+StDr 69           PN-G 307.9-03.4  Mus  13 40 34.42 -65 47 46.00   1.65'        New candidate
+Mo 26             PN-G 322.5-02.2  Nor  15 33 00.03 -58 49 42.40   0.2'         Possible PN
+Mul-IR 58         PN-G 324.0-00.2  Nor  15 33 26.50 -56 17 19.30                Possible PN
+MulPre 3          PN-G 324.0-00.2  Nor  15 33 26.69 -56 17 17.80   0.1'         Possible NP
+MulPre 3          PN-G 324.0-00.2  Nor  15 33 26.69 -56 17 17.80   0.1'         New candidate
+StDr 50           PN-G 324.8+00.8  Nor  15 33 28.80 -54 56 20.00   8.5 x 6.0'   Possible NP, CSPN ?
+StDr 50           PN-G 324.8+00.8  Nor  15 33 28.80 -54 56 20.00   8.5 x 6.0'   New candidate
+Mul-IR 59         PN-G 325.3+01.4  Nor  15 34 03.60 -54 09 43.00                Possible PN
+Mul-IR 60         PN-G 325.4+01.2  Nor  15 35 12.55 -54 19 23.80                Possible PN
+Ro 2              PN-G 323.4-01.4  Nor  15 35 25.53 -57 40 34.66   0.3'         Possible PN
+St 61             PN-G 323.8-01.2  Nor  15 36 33.44 -57 18 04.33   0.1'         Possible PN
+Ro 9              PN-G 325.1-00.2  Nor  15 40 01.40 -55 43 24.80   0.1'         Possible NP
+Ro 9              PN-G 325.1-00.2  Nor  15 40 01.40 -55 43 24.80   0.1'         New candidate
+St 44             PN-G 324.9-01.0  Nor  15 42 27.25 -56 28 04.20   0.1'         Possible NP
+St 65             PN-G 325.9-00.8  Nor  15 46 56.95 -55 39 21.43   0.1'         Possible PN
+Pre 47            PN-G 329.0+01.8  Nor  15 52 06.60 -51 38 12.00   0.1'         Possible PN
+PreDr 1           PN-G 325.8-02.4  Nor  15 53 37.96 -57 02 08.30   0.2 x 0.1'   Possible PN
+Mul-IR 61         PN-G 326.0-02.9  Nor  15 57 10.40 -57 13 19.00                Possible PN
+MulPa 1           PN-G 326.0-02.9  Nor  15 57 10.90 -57 13 20.40   0.1'         Possible NP
+MulPa 1           PN-G 326.0-02.9  Nor  15 57 10.90 -57 13 20.40   0.1'         New candidate
+StDr 10           PN-G 303.7+03.4  Nor  15 58 00.36 -59 27 07.38   2'           Possible PN, CSPN ?
+Pre 45            PN-G 329.9+01.2  Nor  15 58 57.44 -51 30 23.00   0.1'         Possible PN
+Tan 3             PN-G 329.9-00.7  Nor  16 07 35.89 -53 01 11.30   0.1'         Possible PN
+StDr 41           PN-G 335.0+04.7  Nor  16 07 46.64 -45 33 11.20   4'           Possible NP, CSPN ?
+StDr 41           PN-G 335.0+04.7  Nor  16 07 46.64 -45 33 11.20   4'           New candidate
+Ra 79             PN-G 334.7+02.7  Nor  16 14 32.59 -47 14 01.90   0.1'         Possible NP
+Ra 79             PN-G 334.7+02.7  Nor  16 14 32.59 -47 14 01.90   0.1'         New candidate
+Mo 23             PN-G 333.5+01.3  Nor  16 15 31.85 -49 01 28.14   0.1'         Possible PN
+St 28             PN-G 331.1-01.2  Nor  16 15 36.31 -52 34 03.70   0.1'         Possible PN
+Mul-IR 62         PN-G 333.3+00.9  Nor  16 16 15.92 -49 26 48.80                Possible PN
+Mul 15            PN-G 332.5+00.0  Nor  16 16 24.63 -50 40 41.51   0.1'         Possible NP
+Mul 15            PN-G 332.5+00.0  Nor  16 16 24.63 -50 40 41.51   0.1'         New candidate
+StDr 106          PN-G 333.5+01.0  Nor  16 16 28.65 -49 11 33.40   2'           
+DeGaPe 64         PN-G 332.1-01.0  Nor  16 19 03.30 -51 42 09.30   0.1'         Possible NP
+StRas 1           PN-G 334.4+01.0  Nor  16 20 31.10 -48 35 36.28   0.3'         Possible PN
+Kan 5             PN-G 333.1-00.9  Nor  16 23 35.00 -50 56 56.70   0.3'         Possible PN
+Mo 32             PN-G 328.9-05.2  Nor  16 24 22.56 -56 54 04.82   0.4'         Possible NP
+St 24             PN-G 337.2+02.2  Nor  16 27 00.01 -45 49 44.31   0.2'         Possible PN
+St 62             PN-G 336.4+01.1  Nor  16 28 20.51 -47 10 20.55   0.5'         Possible PN
+Pre 69            PN-G 334.1-01.0  Nor  16 28 23.03 -50 17 42.19   0.5 x 0.4'   Possible NP, CSPN ?
+Pre 69            PN-G 334.1-01.0  Nor  16 28 23.03 -50 17 42.19   0.5 x 0.4'   New candidate
+DeGaPe 22         PN-G 334.2-01.0  Nor  16 29 08.30 -50 13 15.80   0.1'         Possible PN
+Pa 182            PN-G 333.9-01.6  Nor  16 30 09.60 -50 52 15.20   0.1'         Possible NP
+Pa 182            PN-G 333.9-01.6  Nor  16 30 09.60 -50 52 15.20   0.1'         New candidate
+DeGaPe 17         PN-G 334.8-00.8  Nor  16 30 21.00 -49 41 11.10   0.1'         Possible PN
+DeGaPe 20         PN-G 334.7-01.5  Nor  16 33 01.10 -50 10 56.10   0.1'         Possible PN
+Mul-IR 63         PN-G 338.4+01.8  Nor  16 33 12.70 -45 13 44.00                Possible PN
+Mul-IR 64         PN-G 337.7+01.1  Nor  16 33 21.50 -46 10 41.00                Proto-PN
+St Objet 5        PN-G             Nor  16 33 26.18 -48 31 59.69   0.4'         Galaxy ?
+DeGaPe 16         PN-G 335.5-01.3  Nor  16 34 08.40 -49 16 26.00   0.1'         Possible PN
+Su 3              PN-G 298.1-28.9  Oct  05 11 31.84 -85 23 52.87   0.5 x 0.4'   Possible PN
+Mo 39             PN-G 355.8+10.1  Oph  16 57 11.10 -26 32 58.69   0.1'         Possible NP
+Mo 39             PN-G 355.8+10.1  Oph  16 57 11.10 -26 32 58.69   0.1'         New candidate
+StDr 107          PN-G 001.4+12.6  Oph  17 02 40.86 -20 43 04.20   0.1'         
+Ra 44             PN-G 356.6+07.8  Oph  17 07 21.15 -27 21 41.50   0.1'         Possible PN
+Mul-IR 4          PN-G 357.6+04.5  Oph  17 22 17.81 -28 25 35.90                Possible PN
+StDr 73           PN-G 357.7+04.5  Oph  17 22 32.28 -28 22 12.00   0.16'        Possible NP, CSPN ?
+StDr 73           PN-G 357.7+04.5  Oph  17 22 32.28 -28 22 12.00   0.16'        Possible PN
+Pre 16            PN-G 002.3+06.5  Oph  17 26 36.30 -23 26 39.00   0.2 x 0.1'   Possible PN
+Pa 189            PN-G 001.3+05.6  Oph  17 27 19.27 -24 44 04.10   0.1'         Possible NP
+Pa 189            PN-G 001.3+05.6  Oph  17 27 19.27 -24 44 04.10   0.1'         New candidate
+Pa 207            PN-G 005.8+08.2  Oph  17 28 27.56 -19 35 15.14   0.1'         
+Mo 20             PN-G 003.8+06.8  Oph  17 28 47.38 -22 03 11.60   0.1'         Possible PN
+Mul-IR 20         PN-G 004.4+06.3  Oph  17 32 11.17 -21 50 02.27                Possible PN
+Mul-IR 21         PN-G 000.8+03.2  Oph  17 35 18.04 -26 30 03.60                Possible PN
+Pa 194            PN-G 005.3+05.2  Oph  17 38 20.45 -21 40 28.40   0.1'         Possible NP
+Pa 194            PN-G 005.3+05.2  Oph  17 38 20.45 -21 40 28.40   0.1'         New candidate
+Pa 195            PN-G 002.7+03.3  Oph  17 39 33.08 -24 48 44.90   0.1'         Possible NP
+Pa 195            PN-G 002.7+03.3  Oph  17 39 33.08 -24 48 44.90   0.1'         New candidate
+Kan 2             PN-G 358.7+00.2  Oph  17 41 25.46 -29 51 34.00   0.1'         Possible PN
+Mul-IR 22         PN-G 003.5+03.2  Oph  17 41 38.30 -24 14 41.00                Possible PN
+StDr 76           PN-G 001.7+02.0  Oph  17 41 52.43 -26 19 12.70   0.1'         Possible NP
+StDr 76           PN-G 001.7+02.0  Oph  17 41 52.43 -26 19 12.70   0.1'         New candidate
+StDr 77           PN-G 001.2+01.6  Oph  17 42 10.95 -27 01 20.80   0.1'         Possible NP
+StDr 77           PN-G 001.2+01.6  Oph  17 42 10.95 -27 01 20.80   0.1'         Possible PN
+Ra 61             PN-G 008.8+06.2  Oph  17 42 32.40 -18 09 44.20   0.1'         Possible PN
+Pre 21            PN-G 027.6+10.5  Oph  18 04 19.60 +00 08 04.20   0.1'         True PN
+StDr Objet 31     PN-G             Ori  04 52 32.41 +07 40 31.64   18'          SNR ?
+LDu 29            PN-G 201.8-22.1  Ori  05 12 47.69 -00 47 24.60   2.1 x 1.7'   Possible PN
+DeGaPe 33         PN-G 195.2-17.0  Ori  05 17 52.67 +07 09 59.20   0.1'         Emission-line star
+DeGaPe 32         PN-G 194.9-16.9  Ori  05 17 57.10 +07 26 24.70   0.1'         Emission-line star
+Ga 1              PN-G 195.7-15.0  Ori  05 25 56.63 +07 48 21.70   0.5'         True PN
+LDu 6             PN-G             Ori  05 27 49.91 -09 54 19.60   0.1'         Galaxy ?
+Za 2              PN-G 209.3-20.9  Ori  05 30 21.70 -06 21 13.64   0.6'         Possible PN
+Za 1              PN-G 206.3-17.3  Ori  05 37 41.50 -02 13 52.17   0.1'         Possible PN
+Mo Objet 7        PN-G             Ori  05 41 50.15 -08 00 55.42   1.6 x 0.4'   Reflexion nebula ?
+LDu 10            PN-G             Ori  05 56 01.72 +01 13 24.00   2.7'         Cometary globule
+Mo 4              PN-G 204.4-10.7  Ori  05 57 28.36 +02 31 53.70   6.4 x 2.4'   Possible PN, cometary globule ?
+Ra 41             PN-G 188.9-01.9  Ori  05 58 15.00 +20 16 17.00   0.6'         Possible PN
+Mul-LDu-IR 8      PN-G 197.9-06.5  Ori  05 59 57.80 +10 09 46.00                Possible PN
+Ra 30             PN-G 189.0-00.3  Ori  06 04 32.00 +20 57 01.00   0.8'         True PN
+StDr 58           PN-G 195.5-03.0  Ori  06 07 59.22 +14 00 04.00   2'           Possible NP, CSPN ?
+StDr 58           PN-G 195.5-03.0  Ori  06 07 59.22 +14 00 04.00   2'           New candidate
+StDr 19           PN-G 195.6-02.3  Ori  06 10 36.21 +14 10 39.14   0.2 x 0.1'   SNR ?
+StDr 19           PN-G 195.6-02.3  Ori  06 10 36.21 +14 10 39.14   0.2 x 0.1'   Supernova Remnant Candidate
+StDr Objet 5      PN-G             Ori  06 10 57.83 +13 13 31.15   1.2 x 0.8'   Region HII, YSO ?
+LDu 31            PN-G 191.2+00.9  Ori  06 13 51.03 +19 37 09.00   0.3'         True PN
+Ra 34             PN-G 187.8+02.9  Ori  06 14 35.00 +02 03 04.00   1'           Possible PN
+Ra 54             PN-G 192.0+00.7  Ori  06 14 40.00 +18 49 15.00   1.0 x 0.6'   Likely PN
+Mul-LDu-IR 19     PN-G 193.9-00.2  Ori  06 14 58.90 +16 44 32.00                Possible PN
+StDr 59           PN-G 196.9-01.5  Ori  06 16 07.92 +13 29 16.75   73.8'        Possible NP, CSPN ?
+StDr 59           PN-G 196.9-01.5  Ori  06 16 07.92 +13 29 16.75   73.8'        New candidate
+LDu 35            PN-G 212.8-09.3  Ori  06 19 05.00 -04 02 19.10   0.1'         Possible PN
+StDr Objet 8      PN-G             Ori  06 19 29.42 +17 22 56.62   1.8 x 1.5'   Reflexion nebula ?
+StDr Objet 8      PN-G             Ori  06 19 29.42 +17 22 56.62   1.8 x 1.5'   New candidate
+StDr 124          PN-G 092.1-19.4  Peg  22 27 52.34 +34 39 21.67   33'          
+Pre Objet 5       PN-G             Per  01 36 18.50 +54 18 40.00   1.8 x 1.5'   Cometary globule ?
+Pre 36            PN-G 130.8-09.8  Per  01 42 29.00 +52 15 53.00   3.5'         Possible PN
+Ra 58             PN-G 131.0-07.7  Per  01 47 12.00 +54 17 06.00   1.0 x 1.0'   Possible PN
+Pre Objet 6       PN-G             Per  01 48 12.00 +54 13 30.00   1.6 x 1.3'   Cometary globule ?
+Ra 46             PN-G 136.2-03.7  Per  02 30 17.00 +56 33 37.00   1.6 x 1.6'   Possible PN
+Ra 32             PN-G 137.2-02.6  Per  02 39 36.00 +57 12 23.00   0.5'         Possible PN
+PaStDr 6          PN-G 148.4-09.1  Per  03 22 38.97 +46 04 33.74   10 x 15'     
+StDr 138          PN-G 152.0-09.5  Per  03 37 55.76 +43 44 15.71   9.5 x 12'    
+StDr 104          PN-G 156.7-07.6  Per  04 06 05.26 +42 41 20.37   12'          
+Ou 1              PN-G             Per  04 07 21.62 +51 24 24.20   1.3 x 0.9'   HII region ?
+Pa 167            PN-G 158.3-05.6  Per  04 17 26.43 +42 35 57.06   4.2 x 1.5'   Possible NP
+Pa 167            PN-G 158.3-05.6  Per  04 17 26.43 +42 35 57.06   4.2 x 1.5'   True PN
+StDr 57           PN-G 157.0-03.6  Per  04 20 43.81 +44 56 28.17   1.5'         Possible NP
+StDr 57           PN-G 157.0-03.6  Per  04 20 43.81 +44 56 28.17   1.5'         Possible PN
+Pre 24            PN-G 161.4-06.5  Per  04 25 53.60 +39 49 10.40   0.8 x 0.3'   Type Seyfert Galaxy
+StDr Objet 21     PN-G             Per  04 26 23.65 +48 20 08.64   8 x 4.5'     
+Mul-IR 41         PN-G 159.0-02.3  Per  04 33 25.00 +44 24 55.00                Possible PN
+Ra 47             PN-G 161.5-00.4  Per  04 50 23.14 +43 45 42.40   3.1 x 3.1'   Possible PN
+Pre 8             PN-G 143.3-43.2  Psc  01 26 36.00 +18 51 19.80   1.6'         True PN
+DoS Objet 1       PN-G             Psc  01 42 59.23 +23 53 20.63   0.5 x 0.2'   Galaxy ?
+DoS Objet 1       PN-G             Psc  01 42 59.23 +23 53 20.63   0.5 x 0.2'   New candidate
+LDu 4             PN-G             Pup  06 15 07.73 -43 49 18.60   0.4'         Galaxy ?
+Dr 14             PN-G 233.7-00.4  Pup  07 29 05.45 -18 37 03.45   8.6 x 5.8'   Likely PN
+StDr Objet 9      PN-G             Pup  07 30 16.64 -19 59 22.43   11'          Cometary globule ?
+StDr Objet 9      PN-G             Pup  07 30 16.64 -19 59 22.43   11'          New candidate
+StDr 66           PN-G 239.6-01.0  Pup  07 39 12.81 -24 05 49.48   1.49'        Possible NP, CSPN ?
+StDr 66           PN-G 239.6-01.0  Pup  07 39 12.81 -24 05 49.48   1.49'        New candidate
+Dr 2              PN-G 248.0-05.3  Pup  07 40 55.00 -33 33 22.84   1.3'         Likely PN, CSPN ?
+StDr 20           PN-G 233.0+03.5  Pup  07 42 18.85 -16 08 41.14   6'           Possible NP, CSPN ?
+StDr 20           PN-G 233.0+03.5  Pup  07 42 18.85 -16 08 41.14   6'           New candidate
+StDr 88           PN-G 230.8+04.7  Pup  07 42 21.45 -13 37 40.00   14'          Possible NP, CSPN ?
+StDr 88           PN-G 230.8+04.7  Pup  07 42 21.45 -13 37 40.00   14'          Non PN
+LDu 16            PN-G             Pup  07 43 14.83 -25 45 49.10   0.5'         Confirmed galaxy with DECaPS and PanSTARRS pictures
+Pre 2             PN-G 260.9-11.7  Pup  07 43 32.60 -47 47 07.10   0.4'         Possible PN, nebulosity on blue DSS image
+DoS 1             PN-G 238.8+00.9  Pup  07 44 56.74 -22 26 40.70   0.1'         Possible NP
+DoS 1             PN-G 238.8+00.9  Pup  07 44 56.74 -22 26 40.70   0.1'         New candidate
+StDr 67           PN-G 242.7-00.1  Pup  07 49 19.94 -26 21 22.50   8'           Possible NP, CSPN ?
+StDr 67           PN-G 242.7-00.1  Pup  07 49 19.94 -26 21 22.50   8'           New candidate
+Mo 14             PN-G 249.1-03.8  Pup  07 49 28.35 -33 42 28.00   0.7 x 0.3'   Possible PN
+Mo 17             PN-G 248.9-03.6  Pup  07 50 14.12 -33 26 36.00   0.7 x 0.5'   Possible PN, reflection nebula, Galaxy ?
+StDr 40           PN-G 241.2+01.0  Pup  07 50 31.08 -24 26 38.54   5.5 x 3.0'   Possible NP, CSPN ?
+StDr 40           PN-G 241.2+01.0  Pup  07 50 31.08 -24 26 38.54   5.5 x 3.0'   New candidate
+St Objet 12       PN-G             Pup  07 50 42.85 -24 19 38.90   0.2 x 0.1'   Atypic shape nebula, reflexion nebula ?
+Mo Objet 5        PN-G             Pup  07 51 18.11 -26 46 41.10   1.2 x 1.0'   Reflexion nebula ?
+Mo 15             PN-G 242.6+01.1  Pup  07 54 02.84 -25 33 21.20   5.2 x 3.8'   Possible PN
+St Objet 13       PN-G             Pup  07 54 18.60 -26 01 51.97   0.4'         Reflexion nebula ?
+Fe 11             PN-G 245.5+00.1  Pup  07 57 08.10 -28 33 25.00   0.4 x 0.3'   Possible PN
+DoS 2             PN-G 241.0+03.1  Pup  07 58 12.05 -23 12 35.10   1.3'         Possible NP, CSPN ?
+DoS 2             PN-G 241.0+03.1  Pup  07 58 12.05 -23 12 35.10   1.3'         New candidate
+Dr 1              PN-G 260.9-08.5  Pup  07 59 49.12 -46 10 47.35   1.8'         Possible PN, CSPN ?
+Mo Objet 11       PN-G             Pup  07 59 50.62 -35 17 39.13   0.3 x 0.1'   Herbig Haro object ?
+StDr 48           PN-G 247.0+01.0  Pup  08 04 10.74 -29 21 57.50   3'           Possible NP, CSPN ?
+StDr 48           PN-G 247.0+01.0  Pup  08 04 10.74 -29 21 57.50   3'           New candidate
+PreMo Objet 1     PN-G             Pup  08 06 31.61 -37 30 03.30   1.6 x 1.3'   Reflexion nebula ?
+Pre 50            PN-G 252.5-01.6  Pup  08 07 15.80 -35 26 39.00   0.8 x 0.4'   Possible PN
+LDu 20            PN-G 243.2+04.7  Pup  08 09 00.47 -24 15 44.40   0.4'         Possible PN 
+Dr 3              PN-G 248.4+02.1  Pup  08 11 58.34 -29 56 41.39   1.8'         Possible PN, CSPN ?
+Mul-LDu-IR 11     PN-G 255.6-02.3  Pup  08 12 55.61 -38 28 19.20                Possible PN
+St 41             PN-G 251.2+00.9  Pup  08 14 31.12 -32 59 58.93   1.0 x 0.6'   Possible NP
+DeGaPe 58         PN-G 253.5-00.5  Pup  08 14 53.60 -35 42 53.20   0.1'         Possible PN
+DeGaPe 54         PN-G 253.8-00.5  Pup  08 15 45.80 -35 58 29.30   0.1'         Possible PN
+Mo 8              PN-G 247.8+03.5  Pup  08 15 49.81 -28 40 24.66   3.0 x 1.4'   Possible PN
+Or 3              PN-G 237.3-10.3  Pup  08 15 54.00 -16 16 01.90   0.2 x 0.1'   Possible PN
+DeGaPe 56         PN-G 252.9+00.3  Pup  08 16 27.20 -34 42 53.40   0.1'         Possible PN
+DeGaPe 52         PN-G 253.8-00.2  Pup  08 16 40.00 -35 46 39.20   0.1'         Possible PN
+Mul-LDu-IR 12     PN-G 257.3-02.4  Pup  08 17 04.47 -39 55 06.90                Possible PN
+Dr 22             PN-G 249.9+02.4  Pup  08 17 13.44 -31 03 39.06   4'           Possible NP, CSPN ?
+DeGaPe 59         PN-G 254.0-00.1  Pup  08 17 34.84 -35 56 02.50   0.1'         Possible PN
+Dr 13             PN-G 250.9+02.0  Pup  08 17 51.85 -32 04 40.32   0.3'         Possible PN
+DeGaPe 71         PN-G 259.6-03.8  Pup  08 18 08.50 -42 34 16.00   0.1'         Possible NP
+DeGaPe 71         PN-G 259.6-03.8  Pup  08 18 08.50 -42 34 16.00   0.1'         New candidate
+DeGaPe 55         PN-G 253.1+00.6  Pup  08 18 26.50 -34 43 31.60   0.1'         Possible PN
+DeGaPe 57         PN-G 253.6+00.4  Pup  08 18 50.73 -35 13 48.70   0.1'         Possible PN
+St Objet 9        PN-G             Pup  08 21 19.26 -34 11 54.23   1.6 x 1.4'   HII region ?
+DeGaPe 53         PN-G 254.5+00.4  Pup  08 21 24.00 -36 00 14.00   1 x 0.9'     Possible PN
+St Objet 10       PN-G             Pup  08 25 59.62 -33 30 04.91   1'           Nebulosity of atypical form, jets ?
+Fe Objet 2        PN-G             Pyx  08 30 11.30 -26 54 34.80   1.5 x 1.2'   Reflexion nebula ?
+StDr 129          PN-G 248.9+13.7  Pyx  08 55 30.36 -23 34 43.70   3'           
+LDu 15            PN-G 351.2-79.5  Scl  00 14 02.47 -33 45 19.10   0.6'         Possible PN 
+Mul-IR 91         PN-G 347.7+13.8  Sco  16 20 59.70 -30 13 43.00                Possible PN
+Mul-IR 92         PN-G 346.1+07.5  Sco  16 38 00.79 -35 42 09.10                Possible PN
+St 63             PN-G 339.5+01.3  Sco  16 39 21.47 -44 42 05.71   0.1'         Possible PN
+Ra 80             PN-G 339.3+00.5  Sco  16 42 20.23 -45 22 40.10   0.1'         Possible NP
+Ra 80             PN-G 339.3+00.5  Sco  16 42 20.23 -45 22 40.10   0.1'         New candidate
+StDr 71           PN-G 341.5+02.1  Sco  16 43 23.33 -42 39 22.56   0.1'         Possible NP
+StDr 71           PN-G 341.5+02.1  Sco  16 43 23.33 -42 39 22.56   0.1'         New candidate
+Pre Objet 9       PN-G             Sco  16 43 24.63 -40 04 31.63   2 x 1.7'     HII region ?
+DeGaPe 45         PN-G 343.2+03.6  Sco  16 43 25.80 -40 26 53.60   0.1'         Possible PN
+DeGaPe 47         PN-G 342.7+03.0  Sco  16 44 12.10 -41 12 08.50   0.1'         Possible PN
+DeGaPe 44         PN-G 343.7+03.2  Sco  16 46 53.20 -40 17 57.00   0.1'         Possible PN
+DeGaPe 46         PN-G 343.2+02.7  Sco  16 47 05.60 -40 58 59.40   0.1'         Likely PN, nebulous arc visible at West at 2.9'
+St 23             PN-G 342.9+01.3  Sco  16 51 41.96 -42 03 39.12   0.4 x 0.3'   Possible PN
+Mo 5              PN-G 344.2+02.2  Sco  16 52 15.02 -40 35 48.50   0.7'         Possible PN
+DeGaPeKn 2        PN-G 344.3+02.1  Sco  16 52 59.60 -40 30 46.30   0.1'         Possible PN
+DeGaPeKn 1        PN-G 344.4+02.1  Sco  16 53 31.50 -40 28 44.60   0.1'         Possible PN
+Pre 11            PN-G 344.6+01.6  Sco  16 56 15.10 -40 36 43.10   0.1'         Possible PN
+Pre 38            PN-G 344.0+01.0  Sco  16 56 54.60 -41 28 24.00   0.1'         Possible PN
+Mul-IR 50         PN-G 349.9+05.0  Sco  16 59 10.50 -34 22 05.00                Possible PN
+PreRo 2           PN-G 346.1+02.0  Sco  16 59 29.00 -39 15 00.90   0.1'         Possible PN
+Pre 57            PN-G 349.0+04.2  Sco  16 59 36.91 -35 30 21.14   0.2'         Possible PN
+Mul-IR 1          PN-G 342.0-01.2  Sco  16 59 53.48 -44 27 42.80                Possible PN
+StRo 1            PN-G 344.5+00.6  Sco  16 59 54.59 -41 20 42.40   0.1'         Possible NP
+Dr Objet 5        PN-G             Sco  17 00 19.93 -41 50 41.70   0.5 x 0.4'   HII region ?
+St 19             PN-G 347.3+02.6  Sco  17 00 48.08 -37 52 46.16   0.2'         Possible PN
+Pre 42            PN-G 346.8+02.2  Sco  17 01 03.72 -38 30 39.70   0.1'         Possible PN
+St 40             PN-G 344.8+00.5  Sco  17 01 10.21 -41 07 03.70   0.1'         Possible NP
+Pre 46            PN-G 348.2+03.1  Sco  17 01 18.25 -36 52 22.00   0.3'         Possible PN
+St 27             PN-G 348.9+03.6  Sco  17 01 44.30 -35 56 36.57   0.1'         Possible PN
+Mul-IR 2          PN-G 347.0+02.0  Sco  17 02 14.80 -38 30 32.00                Possible PN
+Pre 49            PN-G 350.6+04.3  Sco  17 03 58.20 -34 11 56.40   0.2'         Possible PN
+Mul-IR 39         PN-G 349.4+02.9  Sco  17 06 01.50 -36 02 49.00                Possible PN
+StDr Objet 23     PN-G             Sco  17 06 13.32 -37 50 46.00   0.1'         Contracted star with Ha envelope ?
+Mul-IR 40         PN-G 348.1+01.4  Sco  17 07 52.70 -37 59 03.00                Possible PN
+Dr 4              PN-G 346.9-00.0  Sco  17 10 32.75 -39 47 36.84   0.7 x 0.6'   Possible PN
+Mo Objet 8        PN-G             Sco  17 10 56.81 -43 40 06.03   0.2'         Galaxy, reflexion nebula ?
+StDr Objet 24     PN-G             Sco  17 11 29.02 -34 35 05.30   0.1'         Emission line stellar object ?
+Mo 16             PN-G 346.4-00.6  Sco  17 11 42.02 -40 35 27.60   0.3'         Possible PN
+DeGaPe 69         PN-G 351.5+02.6  Sco  17 13 18.10 -34 31 42.00   0.1'         Possible NP
+DeGaPe 67         PN-G 352.1+03.0  Sco  17 13 36.40 -33 47 49.50   0.1'         Possible NP
+Mul-IR 88         PN-G 349.7+00.9  Sco  17 15 04.00 -36 56 30.00                Possible PN
+Pre 27            PN-G 350.4+01.2  Sco  17 15 37.80 -36 14 36.70   0.1'         Possible PN
+DeGaPe 66         PN-G 352.6+02.7  Sco  17 16 00.00 -33 31 24.30   24.3'        Possible NP
+StDr 134          PN-G 355.0+04.3  Sco  17 16 13.41 -30 39 04.50   2.6'         
+CA 3              PN-G 352.3+02.4  Sco  17 16 23.71 -33 57 16.80   0.1'         Possible NP
+PreRo 1           PN-G 351.7+01.9  Sco  17 16 41.77 -34 46 04.90   0.2'         Possible PN
+Ro 1              PN-G 351.7+01.9  Sco  17 16 45.91 -34 46 52.40   0.3'         Possible PN
+CA 2              PN-G 352.3+02.3  Sco  17 16 48.57 -34 05 07.30   0.1'         Possible NP
+CA 4              PN-G 352.3+02.3  Sco  17 16 54.79 -34 02 30.20   0.1'         Possible NP
+LDu-IR 6          PN-G 343.7-04.0  Sco  17 17 47.90 -44 46 37.20                Possible PN
+CA 5              PN-G 352.3+02.0  Sco  17 17 53.98 -34 16 04.60   0.1'         Possible NP
+CA 1              PN-G 352.2+01.9  Sco  17 18 01.92 -34 21 20.00   0.1'         Possible NP
+Ro 4              PN-G 349.3-00.1  Sco  17 18 07.28 -37 53 37.60   0.1'         Possible PN
+Pre 12            PN-G 352.3+01.9  Sco  17 18 21.00 -34 16 34.80   0.1'         Possible PN
+DeGaPe 65         PN-G 352.9+02.3  Sco  17 18 26.80 -33 36 31.00   0.1'         Possible NP
+Mul-IR 3          PN-G 348.6-00.7  Sco  17 18 34.81 -38 48 58.40                Possible PN
+Pre 10            PN-G 352.0+01.6  Sco  17 18 46.30 -34 39 21.60   0.1 x 0.2'   Possible PN
+Pre 68            PN-G 349.3-00.5  Sco  17 19 51.44 -38 09 41.03   0.1'         Possible NP
+Pre 68            PN-G 349.3-00.5  Sco  17 19 51.44 -38 09 41.03   0.1'         Possible PN
+Mul-IR 65         PN-G 346.2-02.7  Sco  17 20 19.20 -41 56 35.00                Possible PN
+PreMo 2           PN-G 349.3-00.6  Sco  17 20 36.39 -38 12 49.79   0.1'         Possible PN
+DeGaPe 68         PN-G 352.0+01.0  Sco  17 21 11.80 -35 00 43.50   0.1'         Possible NP
+Mo 3              PN-G 354.1+02.3  Sco  17 21 54.80 -32 33 44.40   0.2 x 0.1'   Possible PN
+Kan 6             PN-G 354.0+02.1  Sco  17 22 10.00 -32 48 18.40   0.2'         Possible PN
+StDr 72           PN-G 347.3-02.4  Sco  17 22 13.64 -40 54 42.54   0.1'         Possible NP, CSPN ?
+StDr 72           PN-G 347.3-02.4  Sco  17 22 13.64 -40 54 42.54   0.1'         New candidate
+Pa 206            PN-G 345.5-03.8  Sco  17 22 46.58 -43 09 36.13   0.1'         
+Mo 1              PN-G 355.2+02.3  Sco  17 24 29.66 -31 37 40.70   0.1 x 0.2'   Possible PN
+Mo Objet 12       PN-G             Sco  17 25 12.07 -37 52 59.85   2 x 0.3'     Cometary globule ?
+Pa 188            PN-G 348.9-02.2  Sco  17 25 48.00 -39 26 32.20   0.1'         Possible NP
+Pa 188            PN-G 348.9-02.2  Sco  17 25 48.00 -39 26 32.20   0.1'         New candidate
+PreFe 1           PN-G 354.1+01.2  Sco  17 26 12.90 -33 10 37.60   0.1'         Possible PN
+Pa Objet 2        PN-G             Sco  17 27 59.36 -44 22 32.18   0.1'         Atypic object
+Pa Objet 2        PN-G             Sco  17 27 59.36 -44 22 32.18   0.1'         New candidate
+Pa 190            PN-G 354.6+01.0  Sco  17 27 59.90 -32 54 10.10   0.1'         Possible NP
+Pa 190            PN-G 354.6+01.0  Sco  17 27 59.90 -32 54 10.10   0.1'         New candidate
+StDr 74           PN-G 355.6+01.7  Sco  17 28 00.21 -31 43 36.00   0.1'         Possible NP
+StDr 74           PN-G 355.6+01.7  Sco  17 28 00.21 -31 43 36.00   0.1'         New candidate
+Pa 192            PN-G 354.4+00.6  Sco  17 29 07.98 -33 16 30.46   1.2 x 0.9'   Possible NP
+Pa 192            PN-G 354.4+00.6  Sco  17 29 07.98 -33 16 30.46   1.2 x 0.9'   New candidate
+DeGaPe 25         PN-G 354.0+00.2  Sco  17 29 45.20 -33 50 30.40   0.1'         Possible PN
+Mo 7              PN-G 355.5+01.0  Sco  17 30 12.24 -32 09 03.60   0.1'         Possible PN
+Pa 208            PN-G 349.2-03.1  Sco  17 30 40.10 -39 39 40.45   0.1'         
+StDr 108          PN-G 354.2-00.3  Sco  17 32 28.97 -33 59 03.30   0.1'         
+Ra 72             PN-G 353.7-00.7  Sco  17 33 06.77 -34 38 16.20   0.1'         Possible NP
+Ra 72             PN-G 353.7-00.7  Sco  17 33 06.77 -34 38 16.20   0.1'         New candidate
+Dr 10             PN-G 354.2-00.5  Sco  17 33 28.85 -34 05 55.78   0.1'         Possible PN
+Pre 4             PN-G 353.9-00.8  Sco  17 33 54.80 -34 29 41.40   0.1'         Possible PN
+Pa 193            PN-G 348.8-04.1  Sco  17 34 02.74 -40 32 45.60   0.1'         Possible NP
+Pa 193            PN-G 348.8-04.1  Sco  17 34 02.74 -40 32 45.60   0.1'         New candidate
+Pa 209            PN-G 350.3-03.2  Sco  17 34 24.90 -38 49 25.00   0.1'         
+StDr 75           PN-G 357.9+00.8  Sco  17 37 16.15 -30 14 10.70   0.1'         Possible NP
+StDr 75           PN-G 357.9+00.8  Sco  17 37 16.15 -30 14 10.70   0.1'         Likely PN
+Pa Objet 5        PN-G             Sco  17 37 37.00 -44 16 26.00   0.1'         Emission line star ?
+Pre 52            PN-G 355.1-01.0  Sco  17 38 06.40 -33 35 45.00   0.1'         Possible PN
+St 29             PN-G 352.9-02.5  Sco  17 38 28.70 -36 16 45.06   0.2'         Possible PN
+Mul-IR 66         PN-G 348.2-05.8  Sco  17 39 43.80 -42 00 41.00                Possible PN
+StDr 109          PN-G 355.5-01.3  Sco  17 39 50.08 -33 25 20.80   0.1'         
+PreRo 4           PN-G 356.5-00.7  Sco  17 40 12.27 -32 19 21.81   0.1'         Possible PN
+Mul Objet 8       PN-G             Sco  17 40 24.30 -32 20 16.21   0.1'         Emission star ?
+Mul Objet 8       PN-G             Sco  17 40 24.30 -32 20 16.21   0.1'         New candidate
+Pa Objet 3        PN-G             Sco  17 40 49.50 -34 51 58.00   0.1'         Atypic object
+Pa Objet 3        PN-G             Sco  17 40 49.50 -34 51 58.00   0.1'         New candidate
+Ro 10             PN-G 356.2-01.5  Sco  17 42 24.44 -32 57 03.47   0.1'         Possible PN
+Ro 10             PN-G 356.2-01.5  Sco  17 42 24.44 -32 57 03.47   0.1'         New candidate
+Pre 17            PN-G 355.2-02.2  Sco  17 42 53.92 -34 09 01.80   0.1'         Possible PN, nebulous disc
+Ra 81             PN-G 356.8-01.4  Sco  17 43 44.70 -32 26 03.70   0.1'         Possible NP
+Ra 81             PN-G 356.8-01.4  Sco  17 43 44.70 -32 26 03.70   0.1'         New candidate
+Kan 7             PN-G 357.9-00.8  Sco  17 44 02.13 -31 06 48.00   0.1'         Possible PN
+Pa 196            PN-G 357.4-01.8  Sco  17 46 49.48 -32 05 32.50   0.1'         Possible NP
+Pa 196            PN-G 357.4-01.8  Sco  17 46 49.48 -32 05 32.50   0.1'         New candidate
+Pre 64            PN-G 357.4-02.0  Sco  17 47 52.13 -32 09 50.44   0.3'         Possible PN
+Pa 198            PN-G 353.1-06.2  Sco  17 54 36.70 -37 59 45.90   0.1'         Possible NP
+Pa 198            PN-G 353.1-06.2  Sco  17 54 36.70 -37 59 45.90   0.1'         New candidate
+Pa Objet 4        PN-G             Sco  17 54 45.62 -30 25 39.48   0.2'         Atypic object
+Pa Objet 4        PN-G             Sco  17 54 45.62 -30 25 39.48   0.2'         New candidate
+Pa 199            PN-G 354.0-05.8  Sco  17 55 24.00 -37 00 34.00   0.1'         Possible NP
+Pa 199            PN-G 354.0-05.8  Sco  17 55 24.00 -37 00 34.00   0.1'         New candidate
+Pa 200            PN-G 358.6-03.5  Sco  17 56 29.30 -31 56 43.90   0.1'         Possible NP
+Pa 200            PN-G 358.6-03.5  Sco  17 56 29.30 -31 56 43.90   0.1'         New candidate
+Pre 53            PN-G 018.4-00.8  Sct  18 27 49.75 -13 16 59.20   0.1'         Possible PN
+StDr 113          PN-G 025.3+02.2  Sct  18 29 27.90 -05 39 42.50   0.1'         
+St 6              PN-G 019.8-00.7  Sct  18 30 01.68 -12 00 00.10   0.6 x 0.2'   Possible PN
+Mul-IR 6          PN-G 024.6+01.2  Sct  18 31 49.60 -06 50 10.00                Possible PN
+DeGaPe 51         PN-G 017.4-02.6  Sct  18 32 08.30 -14 58 49.30   1'           Likely PN
+Mul 13            PN-G 026.5+02.0  Sct  18 32 31.90 -04 46 11.30   0.1'         Possible NP
+Mul 13            PN-G 026.5+02.0  Sct  18 32 31.90 -04 46 11.30   0.1'         Likely PN
+Mul 14            PN-G 019.4-01.6  Sct  18 32 36.50 -12 46 02.09   0.1'         Possible NP
+Mul 14            PN-G 019.4-01.6  Sct  18 32 36.50 -12 46 02.09   0.1'         Likely PN
+Mul-IR 28         PN-G 022.0-00.6  Sct  18 33 34.56 -09 57 34.60                Possible PN
+LDu-IR 11         PN-G 017.2-03.1  Sct  18 33 42.23 -15 21 12.10                Possible PN
+Mul-IR 29         PN-G 021.2-01.3  Sct  18 34 45.50 -10 59 18.00                Possible PN
+Kan 4             PN-G 020.2-01.9  Sct  18 34 54.00 -12 11 23.90   0.1'         True PN
+LDu-IR 7          PN-G 343.7-04.0  Sct  18 36 33.94 -04 08 24.60                Possible PN
+Mul-IR 8          PN-G 025.5+00.3  Sct  18 36 43.90 -06 27 25.00                Possible PN
+KanFe 1           PN-G 022.8-01.1  Sct  18 36 57.78 -09 29 00.10   0.1'         Possible PN
+StDr 116          PN-G 019.7-03.2  Sct  18 38 42.85 -13 10 45.40   0.1'         
+Pre 9             PN-G 024.8-01.4  Sct  18 41 46.20 -07 51 29.10   0.1 x 0.2'   True PN
+Pre 48            PN-G 023.1-02.5  Sct  18 42 46.75 -09 50 48.00   0.1'         True PN
+StDr 117          PN-G 024.1-02.0  Sct  18 42 53.58 -08 43 22.20   0.1'         
+Mo 21             PN-G 024.0-02.4  Sct  18 43 54.64 -08 58 32.50   0.1'         Possible PN
+Mul-IR 31         PN-G 024.5-02.3  Sct  18 44 27.21 -08 30 48.70                Possible PN
+MulPre 1          PN-G 024.5-02.3  Sct  18 44 27.21 -08 30 48.70   0.1'         Possible NP
+MulPre 1          PN-G 024.5-02.3  Sct  18 44 27.21 -08 30 48.70   0.1'         New candidate
+Tan 1             PN-G 027.3-01.1  Sct  18 45 28.10 -05 31 02.31   0.1'         True PN
+StDr Objet 25     PN-G             Sct  18 57 23.55 -06 43 28.10   0.1'         Stellar object with Ha envelope ?
+Dr 11             PN-G 024.8-06.0  Sct  18 58 33.41 -09 56 38.95   0.7'         Possible PN
+Ra 62             PN-G 010.0+12.2  Ser  17 23 46.39 -13 59 44.40   0.1'         Possible PN
+Pre 32            PN-G 010.0+09.4  Ser  17 33 48.64 -15 26 27.50   0.1'         Possible PN
+Mo 25             PN-G 012.7+08.4  Ser  17 42 47.92 -13 42 57.80   0.1'         Possible PN
+Mo 18             PN-G 016.0+08.8  Ser  17 48 12.01 -10 43 03.54   0.1'         Possible PN
+PaStDr 7          PN-G 014.8+06.1  Ser  17 55 11.77 -13 01 32.90   8'           
+Mul-IR 47         PN-G 015.2+05.6  Ser  17 57 53.30 -12 55 38.00                Possible PN
+StDr 110          PN-G 016.3+04.8  Ser  18 02 56.78 -12 24 53.20   0.1'         
+LDu-IR 8          PN-G 018.6+04.6  Ser  18 08 06.34 -10 29 45.60                Possible PN
+LDu-IR 1          PN-G 018.1+03.6  Ser  18 10 56.33 -11 24 17.00                Possible PN
+TanMul 1          PN-G 021.1+04.8  Ser  18 12 15.57 -08 09 43.46   0.1'         Possible NP
+TanMul 1          PN-G 021.1+04.8  Ser  18 12 15.57 -08 09 43.46   0.1'         New candidate
+LDu-IR 10         PN-G 016.4+02.2  Ser  18 12 39.46 -13 34 50.80                Likely PN
+StDr 31           PN-G 015.9+01.6  Ser  18 13 54.93 -14 17 06.93   11 x 4.6'    Possible NP, CSPN ?
+StDr 31           PN-G 015.9+01.6  Ser  18 13 54.93 -14 17 06.93   11 x 4.6'    True PN
+Mul-IR 48         PN-G 023.1+05.4  Ser  18 14 09.70 -06 07 52.00                Possible PN
+Dr Objet 2        PN-G             Ser  18 17 34.20 -13 24 54.07   1.1'         Contracted star with halo, blue supergiant ?
+DeGaPe 28         PN-G 018.2+01.6  Ser  18 18 20.00 -12 14 48.20   0.6 x 0.4'   Possible PN, nebulous halo elongated on DSS image
+DeGaPe 30         PN-G 018.3+01.6  Ser  18 18 24.20 -12 11 49.50   0.1'         Possible PN
+DeGaPe 29         PN-G 018.8+01.4  Ser  18 19 53.90 -11 48 44.00   0.1'         Possible PN
+Mul-IR 49         PN-G 018.0+00.9  Ser  18 20 14.40 -12 44 49.00                Possible PN
+StDr 82           PN-G 028.2+06.0  Ser  18 21 14.92 -01 23 04.10   0.7'         Possible NP, CSPN ?
+StDr 82           PN-G 028.2+06.0  Ser  18 21 14.92 -01 23 04.10   0.7'         New candidate
+Mul-IR 30         PN-G 027.2+04.4  Ser  18 25 10.60 -02 58 55.00                Possible PN
+Ra 11             PN-G 086.5+01.8  Ser  18 25 15.00 +00 02 03.00   0.4'         True PN
+StDr 114          PN-G 033.4+05.7  Ser  18 32 04.23 +03 04 02.50   0.1'         
+LDu 30            PN-G 029.9+03.7  Ser  18 32 49.65 -00 56 37.99   0.1'         True PN
+Mul-IR 7          PN-G 032.0+04.1  Ser  18 35 10.60 +01 04 20.00                Possible PN
+StDr Objet 13     PN-G             Ser  18 37 52.45 -00 20 54.29   23'          HII region, Strömgren sphere ?
+StDr Objet 13     PN-G             Ser  18 37 52.45 -00 20 54.29   23'          New candidate
+Mo 40             PN-G 034.3+01.9  Ser  18 47 20.12 +02 10 23.66   0.4 x 0.3'   Possible NP
+Mo 40             PN-G 034.3+01.9  Ser  18 47 20.12 +02 10 23.66   0.4 x 0.3'   New candidate
+RaMulMo 1         PN-G 038.0+01.8  Ser  18 54 12.34 +05 26 42.90   0.1'         Possible NP
+RaMulMo 1         PN-G 038.0+01.8  Ser  18 54 12.34 +05 26 42.90   0.1'         New candidate
+Mul-IR 34         PN-G 038.2+01.8  Ser  18 54 31.68 +05 37 12.30                Possible PN
+Mul-IR 36         PN-G 035.3+00.1  Ser  18 55 26.30 +02 14 49.00                Possible PN
+Mul-IR 37         PN-G 037.3+01.0  Ser  18 55 45.40 +04 24 47.00                Possible PN
+StDr 24           PN-G 052.4+04.9  Sge  19 09 28.66 +19 35 14.16   0.6'         True PN
+Ra 3              PN-G 050.1+03.1  Sge  19 12 10.00 +16 46 33.00   0.1'         True PN
+Mul-IR 14         PN-G 050.8+02.3  Sge  19 16 21.40 +16 56 39.60                True PN
+StDr 28           PN-G 054.4+03.9  Sge  19 17 25.11 +20 52 31.20   2'           Possible NP, CSPN ?
+StDr 28           PN-G 054.4+03.9  Sge  19 17 25.11 +20 52 31.20   2'           True PN
+Mul 10            PN-G 050.9+01.4  Sge  19 19 53.47 +16 42 32.80   0.1'         Likely PN
+Dr 31             PN-G 052.6-02.0  Sge  19 35 50.13 +16 28 47.50   0.6'         Possible NP, CSPN ?
+Mul 1             PN-G 054.0-03.5  Sge  19 44 22.71 +16 55 59.10   2.6 x 1.9'   Likely PN
+StDr 26           PN-G 054.3-03.8  Sge  19 46 10.90 +17 06 09.11   0.2'         True PN
+Mul 6             PN-G 056.2-03.5  Sge  19 49 00.03 +18 49 52.60   0.1'         Possible PN
+Ra Objet 1        PN-G             Sge  19 49 53.00 +18 40 14.00   0.3'         Single star ?
+Mul 5             PN-G 056.1-03.8  Sge  19 49 53.70 +18 40 15.10   0.2'         WR PN
+StDr 122          PN-G 057.0-06.5  Sge  20 01 25.18 +18 01 59.70   15'          
+Dr 24             PN-G 058.7-07.4  Sge  20 08 33.85 +19 01 24.88   6.4'         Possible NP, CSPN ?
+Kan 1             PN-G 003.5+01.6  Sgr  17 47 40.29 -25 04 55.70   0.1'         Possible PN, slight nebulae extension
+PaMo 2            PN-G 002.6+00.9  Sgr  17 47 59.90 -26 12 38.30   0.1'         Possible NP
+PaMo 2            PN-G 002.6+00.9  Sgr  17 47 59.90 -26 12 38.30   0.1'         New candidate
+StDr 78           PN-G 002.8+01.0  Sgr  17 48 08.57 -25 56 11.70   0.1'         Possible NP
+StDr 78           PN-G 002.8+01.0  Sgr  17 48 08.57 -25 56 11.70   0.1'         Possible PN
+StDr 79           PN-G 003.4+01.0  Sgr  17 49 40.67 -25 26 21.70   0.1'         Possible NP
+StDr 79           PN-G 003.4+01.0  Sgr  17 49 40.67 -25 26 21.70   0.1'         Likely PN
+St 66             PN-G 001.2-00.9  Sgr  17 52 08.56 -28 23 37.88   0.1'         Possible PN
+LDu 36            PN-G 002.8-00.2  Sgr  17 53 06.15 -26 34 07.50   1'           Possible PN
+Mul-IR 5          PN-G 002.5-00.6  Sgr  17 54 06.46 -27 02 07.50                Possible PN
+PreMo 3           PN-G 007.1+01.6  Sgr  17 55 40.60 -21 55 54.00   0.1'         Possible PN
+EMol 2            PN-G 002.6-01.0  Sgr  17 55 50.16 -27 14 09.30   0.1'         Possible NP
+EMol 2            PN-G 002.6-01.0  Sgr  17 55 50.16 -27 14 09.30   0.1'         New candidate
+PreRo 3           PN-G 002.7-01.2  Sgr  17 56 40.23 -27 11 18.78   0.1'         Possible PN
+Pre 14            PN-G 009.3+02.5  Sgr  17 56 52.20 -19 33 01.20   0.1'         Possible PN, small nebulous extension
+Mul 11            PN-G 001.7-02.1  Sgr  17 58 12.22 -28 34 36.83   0.1'         Possible NP
+Mul 11            PN-G 001.7-02.1  Sgr  17 58 12.22 -28 34 36.83   0.1'         Possible PN
+EMol 3            PN-G 007.5+01.1  Sgr  17 58 23.27 -21 50 28.60   0.1'         Possible NP
+EMol 3            PN-G 007.5+01.1  Sgr  17 58 23.27 -21 50 28.60   0.1'         New candidate
+Pa 201            PN-G 000.3-03.0  Sgr  17 58 40.73 -30 10 02.20   0.1'         Possible NP
+Pa 201            PN-G 000.3-03.0  Sgr  17 58 40.73 -30 10 02.20   0.1'         New candidate
+Pre 58            PN-G 011.2+02.9  Sgr  17 59 19.90 -17 47 17.50   0.5'         Possible PN
+PreRa 1           PN-G 007.4+00.6  Sgr  18 00 11.91 -22 10 48.98   0.1'         Possible NP
+StDr 52           PN-G 012.4+02.5  Sgr  18 03 25.73 -16 53 05.23   2.4'         Possible NP, CSPN ?
+StDr 52           PN-G 012.4+02.5  Sgr  18 03 25.73 -16 53 05.23   2.4'         New candidate
+Ra 70             PN-G 007.1-00.8  Sgr  18 04 45.60 -23 12 22.70   0.1'         Possible PN
+Mul Objet 7       PN-G             Sgr  18 05 16.65 -23 35 39.54   0.1'         Emission star ?
+Mul Objet 7       PN-G             Sgr  18 05 16.65 -23 35 39.54   0.1'         New candidate
+Pre 15            PN-G 009.9+00.4  Sgr  18 05 54.10 -20 06 44.10   0.1'         Possible PN
+Mul-IR 23         PN-G 009.3+00.1  Sgr  18 05 57.22 -20 44 33.70                Possible PN
+Mul 17            PN-G 006.4-01.9  Sgr  18 07 32.10 -24 20 17.91   0.1'         
+StDr 102          PN-G 006.0-02.2  Sgr  18 08 03.66 -24 50 59.09   0.1'         True PN
+Mul-IR 24         PN-G 003.1-03.9  Sgr  18 08 23.80 -28 09 31.00                Possible PN
+StDr 80           PN-G 002.6-04.2  Sgr  18 08 32.66 -28 49 49.87   0.1'         Possible NP
+StDr 80           PN-G 002.6-04.2  Sgr  18 08 32.66 -28 49 49.87   0.1'         New candidate
+Pa 202            PN-G 000.4-05.6  Sgr  18 09 08.95 -31 23 52.80   0.1'         Possible NP
+Pa 202            PN-G 000.4-05.6  Sgr  18 09 08.95 -31 23 52.80   0.1'         New candidate
+PaMo 3            PN-G 003.2-04.3  Sgr  18 10 15.10 -28 15 28.79   0.1'         Possible NP
+PaMo 3            PN-G 003.2-04.3  Sgr  18 10 15.10 -28 15 28.79   0.1'         New candidate
+Pre 18            PN-G 012.0+00.2  Sgr  18 10 57.20 -18 18 39.00   0.1'         Possible PN
+LDu-IR 12         PN-G 014.2+01.0  Sgr  18 12 34.27 -16 00 39.40                Possible PN
+Mul-IR 25         PN-G 010.5-01.0  Sgr  18 12 49.66 -20 18 54.30                Possible PN
+Pa 197            PN-G 003.5-05.0  Sgr  18 13 46.14 -28 23 55.80   0.1'         Possible NP
+Pa 197            PN-G 003.5-05.0  Sgr  18 13 46.14 -28 23 55.80   0.1'         New candidate
+StDr 111          PN-G 007.6-03.1  Sgr  18 14 32.70 -23 52 45.60   0.1'         
+DeGaPe 48         PN-G 011.3-01.3  Sgr  18 15 36.40 -19 44 05.70   0.1'         Possible PN
+DeGaPe 49         PN-G 010.8-01.7  Sgr  18 15 50.90 -20 23 26.90   0.1'         Possible PN
+StDr 51           PN-G 014.1-00.7  Sgr  18 19 11.74 -16 59 17.50   0.7'         Possible NP, CSPN ?
+StDr 51           PN-G 014.1-00.7  Sgr  18 19 11.74 -16 59 17.50   0.7'         New candidate
+Pre 35            PN-G 009.4-03.6  Sgr  18 20 14.30 -22 30 14.10   0.1'         Possible PN
+Ro 5              PN-G 012.9-01.9  Sgr  18 21 10.08 -18 36 29.64   0.5 x 0.4'   Possible PN
+EMol 4            PN-G 013.8-01.6  Sgr  18 21 47.91 -17 41 35.40   0.1'         Possible NP
+EMol 4            PN-G 013.8-01.6  Sgr  18 21 47.91 -17 41 35.40   0.1'         New candidate
+Tan 2             PN-G 014.0-02.5  Sgr  18 25 17.06 -17 56 30.00   0.1'         True PN
+StDr 112          PN-G 011.9-04.2  Sgr  18 27 44.31 -20 34 08.70   0.1'         
+DeGaPe 50         PN-G 015.7-02.6  Sgr  18 29 11.30 -16 32 00.00   1.6 x 0.6'   HII region (HASH)
+Mul-IR 26         PN-G 009.5-07.0  Sgr  18 33 51.49 -24 02 52.30                Possible PN
+Pre 30            PN-G 015.8-04.0  Sgr  18 34 24.42 -17 02 00.90   1.0 x 0.3'   Possible PN, bipolartié, Proto-PN (AAVSO)
+StDr 115          PN-G 016.3-04.6  Sgr  18 37 44.48 -16 51 05.80   0.1'         
+Mul-IR 27         PN-G 011.7-07.0  Sgr  18 38 01.70 -22 02 48.00                Likely PN
+StDr 135          PN-G 015.5-07.8  Sgr  18 48 12.84 -19 00 52.86   4'           
+LDu Objet 1       PN-G             Sgr  19 42 27.00 -17 01 06.00   0.4'         Galaxy ?
+DeGaPe 70         PN-G 025.4-18.2  Sgr  19 44 28.20 -14 40 05.40   0.1'         Possible PN
+St 2              PN-G 024.0-22.5  Sgr  19 58 49.27 -17 32 57.20   0.4 x 0.3'   Possible PN, Galaxy ?
+Ra 48             PN-G 171.9-16.3  Tau  04 25 10.00 +25 36 51.00   1.1 x 0.7'   Possible PN, bipolar morphology ?
+Ra 49             PN-G 173.2-15.5  Tau  04 31 13.53 +25 09 13.20   1.3 x 0.9'   SNR ?
+Ra Objet 5        PN-G             Tau  05 16 17.00 +27 27 23.00   1.2'         HII region ?
+Ra 45             PN-G 180.1-06.5  Tau  05 21 05.55 +25 13 18.40   0.8 x 0.3'   Possible PN
+Ra 39             PN-G 184.1-04.7  Tau  05 37 30.00 +22 57 13.90   0.6'         Possible PN
+Or Objet 1        PN-G             Tau  05 42 17.22 +22 48 59.40   0.6'         Galaxy ?
+StDr 128          PN-G 192.1-07.3  Tau  05 45 18.52 +14 45 44.24   3.5'         
+StDr 1            PN-G 185.1-00.9  Tau  05 53 50.86 +24 02 27.11   4.8'         True PN
+StDr Objet 7      PN-G             Tau  05 55 17.77 +23 34 02.67   1.4'         Strömgren sphere ?
+StDr Objet 7      PN-G             Tau  05 55 17.77 +23 34 02.67   1.4'         New candidate
+Pre 13            PN-G 338.9-17.5  Tel  18 17 30.93 -55 28 41.40   0.4 x 0.6'   Possible PN, Galaxy ?
+Mul 12            PN-G 322.1-05.2  TrA  15 44 33.25 -61 26 33.16   0.1'         Possible NP
+Mul 12            PN-G 322.1-05.2  TrA  15 44 33.25 -61 26 33.16   0.1'         New candidate
+PaStDr 4          PN-G 320.2-07.9  TrA  15 46 03.76 -64 43 57.52   8'           Possible NP, CSPN ?
+PaStDr 4          PN-G 320.2-07.9  TrA  15 46 03.76 -64 43 57.52   8'           New candidate
+StDr 56           PN-G 141.8-29.9  Tri  02 07 17.41 +30 05 11.90   23'          Possible NP, CSPN ?
+StDr 56           PN-G 141.8-29.9  Tri  02 07 17.41 +30 05 11.90   23'          New candidate
+St Objet 11       PN-G             Vel  08 27 43.01 -44 42 55.51   0.3 x 0.1'   High contrast zone in filament, isolated object ?
+DeGaPe 75         PN-G 260.4-02.2  Vel  08 27 45.00 -42 22 59.90   0.1'         Possible NP
+DeGaPe 75         PN-G 260.4-02.2  Vel  08 27 45.00 -42 22 59.90   0.1'         New candidate
+Ras Objet 2       PN-G             Vel  08 27 59.45 -39 57 03.80   0.5 x 0.4'   HII region ?
+St 36             PN-G 261.2-01.6  Vel  08 32 39.26 -42 39 53.05   0.1'         Possible NP
+St 47             PN-G 260.8-00.7  Vel  08 35 18.40 -41 46 37.76   0.7'         Possible NP
+DeGaPe 1          PN-G 262.4-01.9  Vel  08 35 40.69 -43 48 30.60   1.0 x 0.9'   Likely PN
+Mul-LDu-IR 17     PN-G 260.6+00.2  Vel  08 39 10.50 -41 00 37.00                Possible PN
+StRas 2           PN-G 265.1-02.0  Vel  08 44 31.90 -46 00 13.51   0.2'         Possible PN
+St 45             PN-G 259.2+02.8  Vel  08 45 17.90 -38 18 11.00   0.7'         Possible NP, CSPN ?
+Mul-LDu-IR 7      PN-G 262.3+00.4  Vel  08 45 36.40 -42 12 31.00                Possible PN
+St 30             PN-G 266.4-02.1  Vel  08 48 35.07 -47 06 45.46   0.4 x 0.3'   Possible PN
+Mo 35             PN-G 266.3-01.6  Vel  08 50 08.33 -46 41 00.78   0.1'         Possible NP
+Mo 35             PN-G 266.3-01.6  Vel  08 50 08.33 -46 41 00.78   0.1'         New candidate
+St 37             PN-G 261.8+02.1  Vel  08 50 54.04 -40 47 52.26   0.5'         Possible NP
+DeGaPe 3          PN-G 266.1-01.1  Vel  08 51 59.00 -46 10 50.80   0.1'         Possible PN
+St 46             PN-G 268.0-02.3  Vel  08 53 41.36 -48 24 59.73   0.4'         Possible NP
+DeGaPe 26         PN-G 266.7-01.2  Vel  08 53 56.30 -46 44 06.90   0.1'         Possible PN
+DeGaPe 24         PN-G 266.8-00.9  Vel  08 55 31.00 -46 35 47.30   0.1'         Possible PN
+St 38             PN-G 267.9-01.6  Vel  08 56 24.83 -47 50 42.20   0.2'         Possible NP
+St 48             PN-G 269.3-02.6  Vel  08 57 27.36 -49 35 37.67   0.2 x 0.1'   Possible PN
+DeGaPe 31         PN-G 264.8+01.3  Vel  08 57 42.00 -43 34 49.50   0.1'         Possible PN
+DeGaPe Objet 2    PN-G 266.6+00.1  Vel  08 59 13.20 -45 45 01.60   0.1'         Stellar emission object
+DeGaPe 2          PN-G 267.4-00.3  Vel  09 00 17.70 -46 40 40.60   1.7 x 1.6'   Possible PN
+St Objet 7        PN-G             Vel  09 03 25.46 -49 57 35.95   0.1 x 0.6'   Jet, Herbig-Haro object ?
+Mo 36             PN-G 272.1-03.1  Vel  09 06 40.25 -52 06 41.80   0.3 x 0.2'   Possible NP
+Mo 36             PN-G 272.1-03.1  Vel  09 06 40.25 -52 06 41.80   0.3 x 0.2'   New candidate
+Mul-LDu-IR 18     PN-G 269.7-00.3  Vel  09 09 23.85 -48 22 00.70                Possible PN
+Mul-LDu-IR 3      PN-G 272.1-02.0  Vel  09 11 57.36 -51 14 25.00                Possible PN
+MulPreLDu 1       PN-G 272.1-02.0  Vel  09 11 57.36 -51 14 25.00   0.1'         Possible NP
+Fe 9              PN-G 274.9-03.8  Vel  09 15 49.00 -54 35 33.00   0.9 x 0.9'   Possible PN, Galaxy ?
+Mo 22             PN-G 272.9-01.6  Vel  09 16 58.50 -51 35 38.20   0.2'         Possible PN, Galaxy ?
+Mul-LDu-IR 4      PN-G 275.5-03.7  Vel  09 19 20.17 -54 56 37.20                Possible PN
+MulLDu 1          PN-G 275.5-03.7  Vel  09 19 20.40 -54 56 39.08   0.1'         Possible NP
+MulLDu 1          PN-G 275.5-03.7  Vel  09 19 20.40 -54 56 39.08   0.1'         New candidate
+Mur Objet 1       PN-G             Vel  09 24 53.49 -46 28 08.30   0.3'         YSO, Galaxy ?
+PreMo 1           PN-G 272.7+00.5  Vel  09 26 12.09 -49 57 30.32   0.2'         Possible PN
+St Objet 6        PN-G             Vel  09 26 30.06 -53 00 49.02   0.3'         Reflexion nebula ?
+Pa 168            PN-G 273.4+00.7  Vel  09 30 25.00 -50 16 30.60   0.1'         Possible NP
+Pa 168            PN-G 273.4+00.7  Vel  09 30 25.00 -50 16 30.60   0.1'         True PN
+Mul-LDu-IR 5      PN-G 270.9+04.7  Vel  09 35 34.95 -45 38 09.50                Possible PN
+St 33             PN-G 278.2-02.8  Vel  09 37 53.03 -56 07 56.60   0.7'         Possible PN, CSPN ?
+MulPre 4          PN-G 276.6-00.0  Vel  09 42 06.37 -53 00 03.55   0.1'         Possible NP
+MulPre 4          PN-G 276.6-00.0  Vel  09 42 06.37 -53 00 03.55   0.1'         New candidate
+Mul 16            PN-G 276.2+00.5  Vel  09 42 39.81 -52 16 57.68   0.1'         Possible NP
+Mul 5             PN-G 276.2+00.5  Vel  09 42 39.81 -52 16 57.68   0.1'         New candidate
+St 50             PN-G 275.8+01.0  Vel  09 43 09.93 -51 37 26.94   0.3'         Possible PN, HII region ?
+Mul-LDu-IR 13     PN-G 277.2-00.3  Vel  09 44 02.60 -53 33 34.00                Possible PN
+Mo Objet 10       PN-G             Vel  09 47 10.84 -54 43 20.66   1.4 x 0.7'   Reflexion nebula ?
+Mo Objet 15       PN-G             Vel  09 54 40.09 -56 42 32.30   6.0 x 3.8'   HII region ?
+Su Objet 5        PN-G             Vel  10 10 11.60 -57 00 09.20   0.5 x 0.3'   Ionised ISM ?
+StDr 21           PN-G 282.4-00.2  Vel  10 12 51.49 -56 42 25.62   0.1'         Possible NP
+StDr 21           PN-G 282.4-00.2  Vel  10 12 51.49 -56 42 25.62   0.1'         New candidate
+LDu 39            PN-G 284.1+01.2  Vel  10 29 20.40 -56 22 38.90   0.7 x 0.4'   Possible PN
+Mo 27             PN-G 283.9+05.7  Vel  10 43 37.30 -52 19 02.60   5.0 x 3.0'   Possible PN, globule cométaire ?
+St 42             PN-G 285.3+04.1  Vel  10 46 50.51 -54 23 32.92   1.0 x 0.7'   Possible NP
+St 51             PN-G 285.1+05.4  Vel  10 49 22.56 -53 09 20.87   0.7 x 0.5'   Possible PN
+LDu 44            PN-G 285.6+05.2  Vel  10 52 06.84 -53 31 26.70   0.3 x 0.2'   Possible PN
+Ra 12             PN-G 055.6+06.8  Vul  19 08 29.00 +23 18 25.00   0.2'         Possible PN
+LDu-IR 4          PN-G 048.5+01.1  Vul  19 21 44.82 +23 18 18.70                Possible PN
+Mo 19             PN-G 055.7+03.1  Vul  19 23 10.38 +21 41 23.30   0.1'         Possible PN
+Mul-IR 79         PN-G 057.1+03.5  Vul  19 24 15.50 +23 06 01.00                Possible PN
+StDr 85           PN-G 054.6+00.7  Vul  19 29 50.33 +19 34 20.42   1.2'         Possible NP, CSPN ?
+StDr 85           PN-G 054.6+00.7  Vul  19 29 50.33 +19 34 20.42   1.2'         Possible PN
+StDr 86           PN-G 061.2+04.0  Vul  19 30 58.09 +26 58 43.63   1'           Possible NP, CSPN ?
+StDr 86           PN-G 061.2+04.0  Vul  19 30 58.09 +26 58 43.63   1'           Possible PN
+Pa Objet 6        PN-G             Vul  19 31 26.50 +26 02 38.60   0.1'         Reflexion nebula ?
+StDr 25           PN-G 057.4+01.2  Vul  19 33 49.94 +22 15 05.56   0.4'         Possible NP
+StDr 25           PN-G 057.4+01.2  Vul  19 33 49.94 +22 15 05.56   0.4'         True PN
+StDr Objet 19     PN-G             Vul  19 34 37.27 +23 49 48.44   1'           Symbiotic double star ?
+StDr Objet 19     PN-G             Vul  19 34 37.27 +23 49 48.44   1'           Object of unknown nature
+Mul-IR 11         PN-G 059.6+01.8  Vul  19 36 07.65 +24 29 53.60                Possible PN
+Mul-IR 72         PN-G 059.6+01.7  Vul  19 36 24.28 +24 27 16.00                Possible PN
+Ra 24             PN-G 056.4-00.3  Vul  19 37 40.00 +20 35 47.00   0.5'         True PN
+Ou 3              PN-G 059.2+01.0  Vul  19 38 16.81 +23 45 45.80   1.5'         Likely PN
+StDr 30           PN-G 056.6-00.8  Vul  19 39 47.96 +20 34 10.05   1.3'         True PN
+StDr 89           PN-G 058.4+00.1  Vul  19 40 05.89 +22 35 14.60   3'           Possible NP, CSPN ?
+StDr 89           PN-G 058.4+00.1  Vul  19 40 05.89 +22 35 14.60   3'           New candidate
+LDu-IR 5          PN-G 062.4+02.1  Vul  19 40 48.51 +27 05 08.90                Possible PN
+StDr 90           PN-G 057.9-00.6  Vul  19 41 39.93 +21 45 58.36   2.5'         Possible NP, CSPN ?
+StDr 90           PN-G 057.9-00.6  Vul  19 41 39.93 +21 45 58.36   2.5'         New candidate
+Mul-IR 68         PN-G 061.7+01.2  Vul  19 43 16.19 +26 02 55.10                Possible PN
+Mul-IR 69         PN-G 061.7+01.1  Vul  19 43 21.60 +26 01 39.10                Possible PN
+Mul-IR 12         PN-G 063.1+01.3  Vul  19 45 44.00 +27 14 48.50                Possible PN
+Ra 17             PN-G 059.1-01.4  Vul  19 47 28.00 +22 28 24.00   0.3'         Possible PN
+StDr Objet 12     PN-G             Vul  19 47 38.03 +27 18 43.50   0.3 x 0.2'   SNR ?
+StDr Objet 12     PN-G             Vul  19 47 38.03 +27 18 43.50   0.3 x 0.2'   Interesting object
+RaEMol 1          PN-G 063.0+00.7  Vul  19 47 52.63 +26 54 23.38   0.1'         Possible NP
+RaEMol 1          PN-G 063.0+00.7  Vul  19 47 52.63 +26 54 23.38   0.1'         New candidate
+StDr 7            PN-G 063.1+00.2  Vul  19 50 11.26 +26 43 32.09   0.3'         Possible PN
+Ra 16             PN-G 058.1-03.7  Vul  19 53 43.00 +20 26 34.00   0.3'         Possible PN
+StDr 93           PN-G 062.1-03.7  Vul  20 02 51.14 +23 48 09.72   0.83'        Possible NP, CSPN ?
+StDr 93           PN-G 062.1-03.7  Vul  20 02 51.14 +23 48 09.72   0.83'        New candidate
+StDr 123          PN-G 064.2-02.5  Vul  20 03 24.26 +26 13 42.00   6'           
+Mul-IR 93         PN-G 065.9-03.1  Vul  20 09 27.21 +27 19 47.90                Possible PN
+StDr 42           PN-G 064.8-03.8  Vul  20 09 27.67 +25 59 38.30   1.4'         Possible NP, CSPN ?
+StDr 42           PN-G 064.8-03.8  Vul  20 09 27.67 +25 59 38.30   1.4'         True PN
+Ras Objet 1       PN-G             Vul  20 18 09.47 +25 37 05.30   5.4 x 4.0'   HII region ?
+Ra 27             PN-G 066.0-07.8  Vul  20 27 23.00 +24 48 25.00   0.3'         Possible PN
+Ra 63             PN-G 065.9-08.0  Vul  20 27 52.15 +24 36 18.00   0.5'         Possible PN
+Ra 9              PN-G 063.7-10.5  Vul  20 31 09.00 +21 21 41.00   1.5'         Possible PN
+Or 2              PN-G 070.1-12.5  Vul  20 54 32.34 +25 10 51.20   0.3'         Possible PN, multipolar structure ?
+StDr 54           PN-G 075.7-14.4  Vul  21 16 36.39 +28 10 19.52   16'          Possible NP, CSPN ?
+StDr 54           PN-G 075.7-14.4  Vul  21 16 36.39 +28 10 19.52   16'          New candidate

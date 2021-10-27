@@ -99,6 +99,7 @@ ASCC 12                  ; Tarricq 2021        ;      ;  7.98
 ASCC 123                 ; 2016DAML            ; 0.10 ;  8.41
 ASCC 123                 ; 2020A&A...640A...1C ; 0.000;  7.65
 ASCC 123                 ; Dias 2021           ; 0.099;  7.793
+ASCC 123                 ; Kerr 2021           ;      ;  7.695
 ASCC 123                 ; Kharchenko+ 2013    ; 0.150;  8.191
 ASCC 123                 ; Tarricq 2021        ;      ;  7.65
 ASCC 124                 ; 2016DAML            ; 0.15 ;  8.48
@@ -135,6 +136,7 @@ ASCC 130                 ; Kharchenko+ 2013    ; 0.600;  7.241
 ASCC 16                  ; 2019 Bossini        ; 0.030;  7.047
 ASCC 16                  ; 2020A&A...640A...1C ; 0.063;  7.13
 ASCC 16                  ; Dias 2021           ; 0.072;  7.088
+ASCC 16                  ; Kerr 2021           ;      ;  7.121
 ASCC 16                  ; Kharchenko+ 2013    ; 0.021;  7.000
 ASCC 16                  ; Kos+ 2019           ; 0.08 ;  7.114
 ASCC 16                  ; Tarricq 2021        ;      ;  7.14
@@ -360,6 +362,7 @@ Alessi 12                ; Tarricq 2021        ;      ;  8.14
 Alessi 13                ; 2020A&A...640A...1C ; 0.031;  7.55
 Alessi 13                ; Dias 2021           ; 0.013;  7.769
 Alessi 13                ; Gagne+ 2018         ;      ;  8.699
+Alessi 13                ; Kerr 2021           ;      ;  7.585
 Alessi 13                ; Kharchenko+ 2013    ; 0.021;  8.720
 Alessi 13                ; Tarricq 2021        ;      ;  7.55
 Alessi 137               ; 2020Alessi          ; 0.04 ;  8.36
@@ -1398,6 +1401,7 @@ Berkeley 99              ; Kharchenko+ 2013    ; 0.300;  9.348
 Berkeley 99              ; Tarricq 2021        ;      ;  9.53
 Beta Pic                 ; BDCC                ;      ;  7.08
 Beta Pic                 ; Gagne+ 2018         ;      ;  7.380
+Beta Pict                ; Kerr 2021           ;      ;  7.367
 Beta Tuc                 ; 2020Alessi          ; 0.03 ;  7.79
 Bica 1                   ; 2016DAML            ; 2.12 ;  6.60
 Bica 2                   ; 2016DAML            ; 1.82 ;  6.60
@@ -1493,6 +1497,12 @@ CBJC 7                   ; Kharchenko+ 2013    ; 2.290;  7.915
 CBJC 8                   ; Kharchenko+ 2013    ; 1.041;  8.200
 CCCP-Cl 11               ; BDCC                ;      ;  6.56
 CCCP-Cl 13               ; BDCC                ;      ;  6.40
+CFN 1                    ; Kerr 2021           ;      ;  7.377
+CFN 2                    ; Kerr 2021           ;      ;  7.412
+CHA 3                    ; Kerr 2021           ;      ;  7.057
+CHA 4                    ; Kerr 2021           ;      ;  7.562
+CM 1                     ; Kerr 2021           ;      ;  7.525
+CM 2                     ; Kerr 2021           ;      ;  7.530
 CMa 23                   ; arXiv:2108.06234v1  ; 0.39 ;  8.12
 CMa 5                    ; arXiv:2108.06234v1  ; 0.36 ;  7.23
 CMa 8                    ; arXiv:2108.06234v1  ; 0.32 ;  7.26
@@ -1624,9 +1634,11 @@ Cep OB5                  ; Kharchenko+ 2013    ; 0.625;  7.500
 Cep R1                   ; BDCC                ; 0.92 ;
 Cep R2                   ; BDCC                ; 0.35 ;
 Cet II                   ; BDCC                ; 0.02 ; 10.04
+Cha I                    ; Kerr 2021           ;      ;  6.663
 Cha I N                  ; Kharchenko+ 2013    ; 0.312;  6.000
 Cha I S                  ; Kharchenko+ 2013    ; 0.312;  6.000
 Cha II                   ; BDCC                ;      ;  6.00
+Cha II                   ; Kerr 2021           ;      ;  6.568
 Chereul 1                ; 2020Alessi          ; 0.00 ;  8.71
 Chereul 2                ; 2020Alessi          ; 0.04 ;  8.90
 Cir R1                   ; BDCC                ; 1.11 ;
@@ -1759,6 +1771,7 @@ Collinder 292            ; Dias 2021           ; 0.471;  7.747
 Collinder 292            ; Kharchenko+ 2013    ; 0.250;  8.700
 Collinder 292            ; Tarricq 2021        ;      ;  8.54
 Collinder 302            ; BDCC                ;      ;  6.70
+Collinder 302            ; Kerr 2021           ;      ;  7.053
 Collinder 307            ; 2016DAML            ; 0.83 ;  8.40
 Collinder 307            ; 2020A&A...640A...1C ; 0.659;  8.39
 Collinder 307            ; Dias 2021           ; 0.822;  7.915
@@ -1866,6 +1879,7 @@ Collinder 97             ; Kharchenko+ 2013    ; 0.312;  8.400
 Columba Assoc            ; BDCC                ;      ;  7.48
 Columba Assoc            ; Gagne+ 2018         ;      ;  7.623
 Coronet                  ; BDCC                ;      ;  6.24
+Cr 135                   ; Kerr 2021           ;      ;  7.542
 Cyg OB2                  ; Kharchenko+ 2013    ; 1.832;  6.720
 Czernik 1                ; 2016DAML            ; 1.23 ;  6.70
 Czernik 1                ; 2017AstBu..72..257L ; 0.732;  7.160
@@ -2620,6 +2634,7 @@ FSR 1284                 ; 2020A&A...640A...1C ; 0.263;  8.77
 FSR 1284                 ; Dias 2021           ; 0.347;  8.891
 FSR 1284                 ; Kharchenko+ 2013    ; 0.208;  9.145
 FSR 1284                 ; Tarricq 2021        ;      ;  8.82
+FSR 129                  ; Kharchenko+ 2013    ; 1.31 ;  8.480
 FSR 1293                 ; 2020Alessi          ; 1.20 ;  9.01
 FSR 1293                 ; Kharchenko+ 2013    ; 1.197;  9.005
 FSR 1294                 ; 2016DAML            ; 0.208;  9.215
@@ -3314,6 +3329,7 @@ Feibelman 1              ; Dias 2021           ; 0.677;  8.174
 Feibelman 1              ; Kharchenko+ 2013    ; 2.124;  6.700
 Feigelson 1              ; 2016DAML            ; 0.02 ;  6.602
 Feigelson 1              ; 2017AstBu..72..257L ; 0.020;  6.602
+Feigelson 1              ; Kerr 2021           ;      ;  6.919
 Feigelson 1              ; Kharchenko+ 2013    ; 0.000;  6.600
 Feinstein 1              ; 2016DAML            ; 0.40 ;  7.00
 Feinstein 1              ; 2017AstBu..72..257L ; 0.400;  7.000
@@ -3341,6 +3357,13 @@ G3CC 61                  ; BDCC                ; 1.71 ;
 GFK 1                    ; BDCC                ;      ;  7.18
 GLIMPSE-GC 1             ; BDCC                ; 4.85 ;
 GLIMPSE-GC 2             ; BDCC                ; 7.85 ; 10.10
+GT 10                    ; Kerr 2021           ;      ;  6.845
+GT 2                     ; Kerr 2021           ;      ;  7.491
+GT 3 A                   ; Kerr 2021           ;      ;  7.286
+GT 3 B                   ; Kerr 2021           ;      ;  7.140
+GT 4 A                   ; Kerr 2021           ;      ;  7.577
+GT 4 B                   ; Kerr 2021           ;      ;  7.474
+GT 9 B                   ; Kerr 2021           ;      ;  7.061
 Gaia 1                   ; 2020A&A...640A...1C ; 0.184;  9.50
 Gaia 1                   ; BDCC                ; 0.66 ;  9.64
 Gaia 1                   ; Tarricq 2021        ;      ;  9.54
@@ -3349,6 +3372,7 @@ Gaia 2                   ; Garro 2021 priv     ; 0.28 ; 10.00
 Gaia 3                   ; Torrealba 2019      ;      ;  9.10
 Gaia 4                   ; Torrealba 2019      ;      ;  9.00
 Gaia 7                   ; Torrealba 2019      ;      ;  7.85
+Gaia 8                   ; Kerr 2021           ;      ;  7.491
 Gaia 8                   ; arXiv:1909.04612v1  ;      ;  7.81
 Graham 1                 ; 2020A&A...640A...1C ; 0.716;  7.19
 Graham 1                 ; Dias 2021           ; 0.712;  6.805
@@ -3512,6 +3536,10 @@ HIP 27345                ; 1998AJ....116.2423P ;      ;  8.00
 HIP 33175                ; 1998AJ....116.2423P ;      ;  8.00
 HIP 55350                ; 1998AJ....116.2423P ;      ;  8.00
 HIP 83071                ; 1998AJ....116.2423P ;      ;  8.00
+HMAC 1                   ; Kerr 2021           ;      ;  6.748
+HMAC 16                  ; Kerr 2021           ;      ;  6.531
+HMAC 7                   ; Kerr 2021           ;      ;  6.580
+HMAC 8                   ; Kerr 2021           ;      ;  6.519
 HP 1                     ; BDCC                ; 1.12 ; 10.10
 HR 8352                  ; 2020Alessi          ;      ;  7.48
 HR 8352                  ; BDCC                ;      ;  7.65
@@ -3879,6 +3907,7 @@ IC 2391                  ; 2017AstBu..72..257L ; 0.008;  7.661
 IC 2391                  ; 2019 Bossini        ; 0.030;  7.561
 IC 2391                  ; 2020A&A...640A...1C ; 0.013;  7.46
 IC 2391                  ; Dias 2021           ; 0.050;  7.688
+IC 2391                  ; Kerr 2021           ;      ;  7.653
 IC 2391                  ; Kharchenko+ 2013    ; 0.052;  8.050
 IC 2391                  ; Tarricq 2021        ;      ;  7.47
 IC 2395                  ; 2016DAML            ; 0.09 ;  6.80
@@ -3905,6 +3934,7 @@ IC 2602                  ; 2017AstBu..72..257L ; 0.024;  7.507
 IC 2602                  ; 2019 Bossini        ; 0.031;  7.547
 IC 2602                  ; 2020A&A...640A...1C ; 0.009;  7.56
 IC 2602                  ; Dias 2021           ; 0.095;  7.672
+IC 2602                  ; Kerr 2021           ;      ;  7.607
 IC 2602                  ; Kharchenko+ 2013    ; 0.031;  8.345
 IC 2602                  ; Tarricq 2021        ;      ;  7.57
 IC 2714                  ; 2016DAML            ; 0.341;  8.542
@@ -3924,6 +3954,7 @@ IC 348                   ; 2016DAML            ; 0.929;  7.641
 IC 348                   ; 2017AstBu..72..257L ; 0.984;  7.742
 IC 348                   ; 2020A&A...640A...1C ; 0.597;  7.07
 IC 348                   ; Dias 2021           ; 0.107;  6.780
+IC 348                   ; Kerr 2021           ;      ;  6.672
 IC 348                   ; Kharchenko+ 2013    ; 1.049;  6.780
 IC 348                   ; Kuhn+ 2019          ;      ;  6.33
 IC 348                   ; Tarricq 2021        ;      ;  7.08
@@ -4340,6 +4371,7 @@ Kronberger 85            ; 2016DAML            ; 1.17 ;  8.80
 Kronberger 85            ; Kharchenko+ 2013    ; 1.457;  8.500
 Kronberger 88            ; BDCC                ;      ; 10.00
 Kronberger 99            ; Garro 2021 priv     ; 1.81 ; 10.11
+LCC-1                    ; Kerr 2021           ;      ;  7.164
 LDEG91 3                 ; BDCC                ; 3.52 ;  6.45
 LDEG91 4                 ; BDCC                ; 3.12 ;  6.55
 LDN 1211                 ; Kharchenko+ 2013    ; 1.599;  9.100
@@ -4438,6 +4470,8 @@ Loktin-Popova 44         ; 2017AstBu..72..257L ; 0.073;  6.600
 Loktin-Popova 50A        ; 2017AstBu..72..257L ; 0.323;  8.850
 Loktin-Popova 53A        ; 2017AstBu..72..257L ; 0.509;  7.810
 Loktin-Popova 9          ; 2017AstBu..72..257L ; 0.468;  7.700
+Lupus III                ; Kerr 2021           ;      ;  6.732
+Lupus IV                 ; Kerr 2021           ;      ;  6.771
 Lynga 1                  ; 2016DAML            ; 0.45 ;  8.00
 Lynga 1                  ; 2017AstBu..72..257L ; 0.463;  8.076
 Lynga 1                  ; 2019 Bossini        ; 1.487;  7.934
@@ -4485,7 +4519,10 @@ Lynga 9                  ; 2020A&A...640A...1C ; 0.781;  8.80
 Lynga 9                  ; Dias 2021           ; 0.961;  7.792
 Lynga 9                  ; Kharchenko+ 2013    ; 1.166;  8.820
 Lynga 9                  ; Tarricq 2021        ;      ;  8.80
+MSW 1                    ; Kerr 2021           ;      ;  7.403
+MSW 3                    ; Kerr 2021           ;      ;  7.394
 Majaess 107              ; arXiv:2009.14372v1  ;      ;  7.653
+Majaess 178              ; Kerr 2021           ;      ;  6.544
 Majaess 207              ; wilton.unifei.edu.br;      ;  6.90
 Majaess 211              ; wilton.unifei.edu.br;      ;  8.22
 Majaess 225              ; wilton.unifei.edu.br;      ;  7.04
@@ -4501,17 +4538,20 @@ Majaess 95               ; wilton.unifei.edu.br;      ;  8.46
 Majaess 99               ; wilton.unifei.edu.br;      ;  6.66
 Mamajek 1                ; 2016DAML            ; 0.00 ;  6.9
 Mamajek 1                ; Dias 2021           ; 0.038;  7.194
+Mamajek 1                ; Kerr 2021           ;      ;  6.914
 Mamajek 1                ; Kharchenko+ 2013    ; 0.000;  6.990
 Mamajek 11               ; 2020Alessi          ;      ;  6.04
 Mamajek 13               ; BDCC                ; 0.86 ;
 Mamajek 17               ; 2020Alessi          ;      ;  7.22
 Mamajek 17               ; BDCC                ; 0.03 ;  7.00
 Mamajek 17               ; Gagne+ 2018         ;      ;  7.000
+Mamajek 17               ; Kerr 2021           ;      ;  7.225
 Mamajek 2                ; 2016DAML            ; 0.80 ;  8.10
 Mamajek 2                ; 2017AstBu..72..257L ; 0.583;  8.323
 Mamajek 2                ; Kharchenko+ 2013    ; 0.312;  8.100
 Mamajek 3                ; 2016DAML            ; 0.06 ;  7.30
 Mamajek 3                ; Gagne+ 2018         ;      ;  7.342
+Mamajek 3                ; Kerr 2021           ;      ;  7.435
 Mamajek 3                ; Kharchenko+ 2013    ; 0.000;  7.500
 Mamajek 4                ; 2016DAML            ; 0.05 ;  8.8
 Mamajek 4                ; 2019 Bossini        ; 0.064;  8.824
@@ -4519,6 +4559,7 @@ Mamajek 4                ; 2020A&A...640A...1C ; 0.097;  8.57
 Mamajek 4                ; Dias 2021           ; 0.067;  8.847
 Mamajek 4                ; Kharchenko+ 2013    ; 0.050;  8.815
 Mamajek 4                ; Tarricq 2021        ;      ;  8.57
+Mamajek 5                ; Kerr 2021           ;      ;  6.756
 Mamajek 6                ; BDCC                ; 0.85 ;  7.40
 Markarian 38             ; 2016DAML            ; 0.405;  6.882
 Markarian 38             ; 2017AstBu..72..257L ; 0.368;  6.893
@@ -4572,6 +4613,7 @@ Melotte 20               ; 2017AstBu..72..257L ; 0.090;  7.854
 Melotte 20               ; 2019 Bossini        ; 0.018;  7.938
 Melotte 20               ; 2020A&A...640A...1C ; 0.094;  7.71
 Melotte 20               ; Dias 2021           ; 0.105;  7.921
+Melotte 20               ; Kerr 2021           ;      ;  7.696
 Melotte 20               ; Kharchenko+ 2013    ; 0.090;  7.700
 Melotte 20               ; Tarricq 2021        ;      ;  7.71
 Melotte 22               ; 2016DAML            ; 0.030;  8.131
@@ -4623,6 +4665,7 @@ Mon OB3                  ; Kharchenko+ 2013    ; 0.833;  7.940
 Mon R2                   ; BDCC                ; 0.57 ;
 Mon R2                   ; Kuhn+ 2019          ;      ;  6.02
 Morgan 8                 ; Kharchenko+ 2013    ; 0.042;  7.200
+Mu Tau                   ; Kerr 2021           ;      ;  7.718
 Mu Tau                   ; arXiv:2008.06139v1  ;      ;  7.79
 Munoz 1                  ; BDCC                ; 0.02 ; 10.10
 Muzzio 1                 ; 2016DAML            ; 1.03 ;  6.70
@@ -4682,6 +4725,7 @@ NGC 133                  ; 2017AstBu..72..257L ; 0.632;  7.717
 NGC 133                  ; Dias 2021           ; 0.745;  8.201
 NGC 133                  ; Kharchenko+ 2013    ; 0.625;  7.300
 NGC 1333                 ; 2020A&A...640A...1C ; 0.663;  7.06
+NGC 1333                 ; Kerr 2021           ;      ;  6.778
 NGC 1333                 ; Kharchenko+ 2013    ; 1.239;  6.800
 NGC 1333                 ; Kuhn+ 2019          ;      ;  6.25
 NGC 1333                 ; Tarricq 2021        ;      ;  7.09
@@ -5030,6 +5074,7 @@ NGC 2232                 ; 2016DAML            ; 0.030;  7.727
 NGC 2232                 ; 2017AstBu..72..257L ; 0.033;  7.745
 NGC 2232                 ; 2020A&A...640A...1C ; 0.003;  7.25
 NGC 2232                 ; Dias 2021           ; 0.052;  7.486
+NGC 2232                 ; Kerr 2021           ;      ;  7.444
 NGC 2232                 ; Kharchenko+ 2013    ; 0.031;  7.700
 NGC 2232                 ; Tarricq 2021        ;      ;  7.25
 NGC 2234                 ; 2016DAML            ; 1.25 ;  7.70
@@ -5370,6 +5415,7 @@ NGC 2448                 ; 2020A&A...640A...1C ; 0.038;  7.98
 NGC 2448                 ; Dias 2021           ; 0.088;  8.147
 NGC 2448                 ; Kharchenko+ 2013    ; 0.021;  7.250
 NGC 2448                 ; Tarricq 2021        ;      ;  8.01
+NGC 2451A                ; Kerr 2021           ;      ;  7.686
 NGC 2453                 ; 2016DAML            ; 0.446;  7.187
 NGC 2453                 ; 2017AstBu..72..257L ; 0.433;  7.261
 NGC 2453                 ; 2020A&A...640A...1C ; 0.394;  7.40
@@ -6488,11 +6534,10 @@ NGC 6735                 ; 2020A&A...640A...1C ; 0.544;  8.39
 NGC 6735                 ; Dias 2021           ; 0.757;  8.466
 NGC 6735                 ; Kharchenko+ 2013    ; 0.854;  8.290
 NGC 6735                 ; Tarricq 2021        ;      ;  8.42
-NGC 6749                 ; Kharchenko+ 2013    ; 1.499; 10.000
-NGC 6749                 ; Aparicio+ 1991      ; 0.742;  9.328   
-FSR 129                  ; Kharchenko+ 2013    ; 1.31 ;  8.480
-NGC 6749                 ; Lata+ 2002          ; 0.74 ;  9.03    
 NGC 6749                 ; Aparicio+ 1990      ; 0.64 ;  9.79    
+NGC 6749                 ; Aparicio+ 1991      ; 0.742;  9.328   
+NGC 6749                 ; Kharchenko+ 2013    ; 1.499; 10.000
+NGC 6749                 ; Lata+ 2002          ; 0.74 ;  9.03    
 NGC 6752                 ; Baumgart 2021       ; 0.04 ; 10.0969
 NGC 6752                 ; Kharchenko+ 2013    ; 0.042; 10.100
 NGC 6755                 ; 2016DAML            ; 0.826;  7.719
@@ -6937,6 +6982,10 @@ OPD 51 B                 ; 2020Alessi          ; 0.10 ;  8.30
 OPD 55                   ; BDCC                ; 0.03 ;  9.23
 OPD 81                   ; BDCC                ; 0.00 ;  9.02
 OPD 83                   ; BDCC                ; 0.00 ;  9.25
+ORI 1                    ; Kerr 2021           ;      ;  7.124
+ORI 1 A                  ; Kerr 2021           ;      ;  7.146
+ORI 1 B                  ; Kerr 2021           ;      ;  7.090
+ORI 2                    ; Kerr 2021           ;      ;  7.301
 Octans Assoc             ; BDCC                ;      ;  7.30
 Octans Assoc             ; Gagne+ 2018         ;      ;  7.544
 Oliveira 1               ; BDCC                ;      ;  6.32
@@ -6945,6 +6994,9 @@ Oliveira 13              ; BDCC                ;      ;  6.56
 Oliveira 15              ; BDCC                ;      ;  6.54
 Oliveira 4               ; BDCC                ;      ;  6.65
 Oliveira 9               ; BDCC                ;      ;  6.42
+PER 1 B                  ; Kerr 2021           ;      ;  7.243
+PER 2 B                  ; Kerr 2021           ;      ;  7.233
+POB3 2                   ; Kerr 2021           ;      ;  7.477
 PTB 2                    ; Kharchenko+ 2013    ; 0.770;  9.300
 PTB 3                    ; Kharchenko+ 2013    ; 0.500;  9.500
 PTB 4                    ; Kharchenko+ 2013    ; 1.199;  7.000
@@ -7139,6 +7191,7 @@ Platais 8                ; 2016DAML            ;      ;  7.78
 Platais 8                ; 2020A&A...640A...1C ; 0.044;  7.48
 Platais 8                ; Dias 2021           ; 0.061;  7.567
 Platais 8                ; Gagne+ 2018         ;      ;  7.778
+Platais 8                ; Kerr 2021           ;      ;  7.568
 Platais 8                ; Kharchenko+ 2013    ; 0.000;  7.750
 Platais 8                ; Tarricq 2021        ;      ;  7.48
 Platais 9                ; 1998AJ....116.2423P ;      ;  8.00
@@ -7855,6 +7908,33 @@ SAI 94                   ; Tarricq 2021        ;      ;  9.19
 SBB 2                    ; 2016DAML            ; 5.89 ;  6.70
 SBB 2                    ; Kharchenko+ 2013    ; 1.312;  6.250
 SBB 7                    ; BDCC                ;      ;  6.48
+SC 12                    ; Kerr 2021           ;      ;  6.771
+SC 13                    ; Kerr 2021           ;      ;  7.413
+SC 14                    ; Kerr 2021           ;      ;  7.149
+SC 16                    ; Kerr 2021           ;      ;  7.267
+SC 17 A                  ; Kerr 2021           ;      ;  7.210
+SC 17 B                  ; Kerr 2021           ;      ;  7.097
+SC 17 C                  ; Kerr 2021           ;      ;  7.086
+SC 17 D                  ; Kerr 2021           ;      ;  7.049
+SC 17 E                  ; Kerr 2021           ;      ;  6.857
+SC 17 F                  ; Kerr 2021           ;      ;  7.100
+SC 17 G                  ; Kerr 2021           ;      ;  7.121
+SC 17 H                  ; Kerr 2021           ;      ;  7.009
+SC 19                    ; Kerr 2021           ;      ;  7.185
+SC 2                     ; Kerr 2021           ;      ;  7.635
+SC 20                    ; Kerr 2021           ;      ;  7.358
+SC 21                    ; Kerr 2021           ;      ;  7.378
+SC 22                    ; Kerr 2021           ;      ;  7.356
+SC 23                    ; Kerr 2021           ;      ;  7.332
+SC 24                    ; Kerr 2021           ;      ;  7.318
+SC 25                    ; Kerr 2021           ;      ;  7.316
+SC 26                    ; Kerr 2021           ;      ;  7.336
+SC 27 B                  ; Kerr 2021           ;      ;  7.114
+SC 27 D                  ; Kerr 2021           ;      ;  7.362
+SC 27 E                  ; Kerr 2021           ;      ;  7.267
+SC 5                     ; Kerr 2021           ;      ;  7.554
+SC 7                     ; Kerr 2021           ;      ;  7.146
+SC 9                     ; Kerr 2021           ;      ;  7.193
 SDSS J0814+5105          ; BDCC                ; 0.05 ; 10.05
 SDSS J0821+5608          ; BDCC                ; 0.05 ; 10.00
 SEGUE 1                  ; BDCC                ; 0.03 ; 10.08
@@ -7944,6 +8024,7 @@ Spurious 3               ; 2018AJ....156...84K ;      ;  7.02
 Spurious 4               ; 2018AJ....156...84K ;      ;  6.20
 Spurious 5               ; 2018AJ....156...84K ;      ;  6.74
 Spurious 6               ; 2018AJ....156...84K ;      ;  6.56
+Spurious 6               ; Kerr 2021           ;      ;  7.182
 Stephenson 1             ; 2016DAML            ; 0.040;  7.731
 Stephenson 1             ; 2019 Bossini        ; 0.051;  7.435
 Stephenson 1             ; 2020A&A...640A...1C ; 0.069;  7.45
@@ -8036,6 +8117,15 @@ Stock 8                  ; Kharchenko+ 2013    ; 0.604;  7.050
 Stock 8                  ; Tarricq 2021        ;      ;  7.20
 Strottner 1              ; Garro 2021 priv     ; 1.88 ; 10.00
 TC 1453-7658             ; 2020Alessi          ; 0.12 ;  8.40
+TLC 13                   ; Kerr 2021           ;      ;  7.477
+TLC 14                   ; Kerr 2021           ;      ;  7.505
+TLC 17                   ; Kerr 2021           ;      ;  7.618
+TLC 24                   ; Kerr 2021           ;      ;  7.528
+TLC 25                   ; Kerr 2021           ;      ;  7.328
+TLC 26                   ; Kerr 2021           ;      ;  7.407
+TLC 3                    ; Kerr 2021           ;      ;  7.025
+TLC 8                    ; Kerr 2021           ;      ;  7.377
+TW Hya                   ; Kerr 2021           ;      ;  7.033
 Tau R2                   ; BDCC                ; 0.22 ;
 Taurion                  ; BDCC                ;      ;  7.30
 Taurus I                 ; BDCC                ; 2.24 ;  8.20
@@ -8046,6 +8136,7 @@ Taurus IX                ; BDCC                ;      ;  6.18
 Taurus V                 ; BDCC                ;      ;  6.18
 Taurus VII               ; BDCC                ;      ;  6.18
 Taurus VIII              ; BDCC                ;      ;  6.18
+Taurus VIII              ; Kerr 2021           ;      ;  6.653
 Taurus X                 ; BDCC                ;      ;  6.18
 Terzan 1                 ; Baumgart 2021       ; 1.99 ; 10.0792
 Terzan 1                 ; Kharchenko+ 2013    ; 1.988; 10.100
@@ -9474,6 +9565,7 @@ Theia 524                ; 2019AJ....158..122K ;      ;  8.39
 Theia 524                ; Theia II            ; 0.232;  8.58
 Theia 5265               ; Theia II            ; 0.694;  8.76
 Theia 5293               ; Theia II            ; 0.261;  8.77
+Theia 53                 ; Kerr 2021           ;      ;  7.305
 Theia 5319               ; Theia II            ; 0.442;  8.77
 Theia 5345               ; Theia II            ; 0.600;  8.78
 Theia 535                ; 2019AJ....158..122K ;      ;  8.38
@@ -9625,6 +9717,7 @@ Theia 666                ; Theia II            ; 0.313;  8.33
 Theia 667                ; 2019AJ....158..122K ;      ;  8.46
 Theia 667                ; Theia II            ; 0.319;  8.41
 Theia 6674               ; Theia II            ; 0.784;  9.07
+Theia 67                 ; Kerr 2021           ;      ;  7.305
 Theia 671                ; 2019AJ....158..122K ;      ;  8.45
 Theia 671                ; Theia II            ; 0.742;  8.36
 Theia 672                ; 2019AJ....158..122K ;      ;  8.43
@@ -9638,11 +9731,13 @@ Theia 675                ; Theia II            ; 0.316;  8.26
 Theia 68                 ; 2019AJ....158..122K ;      ;  7.43
 Theia 68                 ; Theia II            ; 0.158;  7.45
 Theia 69                 ; 2019AJ....158..122K ;      ;  7.50
+Theia 69                 ; Kerr 2021           ;      ;  7.480
 Theia 69                 ; Theia II            ; 0.116;  7.55
 Theia 692                ; 2019AJ....158..122K ;      ;  8.59
 Theia 692                ; Theia II            ; 0.158;  8.36
 Theia 7                  ; 2019AJ....158..122K ;      ;  6.50
 Theia 7                  ; Theia II            ; 0.248;  6.46
+Theia 70                 ; Kerr 2021           ;      ;  7.243
 Theia 702                ; 2019AJ....158..122K ;      ;  8.54
 Theia 702                ; Theia II            ; 0.168;  8.48
 Theia 703                ; 2019AJ....158..122K ;      ;  8.52
@@ -9846,6 +9941,7 @@ Theia 924                ; Theia II            ; 0.216;  8.60
 Theia 929                ; 2019AJ....158..122K ;      ;  8.73
 Theia 929                ; Theia II            ; 0.081;  8.74
 Theia 93                 ; 2019AJ....158..122K ;      ;  7.50
+Theia 93                 ; Kerr 2021           ;      ;  6.929
 Theia 93                 ; Theia II            ; 0.174;  7.22
 Theia 932                ; 2019AJ....158..122K ;      ;  8.70
 Theia 932                ; Theia II            ; 0.239;  8.68
@@ -11100,6 +11196,7 @@ UBC 68                   ; 2020A&A...640A...1C ; 0.222;  8.33
 UBC 68                   ; Dias 2021           ; 0.418;  8.180
 UBC 7                    ; 2020A&A...640A...1C ; 0.031;  7.50
 UBC 7                    ; BDCC                ; 0.09 ;  8.50
+UBC 7                    ; Kerr 2021           ;      ;  7.542
 UBC 7                    ; Tarricq 2021        ;      ;  7.50
 UBC 72                   ; 2020A&A...640A...1C ; 0.303;  8.69
 UBC 72                   ; Tarricq 2021        ;      ;  8.76
@@ -11292,6 +11389,7 @@ UPK 143                  ; Tarricq 2021        ;      ;  8.50
 UPK 144                  ; 2019arXiv190706872S ;      ;  6.45
 UPK 145                  ; 2019arXiv190706872S ;      ;  7.90
 UPK 146                  ; 2019arXiv190706872S ;      ;  7.65
+UPK 146                  ; Kerr 2021           ;      ;  7.513
 UPK 147                  ; 2019arXiv190706872S ;      ;  7.25
 UPK 148                  ; 2019arXiv190706872S ;      ;  7.00
 UPK 149                  ; 2019arXiv190706872S ;      ;  7.55
@@ -11729,6 +11827,7 @@ UPK 421                  ; 2019arXiv190706872S ;      ;  7.65
 UPK 422                  ; 2019arXiv190706872S ;      ;  7.30
 UPK 422                  ; 2020A&A...640A...1C ; 0.081;  7.29
 UPK 422                  ; Dias 2021           ; 0.117;  7.422
+UPK 422                  ; Kerr 2021           ;      ;  7.279
 UPK 422                  ; Tarricq 2021        ;      ;  7.30
 UPK 423                  ; 2019arXiv190706872S ;      ;  8.00
 UPK 424                  ; 2019arXiv190706872S ;      ;  7.05
@@ -11924,6 +12023,7 @@ UPK 534                  ; 2019arXiv190706872S ;      ;  7.10
 UPK 535                  ; 2019arXiv190706872S ;      ;  7.65
 UPK 535                  ; 2020A&A...640A...1C ; 0.022;  7.52
 UPK 535                  ; Dias 2021           ; 0.105;  7.634
+UPK 535                  ; Kerr 2021           ;      ;  7.508
 UPK 535                  ; Tarricq 2021        ;      ;  7.52
 UPK 536                  ; 2019arXiv190706872S ;      ;  7.80
 UPK 537                  ; 2019arXiv190706872S ;      ;  7.60
@@ -12061,6 +12161,7 @@ UPK 605                  ; Dias 2021           ; 0.141;  8.301
 UPK 605                  ; Tarricq 2021        ;      ;  7.88
 UPK 606                  ; 2019arXiv190706872S ;      ;  7.10
 UPK 606                  ; Dias 2021           ; 0.043;  7.231
+UPK 606                  ; Kerr 2021           ;      ;  7.228
 UPK 607                  ; 2019arXiv190706872S ;      ;  7.10
 UPK 607                  ; 2020A&A...640A...1C ; 0.247;  7.19
 UPK 608                  ; 2019arXiv190706872S ;      ;  8.00
@@ -12158,6 +12259,7 @@ UPK 650                  ; 2019arXiv190706872S ;      ;  7.95
 UPK 651                  ; 2019arXiv190706872S ;      ;  8.45
 UPK 652                  ; 2019arXiv190706872S ;      ;  7.75
 UPK 653                  ; 2019arXiv190706872S ;      ;  7.50
+UPK 653                  ; Kerr 2021           ;      ;  7.124
 UPK 654                  ; 2019arXiv190706872S ;      ;  8.00
 UPK 654                  ; 2020A&A...640A...1C ; 0.050;  7.90
 UPK 654                  ; Dias 2021           ; 0.165;  8.123
@@ -12230,7 +12332,11 @@ UPK 99                   ; 2019arXiv190706872S ;      ;  8.10
 UPK 99                   ; 2020A&A...640A...1C ; 0.088;  8.20
 UPK 99                   ; Dias 2021           ; 0.165;  8.327
 Upper Cen Lup            ; Gagne+ 2018         ;      ;  7.204
+V1062 Sco                ; Kerr 2021           ;      ;  7.274
 V454 Cep                 ; Kuhn+ 2019          ;      ;  6.29
+VCG4 2                   ; Kerr 2021           ;      ;  7.577
+VCG4 3                   ; Kerr 2021           ;      ;  7.593
+VCG4 5                   ; Kerr 2021           ;      ;  7.507
 VVV-CL 1                 ; BDCC                ; 2.00 ;
 VVV-CL 11                ; BDCC                ; 3.03 ;  6.70
 VVV-CL 2                 ; BDCC                ; 2.88 ;  9.81
@@ -12248,6 +12354,7 @@ VdB 92                   ; arXiv:2108.06234v1  ; 0.38 ;  7.00
 Vel OB4                  ; BDCC                ; 1.00 ;
 Vel R2                   ; BDCC                ; 0.61 ;
 Vel R3                   ; BDCC                ; 0.73 ;
+Vela Ring G              ; Kerr 2021           ;      ;  7.158
 Vir I                    ; BDCC                ; 0.02 ; 10.11
 Volans-Carina            ; 2020Alessi          ;      ;  7.95
 W3 Main                  ; BDCC                ;      ;  6.30
@@ -12306,6 +12413,7 @@ Yalyalieva D             ; arXiv:2004.13418v1  ;      ;  8.00
 Yalyalieva E             ; arXiv:2004.13418v1  ;      ;  8.15
 Yalyalieva F             ; arXiv:2004.13418v1  ;      ;  6.60
 Yalyalieva G             ; arXiv:2004.13418v1  ;      ;  6.70
+Zari 1                   ; Kerr 2021           ;      ;  7.431
 Zeta CrB                 ; 2020Alessi          ; 0.02 ;  7.90
 deWit 2                  ; Kharchenko+ 2013    ; 0.437;  8.785
 van Genderen 1           ; BDCC                ; 0.69 ;  7.11
@@ -12318,6 +12426,7 @@ vdBergh 113              ; 2016DAML            ; 0.58 ;  7.50
 vdBergh 113              ; Kharchenko+ 2013    ; 1.041;  8.300
 vdBergh 130              ; Dias 2021           ; 0.760;  6.974
 vdBergh 130              ; Kharchenko+ 2013    ; 0.916;  7.400
+vdBergh 150              ; Kerr 2021           ;      ;  8.852
 vdBergh 150              ; Kharchenko+ 2013    ; 1.228;  8.800
 vdBergh 152              ; Kharchenko+ 2013    ; 0.729;  9.295
 vdBergh 80               ; 2016DAML            ; 0.61 ;  6.70

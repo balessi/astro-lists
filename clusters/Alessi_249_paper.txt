@@ -1,0 +1,26 @@
+Alessi 249          Sct  18 35 07.8 -08 05 20  Op  OC      8.0   2270                 -0.04   -1.30  Alessi GEDR3        Aladin D, Alpha Sct North
+
+Discovery fo an open cluster near Alpha Scuti
+
+Thanks to surveys like Gaia open clusters have been discovered by hundreds (cite cantat)
+or even thousands (cite Liu, kounkel I & II) in the last threee years.
+Howewer, it seems the completeness for clusters up to few kpc is not yet achieved
+because more clusters are still being dicovered (put citations here).
+The missing clusters are probably younger clusters (cite cantat) or clusters in very crowded
+areas of the Milky way. Besides that, no ML algorithm is perfect, so it's possible they
+missed a few genuine clusters. For a comparison among many algorithms, see (cite)
+Here I report the result of a search on one such crowded areas: the Scutum constellation.
+It resulted in the discovery of a new cluster located near, but not associated to Alpha Sct
+
+We did a visual search for stellar concentrations in Scutum area using Aladin and checked if a
+putative concentration is or is not known and if not, we checked it's stars kinematics and parallaxes
+using Gaia DR3 to see if there's any evidence that those stars could be related and form an open cluster.
+A small 1.5' arc consisting of 9 stars with visual magnitudes 13-15 plus some surrounding scattering
+of stars was found only 9.2' north of Alpha Scuti (V= 3.83). A quick check in Gaia EDR3 suggested
+the presence of a cluster at ~2 Kpc and with proper motions centered at 0, -1 mas/yr.
+
+The figure xx shows a yy' DSS2 color field centered on the small arc. Alpha Sct galre is visible
+in the bottom.
+
+
+

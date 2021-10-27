@@ -1,0 +1,30 @@
+
+Investigating the borderline between a young star cluster
+and a small stellar association: a test case with Bochum 1
+2008A&A...489.1129B
+Bica, E.; Bonatto, C.; Dutra, C. M.
+
+New Cluster 3       06 24 55 +19 59 59   1.0   Core of FSR 911? Includes IRAS 06219+2001
+BBD 9               06 24 55 +19 59 59   3.0    
+
+FSR 911             06 25 00 +19 52 03  14.0  
+New Cluster 1       06 25 01 +19 50 55   1.0   Core of FSR 911? Includes LS46 and LS47
+FSR 911, BBD 7      06 25 02 +19 50 55   6.0    
+Faint-star clump    06 25 03 +19 53 00   2.5   Core of FSR 911?
+
+New Cluster 2       06 25 28 +19 45 10   0.6   Core of Bochum 1? Includes LS51
+Bochum 1            06 25 28 +19 45 10  17.0    
+BBD 8               06 25 29 +19 45 11   0.9    
+Bochum 1            06 25 30 +19 46 00  26.0  
+
+Alessi 58           06 25 45 +19 54 55   6.0   FSR 912
+
+--------------------------------
+
+Stellar and Substellar Mass Function of the Young Open Cluster Candidates Alessi 5 and ß Monocerotis
+2011ASPC..448..565B
+Boudreault, S.; Caballero, J. A.
+
+Beta Mon                       06 28 49.07 -07 01 59.0
+Beta Mon, ASCC 24, Alessi 47   06 28 44    -07 01 12    42.0
+Alessi 47, ASCC 24             06 28 44.4  -06 58 48    34.8

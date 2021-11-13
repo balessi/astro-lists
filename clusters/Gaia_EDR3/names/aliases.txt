@@ -29444,3 +29444,19 @@ vdBergh 92                    ;FoF 2082                      ;  168;   244;  115
 vdBergh 92                    ;Magakian 242                  ;     ;      ;     ;        ;
 vdBergh 92                    ;Theia 1654                    ;     ;      ;     ;        ;
 vdBergh 92                    ;Theia 1654                    ;  168;   404;   52;  30.952;  12.871
+LP 1006                       ;Teutsch 350                   ;     ;      ;     ;        ;
+Juchert 16                    ;LP 227                        ;     ;      ;     ;        ;
+ASCC 64                       ;LP 1064                       ;     ;      ;     ;        ;
+BH 110                        ;LP 1074                       ;     ;      ;     ;        ;
+Hogg 11                       ;LP 1531                       ;     ;      ;     ;        ;
+Alessi 298                    ;LP 1557                       ;     ;      ;     ;        ;
+Teutsch 181                   ;LP 1181                       ;     ;      ;     ;        ;
+UBC 1606                      ;LP 1772                       ;     ;      ;     ;        ;
+Teutsch 350                   ;LP 1006                       ;     ;      ;     ;        ;
+LP 227                        ;Juchert 16                    ;     ;      ;     ;        ;
+LP 1064                       ;ASCC 64                       ;     ;      ;     ;        ;
+LP 1074                       ;BH 110                        ;     ;      ;     ;        ;
+LP 1531                       ;Hogg 11                       ;     ;      ;     ;        ;
+LP 1557                       ;Alessi 298                    ;     ;      ;     ;        ;
+LP 1181                       ;Teutsch 181                   ;     ;      ;     ;        ;
+LP 1772                       ;UBC 1606                      ;     ;      ;     ;        ;

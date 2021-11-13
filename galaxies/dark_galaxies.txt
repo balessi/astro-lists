@@ -1,0 +1,18 @@
+Dark and LSB galaxies
+
+name        alias         dMpc    Mag     Diam
+
+SECCO 1                  17.0
+Coma P      AGC 229385    5.5     19.06B   1.3
+NGC 2915                  3.78
+NGVS 3543   AGC 229166    7.0     17.50g
+AGC 226178               16.5     19.34
+AGC 198606                0.88
+AGC 249525                1.60
+AGC 229101               v=7116
+GALFA Dw3                 7.61 
+GALFA Dw4                 3.10
+AGC 215417                0.35
+AGC 219656                0.90
+AGC 268069                0.70
+Leoncino    AGC 198691   12.1

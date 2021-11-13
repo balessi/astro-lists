@@ -56,10 +56,11 @@ VCG4           | 1-5        | 2021/06   | Kerr           | arXiv:2105.09338v2  |
 Casado         | 24-61      | 2021/07   | Casado         | arXiv:2107.12036    | The list of possible double and multiple open clusters between galactic longitudes 240 and 270 degrees
 XDOCC          | 1-11       | 2021/08   | Jaehnig        | arXiv:2108.02783    | Membership lists for 431 open clusters in Gaia DR2 using extreme deconvolution gaussian mixture models
 CMa            | 0-23       | 2021/08   | Santos-Silva   | arXiv:2108.06234    | Canis Major OB1 stellar groups contents revealed by Gaia
+Gran           | 2-5        | 2021/09   | Gran           | arXiv:2108.11922    | Hidden in the Haystack: Low-luminosity globular clusters towards the Milky Way bulge
 Camargo        | 1010-1013  | 2021/09   | Camargo        | arXiv:2109.14664    | NGC1605a and b: an old binary open cluster in the Galaxy
 Villafranca O- | 001-026    | 2021/10   | Maíz Apellániz | arXiv:2110.01464    | The Villafranca catalog of Galactic OB groups II. From Gaia DR2 to EDR3 and ten new systems with O stars
+UBC            | 1001-1665  | 2021/11   | Castro-Ginard  | arXiv:2111.01819    | Hunting for open clusters in Gaia EDR3: 664 new open clusters found with OCfinder
 Alessi         | 63-330     | 2022/xx   | Alessi         | unpublished         | several candidates found in many surveys and checked visually with Gaia
-
 
 Notes:
 

@@ -2,7 +2,7 @@ Alessi 249          Sct  18 35 07.8 -08 05 20  Op  OC      8.0   2270           
 
 Discovery fo an open cluster near Alpha Scuti
 
-Thanks to surveys like Gaia open clusters have been discovered by hundreds (cite cantat)
+Thanks to surveys like Gaia, open clusters have been discovered by hundreds (cite cantat)
 or even thousands (cite Liu, kounkel I & II) in the last threee years.
 Howewer, it seems the completeness for clusters up to few kpc is not yet achieved
 because more clusters are still being dicovered (put citations here).
@@ -10,17 +10,29 @@ The missing clusters are probably younger clusters (cite cantat) or clusters in 
 areas of the Milky way. Besides that, no ML algorithm is perfect, so it's possible they
 missed a few genuine clusters. For a comparison among many algorithms, see (cite)
 Here I report the result of a search on one such crowded areas: the Scutum constellation.
-It resulted in the discovery of a new cluster located near, but not associated to Alpha Sct
+It resulted in the discovery of a new cluster, which we named Alessi 249, located near, but
+not associated to Alpha Scuti.
 
 We did a visual search for stellar concentrations in Scutum area using Aladin and checked if a
 putative concentration is or is not known and if not, we checked it's stars kinematics and parallaxes
 using Gaia DR3 to see if there's any evidence that those stars could be related and form an open cluster.
-A small 1.5' arc consisting of 9 stars with visual magnitudes 13-15 plus some surrounding scattering
+A small 1.5' arc consisting of 9 stars with visual magnitudes 13-15 plus some scattering
 of stars was found only 9.2' north of Alpha Scuti (V= 3.83). A quick check in Gaia EDR3 suggested
 the presence of a cluster at ~2 Kpc and with proper motions centered at 0, -1 mas/yr.
 
-The figure xx shows a yy' DSS2 color field centered on the small arc. Alpha Sct galre is visible
+The figure xx shows a yy' DSS2 color field centered on the small arc. Alpha Scuti glare is visible
 in the bottom.
 
+Roughly initial estimates (from StarHorse)
+E(B-V):  0.88 +- 0.25 
+Fe/H:   -0.06 +- 0.13
+Age:     ~ 8.4
+Ea. ST:  ~ B8.5-9
+Dist:    2.57 +- 0.30
 
+constraints
+    pm_incr = 0.2
+    dist_min, dist_max = dist - (0.2 * dist), dist + (0.25 * dist)
+    d = ck('Alessi 249     ', '18 35 07.8 -08 05 20', 16, 19.5, 2213, -0.10, -1.31, 31, 0)  
 
+Alessi 249      1835078-080520   16.0  2164.4  170.1   -0.123 0.086   -1.303 0.033    38 13.50..19.43

@@ -1,6 +1,6 @@
 Bruno's list of Globulars in the Milky Way and Milky Way satellites
 Besides GCs, it contains UFDs (Ultra-Faint Dwarfs), SSCs (Super Star Clusters), NCs (Nuclear CLusters) and RSGs (Red Supergiant Clusters)
-It also contains all objects thought to be GCs, but that were dimissed as such
+It also contains all objects thought to be GCs, but that were dismissed as such
 
 Cluster's Name      Alias                    Cns  Coordinates (J2000.0)   Gx      Wave Type    Diam'  Dst_pc Vmag  E(B-V) Log_t  Comments
 
@@ -31,7 +31,7 @@ BDSB 122            RSGC 1                   Sct  18 37 58.0 -06 53 00.0  MW    
 BH 131                                       Cru  12 26 27.7 -63 24 59.0  MW      Op   GC?       1.5   12000               9.20  Alessi: rich, unstudied group
 BH 140              FSR 1632                 Mus  12 53 50.9 -67 10 48.0  MW      Op   GC       10.8    4810        1.85   9.81  
 BH 176              ESO 224-8                Nor  15 39 05.3 -50 03 03.6  GSE?    Op   GC       12.0   18887        0.54   9.80  
-BLISS 1             BLISS J0321+0438         Cet  03 21 43.6 +04 38 34.0  MW      Op   GC        1.2   23700               9.96  UFD with MV +0.0 and Rh 4.1 pc
+BLISS 1             BLISS J0321+0438         Cen  11 50 02.6 -41 46 19.0  MW      Op   GC        1.2   23700               9.96  UFD with MV +0.0 and Rh 4.1 pc
 Balbinot 1          SDSS J2211+1457          Peg  22 10 43.0 +14 56 30.0  MW      Op   GC/OC     2.0   31900              10.07  UFD with MV -1.2, Spatially close to Messier 2, SEGUE 3 and Kim 1
 Boo II                                       Boo  13 58 00.0 +12 51 00.0  MW      Op   dSph      4.2   52000              10.05
 Boo IV              HSC J1534+4343           Boo  15 34 45.4 +43 43 34.0  MW      Op   dSph      7.6  209000        0.02  10.114
@@ -71,7 +71,7 @@ Eri IV              DELVE J0505-0931         Eri  05 05 45.1 -09 30 54.0  MW?   
 FSR 1716            VVV-GC 5                 Nor  16 10 40.8 -53 45 00.0  MW      Op   GC?      19.2    7430              10.00  Age is lower limit: arXiv:1703.02033v1
 FSR 1735            2MASS-GC 3, SHU 71       Ara  16 52 12.0 -47 03 18.0  Kol     Op   GC        7.2    9080        2.08   9.90  
 FSR 1758                                     Sco  17 31 37.2 -39 50 24.0  Seq     Op   EGC      12.0   11090        0.77   9.20  Age is probably wrong
-FSR 190                                      Cyg  20 05 29.3 +33 34 01.2  MW      Op   GC?      10.2    4300        0.87   6.10  Age is wrong? Alessi: there is an obvious, rich Cl here (Glimpse image)
+FSR 190                                      Cyg  20 05 29.3 +33 34 01.2  MW      Op   GC?      10.2   10670        0.87   9.90  Alessi: there is an obvious, rich Cl here (Glimpse image)
 Ferrero J0833-44                             Vel  08 33 48.3 -44 26 49.0  MW      Op   GC        1.5    7100              10.06  2020KronbPrivComm
 For 1               Hodge 1                  For  02 37 01.9 -34 11 01.0  For     Op   GC        1.2  136300 15.57  0.07  10.11  
 For 2               Hodge 2                  For  02 38 44.1 -34 48 30.0  For     Op   GC        1.2  137100 13.50  0.05  10.11  
@@ -121,7 +121,7 @@ MQI Cl 49.3         Juchert J1919+1453       Aql  19 19 30.3 +14 53 59.0  MW    
 MQI Cl 59.8                                  Vul  19 46 18.6 +23 22 30.0  MW      IR   RSG       1.4    4100               8.30  
 Masgomas-1                                   Aql  18 50 16.0 +00 21 05.0  MW      Op   RSG       3.0    3500               6.90  Massive (M > 10^4MSun) cluster with confirmed OB and RSG population (arXiv:1801.08683v1)
 Mercer 5            GLIMPSE 5                Sct  18 23 19.0 -13 40 01.0  MW      IR   GC        0.6    5470              10.10  
-Mercer 8            GLIMPSE 8                Sct  18 28 49.0 -10 55 55.0  MW      Op   GC?       2.0    5200                     Alessi: Loose, rich, palomar-like GC?
+Mercer 8            GLIMPSE 8                Sct  18 28 49.0 -10 55 55.0  MW      Op   GC        2.0    5200              10.10  Alessi: Loose, rich, palomar-like GC?
 Messier 10          NGC 6254                 Oph  16 57 08.9 -04 06 00.0  Kol     Op   GC       31.8    5067        0.28  10.072 
 Messier 107         NGC 6171                 Oph  16 32 31.9 -13 03 14.4  MW      Op   GC       27.6    5631        0.33  10.079 
 Messier 12          NGC 6218                 Oph  16 47 14.2 -01 56 56.4  MW      Op   GC       36.0    5109        0.19  10.114 
@@ -151,7 +151,8 @@ Messier 79          NGC 1904                 Lep  05 24 11.0 -24 31 12.0  GSE   
 Messier 80          NGC 6093                 Sco  16 17 02.4 -22 58 33.6  Kol     Op   GC       20.4   10340        0.18  10.057 
 Messier 9           NGC 6333                 Oph  17 19 11.3 -18 30 57.6  Kol     Op   GC       23.4    8300        0.39  10.079 
 Messier 92          NGC 6341                 Her  17 17 07.4 +43 08 09.6  GSE     Op   GC       48.6    8501        0.02  10.104 
-Minni 332                                    Sgr  18 47 43.2 -29 23 06.0  Sgr     Op   GC        2.2
+Minni 332                                    Sgr  18 47 43.2 -29 23 06.0  Sgr     Op   GC        2.2    6300               9.95
+Minni 348                                    Sgr  18 59 57.6 -29 22 12    MW      Op   GC        2.0    6400               
 Munoz 1                                      UMi  15 01 48.0 +66 58 07.3  MW      Op   GC/OC     1.0   45000              10.10  UFD with MV -0.4 and Rh 6.4 pc, Lies only 45' from the UMi dwarf but is not associated to it
 NGC 1049            Hodge 3, For 3           For  02 39 48.3 -34 15 28.2  For     Op   GC        0.8  135500 12.61  0.03  10.11  
 NGC 121             Kron 2                   Tuc  00 26 47.0 -71 32 12.0  SMC     Op   GC        3.8   61400              10.08  
@@ -264,7 +265,6 @@ Patchick 122        VVVX CL 207              Vel  09 42 30.7 -52 25 41.0  MW    
 Patchick 123        Pa-DeCAPS 5              Cru  12 10 19.6 -63 52 47.0  MW      Op   GC?       1.8    5200                     
 Patchick 125        Gran 3                   Sco  17 05 00.7 -35 29 41.0  MW      Op   GC        2.0    8800        0.96  10.15  
 Patchick 126        Pa-DeCAPS 6              Ara  17 05 38.6 -47 20 32.0  MW      Op   GC        0.9    8600               9.90  
-Patchick 99                                  Sgr  18 15 47.0 -29 48 46.0  MW      Op   GC?       2.4    6600              10.00  
 Peg III                                      Peg  22 24 24.2 +05 24 36.0  MW      Op   dSph      1.3  205000   
 Pfleiderer 2        PWM78 2                  Oph  17 58 38.9 -05 04 19.2  MW      Op   GC       10.8    8680        0.96   9.85  
 Phe II              DES J2339-5424           Phe  23 39 59.4 -54 24 22.0  MW      Op   dSph      1.2   89000              10.13
@@ -317,8 +317,7 @@ W 42 Cl             BDB 13, MDF 6            Sct  18 38 15.0 -06 47 50.0  MW    
 WHI B0200-03        Whiting 1                Cet  02 02 57.0 -03 15 10.1  Sgr     Op   GC        1.2   30600        0.03   9.81  Clearly seen in DECaLS and PanSTARRs
 Westerlund 1        Russeil 443              Ara  16 47 02.4 -45 51 07.0  MW      Op   SSC       2.8    3558               6.80  Massive, inc. yellow SG & RSGs
 Westerlund 2 Main   FoF 1005                 Car  10 24 02.4 -57 45 29.0  MW      Op   SSC       2.4    4785               6.00  
-Willman 1           SDSS J1049+5103          UMa  10 49 24.0 +51 03 00.0  MW      Op   UFD/GC    1.8   42300                     UFD with MV -2.8 and Rh 27 pc, Very loose, elong grp of vF stars in SDSS/PanSTARRS/BASS
-FSR 1776            Minni 23                 Sco  17 54 14.0 -36 09 08.0  MW      Op   GC?       4.0    7380        0.35  10.00  dubious: not seen visually, Alessi PMs discordant from Minitti's PMs and errors in both are of as high as 0.5-1 mas 
+Willman 1           SDSS J1049+5103          UMa  10 49 24.0 +51 03 00.0  MW      Op   UFD/GC    1.8   42300              10.10  UFD with MV -2.8 and Rh 27 pc, Very loose, elong grp of vF stars in SDSS/PanSTARRS/BASS
 
 -----------------------------------
 Very doubtful / Discarded
@@ -341,15 +340,17 @@ Camargo 1106                                 Sco  17 32 34.3 -30 16 48.0  MW    
 Camargo 1107                                 Sco  17 36 58.2 -30 08 50.0  MW      IR   *Ast     10.0                             Alessi: Dubious, no sign of a GC in DECaPS or 2MASS
 Camargo 1108        Ryu 521                  Sco  17 46 04.2 -30 51 53.0  MW      IR   OC?       8.0    3300                     Alessi: Dubious, there is some conc in DECaPS and 2MASS, but it does not seems to be a GC
 Camargo 1109                                 Sgr  17 47 26.6 -26 38 52.0  MW      IR   *Ast      7.0                             Alessi: Dubious, no sign of a GC in DECaPS, 2MASS or Spitzer
-DB 44                                        Sgr  17 46 35.0 -24 53 28.0  MW      Op   OC?       0.9                             Alessi: only a small clump of few stars, Bica+ 2019
+DB 44                                        Sgr  17 46 35.0 -24 53 28.0  MW      Op   OC?       0.9                             Garro: GC? Alessi: only a small clump of few stars, Bica+ 2019
 Dejc 1                                       Ari  02 37 00.0 +21 06 00.0  MW      Op   *Ast      0.0                             Alessi: only one star, Deutsch 1963 (1963ATsir.259....1D), GCL 4
-ESO 393-12                                   Sco  17 38 40.0 -35 39 04.0  MW      Op   OC?       2.5    8208        1.33  10.10  Alessi: does not look like a GC
-ESO 456-9                                    Sco  17 53 52.0 -32 28 55.0  MW      Op   OC?       6.0    7475        1.19  10.05  Alessi: does not look like a GC
+ESO 393-12                                   Sco  17 38 40.0 -35 39 04.0  MW      Op   OC?       2.5    8208        1.33  10.10  Garro: GC, Alessi: does not look like a GC, but an OC. EDR3 shows no sign of Cl
+ESO 456-9                                    Sco  17 53 52.0 -32 28 55.0  MW      Op   *Ast?     6.0    7475        1.19  10.05  Garro: GC, Alessi: does not look like a GC, but an asterism. EDR3 shows no sign of Cl
 FNY 1               RSG 2SW, Ryu 871         Sct  18 39 06.0 -06 04 28.0  MW      IR   RSG       4.0    3400                     In shell, pair with Stephenson 2
 FSR 1                                        Oph  17 32 22.0 -27 03 41.0  MW      Op   *Ast      6.0                             Alessi: Nothing resembling a GC at this position, from Froebrich/Scholz/Raftery 2007
 FSR 1703            La Serena 238            Nor  15 41 55.0 -55 01 11.0  MW      Op   OC        2.0    1330               8.55  Froebrich/Scholz/Raftery 2007
-FSR 1755            Mercer 91                Sco  17 12 23.0 -38 26 53.0  MW      Op   OC        8.0                             Froebrich/Scholz/Raftery 2007; young open cluster
-FSR 1767            2MASS-GC 4               Sco  17 35 44.8 -36 21 42.0  MW      Op   GC??      8.0    1948        1.41   8.68  Age is probably wrong, Alessi: not detected in a check with EDR3
+FSR 1755            Mercer 91                Sco  17 12 23.0 -38 26 53.0  MW      Op   EC        8.0                             Froebrich/Scholz/Raftery 2007; young open cluster
+FSR 1767            2MASS-GC 4               Sco  17 35 44.8 -36 21 42.0  MW      Op   GC??      8.0    1948        1.41   8.68  Garro: GC, Alessi: not detected visually, nor in a check with EDR3
+FSR 1775                                     Sco  17 56 07.7 -36 33 54    MW      Op   *Ast     12.0                             Garro: GC. Alessi: no sign of a Cl visually or through Gaia EDR3 inspection 
+FSR 1776            Minni 23                 Sco  17 54 14.0 -36 09 08.0  MW      Op   GC?       4.0    7380        0.35  10.00  dubious: not seen visually, Alessi PMs discordant from Minitti's PMs and errors in both are of as high as 0.5-1 mas 
 FSR 19                                       Oph  17 35 39.0 -21 02 49.0  MW      Op   *Ast     10.0                             Dubious, not a GC (arXiv:1904.10872v1)
 FSR 2                                        Oph  17 32 32.0 -27 03 52.0  MW      Op   *Ast?     4.0                             Froebrich/Scholz/Raftery 2007
 FSR 25                                       Oph  17 41 43.0 -19 34 15.0  MW      Op   *Ast      5.0                             Dubious, not a GC (arXiv:1904.10872v1)
@@ -357,6 +358,7 @@ FSR 435                                      Cas  23 31 05.0 +59 46 40.0  MW    
 FSR 55              BDS 8 ?                  Sct  18 24 42.0 -13 23 40.0  MW      Op   *Ast      8.0                             Alessi: Dust hole, Froebrich/Scholz/Raftery 2007
 FSR 584             SAI 20                   Cas  02 27 12.5 +61 37 40.8  MW      Op   EC       11.2    1400        1.04   9.10  Alessi: seems to be an EC candidate, not a GC
 FSR 89                                       Aql  18 48 39.0 -03 30 34.0  MW      Op   *Ast?     4.0                             Froebrich/Scholz/Raftery 2007; old open cl
+FSR 9                                        Sgr  18 28 32.9 -31 54 18    MW      Op   *Ast     12.6                             Garro: GC. Alessi: no sign of a Cl visually or through Gaia EDR3 inspection
 Ferrero 45                                   Sgr  19 35 47.0 -30 30 15.0  MW      Op   OC?       1.0                             Alessi: smal,, open group of few stars/faing gxs?, Bica+ 2019
 Froebrich 4         Bica 49                  Sct  18 24 07.0 -13 19 48.0  MW      IR   RSG?      6.0    6000               7.20  Diam from extr rad, poss cluster of RSGS, weak candidate
 Froebrich 5                                  Sct  18 31 48.0 -10 40 12.0  MW      IR   RSG?      6.0    8000               7.20  Diam from extr rad, poss cluster of RSGS, weak candidate
@@ -365,7 +367,7 @@ Gran C1                                      Oph  17 20 36.2 -29 40 23    MW    
 Grindlay 1                                   Sco  17 31 58.0 -33 50 06.0  MW      IR   *Ast      0.0                             SC 2000.0, Webbink 1985
 Ind II              DES J2038-4609           Ind  20 38 52.8 -46 09 36.0  MW      Op   dSph??    2.9  214000                     Likely a false-positive, flagged due to a chance alignment of stars along the line of sight (Cantu et al. 2020)
 Kodaira 1                                    Ser  18 12 26.7 -12 04 12.0  MW      IR   *Ast      0.0                             Kodaira 1983, Webbink 1985; probably Red Star
-Kronberger 49                                Sgr  18 10 24.0 -23 20 25.0  MW      Op   OC??      0.2    8000        1.35  10.00  Alessi: seems to be an OC or *Ast instead (Spitzer, VVV)
+Kronberger 49                                Sgr  18 10 24.0 -23 20 25.0  MW      Op   OC??      0.2    8000        1.35  10.00  Garro: GC, Alessi: seems to be a compact, poor OC or *Ast instead (Spitzer, VVV)
 Leo II clump                                 Leo  11 02 30.0 +22 10 00.0  LeoII   Op   GCR?      2.0  215000                     See 2007AJ....134..835K
 Minni 1                                      Sgr  18 34 47.5 -28 42 39.6  MW      IR   *Ast      2.4                             Alessi: unable to find - same for the other Minnis too  
 Minni 10                                     Sco  17 42 46.3 -37 18 54.0  MW      IR   *Ast      2.4                               
@@ -457,6 +459,7 @@ NGC 6684            GCl-102                  Pav  18 49 00.0 -65 11 00.0  --    
 NGC 6941            GCl-117.1                Aql  20 36 18.0 -04 38 00.0  --      Op   Gx        2.0                             SB0 galaxy
 Patchick 54                                  Cru  12 14 20.0 -63 31 12.0  MW      Op   *Ast?     0.9                             Bica+ 2019
 Patchick 98                                  Ser  18 18 24.0 -12 30 06.0  MW      Op   *Ast?     1.0                             Bica+ 2019
+Patchick 99                                  Sgr  18 15 47.0 -29 48 46.0  MW      Op   GC?       2.4    6600              10.00  Alessi: does not like a GC, just a small, compact clump of few stars. Also, didn't detected it with Gaia
 Pavo Cluster                                 Pav  17 50 12.0 -60 46 00.0  MW      Op   *Ast      0.5                             Becvar, Sawyer 1947; Shapley
 Ruprecht 101        FSR 1603                 Cru  12 09 45.0 -62 59 49.0  MW      Op   OC       10.0    3676                     Froebrich/Scholz/Raftery 2007
 SDSS J1000+5730                              UMa  10 00 28.0 +57 30 10.0  MW      Op   dSph??    8.1   83200                     Alessi: nothing in EDR3
@@ -475,16 +478,20 @@ TJ 23               PN G356.6-01.9           Sco  17 45 09.8 -32 46 17.0  MW    
 TJ 5                PN G357.2+07.2           Oph  17 11 14.8 -27 11 31.0  MW      Op   PN        0.2                             Terzan/Ju 1980, Webbink 1985
 Teutsch J1520-6057                           Cir  15 20 11.0 -60 57 06.0  MW      Op   OC?       2.0                             Bica+ 2019
 UKS 2               BH 66, ESO 166-11        Vel  09 25 18.0 -54 43 00.0  MW      Op   OC        2.8   10309                     Webbink 1985
-VVV-CL 119                                   Sco  17 30 46.0 -32 39 05.0  MW      IR   OC?       0.9                             Alessi: prob an OC
-VVV-CL 128                                   Sco  17 39 57.2 -32 28 30.0  MW      IR   OC?       0.5                             Alessi: prob an OC
-VVV-CL 131                                   Sco  17 41 17.0 -34 34 02.0  MW      Op   OC??      0.8                             Alessi: does not stand well, GDR2 check is dubious at best
-VVV-CL 143                                   Sco  17 44 36.0 -33 44 18.0  MW      IR   OC?       0.8    7800                     Alessi: poss an OC
-VVV-CL 150                                   Sgr  17 50 41.0 -25 13 06.0  MW      IR   OC?       0.4    7000                     Alessi: prob an OC
-VVV-CL 154                                   Sgr  17 55 08.0 -28 06 01.0  MW      IR   OC?       0.3                             Old OC or GC?      
+VVV-CL 110                                   Sco  17 22 47.0 -34 41 17    MW      IR   OC?       0.4                             Garro: GC? Alessi: Small clump of few IR stars 
+VVV-CL 119                                   Sco  17 30 46.0 -32 39 05    MW      IR   GC?       0.9                             Garro: GC? Alessi: poss an OC 
+VVV-CL 128                                   Sco  17 39 57.2 -32 28 30.0  MW      IR   OC?       0.5                             Garro: GC Alessi: prob an OC
+VVV-CL 131                                   Sco  17 41 17.0 -34 34 02.0  MW      Op   OC??      0.8                             Garro: GC? Alessi: does not stand well, EDR3 check is dubious at best
+VVV-CL 143                                   Sco  17 44 36.0 -33 44 18.0  MW      IR   OC?       0.8    7800                     Garro: GC Alessi: poss an OC
+VVV-CL 150                                   Sgr  17 50 41.0 -25 13 06.0  MW      IR   OC?       0.4    7000                     Garro: GC? Alessi: prob an OC
+VVV-CL 153                                   Sgr  17 53 32.0 -25 22 56    MW      IR   GC?       1.4   10000             10.00   Garro: GC Alessi: poss an OC
+VVV-CL 154                                   Sgr  17 55 08.0 -28 06 01.0  MW      IR   OC?       0.3                             Garro: GC? Alessi: Old OC or GC?      
 VVV-CL 3                                     Oph  17 38 55.0 -29 54 25.0  MW      IR   OC?       2.0   13000        2.85         Prob an OC, not a GC
 VVV-CL 4                                     Sgr  17 54 32.0 -22 13 38.0  MW      IR   *Ast      1.0                             
 VVVX-CL 109                                  Sct  18 24 54.9 -13 07 12.3  MW      IR   OC?       1.2                             Alessi: prob an OC
 VVVX-CL 46          Ryu 325                  Ara  16 42 49.5 -49 28 01.9  MW      IR   OC?       1.7                             Alessi: Open, irr, seems to be not a GC
+
+
 
 
 Name             Member of                       Type        Reference
@@ -980,7 +987,7 @@ Minni 145  18 53 28 -28 33 44 0.06 0.40 28.8 : . . . 18.10 5 14 27.2 ± 2.8 VVVX,
 Minni 146  18 52 12 -31 56 45 0.04 0.28 27.5 ± 0.6 15.60 18.00 0 0 . . . VVVX,MD Sgr GC
 Minni 147  18 41 56 -30 56 07 0.04 0.27 27.8 ± 0.6 15.70 18.05 1 6 25.9 ± 0.9 VVVX,MD Sgr GC
 Minni 148  18 51 36 -30 24 58 0.04 0.31 27.7 ± 0.6 15.65 17.90 3 20 25.7 ± 1.4 VVVX,MD Sgr GC
-Minni 310  18 34 15 -28 33 49 0.08 0.57 29.3 : 15.8: 18.2: 0 1 . . . VVV inconclusive
+Minni 310  18 34 15 -28 33 49 0.08 0.57 29.3 : 15.8: 18.2: 0 1 . . . VVV inconclusive                            x 2'
 Minni 311  18 34 30 -28 47 03 0.08 0.58 30.6 : 15.9: 18.3: 0 3 26.5 ± 0.2 VVV Sgr GC
 Minni 312  18 34 38 -28 51 37 0.08 0.60 29.1 : 15.8: 18.1: 0 2 26.1 ± 0.5 VVV inconclusive
 Minni 313  18 45 33 -24 09 08 0.11 0.80 . . . . . . . . . 0 3 . . . VVV inconclusive

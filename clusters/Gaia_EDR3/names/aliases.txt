@@ -29460,3 +29460,5 @@ LP 1531                       ;Hogg 11                       ;     ;      ;     
 LP 1557                       ;Alessi 298                    ;     ;      ;     ;        ;
 LP 1181                       ;Teutsch 181                   ;     ;      ;     ;        ;
 LP 1772                       ;UBC 1606                      ;     ;      ;     ;        ;
+Schuster 1                    ;FSR 1523                      ;     ;      ;     ;        ;
+FSR 1523                      ;Schuster 1                    ;     ;      ;     ;        ;
